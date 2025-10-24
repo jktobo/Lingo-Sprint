@@ -1,0 +1,99 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он пришел домой минуту назад,He came home a minute ago,[hi: keɪm həʊm ə ˈmɪnɪt əˈgəʊ],A2_L125_S2.mp3
+3,Суп был слишком соленый,The soup was too salty,[ðə su:p wɒz tu: ˈsɔ:lti],A2_L125_S3.mp3
+4,"Он был очень разочарован, потому что они проиграли",He was very disappointed because they had lost,[hi: wɒz ˈveri ˌdɪsəˈpɔɪntɪd bɪˈkɒz ðeɪ hæd lɒst],A2_L125_S4.mp3
+5,Что было в меню?,What was on the menu?,[wɒt wɒz ɒn ðə ˈmenju:?],A2_L125_S5.mp3
+6,Они живут в этом городе двадцать лет,They have been living in this city for twenty years,[ðeɪ hæv bi:n ˈlɪvɪŋ ɪn ðɪs ˈsɪti fɔ: ˈtwenti jɪəz],A2_L125_S6.mp3
+7,Я бывал в этом городе много раз,I have been to this city many times,[aɪ hæv bi:n tu: ðɪs ˈsɪti ˈmeni taɪmz],A2_L125_S7.mp3
+8,Музей закрыт по пятницам,The museum is closed on Fridays,[ðə mju:ˈzɪəm ɪz kləʊzd ɒn ˈfraɪdeɪz],A2_L125_S8.mp3
+9,"Я ужинала, когда он позвонил мне",I was having dinner when he called me,[aɪ wɒz ˈhævɪŋ ˈdɪnə wen hi: kɔ:ld mi:],A2_L125_S9.mp3
+10,"Когда она пришла домой, она приготовила фруктовый салат","When she came home, she cooked a fruit salad","[wen ʃi: keɪm həʊm, ʃi: kʊkt ə fru:t ˈsæləd]",A2_L125_S10.mp3
+11,"Когда я открыл дверь, я увидел, что шел дождь","When I opened the door, I saw that it was raining","[wen aɪ ˈəʊpənd ðə dɔ:, aɪ sɔ: ðæt ɪt wɒz ˈreɪnɪŋ]",A2_L125_S11.mp3
+12,Завтра в это время я буду плавать в океане,This time tomorrow I will be swimming in the ocean,[ðɪs taɪm təˈmɒrəʊ aɪ wɪl bi: ˈswɪmɪŋ ɪn ði ˈəʊʃən],A2_L125_S12.mp3
+13,"Нет, я никогда здесь не был","No, I have never been here","[nəʊ, aɪ hæv ˈnevə bi:n hɪə]",A2_L125_S13.mp3
+14,"Я позвоню тебе, как только закончу это",I will call you as soon as I finish it,[aɪ wɪl kɔ:l ju: æz su:n æz aɪ ˈfɪnɪʃ ɪt],A2_L125_S14.mp3
+15,"Я гулял в парке, когда начался дождь",I was walking in the park when it started raining,[aɪ wɒz ˈwɔ:kɪŋ ɪn ðə pɑ:k wen ɪt ˈstɑ:tɪd ˈreɪnɪŋ],A2_L125_S15.mp3
+16,Они купили стиральную машину в кредит,They bought a washing machine on credit,[ðeɪ bɔ:t ə ˈwɒʃɪŋ məˈʃi:n ɒn ˈkredɪt],A2_L125_S16.mp3
+17,Я думаю об этом в данный момент,I'm thinking about it at the moment,[aɪm ˈθɪŋkɪŋ əˈbaʊt ɪt æt ðə ˈməʊmənt],A2_L125_S17.mp3
+18,Я только что закончил этот проект,I've just finished this project,[aɪv ʤʌst ˈfɪnɪʃt ðɪs ˈprɒʤekt],A2_L125_S18.mp3
+19,Я это знаю сейчас,I know it now,[aɪ nəʊ ɪt naʊ],A2_L125_S19.mp3
+20,Когда ты это потерял?,When did you lose it?,[wen dɪd ju: lu:z ɪt?],A2_L125_S20.mp3
+21,Он изучает английский язык в течение трех лет,He has been learning English for three years,[hi: hæz bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ fɔ: θri: jɪəz],A2_L125_S21.mp3
+22,Я был в этом городе два дня назад,I was in this city two days ago,[aɪ wɒz ɪn ðɪs ˈsɪti tu: deɪz əˈgəʊ],A2_L125_S22.mp3
+23,Хозяин приветствовал гостей,The host welcomed the guests,[ðə həʊst ˈwelkəmd ðə gests],A2_L125_S23.mp3
+24,Он только что пришел домой,He has just come home,[hi: hæz ʤʌst kʌm həʊm],A2_L125_S24.mp3
+25,"Он гулял по лесу, когда начался снег",He was walking in the forest when it started snowing,[hi: wɒz ˈwɔ:kɪŋ ɪn ðə ˈfɒrɪst wen ɪt ˈstɑ:tɪd ˈsnəʊɪŋ],A2_L125_S25.mp3
+26,"Я скажу тебе свое мнение после того, как прочитаю эту статью",I will tell you my opinion after I read this article,[aɪ wɪl tel ju: maɪ əˈpɪnjən ˈɑ:ftər aɪ ri:d ðɪs ˈɑ:tɪkl],A2_L125_S26.mp3
+27,"Да, это был очень трудный выбор для всех нас","Yes, it was a very difficult choice for all of us","[jes, ɪt wɒz ə ˈveri ˈdɪfɪkəlt ʧɔɪs fɔ: ɔ:l ɒv ʌs]",A2_L125_S27.mp3
+28,Что было на десерт?,What was for dessert?,[wɒt wɒz fɔ: dɪˈzɜ:t?],A2_L125_S28.mp3
+29,"Если я найду лучше работу, я буду очень счастлив","If I find a better job, I will be very happy","[ɪf aɪ faɪnd ə ˈbetə ʤɒb, aɪ wɪl bi: ˈveri ˈhæpi]",A2_L125_S29.mp3
+30,Я навестил ее на прошлой неделе,I visited her last week,[aɪ ˈvɪzɪtɪd hɜ: lɑ:st wi:k],A2_L125_S30.mp3
+31,Я смотрю новую серию сейчас,I am watching a new series now,[aɪ æm ˈwɒʧɪŋ ə nju: ˈsɪəri:z naʊ],A2_L125_S31.mp3
+32,Что будет на десерт?,What will be for dessert?,[wɒt wɪl bi: fɔ: dɪˈzɜ:t?],A2_L125_S32.mp3
+33,"Он встретил свою жену, когда он работал там",He met his wife when he was working there,[hi: met hɪz waɪf wen hi: wɒz ˈwɜ:kɪŋ ðeə],A2_L125_S33.mp3
+34,"Если моя сестра не скоро приедет, я позвоню ей","If my sister doesn't arrive soon, I will call her","[ɪf maɪ ˈsɪstə dʌznt əˈraɪv su:n, aɪ wɪl kɔ:l hɜ:]",A2_L125_S34.mp3
+35,Ты уже закончил свое домашнее задание?,Have you already finished your homework?,[hæv ju: ɔ:lˈredi ˈfɪnɪʃt jɔ: ˈhəʊmˌwɜ:k?],A2_L125_S35.mp3
+36,Что на десерт?,What's for dessert?,[wɒts fɔ: dɪˈzɜ:t?],A2_L125_S36.mp3
+37,Я навестил ее на этой неделе,I have visited her this week,[aɪ hæv ˈvɪzɪtɪd hɜ: ðɪs wi:k],A2_L125_S37.mp3
+38,Что в меню сегодня вечером?,What's on the menu tonight?,[wɒts ɒn ðə ˈmenju: təˈnaɪt?],A2_L125_S38.mp3
+39,Самолет скоро взлетит,The plane will take off soon,[ðə pleɪn wɪl teɪk ɒf su:n],A2_L125_S39.mp3
+40,"Что ты делал, когда он вошел?",What were you doing when he came in?,[wɒt wɜ: ju: ˈdu:ɪŋ wen hi: keɪm ɪn?],A2_L125_S40.mp3
+41,Слушать радио на английском языке кажется очень полезным,Listening to the radio in English seems very useful,[ˈlɪsnɪŋ tu: ðə ˈreɪdɪəʊ ɪn ˈɪŋglɪʃ si:mz ˈveri ˈju:sfəl],A2_L125_S41.mp3
+42,"Она сказала, что купила очень модное красное платье",She said that she had bought a very fashionable red dress,[ʃi: sed ðæt ʃi: hæd bɔ:t ə ˈveri ˈfæʃnəbl red dres],A2_L125_S42.mp3
+43,"Он не заработает достаточно денег, если не найдет более высокооплачиваемую работу",He won't earn enough money unless he finds a more well-paid job,[hi: wəʊnt ɜ:n ɪˈnʌf ˈmʌni ənˈles hi: faɪndz ə mɔ: wel- peɪd ʤɒb],A2_L125_S43.mp3
+44,"Я сдал экзамен, потому что я очень усердно учился",I passed the exam because I had studied very hard,[aɪ pɑ:st ði ɪgˈzæm bɪˈkɒz aɪ hæd ˈstʌdɪd ˈveri hɑ:d],A2_L125_S44.mp3
+45,"Она никогда не была в Испании, но она хочет посетить эту страну однажды",She has never been to Spain but she wants to visit this country one day,[ʃi: hæz ˈnevə bi:n tu: speɪn bʌt ʃi: wɒnts tu: ˈvɪzɪt ðɪs ˈkʌntri wʌn deɪ],A2_L125_S45.mp3
+46,"Ученики не слушали, когда учитель объяснял новую тему",The students weren't listening when the teacher was explaining a new topic,[ðə ˈstju:dənts wɜ:nt ˈlɪsnɪŋ wen ðə ˈti:ʧə wɒz ɪksˈpleɪnɪŋ ə nju: ˈtɒpɪk],A2_L125_S46.mp3
+47,"Когда я пришел домой, она уже сварила суп","When I came home, she had already cooked the soup","[wen aɪ keɪm həʊm, ʃi: hæd ɔ:lˈredi kʊkt ðə su:p]",A2_L125_S47.mp3
+48,"Человек был отправлен в тюрьму, потому что он совершил преступление",The man was sent to prison because he had committed a crime,[ðə mæn wɒz sent tu: ˈprɪzn bɪˈkɒz hi: hæd kəˈmɪtɪd ə kraɪm],A2_L125_S48.mp3
+49,"Они не обсуждали ничего серьезного, когда я пришел на встречу",They weren't discussing anything serious when I came to the meeting,[ðeɪ wɜ:nt dɪsˈkʌsɪŋ ˈenɪθɪŋ ˈsɪərɪəs wen aɪ keɪm tu: ðə ˈmi:tɪŋ],A2_L125_S49.mp3
+50,"Сейчас он не может ответить, потому что он принимает душ",He can't answer now because he is taking a shower,[hi: kɑ:nt ˈɑ:nsə naʊ bɪˈkɒz hi: ɪz ˈteɪkɪŋ ə ˈʃaʊə],A2_L125_S50.mp3
+51,Я жил в загородном доме все лето,I was living in the country house all summer,[aɪ wɒz ˈlɪvɪŋ ɪn ðə ˈkʌntri haʊs ɔ:l ˈsʌmə],A2_L125_S51.mp3
+52,"Он сказал, что они купили это в кредит",He said that they had bought it on credit,[hi: sed ðæt ðeɪ hæd bɔ:t ɪt ɒn ˈkredɪt],A2_L125_S52.mp3
+53,"Она слушала ту программу, пока она готовила салат",She was listening to that program while she was cooking a salad,[ʃi: wɒz ˈlɪsnɪŋ tu: ðæt ˈprəʊgræm waɪl ʃi: wɒz ˈkʊkɪŋ ə ˈsæləd],A2_L125_S53.mp3
+54,Выполнение этих упражнений помогает мне с моим английским,Doing these exercises helps me with my English,[ˈdu:ɪŋ ði:z ˈeksəsaɪzɪz helps mi: wɪð maɪ ˈɪŋglɪʃ],A2_L125_S54.mp3
+55,"Я никогда не был в Соединенных Штатах, но я хочу поехать туда однажды",I have never been to the United States but I want to go there one day,[aɪ hæv ˈnevə bi:n tu: ði: jʊˈnaɪtɪd steɪts bʌt aɪ wɒnt tu: gəʊ ðeə wʌn deɪ],A2_L125_S55.mp3
+56,Ты когда-нибудь был в Соединенных Штатах?,Have you ever been to the United States?,[hæv ju: ˈevə bi:n tu: ði: jʊˈnaɪtɪd steɪts?],A2_L125_S56.mp3
+57,"Я никогда не был в Англии, но мечтаю когда-нибудь туда съездить",I have never been to England but I dream about going there someday,[aɪ hæv ˈnevə bi:n tu: ˈɪŋglənd bʌt aɪ dri:m əˈbaʊt ˈgəʊɪŋ ðeə ˈsʌmˌdeɪ],A2_L125_S57.mp3
+58,"Все спали, когда начался пожар",Everyone was sleeping when the fire began,[ˈevrɪwʌn wɒz ˈsli:pɪŋ wen ðə ˈfaɪə bɪˈgæn],A2_L125_S58.mp3
+59,"Они не спали, когда начался пожар",They weren't sleeping when the fire began,[ðeɪ wɜ:nt ˈsli:pɪŋ wen ðə ˈfaɪə bɪˈgæn],A2_L125_S59.mp3
+60,"Все спали, когда это началось",Everyone was sleeping when it began,[ˈevrɪwʌn wɒz ˈsli:pɪŋ wen ɪt bɪˈgæn],A2_L125_S60.mp3
+61,"Он позвонит мне, когда прибудет в аэропорт",He will call me when he arrives at the airport,[hi: wɪl kɔ:l mi: wen hi: əˈraɪvz æt ði ˈeəpɔ:t],A2_L125_S61.mp3
+62,"Он позвонит ему, когда вернется домой",He will call him when he returns home,[hi: wɪl kɔ:l hɪm wen hi: rɪˈtɜ:nz həʊm],A2_L125_S62.mp3
+63,"Он поможет мне, когда вернется домой",He will help me when he comes home,[hi: wɪl help mi: wen hi: kʌmz həʊm],A2_L125_S63.mp3
+64,Иногда она думает о создании своего собственного блога,She sometimes thinks about creating her own blog,[ʃi: ˈsʌmtaɪmz θɪŋks əˈbaʊt kri:ˈeɪtɪŋ hɜ: əʊn blɒg],A2_L125_S64.mp3
+65,Она не думала о создании своего собственного блога,She didn't think about creating her own blog,[ʃi: dɪdnt θɪŋk əˈbaʊt kri:ˈeɪtɪŋ hɜ: əʊn blɒg],A2_L125_S65.mp3
+66,Она думает о создании своего собственного блога?,Does she think about creating her own blog?,[dʌz ʃi: θɪŋk əˈbaʊt kri:ˈeɪtɪŋ hɜ: əʊn blɒg?],A2_L125_S66.mp3
+67,"Магазин был закрыт, поэтому мы пошли в другое место",The shop was closed so we went to another place,[ðə ʃɒp wɒz kləʊzd səʊ wi: went tu: əˈnʌðə pleɪs],A2_L125_S67.mp3
+68,"Магазин закрыт, поэтому мы поидем в другое место",The shop is closed so we will go to another place,[ðə ʃɒp ɪz kləʊzd səʊ wi: wɪl gəʊ tu: əˈnʌðə pleɪs],A2_L125_S68.mp3
+69,"Тот музей был закрыт, и мы пошли в другой",That museum was closed so we went to another one,[ðæt mju:ˈzɪəm wɒz kləʊzd səʊ wi: went tu: əˈnʌðə wʌn],A2_L125_S69.mp3
+70,Огонь горел очень ярко,The fire was burning very brightly,[ðə ˈfaɪə wɒz ˈbɜ:nɪŋ ˈveri ˈbraɪtli],A2_L125_S70.mp3
+71,Огонь горит так ярко,The fire is burning so brightly,[ðə ˈfaɪər ɪz ˈbɜ:nɪŋ səʊ ˈbraɪtli],A2_L125_S71.mp3
+72,"Солнце светило очень ярко …………….…................................................... 73. Ты можешь выключить радио. Никто его не слушает …………….…................................................... 74. Не выключай радио! Мы его слушаем …………….…................................................... 75. Ты можешь выключить радио? Никто его не слушает …………….…................................................... 76. Изучение английского языка кажется таким интересным …………….…................................................... 77. Изучение английского языка казалось очень интересным …………….…................................................... 78. Играть в футбол кажется таким интересным …………….…................................................... 79. Что ты делал вчера в 6 часов вечера? …………….…................................................... 80. Что ты делаешь в данный момент? …………….…................................................... 81. Я спал вчера в 6 часов утра …………….…................................................... 82. Я чрезвычайно измучен, потому что я работаю весь день …………….…................................................... 83. Я очень устал, потому что я много работаю последние два дня …………….…................................................... 84. Он измучен, потому что он работает весь день …………….…................................................... 8 85. Он живет в этом городе в течение десяти лет …………….…................................................... 86. Он сдал тест, потому что он подготовился к нему очень тщательно …………….…................................................... 87. Он чувствует себя чрезвычайно уставшим, потому что он работал весь день …………….…................................................... 88. Я не видел своих одноклассников, с тех пор как я окончил университет …………….…................................................... 89. Если погода не изменится, я останусь дома …………….…................................................... 90. Он был уверен, что он сдал экзамен …………….…................................................... 91. Он не сможет купить новый дом, если не продаст свою старую квартиру …………….…................................................... 92. Когда я открыл глаза, солнце светило очень ярко …………….…................................................... 93. Она сказала, что купила новое платье …………….…................................................... 94. Пока она спала, он писал отчет …………….…................................................... 95. Мы пойдем домой, если пойдет дождь …………….…................................................... 96. Она была онлайн весь день …………….…................................................... 97. Я думаю, завтра пойдет дождь …………….…................................................... 9 98. Если погода улучшится, мы пойдем гулять …………….…................................................... 99. Он думает о создании своего собственного блога …………….…................................................... 10 Ответы 1. Мой друг обычно ходит гулять по вечерам",My friend usually goes for a walk in the evening,[maɪ frend ˈju:ʒʊəli gəʊz fɔ: ə wɔ:k ɪn ði ˈi:vnɪŋ],A2_L125_S72.mp3
+73,Ты можешь выключить радио. Никто его не слушает,You can turn off the radio. No one is listening to it,[ju: kæn tɜ:n ɒf ðə ˈreɪdɪəʊ. nəʊ wʌn ɪz ˈlɪsnɪŋ tu: ɪt],A2_L125_S73.mp3
+74,Не выключай радио! Мы его слушаем,Don't turn off the radio! We are listening to it,[dəʊnt tɜ:n ɒf ðə ˈreɪdɪəʊ! wi: ɑ: ˈlɪsnɪŋ tu: ɪt],A2_L125_S74.mp3
+75,Ты можешь выключить радио? Никто его не слушает,Can you turn off the radio? No one is listening to it,[kæn ju: tɜ:n ɒf ðə ˈreɪdɪəʊ? nəʊ wʌn ɪz ˈlɪsnɪŋ tu: ɪt],A2_L125_S75.mp3
+76,Изучение английского языка кажется таким интересным,Learning English seems so interesting,[ˈlɜ:nɪŋ ˈɪŋglɪʃ si:mz səʊ ˈɪntrɪstɪŋ],A2_L125_S76.mp3
+77,Изучение английского языка казалось очень интересным,Learning English seemed very interesting,[ˈlɜ:nɪŋ ˈɪŋglɪʃ si:md ˈveri ˈɪntrɪstɪŋ],A2_L125_S77.mp3
+78,Играть в футбол кажется таким интересным,Playing football seems so interesting,[ˈpleɪɪŋ ˈfʊtbɔ:l si:mz səʊ ˈɪntrɪstɪŋ],A2_L125_S78.mp3
+79,Что ты делал вчера в 6 часов вечера?,What were you doing yesterday at 6 o'clock in the evening?,[wɒt wɜ: ju: ˈdu:ɪŋ ˈjestədeɪ æt 6 əˈklɒk ɪn ði ˈi:vnɪŋ?],A2_L125_S79.mp3
+80,Что ты делаешь в данный момент?,What are you doing at the moment?,[wɒt ɑ: ju: ˈdu:ɪŋ æt ðə ˈməʊmənt?],A2_L125_S80.mp3
+81,Я спал вчера в 6 часов утра,I was sleeping yesterday at 6 o'clock in the morning,[aɪ wɒz ˈsli:pɪŋ ˈjestədeɪ æt 6 əˈklɒk ɪn ðə ˈmɔ:nɪŋ],A2_L125_S81.mp3
+82,"Я чрезвычайно измучен, потому что я работаю весь день",I'm extremely exhausted because I have been working all day,[aɪm ɪksˈtri:mli ɪgˈzɔ:stɪd bɪˈkɒz aɪ hæv bi:n ˈwɜ:kɪŋ ɔ:l deɪ],A2_L125_S82.mp3
+83,"Я очень устал, потому что я много работаю последние два дня",I'm really tired because I have been working a lot for the last two days,[aɪm ˈrɪəli ˈtaɪəd bɪˈkɒz aɪ hæv bi:n ˈwɜ:kɪŋ ə lɒt fɔ: ðə lɑ:st tu: deɪz],A2_L125_S83.mp3
+84,"Он измучен, потому что он работает весь день",He's exhausted because he has been working all day,[hi:z ɪgˈzɔ:stɪd bɪˈkɒz hi: hæz bi:n ˈwɜ:kɪŋ ɔ:l deɪ],A2_L125_S84.mp3
+85,Он живет в этом городе в течение десяти лет,He has been living in this city for ten years,[hi: hæz bi:n ˈlɪvɪŋ ɪn ðɪs ˈsɪti fɔ: ten jɪəz],A2_L125_S85.mp3
+86,"Он сдал тест, потому что он подготовился к нему очень тщательно",He has passed the test because he had prepared for it very thoroughly,[hi: hæz pɑ:st ðə test bɪˈkɒz hi: hæd prɪˈpeəd fɔ: ɪt ˈveri ˈθʌrəli],A2_L125_S86.mp3
+87,"Он чувствует себя чрезвычайно уставшим, потому что он работал весь день",He feels extremely tired because he has been working all day,[hi: fi:lz ɪksˈtri:mli ˈtaɪəd bɪˈkɒz hi: hæz bi:n ˈwɜ:kɪŋ ɔ:l deɪ],A2_L125_S87.mp3
+88,"Я не видел своих одноклассников, с тех пор как я окончил университет",I haven't seen my groupmates since I graduated from university,[aɪ hævnt si:n maɪ groupmates sɪns aɪ ˈgrædjʊeɪtɪd frɒm ˌju:nɪˈvɜ:sɪti],A2_L125_S88.mp3
+89,"Если погода не изменится, я останусь дома","If the weather doesn't change, I'll stay at home","[ɪf ðə ˈweðə dʌznt ʧeɪnʤ, aɪl steɪ æt həʊm]",A2_L125_S89.mp3
+90,"Он был уверен, что он сдал экзамен",He was sure that he had passed the exam,[hi: wɒz ʃʊə ðæt hi: hæd pɑ:st ði ɪgˈzæm],A2_L125_S90.mp3
+91,"Он не сможет купить новый дом, если не продаст свою старую квартиру",He won't be able to buy a new house unless he sells his old apartment,[hi: wəʊnt bi: ˈeɪbl tu: baɪ ə nju: haʊs ənˈles hi: selz hɪz əʊld əˈpɑ:tmənt],A2_L125_S91.mp3
+92,"Когда я открыл глаза, солнце светило очень ярко","When I opened my eyes, the sun was shining very brightly","[wen aɪ ˈəʊpənd maɪ aɪz, ðə sʌn wɒz ˈʃaɪnɪŋ ˈveri ˈbraɪtli]",A2_L125_S92.mp3
+93,"Она сказала, что купила новое платье",She said that she had bought a new dress,[ʃi: sed ðæt ʃi: hæd bɔ:t ə nju: dres],A2_L125_S93.mp3
+94,"Пока она спала, он писал отчет","While she was sleeping, he was writing a report","[waɪl ʃi: wɒz ˈsli:pɪŋ, hi: wɒz ˈraɪtɪŋ ə rɪˈpɔ:t]",A2_L125_S94.mp3
+95,"Мы пойдем домой, если пойдет дождь",We will go home if it starts raining,[wi: wɪl gəʊ həʊm ɪf ɪt stɑ:ts ˈreɪnɪŋ],A2_L125_S95.mp3
+96,Она была онлайн весь день,She has been online all day,[ʃi: hæz bi:n ˈɒnˌlaɪn ɔ:l deɪ],A2_L125_S96.mp3
+97,"Я думаю, завтра пойдет дождь",I think it will rain tomorrow,[aɪ θɪŋk ɪt wɪl reɪn təˈmɒrəʊ],A2_L125_S97.mp3
+98,"Если погода улучшится, мы пойдем гулять","If the weather improves, we'll go out","[ɪf ðə ˈweðər ɪmˈpru:vz, wi:l gəʊ aʊt]",A2_L125_S98.mp3
+99,Он думает о создании своего собственного блога,He is thinking about creating his own blog,[hi: ɪz ˈθɪŋkɪŋ əˈbaʊt kri:ˈeɪtɪŋ hɪz əʊn blɒg],A2_L125_S99.mp3

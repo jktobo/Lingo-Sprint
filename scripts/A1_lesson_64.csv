@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Они хорошие студенты?,Are they good students?,[ɑ: ðeɪ gʊd ˈstju:dənts?],A1_L64_S2.mp3
+3,Это традиционная еда?,Is it traditional food?,[ɪz ɪt trəˈdɪʃənl fu:d?],A1_L64_S3.mp3
+4,Это дешевая вещь?,Is it a cheap thing?,[ɪz ɪt ə ʧi:p θɪŋ?],A1_L64_S4.mp3
+5,Это официальный документ?,Is it an official document?,[ɪz ɪt ən əˈfɪʃəl ˈdɒkjʊmənt?],A1_L64_S5.mp3
+6,Это шумное место?,Is it a noisy place?,[ɪz ɪt ə ˈnɔɪzi pleɪs?],A1_L64_S6.mp3
+7,Это традиционный метод?,Is it a traditional method?,[ɪz ɪt ə trəˈdɪʃənl ˈmeθəd?],A1_L64_S7.mp3
+8,Ты сейчас в Америке?,Are you in America now?,[ɑ: ju: ɪn əˈmerɪkə naʊ?],A1_L64_S8.mp3
+9,Он из Бразилии?,Is he from Brazil?,[ɪz hi: frɒm brəˈzɪl?],A1_L64_S9.mp3
+10,Они сестры?,Are they sisters?,[ɑ: ðeɪ ˈsɪstəz?],A1_L64_S10.mp3
+11,Он твой двоюродный брат?,Is he your cousin?,[ɪz hi: jɔ: ˈkʌzn?],A1_L64_S11.mp3
+12,Это лучший ресторан в этой области?,Is it the best restaurant in this area?,[ɪz ɪt ðə best ˈrestrɒnt ɪn ðɪs ˈeərɪə?],A1_L64_S12.mp3
+13,Он британец?,Is he British?,[ɪz hi: ˈbrɪtɪʃ?],A1_L64_S13.mp3
+14,Это голубая ручка?,Is it a blue pen?,[ɪz ɪt ə blu: pen?],A1_L64_S14.mp3
+15,Они американцы?,Are they Americans?,[ɑ: ðeɪ əˈmerɪkənz?],A1_L64_S15.mp3
+16,Это его родной язык?,Is it his mother tongue?,[ɪz ɪt hɪz ˈmʌðə tʌŋ?],A1_L64_S16.mp3
+17,Они хорошие специалисты?,Are they good specialists?,[ɑ: ðeɪ gʊd ˈspeʃəlɪsts?],A1_L64_S17.mp3
+18,Это старое здание?,Is it an old building?,[ɪz ɪt ən əʊld ˈbɪldɪŋ?],A1_L64_S18.mp3
+19,Ты действительно серьезно?,Are you really serious?,[ɑ: ju: ˈrɪəli ˈsɪərɪəs?],A1_L64_S19.mp3
+20,Это твое любимое блюдо?,Is it your favourite dish?,[ɪz ɪt jɔ: ˈfeɪvərɪt dɪʃ?],A1_L64_S20.mp3
+21,Это важная вещь?,Is it an important thing?,[ɪz ɪt ən ɪmˈpɔ:tənt θɪŋ?],A1_L64_S21.mp3
+22,Он хороший специалист?,Is he a good specialist?,[ɪz hi: ə gʊd ˈspeʃəlɪst?],A1_L64_S22.mp3
+23,Это бесплатно или нет?,Is it free or not?,[ɪz ɪt fri: ɔ: nɒt?],A1_L64_S23.mp3
+24,Они высокие мальчики?,Are they tall boys?,[ɑ: ðeɪ tɔ:l bɔɪz?],A1_L64_S24.mp3
+25,Это хороший результат для тебя?,Is it a good result for you?,[ɪz ɪt ə gʊd rɪˈzʌlt fɔ: ju:?],A1_L64_S25.mp3
+26,Это высокий уровень?,Is it a high level?,[ɪz ɪt ə haɪ ˈlevl?],A1_L64_S26.mp3
+27,Он твой любимый певец?,Is he your favourite singer?,[ɪz hi: jɔ: ˈfeɪvərɪt ˈsɪŋə?],A1_L64_S27.mp3
+28,Это твой родной язык?,Is it your mother tongue?,[ɪz ɪt jɔ: ˈmʌðə tʌŋ?],A1_L64_S28.mp3
+29,Это длинная история?,Is it a long story?,[ɪz ɪt ə lɒŋ ˈstɔ:ri?],A1_L64_S29.mp3
+30,Он твой брат?,Is he your brother?,[ɪz hi: jɔ: ˈbrʌðə?],A1_L64_S30.mp3
+31,Это хорошая идея?,Is it a good idea?,[ɪz ɪt ə gʊd aɪˈdɪə?],A1_L64_S31.mp3
+32,Ты из Испании?,Are you from Spain?,[ɑ: ju: frɒm speɪn?],A1_L64_S32.mp3
+33,Он холост?,Is he single?,[ɪz hi: ˈsɪŋgl?],A1_L64_S33.mp3
+34,Это тихое место?,Is it a quiet place?,[ɪz ɪt ə ˈkwaɪət pleɪs?],A1_L64_S34.mp3
+35,Они братья?,Are they brothers?,[ɑ: ðeɪ ˈbrʌðəz?],A1_L64_S35.mp3
+36,Это твой любимый фильм?,Is it your favourite movie?,[ɪz ɪt jɔ: ˈfeɪvərɪt ˈmu:vi?],A1_L64_S36.mp3
+37,Он испанец?,Is he Spanish?,[ɪz hi: ˈspænɪʃ?],A1_L64_S37.mp3
+38,Это другой пример?,Is it a different example?,[ɪz ɪt ə ˈdɪfrənt ɪgˈzɑ:mpl?],A1_L64_S38.mp3
+39,Это тяжелая коробка?,Is it a heavy box?,[ɪz ɪt ə ˈhevi bɒks?],A1_L64_S39.mp3
+40,Ты офлайн сейчас?,Are you offline now?,[ɑ: ju: ˌɒfˈlaɪn naʊ?],A1_L64_S40.mp3
+41,Они твои двоюродные братья?,Are they your cousins?,[ɑ: ðeɪ jɔ: ˈkʌznz?],A1_L64_S41.mp3
+42,Ты онлайн сейчас?,Are you online now?,[ɑ: ju: ˈɒnˌlaɪn naʊ?],A1_L64_S42.mp3
+43,Это черный карандаш?,Is it a black pencil?,[ɪz ɪt ə blæk ˈpensl?],A1_L64_S43.mp3
+44,Это неважная вещь?,Is it an unimportant thing?,[ɪz ɪt ən ˌʌnɪmˈpɒtənt θɪŋ?],A1_L64_S44.mp3
+45,Тебя интересуют иностранные языки?,Are you interested in foreign languages?,[ɑ: ju: ˈɪntrɪstɪd ɪn ˈfɒrɪn ˈlæŋgwɪʤɪz?],A1_L64_S45.mp3
+46,Ты действительно шокирован?,Are you really shocked?,[ɑ: ju: ˈrɪəli ʃɒkt?],A1_L64_S46.mp3
+47,Это для тебя большое достижение?,Is it a big achievement for you?,[ɪz ɪt ə bɪg əˈʧi:vmənt fɔ: ju:?],A1_L64_S47.mp3
+48,Ты действительно уверен в этом?,Are you really sure about it?,[ɑ: ju: ˈrɪəli ʃʊər əˈbaʊt ɪt?],A1_L64_S48.mp3
+49,Это далеко или близко?,Is it far or near?,[ɪz ɪt fɑ: ɔ: nɪə?],A1_L64_S49.mp3
+50,Ты действительно удивлен?,Are you really surprised?,[ɑ: ju: ˈrɪəli səˈpraɪzd?],A1_L64_S50.mp3
+51,Это недорогие часы?,Is it an inexpensive watch?,[ɪz ɪt ən ˌɪnɪksˈpensɪv wɒʧ?],A1_L64_S51.mp3
+52,Ты гордишься своими достижениями?,Are you proud of your achievements?,[ɑ: ju: praʊd ɒv jɔ: əˈʧi:vmənts?],A1_L64_S52.mp3
+53,Это действительно необходимо сделать завтра?,Is it really necessary to do it tomorrow?,[ɪz ɪt ˈrɪəli ˈnesɪsəri tu: du: ɪt təˈmɒrəʊ?],A1_L64_S53.mp3
+54,Он действительно устал от этого?,Is he really tired of it?,[ɪz hi: ˈrɪəli ˈtaɪəd ɒv ɪt?],A1_L64_S54.mp3
+55,Это полезное приложение?,Is it a useful application?,[ɪz ɪt ə ˈju:sfəl ˌæplɪˈkeɪʃn?],A1_L64_S55.mp3
+56,Они рядом с этим местом?,Are they near this place?,[ɑ: ðeɪ nɪə ðɪs pleɪs?],A1_L64_S56.mp3
+57,Это необходимо сделать?,Is it necessary to do?,[ɪz ɪt ˈnesɪsəri tu: du:?],A1_L64_S57.mp3
+58,Это рядом с тем местом?,Is it near that place?,[ɪz ɪt nɪə ðæt pleɪs?],A1_L64_S58.mp3
+59,Ты действительно устал?,Are you really tired?,[ɑ: ju: ˈrɪəli ˈtaɪəd?],A1_L64_S59.mp3
+60,Ты устал?,Are you tired?,[ɑ: ju: ˈtaɪəd?],A1_L64_S60.mp3
+61,Он действительно устал?,Is he really tired?,[ɪz hi: ˈrɪəli ˈtaɪəd?],A1_L64_S61.mp3
+62,Это слева?,Is it on the left?,[ɪz ɪt ɒn ðə left?],A1_L64_S62.mp3
+63,Это справа?,Is it on the right?,[ɪz ɪt ɒn ðə raɪt?],A1_L64_S63.mp3
+64,Это с левой стороны стола?,Is it on the left side of the table?,[ɪz ɪt ɒn ðə left saɪd ɒv ðə ˈteɪbl?],A1_L64_S64.mp3
+65,Они заинтересованы в этом проекте?,Are they interested in this project?,[ɑ: ðeɪ ˈɪntrɪstɪd ɪn ðɪs ˈprɒʤekt?],A1_L64_S65.mp3
+66,Он заинтересован в этом проекте?,Is he interested in this project?,[ɪz hi: ˈɪntrɪstɪd ɪn ðɪs ˈprɒʤekt?],A1_L64_S66.mp3
+67,Ты заинтересован в этой работе?,Are you interested in this job?,[ɑ: ju: ˈɪntrɪstɪd ɪn ðɪs ʤɒb?],A1_L64_S67.mp3
+68,Это неверно?,Is it incorrect?,[ɪz ɪt ˌɪnkəˈrekt?],A1_L64_S68.mp3
+69,Этот ответ неверный?,Is this answer incorrect?,[ɪz ðɪs ˈɑ:nsər ˌɪnkəˈrekt?],A1_L64_S69.mp3
+70,Это действительно верно?,Is it really correct?,[ɪz ɪt ˈrɪəli kəˈrekt?],A1_L64_S70.mp3
+71,Он носитель английского языка?,Is he a native speaker of English?,[ɪz hi: ə ˈneɪtɪv ˈspi:kər ɒv ˈɪŋglɪʃ?],A1_L64_S71.mp3
+72,Они носители английского языка?,Are they native speakers of English?,[ɑ: ðeɪ ˈneɪtɪv ˈspi:kəz ɒv ˈɪŋglɪʃ?],A1_L64_S72.mp3
+73,Ты носитель английского языка?,Are you a native speaker of English?,[ɑ: ju: ə ˈneɪtɪv ˈspi:kər ɒv ˈɪŋglɪʃ?],A1_L64_S73.mp3
+74,Это верно или нет? …………….…................................................... 75. Это верно? …………….…................................................... 76. Он очень осторожный водитель? …………….…................................................... 77. Ты осторожный водитель? …………….…................................................... 78. Они очень осторожные водители? …………….…................................................... 79. Это полезная вещь? …………….…................................................... 80. Это хорошая вещь? …………….…................................................... 81. Он гордится этим успехом? …………….…................................................... 82. Ты гордишься своим успехом? …………….…................................................... 83. Ты гордишься своей матерью? …………….…................................................... 84. Ты также заинтересован в этом? …………….…................................................... 85. Они также заинтересованы в этом? …………….…................................................... 86. Она также заинтересована в этом? …………….…................................................... 8 87. Он женат на ней? …………….…................................................... 88. Она заинтересована в музыке? …………….…................................................... 89. Ты действительно удивлен слышать это? …………….…................................................... 90. Она замужем за ним? …………….…................................................... 91. Это очень дорогая вещь? …………….…................................................... 92. Она носитель английского языка? …………….…................................................... 93. Это необходимый шаг? …………….…................................................... 94. Ты гордишься своими результатами? …………….…................................................... 95. Она действительна устала от этой рутины? …………….…................................................... 96. Это важное правило или нет? …………….…................................................... 97. Он гордится своими достижениями? …………….…................................................... 98. Это недорогая вещь? …………….…................................................... 99. Это действительно необходимо? …………….…................................................... 9 100. Это полезное устройство? …………….…................................................... 10 Ответы 1. Я хороший специалист?,Am I a good specialist?,[æm aɪ ə gʊd ˈspeʃəlɪst?],A1_L64_S74.mp3
+75,Это верно?,Is it correct?,[ɪz ɪt kəˈrekt?],A1_L64_S75.mp3
+76,Он очень осторожный водитель?,Is he a very careful driver?,[ɪz hi: ə ˈveri ˈkeəfəl ˈdraɪvə?],A1_L64_S76.mp3
+77,Ты осторожный водитель?,Are you a careful driver?,[ɑ: ju: ə ˈkeəfəl ˈdraɪvə?],A1_L64_S77.mp3
+78,Они очень осторожные водители?,Are they very careful drivers?,[ɑ: ðeɪ ˈveri ˈkeəfəl ˈdraɪvəz?],A1_L64_S78.mp3
+79,Это полезная вещь?,Is it a useful thing?,[ɪz ɪt ə ˈju:sfəl θɪŋ?],A1_L64_S79.mp3
+80,Это хорошая вещь?,Is it a good thing?,[ɪz ɪt ə gʊd θɪŋ?],A1_L64_S80.mp3
+81,Он гордится этим успехом?,Is he proud of this success?,[ɪz hi: praʊd ɒv ðɪs səkˈses?],A1_L64_S81.mp3
+82,Ты гордишься своим успехом?,Are you proud of your success?,[ɑ: ju: praʊd ɒv jɔ: səkˈses?],A1_L64_S82.mp3
+83,Ты гордишься своей матерью?,Are you proud of your mother?,[ɑ: ju: praʊd ɒv jɔ: ˈmʌðə?],A1_L64_S83.mp3
+84,Ты также заинтересован в этом?,Are you also interested in it?,[ɑ: ju: ˈɔ:lsəʊ ˈɪntrɪstɪd ɪn ɪt?],A1_L64_S84.mp3
+85,Они также заинтересованы в этом?,Are they also interested in it?,[ɑ: ðeɪ ˈɔ:lsəʊ ˈɪntrɪstɪd ɪn ɪt?],A1_L64_S85.mp3
+86,Она также заинтересована в этом?,Is she also interested in it?,[ɪz ʃi: ˈɔ:lsəʊ ˈɪntrɪstɪd ɪn ɪt?],A1_L64_S86.mp3
+87,Он женат на ней?,Is he married to her?,[ɪz hi: ˈmærɪd tu: hɜ:?],A1_L64_S87.mp3
+88,Она заинтересована в музыке?,Is she interested in music?,[ɪz ʃi: ˈɪntrɪstɪd ɪn ˈmju:zɪk?],A1_L64_S88.mp3
+89,Ты действительно удивлен слышать это?,Are you really surprised to hear it?,[ɑ: ju: ˈrɪəli səˈpraɪzd tu: hɪər ɪt?],A1_L64_S89.mp3
+90,Она замужем за ним?,Is she married to him?,[ɪz ʃi: ˈmærɪd tu: hɪm?],A1_L64_S90.mp3
+91,Это очень дорогая вещь?,Is it a very expensive thing?,[ɪz ɪt ə ˈveri ɪksˈpensɪv θɪŋ?],A1_L64_S91.mp3
+92,Она носитель английского языка?,Is she a native speaker of English?,[ɪz ʃi: ə ˈneɪtɪv ˈspi:kər ɒv ˈɪŋglɪʃ?],A1_L64_S92.mp3
+93,Это необходимый шаг?,Is it a necessary step?,[ɪz ɪt ə ˈnesɪsəri step?],A1_L64_S93.mp3
+94,Ты гордишься своими результатами?,Are you proud of your results?,[ɑ: ju: praʊd ɒv jɔ: rɪˈzʌlts?],A1_L64_S94.mp3
+95,Она действительна устала от этой рутины?,Is she really tired of this routine?,[ɪz ʃi: ˈrɪəli ˈtaɪəd ɒv ðɪs ru:ˈti:n?],A1_L64_S95.mp3
+96,Это важное правило или нет?,Is it an important rule or not?,[ɪz ɪt ən ɪmˈpɔ:tənt ru:l ɔ: nɒt?],A1_L64_S96.mp3
+97,Он гордится своими достижениями?,Is he proud of his achievements?,[ɪz hi: praʊd ɒv hɪz əˈʧi:vmənts?],A1_L64_S97.mp3
+98,Это недорогая вещь?,Is it an inexpensive thing?,[ɪz ɪt ən ˌɪnɪksˈpensɪv θɪŋ?],A1_L64_S98.mp3
+99,Это действительно необходимо?,Is it really necessary?,[ɪz ɪt ˈrɪəli ˈnesɪsəri?],A1_L64_S99.mp3
+100,Это полезное устройство?,Is it a useful device?,[ɪz ɪt ə ˈju:sfəl dɪˈvaɪs?],A1_L64_S100.mp3

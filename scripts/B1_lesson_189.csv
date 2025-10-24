@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Это чрезвычайно популярное телешоу,It is an extremely popular TV show,[ɪt ɪz ən ɪksˈtri:mli ˈpɒpjʊlə ˌti:ˈvi: ʃəʊ],B1_L189_S2.mp3
+3,Она очень чувствительный ребенок,She is a very sensitive child,[ʃi: ɪz ə ˈveri ˈsensɪtɪv ʧaɪld],B1_L189_S3.mp3
+4,Это такая маленькая сумма денег,It is such a small sum of money,[ɪt ɪz sʌʧ ə smɔ:l sʌm ɒv ˈmʌni],B1_L189_S4.mp3
+5,Они предложили нам специальную цену,They offered us a special price,[ðeɪ ˈɒfəd ʌs ə ˈspeʃəl praɪs],B1_L189_S5.mp3
+6,Очень трудно оставаться бесстрастным в такой ситуации,It's very difficult to stay unemotional in this situation,[ɪts ˈveri ˈdɪfɪkəlt tu: steɪ ˌʌnɪˈməʊʃənl ɪn ðɪs ˌsɪtjʊˈeɪʃən],B1_L189_S6.mp3
+7,Она очень чувствительна к критике других людей,She is very sensitive to other people's criticism,[ʃi: ɪz ˈveri ˈsensɪtɪv tu: ˈʌðə ˈpi:plz ˈkrɪtɪsɪzm],B1_L189_S7.mp3
+8,"Я не могу сказать, что я полностью удовлетворен нынешней ситуацией",I can't say that I'm fully satisfied with the present situation,[aɪ kɑ:nt seɪ ðæt aɪm ˈfʊli ˈsætɪsfaɪd wɪð ðə ˈpreznt ˌsɪtjʊˈeɪʃən],B1_L189_S8.mp3
+9,Я храню свои документы в безопасном месте,I keep my documents in a secure place,[aɪ ki:p maɪ ˈdɒkjʊmənts ɪn ə sɪˈkjʊə pleɪs],B1_L189_S9.mp3
+10,Он старался быть спокойным и бесстрастным,He tried to be calm and unemotional,[hi: traɪd tu: bi: kɑ:m ænd ˌʌnɪˈməʊʃənl],B1_L189_S10.mp3
+11,Когда завтра будет открыт банк?,When will the bank be open tomorrow?,[wen wɪl ðə bæŋk bi: ˈəʊpən təˈmɒrəʊ?],B1_L189_S11.mp3
+12,Мой друг не обращает внимания на такие мелкие ошибки,My friend doesn't pay attention to such small mistakes,[maɪ frend dʌznt peɪ əˈtenʃn tu: sʌʧ smɔ:l mɪsˈteɪks],B1_L189_S12.mp3
+13,"Я прекрасно понимаю, что мне нужно быть гораздо осторожнее",I perfectly understand that I need to be much more careful,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd ðæt aɪ ni:d tu: bi: mʌʧ mɔ: ˈkeəfəl],B1_L189_S13.mp3
+14,Будущее фирмы кажется безопасным,The future of the firm seems secure,[ðə ˈfju:ʧər ɒv ðə fɜ:m si:mz sɪˈkjʊə],B1_L189_S14.mp3
+15,Это был не более чем просто коммерческий проект,It was no more than just a commercial project,[ɪt wɒz nəʊ mɔ: ðæn ʤʌst ə kəˈmɜ:ʃəl ˈprɒʤekt],B1_L189_S15.mp3
+16,Магазин был открыт?,Was the shop open?,[wɒz ðə ʃɒp ˈəʊpən?],B1_L189_S16.mp3
+17,Эта цена справедлива,This price is fair,[ðɪs praɪs ɪz feə],B1_L189_S17.mp3
+18,Это частная собственность,It is private property,[ɪt ɪz ˈpraɪvɪt ˈprɒpəti],B1_L189_S18.mp3
+19,Этот уровень достаточно высокий?,Is this level high enough?,[ɪz ðɪs ˈlevl haɪ ɪˈnʌf?],B1_L189_S19.mp3
+20,Это такая популярная тенденция в наши дни,It is such a popular trend nowadays,[ɪt ɪz sʌʧ ə ˈpɒpjʊlə trend ˈnaʊədeɪz],B1_L189_S20.mp3
+21,Он гораздо более опытный сотрудник,He is a much more experienced employee,[hi: ɪz ə mʌʧ mɔ: ɪksˈpɪərɪənst ˌemplɔɪˈi:],B1_L189_S21.mp3
+22,Я хочу достичь самого высокого уровня в английском языке,I want to reach the highest level in English,[aɪ wɒnt tu: ri:ʧ ðə ˈhaɪɪst ˈlevl ɪn ˈɪŋglɪʃ],B1_L189_S22.mp3
+23,Он присутствовал на конференции?,Was he present at the conference?,[wɒz hi: ˈpreznt æt ðə ˈkɒnfərəns?],B1_L189_S23.mp3
+24,С днем рождения!,Happy birthday!,[ˈhæpi ˈbɜ:θdeɪ!],B1_L189_S24.mp3
+25,У него широкий круг друзей,He has a wide circle of friends,[hi: hæz ə waɪd ˈsɜ:kl ɒv frendz],B1_L189_S25.mp3
+26,Эта вещь относительно недорогая в этом магазине,This thing is relatively inexpensive in this store,[ðɪs θɪŋ ɪz ˈrelətɪvli ˌɪnɪksˈpensɪv ɪn ðɪs stɔ:],B1_L189_S26.mp3
+27,Этот учитель недостаточно опытный,This teacher isn't experienced enough,[ðɪs ˈti:ʧər ˈɪznt ɪksˈpɪərɪənst ɪˈnʌf],B1_L189_S27.mp3
+28,Она не уверена в будущем,She is uncertain about the future,[ʃi: ɪz ʌnˈsɜ:tn əˈbaʊt ðə ˈfju:ʧə],B1_L189_S28.mp3
+29,"Он чувствует, что ему нужна дополнительная практика",He feels that he needs extra practice,[hi: fi:lz ðæt hi: ni:dz ˈekstrə ˈpræktɪs],B1_L189_S29.mp3
+30,Эта организация борется за права человека,This organisation fights for human rights,[ðɪs ˌɔ:gənaɪˈzeɪʃən faɪts fɔ: ˈhju:mən raɪts],B1_L189_S30.mp3
+31,В этом не было ничего особенного,There was nothing special about it,[ðeə wɒz ˈnʌθɪŋ ˈspeʃəl əˈbaʊt ɪt],B1_L189_S31.mp3
+32,Тебе нужно быть более вежливым с другими,You need to be more polite to others,[ju: ni:d tu: bi: mɔ: pəˈlaɪt tu: ˈʌðəz],B1_L189_S32.mp3
+33,Это очень недорогое устройство,It's a very inexpensive device,[ɪts ə ˈveri ˌɪnɪksˈpensɪv dɪˈvaɪs],B1_L189_S33.mp3
+34,Мы не можем изменить человеческую природу,We can't change human nature,[wi: kɑ:nt ʧeɪnʤ ˈhju:mən ˈneɪʧə],B1_L189_S34.mp3
+35,Он не уверен в своем будущем,He is uncertain about his future,[hi: ɪz ʌnˈsɜ:tn əˈbaʊt hɪz ˈfju:ʧə],B1_L189_S35.mp3
+36,У него много работы в настоящее время,He has a lot of work at present,[hi: hæz ə lɒt ɒv wɜ:k æt ˈpreznt],B1_L189_S36.mp3
+37,"Я желаю, чтобы он был более вежливым",I wish he were more polite,[aɪ wɪʃ hi: wɜ: mɔ: pəˈlaɪt],B1_L189_S37.mp3
+38,Этот магазин предлагает широкий ассортимент товаров,This store offers a wide range of goods,[ðɪs stɔ:r ˈɒfəz ə waɪd reɪnʤ ɒv gʊdz],B1_L189_S38.mp3
+39,Озеро довольно глубокое здесь,The lake is quite deep here,[ðə leɪk ɪz kwaɪt di:p hɪə],B1_L189_S39.mp3
+40,Фильм не имел коммерческого успеха,The movie didn't have commercial success,[ðə ˈmu:vi dɪdnt hæv kəˈmɜ:ʃəl səkˈses],B1_L189_S40.mp3
+41,Она стояла в середине комнаты,She was standing in the middle of the room,[ʃi: wɒz ˈstændɪŋ ɪn ðə ˈmɪdl ɒv ðə ru:m],B1_L189_S41.mp3
+42,"С моей точки зрения, это практически невозможно","From my point of view, it's practically impossible","[frɒm maɪ pɔɪnt ɒv vju:, ɪts ˈpræktɪkli ɪmˈpɒsəbl]",B1_L189_S42.mp3
+43,Необходимо быть более осторожным,It is necessary to be more cautious,[ɪt ɪz ˈnesɪsəri tu: bi: mɔ: ˈkɔ:ʃəs],B1_L189_S43.mp3
+44,На каких музыкальных инструментах ты можешь играть?,What musical instruments can you play?,[wɒt ˈmju:zɪkəl ˈɪnstrʊmənts kæn ju: pleɪ?],B1_L189_S44.mp3
+45,"Легко понять, что он хочет иметь свой собственный дом",It's easy to understand that he wants to have his own house,[ɪts ˈi:zi tu: ˌʌndəˈstænd ðæt hi: wɒnts tu: hæv hɪz əʊn haʊs],B1_L189_S45.mp3
+46,"Мне кажется, что это нeсправедливое решение",It seems to me that it isn't a fair decision,[ɪt si:mz tu: mi: ðæt ɪt ˈɪznt ə feə dɪˈsɪʒən],B1_L189_S46.mp3
+47,Они сделали ему эксклюзивное предложение,They made an exclusive offer to him,[ðeɪ meɪd ən ɪksˈklu:sɪv ˈɒfə tu: hɪm],B1_L189_S47.mp3
+48,Я был действительно поражен красотой этого места,I was really amazed by the beauty of this place,[aɪ wɒz ˈrɪəli əˈmeɪzd baɪ ðə ˈbju:ti ɒv ðɪs pleɪs],B1_L189_S48.mp3
+49,Им нужно получить начальное образование в первую очередь,They need to get primary education first of all,[ðeɪ ni:d tu: get ˈpraɪməri ˌedju:ˈkeɪʃən fɜ:st ɒv ɔ:l],B1_L189_S49.mp3
+50,Они могут начать принимать более агрессивные меры,They can start taking more aggressive measures,[ðeɪ kæn stɑ:t ˈteɪkɪŋ mɔ: əˈgresɪv ˈmeʒəz],B1_L189_S50.mp3
+51,Пациент получает очень хорошее медицинское лечение,The patient receives very good medical treatment,[ðə ˈpeɪʃənt rɪˈsi:vz ˈveri gʊd ˈmedɪkəl ˈtri:tmənt],B1_L189_S51.mp3
+52,Этот пациент нуждается в хорошей медицинской помощи,This patient needs good medical care,[ðɪs ˈpeɪʃənt ni:dz gʊd ˈmedɪkəl keə],B1_L189_S52.mp3
+53,Это их главная цель,It is their primary objective,[ɪt ɪz ðeə ˈpraɪməri əbˈʤektɪv],B1_L189_S53.mp3
+54,"Мы могли видеть, что их поведение было действительно агрессивным",We could see that their behaviour was really aggressive,[wi: kʊd si: ðæt ðeə bɪˈheɪvjə wɒz ˈrɪəli əˈgresɪv],B1_L189_S54.mp3
+55,"Он сказал, что будет верен своему обещанию",He said that he would be faithful to his promise,[hi: sed ðæt hi: wʊd bi: ˈfeɪθfəl tu: hɪz ˈprɒmɪs],B1_L189_S55.mp3
+56,Это довольно глубокое озеро,It is quite a deep lake,[ɪt ɪz kwaɪt ə di:p leɪk],B1_L189_S56.mp3
+57,Это озеро довольно глубокое,This lake is quite deep,[ðɪs leɪk ɪz kwaɪt di:p],B1_L189_S57.mp3
+58,Это очень глубокое море,It is a very deep sea,[ɪt ɪz ə ˈveri di:p si:],B1_L189_S58.mp3
+59,Это наша главная цель,It is our primary aim,[ɪt ɪz ˈaʊə ˈpraɪməri eɪm],B1_L189_S59.mp3
+60,Это не наша основная цель,It isn't our main aim,[ɪt ˈɪznt ˈaʊə meɪn eɪm],B1_L189_S60.mp3
+61,Мы можем достичь нашей главной цели,We can achieve our primary aim,[wi: kæn əˈʧi:v ˈaʊə ˈpraɪməri eɪm],B1_L189_S61.mp3
+62,Это очень дружелюбно с твоей стороны,It is very friendly of you,[ɪt ɪz ˈveri ˈfrendli ɒv ju:],B1_L189_S62.mp3
+63,Он был очень дружелюбен с нами,He was very friendly to us,[hi: wɒz ˈveri ˈfrendli tu: ʌs],B1_L189_S63.mp3
+64,Это было очень дружелюбно с ее стороны,It was very friendly of her,[ɪt wɒz ˈveri ˈfrendli ɒv hɜ:],B1_L189_S64.mp3
+65,Он такой умный парень,He is such a smart guy,[hi: ɪz sʌʧ ə smɑ:t gaɪ],B1_L189_S65.mp3
+66,Этот парень такой умный,This guy is so smart,[ðɪs gaɪ ɪz səʊ smɑ:t],B1_L189_S66.mp3
+67,Он такой добрый человек,He is such a kind man,[hi: ɪz sʌʧ ə kaɪnd mæn],B1_L189_S67.mp3
+68,Этот мальчик кажется умнее его,This boy seems smarter than him,[ðɪs bɔɪ si:mz ˈsmɑ:tə ðæn hɪm],B1_L189_S68.mp3
+69,Этот мальчик кажется моложе его,This boy seems younger than him,[ðɪs bɔɪ si:mz ˈjʌŋə ðæn hɪm],B1_L189_S69.mp3
+70,Та девочка кажется умнее его,That girl seems smarter than him,[ðæt gɜ:l si:mz ˈsmɑ:tə ðæn hɪm],B1_L189_S70.mp3
+71,Что кажется невозможным?,What seems impossible?,[wɒt si:mz ɪmˈpɒsəbl?],B1_L189_S71.mp3
+72,Что кажется возможным?,What seems possible?,[wɒt si:mz ˈpɒsəbl?],B1_L189_S72.mp3
+73,"Что казалось действительно невозможным? …………….…................................................... 74. Чем ты обеспокоен? …………….…................................................... 75. Ты обеспокоен этим? …………….…................................................... 76. Она обеспокоена этим …………….…................................................... 77. Ты так дружелюбен к нам …………….…................................................... 78. Ты был так дружелюбен со мной …………….…................................................... 79. Они дружелюбны с тобой? …………….…................................................... 80. Ты умеешь играть на каких-либо музыкальных инструментах? …………….…................................................... 81. Ты хотел бы играть на каких-либо музыкальных инструментах? …………….…................................................... 82. Ты умеешь играть в шахматы? …………….…................................................... 83. Он не заинтересован в этом проекте …………….…................................................... 84. Он заинтересован в этом проекте …………….…................................................... 85. Он не был заинтересован в том проекте …………….…................................................... 8 86. С Днем Рождения тебя! …………….…................................................... 87. Это невозможно только в твоем уме …………….…................................................... 88. Мы были действительно поражены теми словами …………….…................................................... 89. Это было упомянуто в предыдущем уроке …………….…................................................... 90. Ему нужно быть более осторожным, когда он ведет машину …………….…................................................... 91. Это обсуждалось в середине встречи …………….…................................................... 92. Это было объяснено в предыдущих уроках …………….…................................................... 93. Я не думаю, что он действительно не заинтересован в славе …………….…................................................... 94. Он остался верен своим принципам …………….…................................................... 95. Это может привести к очень негативным последствиям …………….…................................................... 96. Эти изменения могут иметь очень негативное влияние на нашу экономику …………….…................................................... 97. Этот олигарх владеет частным самолетом …………….…................................................... 98. Он хочет иметь свою собственную квартиру …………….…................................................... 9 99. Большинство людей беспокоятся о будущем …………….…................................................... 100. У этой компании есть исключительные права? …………….…................................................... 10 Ответы 1. Он гораздо более осторожный водитель",He is a much more careful driver,[hi: ɪz ə mʌʧ mɔ: ˈkeəfəl ˈdraɪvə],B1_L189_S73.mp3
+74,Чем ты обеспокоен?,What are you anxious about?,[wɒt ɑ: ju: ˈæŋkʃəs əˈbaʊt?],B1_L189_S74.mp3
+75,Ты обеспокоен этим?,Are you anxious about it?,[ɑ: ju: ˈæŋkʃəs əˈbaʊt ɪt?],B1_L189_S75.mp3
+76,Она обеспокоена этим,She is anxious about it,[ʃi: ɪz ˈæŋkʃəs əˈbaʊt ɪt],B1_L189_S76.mp3
+77,Ты так дружелюбен к нам,You are so friendly to us,[ju: ɑ: səʊ ˈfrendli tu: ʌs],B1_L189_S77.mp3
+78,Ты был так дружелюбен со мной,You were so friendly to me,[ju: wɜ: səʊ ˈfrendli tu: mi:],B1_L189_S78.mp3
+79,Они дружелюбны с тобой?,Are they friendly to you?,[ɑ: ðeɪ ˈfrendli tu: ju:?],B1_L189_S79.mp3
+80,Ты умеешь играть на каких-либо музыкальных инструментах?,Can you play any musical instruments?,[kæn ju: pleɪ ˈeni ˈmju:zɪkəl ˈɪnstrʊmənts?],B1_L189_S80.mp3
+81,Ты хотел бы играть на каких-либо музыкальных инструментах?,Would you like to play any musical instruments?,[wʊd ju: laɪk tu: pleɪ ˈeni ˈmju:zɪkəl ˈɪnstrʊmənts?],B1_L189_S81.mp3
+82,Ты умеешь играть в шахматы?,Can you play chess?,[kæn ju: pleɪ ʧes?],B1_L189_S82.mp3
+83,Он не заинтересован в этом проекте,He feels uninterested in this project,[hi: fi:lz ʌnˈɪntrɪstɪd ɪn ðɪs ˈprɒʤekt],B1_L189_S83.mp3
+84,Он заинтересован в этом проекте,He feels interested in this project,[hi: fi:lz ˈɪntrɪstɪd ɪn ðɪs ˈprɒʤekt],B1_L189_S84.mp3
+85,Он не был заинтересован в том проекте,He was uninterested in that project,[hi: wɒz ʌnˈɪntrɪstɪd ɪn ðæt ˈprɒʤekt],B1_L189_S85.mp3
+86,С Днем Рождения тебя!,Happy birthday to you!,[ˈhæpi ˈbɜ:θdeɪ tu: ju:!],B1_L189_S86.mp3
+87,Это невозможно только в твоем уме,It is impossible only in your mind,[ɪt ɪz ɪmˈpɒsəbl ˈəʊnli ɪn jɔ: maɪnd],B1_L189_S87.mp3
+88,Мы были действительно поражены теми словами,We were really amazed by those words,[wi: wɜ: ˈrɪəli əˈmeɪzd baɪ ðəʊz wɜ:dz],B1_L189_S88.mp3
+89,Это было упомянуто в предыдущем уроке,It was mentioned in the previous lesson,[ɪt wɒz ˈmenʃənd ɪn ðə ˈpri:viəs ˈlesn],B1_L189_S89.mp3
+90,"Ему нужно быть более осторожным, когда он ведет машину",He needs to be more cautious when he drives,[hi: ni:dz tu: bi: mɔ: ˈkɔ:ʃəs wen hi: draɪvz],B1_L189_S90.mp3
+91,Это обсуждалось в середине встречи,It was discussed in the middle of the meeting,[ɪt wɒz dɪsˈkʌst ɪn ðə ˈmɪdl ɒv ðə ˈmi:tɪŋ],B1_L189_S91.mp3
+92,Это было объяснено в предыдущих уроках,It was explained in the previous lessons,[ɪt wɒz ɪksˈpleɪnd ɪn ðə ˈpri:viəs ˈlesnz],B1_L189_S92.mp3
+93,"Я не думаю, что он действительно не заинтересован в славе",I don't think that he is really uninterested in fame,[aɪ dəʊnt θɪŋk ðæt hi: ɪz ˈrɪəli ʌnˈɪntrɪstɪd ɪn feɪm],B1_L189_S93.mp3
+94,Он остался верен своим принципам,He remained faithful to his principles,[hi: rɪˈmeɪnd ˈfeɪθfəl tu: hɪz ˈprɪnsəplz],B1_L189_S94.mp3
+95,Это может привести к очень негативным последствиям,It can lead to very negative consequences,[ɪt kæn li:d tu: ˈveri ˈnegətɪv ˈkɒnsɪkwənsɪz],B1_L189_S95.mp3
+96,Эти изменения могут иметь очень негативное влияние на нашу экономику,These changes can have a very negative effect on our economy,[ði:z ˈʧeɪnʤɪz kæn hæv ə ˈveri ˈnegətɪv ɪˈfekt ɒn ˈaʊər i:ˈkɒnəmi],B1_L189_S96.mp3
+97,Этот олигарх владеет частным самолетом,This oligarch owns a private jet,[ðɪs ˈɒlɪgɑ:k əʊnz ə ˈpraɪvɪt ʤet],B1_L189_S97.mp3
+98,Он хочет иметь свою собственную квартиру,He wants to have his own apartment,[hi: wɒnts tu: hæv hɪz əʊn əˈpɑ:tmənt],B1_L189_S98.mp3
+99,Большинство людей беспокоятся о будущем,Most people are anxious about the future,[məʊst ˈpi:pl ɑ: ˈæŋkʃəs əˈbaʊt ðə ˈfju:ʧə],B1_L189_S99.mp3
+100,У этой компании есть исключительные права?,Does this company have exclusive rights?,[dʌz ðɪs ˈkʌmpəni hæv ɪksˈklu:sɪv raɪts?],B1_L189_S100.mp3

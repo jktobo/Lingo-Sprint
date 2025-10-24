@@ -1,0 +1,102 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он гордится своим сыном,He's proud of his son,[hi:z praʊd ɒv hɪz sʌn],A2_L102_S2.mp3
+3,Она действительно устала от этого беспорядка,She's really tired of this mess,[ʃi:z ˈrɪəli ˈtaɪəd ɒv ðɪs mes],A2_L102_S3.mp3
+4,Я действительно в восторге от этой поездки в Америку,I'm really excited about this trip to America,[aɪm ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt ðɪs trɪp tu: əˈmerɪkə],A2_L102_S4.mp3
+5,Он без ума от футбола,He's crazy about football,[hi:z ˈkreɪzi əˈbaʊt ˈfʊtbɔ:l],A2_L102_S5.mp3
+6,Я очень рад за тебя,I'm very happy for you,[aɪm ˈveri ˈhæpi fɔ: ju:],A2_L102_S6.mp3
+7,"Город известен своими многочисленными небоскребами, которые почти достигают неба",The city is famous for its numerous skyscrapers which almost reach the sky,[ðə ˈsɪti ɪz ˈfeɪməs fɔ: ɪts ˈnju:mərəs ˈskaɪˌskreɪpəz wɪʧ ˈɔ:lməʊst ri:ʧ ðə skaɪ],A2_L102_S7.mp3
+8,Он действительно в восторге от этой возможности,He's really excited about this opportunity,[hi:z ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt ðɪs ˌɒpəˈtju:nɪti],A2_L102_S8.mp3
+9,Она действительно рада своему прогрессу,She feels really happy about her progress,[ʃi: fi:lz ˈrɪəli ˈhæpi əˈbaʊt hɜ: ˈprəʊgrəs],A2_L102_S9.mp3
+10,Я действительно в восторге от твоего предложения,I'm really excited about your offer,[aɪm ˈrɪəli ɪkˈsaɪtɪd əˈbaʊt jɔ: ˈɒfə],A2_L102_S10.mp3
+11,Я чувствую себя удовлетворенным своими результатами,I feel satisfied with my results,[aɪ fi:l ˈsætɪsfaɪd wɪð maɪ rɪˈzʌlts],A2_L102_S11.mp3
+12,Она действительно разочарована этой покупкой,She's really disappointed about this purchase,[ʃi:z ˈrɪəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ðɪs ˈpɜ:ʧəs],A2_L102_S12.mp3
+13,Я действительно рад этому,I'm really happy about it,[aɪm ˈrɪəli ˈhæpi əˈbaʊt ɪt],A2_L102_S13.mp3
+14,Это типично для американцев,It's typical of Americans,[ɪts ˈtɪpɪkl ɒv əˈmerɪkənz],A2_L102_S14.mp3
+15,Он действительно без ума от бейсбола,He is really crazy about baseball,[hi: ɪz ˈrɪəli ˈkreɪzi əˈbaʊt ˈbeɪsbɔ:l],A2_L102_S15.mp3
+16,Она увлекается музыкой,She is keen on music,[ʃi: ɪz ki:n ɒn ˈmju:zɪk],A2_L102_S16.mp3
+17,Ты действительно устал от этого?,Are you really tired of it?,[ɑ: ju: ˈrɪəli ˈtaɪəd ɒv ɪt?],A2_L102_S17.mp3
+18,Я не устал,I'm not tired,[aɪm nɒt ˈtaɪəd],A2_L102_S18.mp3
+19,Ты рад этому?,Are you happy about it?,[ɑ: ju: ˈhæpi əˈbaʊt ɪt?],A2_L102_S19.mp3
+20,Она без ума от него,She's crazy about him,[ʃi:z ˈkreɪzi əˈbaʊt hɪm],A2_L102_S20.mp3
+21,Я горжусь собой,I'm proud of myself,[aɪm praʊd ɒv maɪˈself],A2_L102_S21.mp3
+22,Я просто немного устал,I'm tired just a little bit,[aɪm ˈtaɪəd ʤʌst ə ˈlɪtl bɪt],A2_L102_S22.mp3
+23,Он действительно рад своим результатам,He's really happy about his results,[hi:z ˈrɪəli ˈhæpi əˈbaʊt hɪz rɪˈzʌlts],A2_L102_S23.mp3
+24,Ты удовлетворен своим результатом?,Do you feel satisfied with your result?,[du: ju: fi:l ˈsætɪsfaɪd wɪð jɔ: rɪˈzʌlt?],A2_L102_S24.mp3
+25,Почему ты был так разочарован?,Why were you so disappointed?,[waɪ wɜ: ju: səʊ ˌdɪsəˈpɔɪntɪd?],A2_L102_S25.mp3
+26,Она без ума от этого певца,She's crazy about this singer,[ʃi:z ˈkreɪzi əˈbaʊt ðɪs ˈsɪŋə],A2_L102_S26.mp3
+27,Я был очень разочарован своими результатами,I was very disappointed about my results,[aɪ wɒz ˈveri ˌdɪsəˈpɔɪntɪd əˈbaʊt maɪ rɪˈzʌlts],A2_L102_S27.mp3
+28,Это поведение не типично для него,This behaviour isn't typical of him,[ðɪs bɪˈheɪvjər ˈɪznt ˈtɪpɪkl ɒv hɪm],A2_L102_S28.mp3
+29,Ты был действительно разочарован этим?,Were you really disappointed about it?,[wɜ: ju: ˈrɪəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ɪt?],A2_L102_S29.mp3
+30,Почему ты так устал?,Why are you so tired?,[waɪ ɑ: ju: səʊ ˈtaɪəd?],A2_L102_S30.mp3
+31,Она очень увлекается теннисом,She's very keen on tennis,[ʃi:z ˈveri ki:n ɒn ˈtenɪs],A2_L102_S31.mp3
+32,Я не заинтересован в этом,I'm not interested in it,[aɪm nɒt ˈɪntrɪstɪd ɪn ɪt],A2_L102_S32.mp3
+33,Она действительно без ума от музыки,She's really crazy about music,[ʃi:z ˈrɪəli ˈkreɪzi əˈbaʊt ˈmju:zɪk],A2_L102_S33.mp3
+34,Он увлекается футболом,He's keen on football,[hi:z ki:n ɒn ˈfʊtbɔ:l],A2_L102_S34.mp3
+35,Это очень типично для него,It's very typical of him,[ɪts ˈveri ˈtɪpɪkl ɒv hɪm],A2_L102_S35.mp3
+36,Я был действительно разочарован этим решением,I was really disappointed about this decision,[aɪ wɒz ˈrɪəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ðɪs dɪˈsɪʒən],A2_L102_S36.mp3
+37,Ты удовлетворен своими результатами?,Are you satisfied with your results?,[ɑ: ju: ˈsætɪsfaɪd wɪð jɔ: rɪˈzʌlts?],A2_L102_S37.mp3
+38,Я был очень разочарован этим,I was very disappointed about it,[aɪ wɒz ˈveri ˌdɪsəˈpɔɪntɪd əˈbaʊt ɪt],A2_L102_S38.mp3
+39,Он был удивлен ее реакцией?,Was he surprised by her reaction?,[wɒz hi: səˈpraɪzd baɪ hɜ: ri:ˈækʃən?],A2_L102_S39.mp3
+40,Я действительно счастлив за тебя,I'm really happy for you,[aɪm ˈrɪəli ˈhæpi fɔ: ju:],A2_L102_S40.mp3
+41,Я действительно разочарован этой покупкой,I'm really disappointed about this purchase,[aɪm ˈrɪəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ðɪs ˈpɜ:ʧəs],A2_L102_S41.mp3
+42,Он очень сильно отличается от своего брата,He's very different from his brother,[hi:z ˈveri ˈdɪfrənt frɒm hɪz ˈbrʌðə],A2_L102_S42.mp3
+43,Он полностью удовлетворен качеством этого продукта,He's fully satisfied with the quality of this product,[hi:z ˈfʊli ˈsætɪsfaɪd wɪð ðə ˈkwɒlɪti ɒv ðɪs ˈprɒdʌkt],A2_L102_S43.mp3
+44,"Очевидно, она была очень разочарована результатами конкурса","Obviously, she was very disappointed by the results of the competition","[ˈɒbvɪəsli, ʃi: wɒz ˈveri ˌdɪsəˈpɔɪntɪd baɪ ðə rɪˈzʌlts ɒv ðə ˌkɒmpɪˈtɪʃən]",A2_L102_S44.mp3
+45,"Большинство людей говорят, что американский английский только немного отличается от британского английского",Most people say that American English differs from British English only a little,[məʊst ˈpi:pl seɪ ðæt əˈmerɪkən ˈɪŋglɪʃ ˈdɪfəz frɒm ˈbrɪtɪʃ ˈɪŋglɪʃ ˈəʊnli ə ˈlɪtl],A2_L102_S45.mp3
+46,Город славится своей ночной жизнью,The city is famous for its nightlife,[ðə ˈsɪti ɪz ˈfeɪməs fɔ: ɪts ˈnaɪtlaɪf],A2_L102_S46.mp3
+47,Ты заинтересован в шахматах?,Are you interested in chess?,[ɑ: ju: ˈɪntrɪstɪd ɪn ʧes?],A2_L102_S47.mp3
+48,Он был действительно удивлен ее реакцией,He was really surprised by her reaction,[hi: wɒz ˈrɪəli səˈpraɪzd baɪ hɜ: ri:ˈækʃən],A2_L102_S48.mp3
+49,Я был удивлен этими новостями,I was surprised by this news,[aɪ wɒz səˈpraɪzd baɪ ðɪs nju:z],A2_L102_S49.mp3
+50,Они все были шокированы новостями,They were all shocked by the news,[ðeɪ wɜ: ɔ:l ʃɒkt baɪ ðə nju:z],A2_L102_S50.mp3
+51,"Очевидно, он был очень разочарован","Obviously, he was very disappointed","[ˈɒbvɪəsli, hi: wɒz ˈveri ˌdɪsəˈpɔɪntɪd]",A2_L102_S51.mp3
+52,"Он говорит, что он действительно гордится собой",He says that he is really proud of himself,[hi: sez ðæt hi: ɪz ˈrɪəli praʊd ɒv hɪmˈself],A2_L102_S52.mp3
+53,Город славится своими музеями и театрами,The city is famous for its museums and theatres,[ðə ˈsɪti ɪz ˈfeɪməs fɔ: ɪts mju:ˈzɪəmz ænd ˈθɪətəz],A2_L102_S53.mp3
+54,Я был горько разочарован,I was bitterly disappointed,[aɪ wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd],A2_L102_S54.mp3
+55,Он увлекается игрой на гитаре,He's keen on playing the guitar,[hi:z ki:n ɒn ˈpleɪɪŋ ðə gɪˈtɑ:],A2_L102_S55.mp3
+56,Я полностью удовлетворен своим результатом,I'm fully satisfied with my result,[aɪm ˈfʊli ˈsætɪsfaɪd wɪð maɪ rɪˈzʌlt],A2_L102_S56.mp3
+57,Я был действительно шокирован ее словами,I was really shocked by her words,[aɪ wɒz ˈrɪəli ʃɒkt baɪ hɜ: wɜ:dz],A2_L102_S57.mp3
+58,Я был горько разочарован этим,I was bitterly disappointed about it,[aɪ wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ɪt],A2_L102_S58.mp3
+59,Они были очень разочарованы моими результатами,They were very disappointed with my results,[ðeɪ wɜ: ˈveri ˌdɪsəˈpɔɪntɪd wɪð maɪ rɪˈzʌlts],A2_L102_S59.mp3
+60,Почему он был разочарован этим?,Why was he disappointed about it?,[waɪ wɒz hi: ˌdɪsəˈpɔɪntɪd əˈbaʊt ɪt?],A2_L102_S60.mp3
+61,Университет славится качеством образования,The university is famous for the quality of education,[ðə ˌju:nɪˈvɜ:sɪti ɪz ˈfeɪməs fɔ: ðə ˈkwɒlɪti ɒv ˌedju:ˈkeɪʃən],A2_L102_S61.mp3
+62,Этот университет славился своей историей,This university was famous for its history,[ðɪs ˌju:nɪˈvɜ:sɪti wɒz ˈfeɪməs fɔ: ɪts ˈhɪstəri],A2_L102_S62.mp3
+63,Этот город славится музеями и театрами,This city is famous for museums and theatres,[ðɪs ˈsɪti ɪz ˈfeɪməs fɔ: mju:ˈzɪəmz ænd ˈθɪətəz],A2_L102_S63.mp3
+64,"К сожалению, я очень плох в игре на гитаре","Unfortunately, I'm very bad at playing the guitar","[ʌnˈfɔ:ʧnɪtli, aɪm ˈveri bæd æt ˈpleɪɪŋ ðə gɪˈtɑ:]",A2_L102_S64.mp3
+65,"Я знаю, что я очень плох в игре в теннис …………….…................................................... 66. К сожалению, я не так хорош в игре на гитаре …………….…................................................... 67. Я вполне доволен результатом этого экзамена …………….…................................................... 68. Я полностью удовлетворен своими результатами …………….…................................................... 69. Ты удовлетворен результатом этого теста? …………….…................................................... 70. Это очень типично для людей ее поколения …………….…................................................... 71. Это не типично для него …………….…................................................... 72. Это поведение типично для нее? …………….…................................................... 73. Город очень известен своим старым замком …………….…................................................... 74. Та женщина очень известна своим талантом …………….…................................................... 75. Мой родной город славится своей природой …………….…................................................... 76. Ты шокирован этой новостью? …………….…................................................... 8 77. Я совсем не был шокирован этой новостью …………….…................................................... 78. Эта новость так сильно меня шокировала …………….…................................................... 79. Я в восторге от той вечеринки …………….…................................................... 80. Он в восторге от твоего предложения …………….…................................................... 81. Он был в восторге от вечеринки? …………….…................................................... 82. Американский английский отличается от британского английского? …………….…................................................... 83. Эти два языка отличаются друг от друга? …………….…................................................... 84. Британский английский отличается от американского английского …………….…................................................... 85. Мы все были шокированы его внезапной смертью …………….…................................................... 86. Я очень шокирован его ранней смертью …………….…................................................... 87. Они шокированы твоим решением …………….…................................................... 88. Я очень рад этой новости …………….…................................................... 9 89. Он был горько разочарован результатами этого теста …………….…................................................... 90. Некоторые люди говорят, что американский английский …………….…................................................... только немного отличается от британского английского …………….…................................................... 91. Все были шокированы этой аварией …………….…................................................... 92. Ты заинтересован в игре в шахматы? …………….…................................................... 93. Ты увлекаешься игрой на гитаре? …………….…................................................... 94. Город знаменит своими ночными клубами …………….…................................................... 95. Я ничего не боюсь …………….…................................................... 96. Мы все знаем, что Англия знаменита своей дождливой погодой …………….…................................................... 97. Я был горько разочарован своими результатами …………….…................................................... 98. Мы были шокированы ее словами …………….…................................................... 99. Я не боюсь ничего …………….…................................................... 10 100. Я удовлетворен результатами теста …………….…................................................... 101. Я был действительно удивлен услышать это …………….…................................................... 102. Этот город известен своей историей …………….…................................................... 11 Ответы 1. Я увлекаюсь футболом",I’m keen on football,[aɪm ki:n ɒn ˈfʊtbɔ:l],A2_L102_S65.mp3
+66,"К сожалению, я не так хорош в игре на гитаре","Unfortunately, I'm not so good at playing the guitar","[ʌnˈfɔ:ʧnɪtli, aɪm nɒt səʊ gʊd æt ˈpleɪɪŋ ðə gɪˈtɑ:]",A2_L102_S66.mp3
+67,Я вполне доволен результатом этого экзамена,I'm quite satisfied with the result of this exam,[aɪm kwaɪt ˈsætɪsfaɪd wɪð ðə rɪˈzʌlt ɒv ðɪs ɪgˈzæm],A2_L102_S67.mp3
+68,Я полностью удовлетворен своими результатами,I'm fully satisfied with my results,[aɪm ˈfʊli ˈsætɪsfaɪd wɪð maɪ rɪˈzʌlts],A2_L102_S68.mp3
+69,Ты удовлетворен результатом этого теста?,Are you satisfied with the result of this test?,[ɑ: ju: ˈsætɪsfaɪd wɪð ðə rɪˈzʌlt ɒv ðɪs test?],A2_L102_S69.mp3
+70,Это очень типично для людей ее поколения,It's very typical of people of her generation,[ɪts ˈveri ˈtɪpɪkl ɒv ˈpi:pl ɒv hɜ: ˌʤenəˈreɪʃən],A2_L102_S70.mp3
+71,Это не типично для него,It's not typical of him,[ɪts nɒt ˈtɪpɪkl ɒv hɪm],A2_L102_S71.mp3
+72,Это поведение типично для нее?,Is this behaviour typical of her?,[ɪz ðɪs bɪˈheɪvjə ˈtɪpɪkl ɒv hɜ:?],A2_L102_S72.mp3
+73,Город очень известен своим старым замком,The town is very famous for its old castle,[ðə taʊn ɪz ˈveri ˈfeɪməs fɔ: ɪts əʊld ˈkɑ:sl],A2_L102_S73.mp3
+74,Та женщина очень известна своим талантом,That woman is very famous for her talent,[ðæt ˈwʊmən ɪz ˈveri ˈfeɪməs fɔ: hɜ: ˈtælənt],A2_L102_S74.mp3
+75,Мой родной город славится своей природой,My own town is famous for its nature,[maɪ əʊn taʊn ɪz ˈfeɪməs fɔ: ɪts ˈneɪʧə],A2_L102_S75.mp3
+76,Ты шокирован этой новостью?,Are you shocked by this news?,[ɑ: ju: ʃɒkt baɪ ðɪs nju:z?],A2_L102_S76.mp3
+77,Я совсем не был шокирован этой новостью,I wasn't shocked by this news at all,[aɪ wɒznt ʃɒkt baɪ ðɪs nju:z æt ɔ:l],A2_L102_S77.mp3
+78,Эта новость так сильно меня шокировала,This news shocked me so much,[ðɪs nju:z ʃɒkt mi: səʊ mʌʧ],A2_L102_S78.mp3
+79,Я в восторге от той вечеринки,I'm excited about that party,[aɪm ɪkˈsaɪtɪd əˈbaʊt ðæt ˈpɑ:ti],A2_L102_S79.mp3
+80,Он в восторге от твоего предложения,He's very excited about your offer,[hi:z ˈveri ɪkˈsaɪtɪd əˈbaʊt jɔ: ˈɒfə],A2_L102_S80.mp3
+81,Он был в восторге от вечеринки?,Was he excited about the party?,[wɒz hi: ɪkˈsaɪtɪd əˈbaʊt ðə ˈpɑ:ti?],A2_L102_S81.mp3
+82,Американский английский отличается от британского английского?,Is American English different from British English?,[ɪz əˈmerɪkən ˈɪŋglɪʃ ˈdɪfrənt frɒm ˈbrɪtɪʃ ˈɪŋglɪʃ?],A2_L102_S82.mp3
+83,Эти два языка отличаются друг от друга?,Are these two languages different from each other?,[ɑ: ði:z tu: ˈlæŋgwɪʤɪz ˈdɪfrənt frɒm i:ʧ ˈʌðə?],A2_L102_S83.mp3
+84,Британский английский отличается от американского английского,British English is different from American English,[ˈbrɪtɪʃ ˈɪŋglɪʃ ɪz ˈdɪfrənt frɒm əˈmerɪkən ˈɪŋglɪʃ],A2_L102_S84.mp3
+85,Мы все были шокированы его внезапной смертью,We were all shocked by his sudden death,[wi: wɜ: ɔ:l ʃɒkt baɪ hɪz ˈsʌdn deθ],A2_L102_S85.mp3
+86,Я очень шокирован его ранней смертью,I am very shocked by his early death,[aɪ æm ˈveri ʃɒkt baɪ hɪz ˈɜ:li deθ],A2_L102_S86.mp3
+87,Они шокированы твоим решением,They are shocked by your decision,[ðeɪ ɑ: ʃɒkt baɪ jɔ: dɪˈsɪʒən],A2_L102_S87.mp3
+88,Я очень рад этой новости,I'm very excited about this news,[aɪm ˈveri ɪkˈsaɪtɪd əˈbaʊt ðɪs nju:z],A2_L102_S88.mp3
+89,Он был горько разочарован результатами этого теста,He was bitterly disappointed about the results of this test,[hi: wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd əˈbaʊt ðə rɪˈzʌlts ɒv ðɪs test],A2_L102_S89.mp3
+90,"Некоторые люди говорят, что американский английский только немного отличается от британского английского",Some people say that American English differs from British English only a bit,[sʌm ˈpi:pl seɪ ðæt əˈmerɪkən ˈɪŋglɪʃ ˈdɪfəz frɒm ˈbrɪtɪʃ ˈɪŋglɪʃ ˈəʊnli ə bɪt],A2_L102_S90.mp3
+91,Все были шокированы этой аварией,Everyone was shocked by that accident,[ˈevrɪwʌn wɒz ʃɒkt baɪ ðæt ˈæksɪdənt],A2_L102_S91.mp3
+92,Ты заинтересован в игре в шахматы?,Are you interested in playing chess?,[ɑ: ju: ˈɪntrɪstɪd ɪn ˈpleɪɪŋ ʧes?],A2_L102_S92.mp3
+93,Ты увлекаешься игрой на гитаре?,Are you keen on playing the guitar?,[ɑ: ju: ki:n ɒn ˈpleɪɪŋ ðə gɪˈtɑ:?],A2_L102_S93.mp3
+94,Город знаменит своими ночными клубами,The city is famous for its nightclubs,[ðə ˈsɪti ɪz ˈfeɪməs fɔ: ɪts ˈnaɪtklʌbz],A2_L102_S94.mp3
+95,Я ничего не боюсь,I'm not afraid of anything,[aɪm nɒt əˈfreɪd ɒv ˈenɪθɪŋ],A2_L102_S95.mp3
+96,"Мы все знаем, что Англия знаменита своей дождливой погодой",We all know that England is famous for its rainy weather,[wi: ɔ:l nəʊ ðæt ˈɪŋglənd ɪz ˈfeɪməs fɔ: ɪts ˈreɪni ˈweðə],A2_L102_S96.mp3
+97,Я был горько разочарован своими результатами,I was bitterly disappointed about my results,[aɪ wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd əˈbaʊt maɪ rɪˈzʌlts],A2_L102_S97.mp3
+98,Мы были шокированы ее словами,We were shocked by her words,[wi: wɜ: ʃɒkt baɪ hɜ: wɜ:dz],A2_L102_S98.mp3
+99,Я не боюсь ничего,I'm afraid of nothing,[aɪm əˈfreɪd ɒv ˈnʌθɪŋ],A2_L102_S99.mp3
+100,Я удовлетворен результатами теста,I'm satisfied with the results of the test,[aɪm ˈsætɪsfaɪd wɪð ðə rɪˈzʌlts ɒv ðə test],A2_L102_S100.mp3
+101,Я был действительно удивлен услышать это,I was really surprised to hear it,[aɪ wɒz ˈrɪəli səˈpraɪzd tu: hɪər ɪt],A2_L102_S101.mp3
+102,Этот город известен своей историей,This city is famous for its history,[ðɪs ˈsɪti ɪz ˈfeɪməs fɔ: ɪts ˈhɪstəri],A2_L102_S102.mp3

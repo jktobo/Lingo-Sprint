@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Чтение книг является моим хобби,Reading books is my hobby,[ˈri:dɪŋ bʊks ɪz maɪ ˈhɒbi],B1_L178_S2.mp3
+3,Я действительно рад видеть тебя,I am really glad to see you,[aɪ æm ˈrɪəli glæd tu: si: ju:],B1_L178_S3.mp3
+4,Я попросил ее сделать это,I asked her to do it,[aɪ ɑ:skt hɜ: tu: du: ɪt],B1_L178_S4.mp3
+5,Изучение английского языка кажется очень полезным времяпрепровождением,Learning English seems a very useful pastime,[ˈlɜ:nɪŋ ˈɪŋglɪʃ si:mz ə ˈveri ˈju:sfəl ˈpɑ:staɪm],B1_L178_S5.mp3
+6,Моя мечта знать хотя бы три иностранных языка,My dream is to know at least three foreign languages,[maɪ dri:m ɪz tu: nəʊ æt li:st θri: ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L178_S6.mp3
+7,Зарабатывать много денег - одно из его мечтаний,Earning lots of money is one of his dreams,[ˈɜ:nɪŋ lɒts ɒv ˈmʌni ɪz wʌn ɒv hɪz dri:mz],B1_L178_S7.mp3
+8,"Ты можешь сказать мне, когда тебе звонить?",Can you tell me when to call you?,[kæn ju: tel mi: wen tu: kɔ:l ju:?],B1_L178_S8.mp3
+9,Я хочу знать по крайней мере два иностранных языка,I want to know at least two foreign languages,[aɪ wɒnt tu: nəʊ æt li:st tu: ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L178_S9.mp3
+10,Часто бывает трудно понимать английский,It is often difficult to understand English,[ɪt ɪz ˈɒfn ˈdɪfɪkəlt tu: ˌʌndəˈstænd ˈɪŋglɪʃ],B1_L178_S10.mp3
+11,Я действительно рад тебя видеть,I am really glad to see you,[aɪ æm ˈrɪəli glæd tu: si: ju:],B1_L178_S11.mp3
+12,"Он не знает, как открыть дверь",He doesn't know how to open the door,[hi: dʌznt nəʊ haʊ tu: ˈəʊpən ðə dɔ:],B1_L178_S12.mp3
+13,"Я не знаю, где найти эти файлы",I don't know where to find these files,[aɪ dəʊnt nəʊ weə tu: faɪnd ði:z faɪlz],B1_L178_S13.mp3
+14,"Я могу слушать эти видео, занимаясь другими вещами",I can listen to these videos doing other things,[aɪ kæn ˈlɪsn tu: ði:z ˈvɪdɪəʊz ˈdu:ɪŋ ˈʌðə θɪŋz],B1_L178_S14.mp3
+15,"Он остановился, чтобы сделать звонок",He stopped to make a phone call,[hi: stɒpt tu: meɪk ə fəʊn kɔ:l],B1_L178_S15.mp3
+16,"Это очень легко сказать, но это не так легко сделать",It's very easy to say it but it isn't so easy to do it,[ɪts ˈveri ˈi:zi tu: seɪ ɪt bʌt ɪt ˈɪznt səʊ ˈi:zi tu: du: ɪt],B1_L178_S16.mp3
+17,Чтение книг часто кажется скучным,Reading books often seems boring,[ˈri:dɪŋ bʊks ˈɒfn si:mz ˈbɔ:rɪŋ],B1_L178_S17.mp3
+18,Иметь много времени - одно из моих самых больших мечтаний,Having plenty of time is one of my biggest dreams,[ˈhævɪŋ ˈplenti ɒv taɪm ɪz wʌn ɒv maɪ ˈbɪgɪst dri:mz],B1_L178_S18.mp3
+19,Изучение иностранных языков кажется очень интересным,Learning foreign languages seems very interesting,[ˈlɜ:nɪŋ ˈfɒrɪn ˈlæŋgwɪʤɪz si:mz ˈveri ˈɪntrɪstɪŋ],B1_L178_S19.mp3
+20,"Я звоню тебе, чтобы поговорить об этом",I'm calling you to talk about it,[aɪm ˈkɔ:lɪŋ ju: tu: tɔ:k əˈbaʊt ɪt],B1_L178_S20.mp3
+21,Я с нетерпением жду встречи с тобой снова,I look forward to meeting you again,[aɪ lʊk ˈfɔ:wəd tu: ˈmi:tɪŋ ju: əˈgen],B1_L178_S21.mp3
+22,Это была хорошая идея сделать это,It was a good idea to do it,[ɪt wɒz ə gʊd aɪˈdɪə tu: du: ɪt],B1_L178_S22.mp3
+23,"Я остановился, чтобы сделать звонок",I stopped to make a call,[aɪ stɒpt tu: meɪk ə kɔ:l],B1_L178_S23.mp3
+24,Она любит бегать трусцой,She likes going jogging,[ʃi: laɪks ˈgəʊɪŋ ˈʤɒgɪŋ],B1_L178_S24.mp3
+25,Так чудесно видеть тебя снова,It's so wonderful to see you again,[ɪts səʊ ˈwʌndəfəl tu: si: ju: əˈgen],B1_L178_S25.mp3
+26,Чрезвычайно важно помнить это,It's extremely important to remember it,[ɪts ɪksˈtri:mli ɪmˈpɔ:tənt tu: rɪˈmembər ɪt],B1_L178_S26.mp3
+27,Я попросил ее не делать этого,I asked her not to do it,[aɪ ɑ:skt hɜ: nɒt tu: du: ɪt],B1_L178_S27.mp3
+28,Трудно ответить на этот вопрос прямо сейчас,It's difficult to answer this question right now,[ɪts ˈdɪfɪkəlt tu: ˈɑ:nsə ðɪs ˈkwesʧən raɪt naʊ],B1_L178_S28.mp3
+29,Тебе нравится ходить на рыбалку?,Do you like going fishing?,[du: ju: laɪk ˈgəʊɪŋ ˈfɪʃɪŋ?],B1_L178_S29.mp3
+30,Жить одному - это не для каждого,Living alone isn't for everyone,[ˈlɪvɪŋ əˈləʊn ˈɪznt fɔ:r ˈevrɪwʌn],B1_L178_S30.mp3
+31,Стать миллионером - это его мечта,Becoming a millionaire is his dream,[bɪˈkʌmɪŋ ə ˌmɪljəˈneər ɪz hɪz dri:m],B1_L178_S31.mp3
+32,Это было мудрое решение сделать это заранее,It was a wise decision to do it beforehand,[ɪt wɒz ə waɪz dɪˈsɪʒən tu: du: ɪt bɪˈfɔ:hænd],B1_L178_S32.mp3
+33,Моя мечта - иметь много времени,My dream is to have plenty of time,[maɪ dri:m ɪz tu: hæv ˈplenti ɒv taɪm],B1_L178_S33.mp3
+34,Его мечта - стать успешным и независимым,His dream is to become successful and independent,[hɪz dri:m ɪz tu: bɪˈkʌm səkˈsesfəl ænd ˌɪndɪˈpendənt],B1_L178_S34.mp3
+35,Мне не нравится ходить по магазинам,I don't like going shopping,[aɪ dəʊnt laɪk ˈgəʊɪŋ ˈʃɒpɪŋ],B1_L178_S35.mp3
+36,Изучение английского языка - очень полезное времяпровождение,Learning English is a very useful pastime,[ˈlɜ:nɪŋ ˈɪŋglɪʃ ɪz ə ˈveri ˈju:sfəl ˈpɑ:staɪm],B1_L178_S36.mp3
+37,Его мечта - заработать множество денег,His dream is to earn plenty of money,[hɪz dri:m ɪz tu: ɜ:n ˈplenti ɒv ˈmʌni],B1_L178_S37.mp3
+38,"Я пришел сюда, чтобы увидеть тебя",I came here to see you,[aɪ keɪm hɪə tu: si: ju:],B1_L178_S38.mp3
+39,Он часто катается на лыжах,He often goes skiing,[hi: ˈɒfn gəʊz ˈski:ɪŋ],B1_L178_S39.mp3
+40,Я мечтаю достичь самого высокого уровня в английском,It's my dream to reach the highest level in English,[ɪts maɪ dri:m tu: ri:ʧ ðə ˈhaɪɪst ˈlevl ɪn ˈɪŋglɪʃ],B1_L178_S40.mp3
+41,Он часто ходит плавать,He often goes swimming,[hi: ˈɒfn gəʊz ˈswɪmɪŋ],B1_L178_S41.mp3
+42,"Я не уверен, как это сделать лучше",I'm not sure how to do it better,[aɪm nɒt ʃʊə haʊ tu: du: ɪt ˈbetə],B1_L178_S42.mp3
+43,Это моя самая большая мечта - посетить это место,It's my greatest dream to visit this place,[ɪts maɪ ˈgreɪtɪst dri:m tu: ˈvɪzɪt ðɪs pleɪs],B1_L178_S43.mp3
+44,Приятно видеть тебя снова,It's nice to see you again,[ɪts naɪs tu: si: ju: əˈgen],B1_L178_S44.mp3
+45,"Часто говорят, что ходьба - это хорошее упражнение",It is often said that walking is a good exercise,[ɪt ɪz ˈɒfn sed ðæt ˈwɔ:kɪŋ ɪz ə gʊd ˈeksəsaɪz],B1_L178_S45.mp3
+46,"Имея такую статистику, мы можем понять гораздо больше",Having these statistics we can understand much more,[ˈhævɪŋ ði:z stəˈtɪstɪks wi: kæn ˌʌndəˈstænd mʌʧ mɔ:],B1_L178_S46.mp3
+47,Не так легко создать прибыльный бизнес в наше время,It isn't so easy to create a profitable business nowadays,[ɪt ˈɪznt səʊ ˈi:zi tu: kri:ˈeɪt ə ˈprɒfɪtəbl ˈbɪznɪs ˈnaʊədeɪz],B1_L178_S47.mp3
+48,"Она слушает музыку, одновременно занимаясь другими делами",She listens to music doing other things at the same time,[ʃi: ˈlɪsnz tu: ˈmju:zɪk ˈdu:ɪŋ ˈʌðə θɪŋz æt ðə seɪm taɪm],B1_L178_S48.mp3
+49,"Нам нужно взвесить все эти преимущества и недостатки, прежде чем принять правильное решение",We need to weigh all these advantages and disadvantages before making the right decision,[wi: ni:d tu: weɪ ɔ:l ði:z ədˈvɑ:ntɪʤɪz ænd ˌdɪsədˈvɑ:ntɪʤɪz bɪˈfɔ: ˈmeɪkɪŋ ðə raɪt dɪˈsɪʒən],B1_L178_S49.mp3
+50,"Я очень интенсивно изучаю английский, чтобы как можно скорее достичь следующего уровня",I learn English very intensively to reach the next level as soon as possible,[aɪ lɜ:n ˈɪŋglɪʃ ˈveri ɪnˈtensɪvli tu: ri:ʧ ðə nekst ˈlevl æz su:n æz ˈpɒsəbl],B1_L178_S50.mp3
+51,"Тебе нужно иметь достаточно опыта, прежде чем начать свой собственный бизнес",You need to have enough experience before starting your own business,[ju: ni:d tu: hæv ɪˈnʌf ɪksˈpɪərɪəns bɪˈfɔ: ˈstɑ:tɪŋ jɔ: əʊn ˈbɪznɪs],B1_L178_S51.mp3
+52,Мне нужно все проверить перед выходом,I need to check everything before going out,[aɪ ni:d tu: ʧek ˈevrɪθɪŋ bɪˈfɔ: ˈgəʊɪŋ aʊt],B1_L178_S52.mp3
+53,Говорить по-английски кажется очень трудным только в начале,Speaking English seems very difficult only in the beginning,[ˈspi:kɪŋ ˈɪŋglɪʃ si:mz ˈveri ˈdɪfɪkəlt ˈəʊnli ɪn ðə bɪˈgɪnɪŋ],B1_L178_S53.mp3
+54,Он хочет продать свой дом перед переездом в другую страну,He wants to sell his house before moving to another country,[hi: wɒnts tu: sel hɪz haʊs bɪˈfɔ: ˈmu:vɪŋ tu: əˈnʌðə ˈkʌntri],B1_L178_S54.mp3
+55,Не так легко поступить в престижный университет,It isn't so easy to enter a prestigious university,[ɪt ˈɪznt səʊ ˈi:zi tu: ˈentər ə preˈstɪʤəs ˌju:nɪˈvɜ:sɪti],B1_L178_S55.mp3
+56,"Ее зарплата не достаточно велика, чтобы купить квартиру",Her salary isn't big enough to buy an apartment,[hɜ: ˈsæləri ˈɪznt bɪg ɪˈnʌf tu: baɪ ən əˈpɑ:tmənt],B1_L178_S56.mp3
+57,Очень эффективно изучать английский язык с помощью этого метода,It's very effective to learn English with the help of this method,[ɪts ˈveri ɪˈfektɪv tu: lɜ:n ˈɪŋglɪʃ wɪð ðə help ɒv ðɪs ˈmeθəd],B1_L178_S57.mp3
+58,Никогда не слишком поздно изменить свою жизнь,It is never too late to change your life,[ɪt ɪz ˈnevə tu: leɪt tu: ʧeɪnʤ jɔ: laɪf],B1_L178_S58.mp3
+59,Я хочу знать английский язык как образованный носитель языка,I want to know English like an educated native speaker,[aɪ wɒnt tu: nəʊ ˈɪŋglɪʃ laɪk ən ˈedju:keɪtɪd ˈneɪtɪv ˈspi:kə],B1_L178_S59.mp3
+60,Это был настоящий сюрприз увидеть ее там,It was a real surprise to see her there,[ɪt wɒz ə rɪəl səˈpraɪz tu: si: hɜ: ðeə],B1_L178_S60.mp3
+61,Это был настоящий сюрприз встретить ее снова,It was a real surprise to meet her again,[ɪt wɒz ə rɪəl səˈpraɪz tu: mi:t hɜ:r əˈgen],B1_L178_S61.mp3
+62,Это был сюрприз получить эту посылку,It was a surprise to get this parcel,[ɪt wɒz ə səˈpraɪz tu: get ðɪs ˈpɑ:sl],B1_L178_S62.mp3
+63,Прогулка по парку помогает мне расслабиться,Walking in the park helps me relax,[ˈwɔ:kɪŋ ɪn ðə pɑ:k helps mi: rɪˈlæks],B1_L178_S63.mp3
+64,Чтение книг помогает мне расслабиться,Reading books helps me relax,[ˈri:dɪŋ bʊks helps mi: rɪˈlæks],B1_L178_S64.mp3
+65,Купание в море помогает мне расслабиться,Swimming in the sea helps me relax,[ˈswɪmɪŋ ɪn ðə si: helps mi: rɪˈlæks],B1_L178_S65.mp3
+66,Поступить в престижный университет не так легко,Entering a prestigious university isn't so easy,[ˈentərɪŋ ə preˈstɪʤəs ˌju:nɪˈvɜ:sɪti ˈɪznt səʊ ˈi:zi],B1_L178_S66.mp3
+67,Поступить в этот университет не так просто для меня,Entering this university isn't so easy for me,[ˈentərɪŋ ðɪs ˌju:nɪˈvɜ:sɪti ˈɪznt səʊ ˈi:zi fɔ: mi:],B1_L178_S67.mp3
+68,Поступить в престижный университет было совсем не просто,Entering a prestigious university wasn't easy at all,[ˈentərɪŋ ə preˈstɪʤəs ˌju:nɪˈvɜ:sɪti wɒznt ˈi:zi æt ɔ:l],B1_L178_S68.mp3
+69,"Что ты собираешься делать после окончания школы? …………….…................................................... 70. Что ты планируешь делать после окончания университета? …………….…................................................... 71. Что ты собираешься делать после того, как покинешь эту страну? …………….…................................................... 72. Его доход не достаточно велик, чтобы купить новый дом …………….…................................................... 73. Ее зарплата не достаточно велика, чтобы купить новый дом …………….…................................................... 74. Его доход не достаточно велик, чтобы снять эту просторную квартиру …………….…................................................... 75. Я часто слышу, что жить в Америке очень дорого …………….…................................................... 76. Я думаю, что жить в Америке действительно дорого …………….…................................................... 77. Говорят, что жить в Европе очень дорого …………….…................................................... 78. Очень эффективно изучать английский, используя этот метод …………….…................................................... 79. Очень эффективно изучать английский с помощью того метода …………….…................................................... 80. Очень эффективно изучать английский, просматривая эти видео уроки …………….…................................................... 81. Было невозможно сделать это …………….…................................................... 8 82. Это невозможно понять …………….…................................................... 83. Было невозможно смотреть этот фильм …………….…................................................... 84. Он слишком молод, чтобы иметь машину …………….…................................................... 85. Он очень молод, чтобы водить машину …………….…................................................... 86. Они слишком молоды, чтобы жениться …………….…................................................... 87. Никогда не поздно учиться …………….…................................................... 88. Никогда не поздно учиться чему-то новому …………….…................................................... 89. Он еще не бросил курить, но действительно хочет этого …………….…................................................... 90. Прогулки по парку и вдыхание свежего воздуха …………….…................................................... обычно улучшают мое настроение …………….…................................................... 91. Адвокат посоветовал нам очень внимательно прочитать договор …………….…................................................... 92. Что ты собираешься делать после окончания университета? …………….…................................................... 93. Создать прибыльный бизнес не так легко в наши дни …………….…................................................... 9 94. Курс не был достаточно подробным, чтобы понять все …………….…................................................... 95. Тебе нужно подумать об этом еще раз, прежде чем принимать решение …………….…................................................... 96. Я хочу сказать, что так замечательно видеть тебя здесь …………….…................................................... 97. Не было возможно рассчитать все очень точно …………….…................................................... 98. Я хочу говорить по-английски, как образованный носитель языка …………….…................................................... 99. Курса было достаточно, чтобы понять основы английского языка …………….…................................................... 100. Она хочет продать свою квартиру перед переездом за границу …………….…................................................... 101. Проверь все перед выходом …………….…................................................... 102. Устройство было недостаточно хорошее, …………….…................................................... чтобы использовать его профессионально …………….…................................................... 103. Мы можем сделать гораздо больше, имея эту статистику …………….…................................................... 10 Ответы 1. Изучение английского языка кажется очень полезным",Learning English seems very useful,[ˈlɜ:nɪŋ ˈɪŋglɪʃ si:mz ˈveri ˈju:sfəl],B1_L178_S69.mp3
+70,Что ты планируешь делать после окончания университета?,What are you planning to do after graduating from university?,[wɒt ɑ: ju: ˈplænɪŋ tu: du: ˈɑ:ftə ˈgrædjʊeɪtɪŋ frɒm ˌju:nɪˈvɜ:sɪti?],B1_L178_S70.mp3
+71,"Что ты собираешься делать после того, как покинешь эту страну?",What are you going to do after leaving this country?,[wɒt ɑ: ju: ˈgəʊɪŋ tu: du: ˈɑ:ftə ˈli:vɪŋ ðɪs ˈkʌntri?],B1_L178_S71.mp3
+72,"Его доход не достаточно велик, чтобы купить новый дом",His income isn't big enough to buy a new house,[hɪz ˈɪnkʌm ˈɪznt bɪg ɪˈnʌf tu: baɪ ə nju: haʊs],B1_L178_S72.mp3
+73,"Ее зарплата не достаточно велика, чтобы купить новый дом",Her salary isn't big enough to buy a new house,[hɜ: ˈsæləri ˈɪznt bɪg ɪˈnʌf tu: baɪ ə nju: haʊs],B1_L178_S73.mp3
+74,"Его доход не достаточно велик, чтобы снять эту просторную квартиру",His income isn't big enough to rent this spacious apartment,[hɪz ˈɪnkʌm ˈɪznt bɪg ɪˈnʌf tu: rent ðɪs ˈspeɪʃəs əˈpɑ:tmənt],B1_L178_S74.mp3
+75,"Я часто слышу, что жить в Америке очень дорого",I often hear that living in America is very expensive,[aɪ ˈɒfn hɪə ðæt ˈlɪvɪŋ ɪn əˈmerɪkə ɪz ˈveri ɪksˈpensɪv],B1_L178_S75.mp3
+76,"Я думаю, что жить в Америке действительно дорого",I think that living in America is really expensive,[aɪ θɪŋk ðæt ˈlɪvɪŋ ɪn əˈmerɪkə ɪz ˈrɪəli ɪksˈpensɪv],B1_L178_S76.mp3
+77,"Говорят, что жить в Европе очень дорого",It is said that living in Europe is very expensive,[ɪt ɪz sed ðæt ˈlɪvɪŋ ɪn ˈjʊərəp ɪz ˈveri ɪksˈpensɪv],B1_L178_S77.mp3
+78,"Очень эффективно изучать английский, используя этот метод",It's very effective to learn English using this method,[ɪts ˈveri ɪˈfektɪv tu: lɜ:n ˈɪŋglɪʃ ˈju:zɪŋ ðɪs ˈmeθəd],B1_L178_S78.mp3
+79,Очень эффективно изучать английский с помощью того метода,It's very effective to learn English with the help of that method,[ɪts ˈveri ɪˈfektɪv tu: lɜ:n ˈɪŋglɪʃ wɪð ðə help ɒv ðæt ˈmeθəd],B1_L178_S79.mp3
+80,"Очень эффективно изучать английский, просматривая эти видео уроки",It's very effective to learn English watching these video lessons,[ɪts ˈveri ɪˈfektɪv tu: lɜ:n ˈɪŋglɪʃ ˈwɒʧɪŋ ði:z ˈvɪdɪəʊ ˈlesnz],B1_L178_S80.mp3
+81,Было невозможно сделать это,It was impossible to do it,[ɪt wɒz ɪmˈpɒsəbl tu: du: ɪt],B1_L178_S81.mp3
+82,Это невозможно понять,It is impossible to understand it,[ɪt ɪz ɪmˈpɒsəbl tu: ˌʌndəˈstænd ɪt],B1_L178_S82.mp3
+83,Было невозможно смотреть этот фильм,It was impossible to watch this movie,[ɪt wɒz ɪmˈpɒsəbl tu: wɒʧ ðɪs ˈmu:vi],B1_L178_S83.mp3
+84,"Он слишком молод, чтобы иметь машину",He is too young to have a car,[hi: ɪz tu: jʌŋ tu: hæv ə kɑ:],B1_L178_S84.mp3
+85,"Он очень молод, чтобы водить машину",He is very young to drive a car,[hi: ɪz ˈveri jʌŋ tu: draɪv ə kɑ:],B1_L178_S85.mp3
+86,"Они слишком молоды, чтобы жениться",They are too young to marry,[ðeɪ ɑ: tu: jʌŋ tu: ˈmæri],B1_L178_S86.mp3
+87,Никогда не поздно учиться,It is never too late to learn,[ɪt ɪz ˈnevə tu: leɪt tu: lɜ:n],B1_L178_S87.mp3
+88,Никогда не поздно учиться чему-то новому,It is never too late to learn something new,[ɪt ɪz ˈnevə tu: leɪt tu: lɜ:n ˈsʌmθɪŋ nju:],B1_L178_S88.mp3
+89,"Он еще не бросил курить, но действительно хочет этого",He hasn't stopped smoking yet but he really wants it,[hi: ˈhæznt stɒpt ˈsməʊkɪŋ jet bʌt hi: ˈrɪəli wɒnts ɪt],B1_L178_S89.mp3
+90,Прогулки по парку и вдыхание свежего воздуха обычно улучшают мое настроение,Walking in the park and breathing fresh air usually improves my mood,[ˈwɔ:kɪŋ ɪn ðə pɑ:k ænd ˈbri:ðɪŋ freʃ eə ˈju:ʒʊəli ɪmˈpru:vz maɪ mu:d],B1_L178_S90.mp3
+91,Адвокат посоветовал нам очень внимательно прочитать договор,The lawyer advised us to read the contract very carefully,[ðə ˈlɔ:jər ədˈvaɪzd ʌs tu: ri:d ðə ˈkɒntrækt ˈveri ˈkeəfli],B1_L178_S91.mp3
+92,Что ты собираешься делать после окончания университета?,What are you going to do after graduating from university?,[wɒt ɑ: ju: ˈgəʊɪŋ tu: du: ˈɑ:ftə ˈgrædjʊeɪtɪŋ frɒm ˌju:nɪˈvɜ:sɪti?],B1_L178_S92.mp3
+93,Создать прибыльный бизнес не так легко в наши дни,Creating a profitable business isn't so easy nowadays,[kri:ˈeɪtɪŋ ə ˈprɒfɪtəbl ˈbɪznɪs ˈɪznt səʊ ˈi:zi ˈnaʊədeɪz],B1_L178_S93.mp3
+94,"Курс не был достаточно подробным, чтобы понять все",The course wasn't detailed enough to understand everything,[ðə kɔ:s wɒznt ˈdi:teɪld ɪˈnʌf tu: ˌʌndəˈstænd ˈevrɪθɪŋ],B1_L178_S94.mp3
+95,"Тебе нужно подумать об этом еще раз, прежде чем принимать решение",You need to think about it one more time before making a decision,[ju: ni:d tu: θɪŋk əˈbaʊt ɪt wʌn mɔ: taɪm bɪˈfɔ: ˈmeɪkɪŋ ə dɪˈsɪʒən],B1_L178_S95.mp3
+96,"Я хочу сказать, что так замечательно видеть тебя здесь",I want to say that it is so wonderful to see you here,[aɪ wɒnt tu: seɪ ðæt ɪt ɪz səʊ ˈwʌndəfəl tu: si: ju: hɪə],B1_L178_S96.mp3
+97,Не было возможно рассчитать все очень точно,It wasn't possible to calculate everything very accurately,[ɪt wɒznt ˈpɒsəbl tu: ˈkælkjʊleɪt ˈevrɪθɪŋ ˈveri ˈækjʊrɪtli],B1_L178_S97.mp3
+98,"Я хочу говорить по-английски, как образованный носитель языка",I want to speak English like an educated native speaker,[aɪ wɒnt tu: spi:k ˈɪŋglɪʃ laɪk ən ˈedju:keɪtɪd ˈneɪtɪv ˈspi:kə],B1_L178_S98.mp3
+99,"Курса было достаточно, чтобы понять основы английского языка",The course was enough to understand the basics of English,[ðə kɔ:s wɒz ɪˈnʌf tu: ˌʌndəˈstænd ðə ˈbeɪsɪks ɒv ˈɪŋglɪʃ],B1_L178_S99.mp3
+100,Она хочет продать свою квартиру перед переездом за границу,She wants to sell her apartment before moving abroad,[ʃi: wɒnts tu: sel hɜ:r əˈpɑ:tmənt bɪˈfɔ: ˈmu:vɪŋ əˈbrɔ:d],B1_L178_S100.mp3
+101,Проверь все перед выходом,Check everything before going out,[ʧek ˈevrɪθɪŋ bɪˈfɔ: ˈgəʊɪŋ aʊt],B1_L178_S101.mp3
+102,"Устройство было недостаточно хорошее, чтобы использовать его профессионально",The device wasn't good enough to use it professionally,[ðə dɪˈvaɪs wɒznt gʊd ɪˈnʌf tu: ju:z ɪt prəˈfeʃnəli],B1_L178_S102.mp3
+103,"Мы можем сделать гораздо больше, имея эту статистику",We can do much more having these statistics,[wi: kæn du: mʌʧ mɔ: ˈhævɪŋ ði:z stəˈtɪstɪks],B1_L178_S103.mp3

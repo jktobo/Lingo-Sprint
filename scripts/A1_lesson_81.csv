@@ -1,0 +1,108 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Они были великими людьми,They were great people,[ðeɪ wɜ: greɪt ˈpi:pl],A1_L81_S2.mp3
+3,Еда была очень вкусной,The food was very tasty,[ðə fu:d wɒz ˈveri ˈteɪsti],A1_L81_S3.mp3
+4,Многие люди были очень голодные,Many people were very hungry,[ˈmeni ˈpi:pl wɜ: ˈveri ˈhʌŋgri],A1_L81_S4.mp3
+5,Я играл в футбол,I played [d] football,[aɪ pleɪd ˈfʊtbɔ:l],A1_L81_S5.mp3
+6,Он пошел домой,He went home,[hi: went həʊm],A1_L81_S6.mp3
+7,Он жил в этом старом доме,He lived [d] in this old house,[hi: lɪvd ɪn ðɪs əʊld haʊs],A1_L81_S7.mp3
+8,Те меры привели к новым конфликтам,Those measures led to new conflicts,[ðəʊz ˈmeʒəz led tu: nju: ˈkɒnflɪkts],A1_L81_S8.mp3
+9,Это привело к новым протестам,It led to new protests,[ɪt led tu: nju: ˈprəʊtests],A1_L81_S9.mp3
+10,Это было очевидно для меня,It was obvious to me,[ɪt wɒz ˈɒbvɪəs tu: mi:],A1_L81_S10.mp3
+11,Они были действительно шокированы,They were really shocked,[ðeɪ wɜ: ˈrɪəli ʃɒkt],A1_L81_S11.mp3
+12,У меня был небольшой перерыв между уроками,I had a short break between the lessons,[aɪ hæd ə ʃɔ:t breɪk bɪˈtwi:n ðə ˈlesnz],A1_L81_S12.mp3
+13,Это была очень популярная песня несколько лет назад,It was a very popular song several years ago,[ɪt wɒz ə ˈveri ˈpɒpjʊlə sɒŋ ˈsevrəl jɪəz əˈgəʊ],A1_L81_S13.mp3
+14,Тренировки были очень интенсивными,The trainings were very intensive,[ðə ˈtreɪnɪŋz wɜ: ˈveri ɪnˈtensɪv],A1_L81_S14.mp3
+15,Та работа требовала большего опыта работы,That job required more work experience,[ðæt ʤɒb rɪˈkwaɪəd mɔ: wɜ:k ɪksˈpɪərɪəns],A1_L81_S15.mp3
+16,Тяжелая работа привела его к успеху,Hard work led him to success,[hɑ:d wɜ:k led hɪm tu: səkˈses],A1_L81_S16.mp3
+17,Это было очень мудрое решение,It was a very wise decision,[ɪt wɒz ə ˈveri waɪz dɪˈsɪʒən],A1_L81_S17.mp3
+18,Она действительно боялась этого,She was really afraid of it,[ʃi: wɒz ˈrɪəli əˈfreɪd ɒv ɪt],A1_L81_S18.mp3
+19,Я отдыхал вечером,I had a rest in the evening,[aɪ hæd ə rest ɪn ði ˈi:vnɪŋ],A1_L81_S19.mp3
+20,Еда была очень вкусной,The food [d] was very tasty,[ðə fu:d wɒz ˈveri ˈteɪsti],A1_L81_S20.mp3
+21,Я написал короткое эссе,I wrote a short essay,[aɪ rəʊt ə ʃɔ:t ˈeseɪ],A1_L81_S21.mp3
+22,Он написал сочинение,He wrote a composition,[hi: rəʊt ə ˌkɒmpəˈzɪʃən],A1_L81_S22.mp3
+23,Тренировка была очень интенсивной,The training was very intensive,[ðə ˈtreɪnɪŋ wɒz ˈveri ɪnˈtensɪv],A1_L81_S23.mp3
+24,Это была долгая история,It was a long story,[ɪt wɒz ə lɒŋ ˈstɔ:ri],A1_L81_S24.mp3
+25,Забор был коричневый,The fence was brown,[ðə fens wɒz braʊn],A1_L81_S25.mp3
+26,Это была правдивая история,It was a true story,[ɪt wɒz ə tru: ˈstɔ:ri],A1_L81_S26.mp3
+27,Я положил это в свою сумку,I put it in my bag,[aɪ pʊt ɪt ɪn maɪ bæg],A1_L81_S27.mp3
+28,Это было великое открытие,It was a great discovery,[ɪt wɒz ə greɪt dɪsˈkʌvəri],A1_L81_S28.mp3
+29,Ее решение было очень мудрым,Her decision was very wise,[hɜ: dɪˈsɪʒən wɒz ˈveri waɪz],A1_L81_S29.mp3
+30,Я был так удивлен,I was so surprised,[aɪ wɒz səʊ səˈpraɪzd],A1_L81_S30.mp3
+31,Клиника была действительно хорошая,The clinic was really good,[ðə ˈklɪnɪk wɒz ˈrɪəli gʊd],A1_L81_S31.mp3
+32,Еда была действительно восхитительной,The food was really amazing,[ðə fu:d wɒz ˈrɪəli əˈmeɪzɪŋ],A1_L81_S32.mp3
+33,Многие люди были очень голодные,Many people were very hungry,[ˈmeni ˈpi:pl wɜ: ˈveri ˈhʌŋgri],A1_L81_S33.mp3
+34,Мальчики были во дворе,The boys were in the yard,[ðə bɔɪz wɜ:r ɪn ðə jɑ:d],A1_L81_S34.mp3
+35,Он сделал великое открытие,He made a great discovery,[hi: meɪd ə greɪt dɪsˈkʌvəri],A1_L81_S35.mp3
+36,Это была удивительная история,It was an amazing story,[ɪt wɒz ən əˈmeɪzɪŋ ˈstɔ:ri],A1_L81_S36.mp3
+37,Качество было очень хорошее,The quality was very good,[ðə ˈkwɒlɪti wɒz ˈveri gʊd],A1_L81_S37.mp3
+38,Еда была вкусная,The food was delicious,[ðə fu:d wɒz dɪˈlɪʃəs],A1_L81_S38.mp3
+39,Кризис был очень серьезный,The crisis was very serious,[ðə ˈkraɪsɪs wɒz ˈveri ˈsɪərɪəs],A1_L81_S39.mp3
+40,Это была настоящая революция в технике,It was a real revolution in technology,[ɪt wɒz ə rɪəl ˌrevəˈlu:ʃən ɪn tekˈnɒləʤi],A1_L81_S40.mp3
+41,У нас был короткий перерыв после урока,We had a short break after the lesson,[wi: hæd ə ʃɔ:t breɪk ˈɑ:ftə ðə ˈlesn],A1_L81_S41.mp3
+42,Он сделал маленькую ошибку,He made a small mistake,[hi: meɪd ə smɔ:l mɪsˈteɪk],A1_L81_S42.mp3
+43,Эта работа требовала больше навыков,This job required more skills,[ðɪs ʤɒb rɪˈkwaɪəd mɔ: skɪlz],A1_L81_S43.mp3
+44,Эти меры привели к новым протестам,These measures led to new protests,[ði:z ˈmeʒəz led tu: nju: ˈprəʊtests],A1_L81_S44.mp3
+45,Коттедж был слишком мал для их семьи,The cottage was too small for their family,[ðə ˈkɒtɪʤ wɒz tu: smɔ:l fɔ: ðeə ˈfæmɪli],A1_L81_S45.mp3
+46,Многие люди жили в очень плохих условиях,Many people lived in very bad conditions,[ˈmeni ˈpi:pl lɪvd ɪn ˈveri bæd kənˈdɪʃənz],A1_L81_S46.mp3
+47,Я сделал все правильно,I did everything correctly,[aɪ dɪd ˈevrɪθɪŋ kəˈrektli],A1_L81_S47.mp3
+48,Мы согласились сделать это,We agreed to do it,[wi: əˈgri:d tu: du: ɪt],A1_L81_S48.mp3
+49,"Я могу сказать, что я чувствовал себя очень комфортно среди носителей языка",I can say that I felt very comfortable among native speakers,[aɪ kæn seɪ ðæt aɪ felt ˈveri ˈkʌmftəbl əˈmʌŋ ˈneɪtɪv ˈspi:kəz],A1_L81_S49.mp3
+50,Эта работа требовала также большего опыта работы и профессиональных навыков,This job required more work experience and professional skills as well,[ðɪs ʤɒb rɪˈkwaɪəd mɔ: wɜ:k ɪksˈpɪərɪəns ænd prəˈfeʃənl skɪlz æz wel],A1_L81_S50.mp3
+51,Это было чрезвычайно сложное упражнение,It was an extremely difficult exercise,[ɪt wɒz ən ɪksˈtri:mli ˈdɪfɪkəlt ˈeksəsaɪz],A1_L81_S51.mp3
+52,Для нас все было очевидно,Everything was obvious to us,[ˈevrɪθɪŋ wɒz ˈɒbvɪəs tu: ʌs],A1_L81_S52.mp3
+53,Я был полностью удовлетворен моими результатами,I was fully satisfied with my results,[aɪ wɒz ˈfʊli ˈsætɪsfaɪd wɪð maɪ rɪˈzʌlts],A1_L81_S53.mp3
+54,Его друг стал американским гражданином в прошлом году,His friend became an American citizen last year,[hɪz frend bɪˈkeɪm ən əˈmerɪkən ˈsɪtɪzn lɑ:st jɪə],A1_L81_S54.mp3
+55,"Мой отец собирал монеты, когда он был молодым",My father collected coins when he was young,[maɪ ˈfɑ:ðə kəˈlektɪd kɔɪnz wen hi: wɒz jʌŋ],A1_L81_S55.mp3
+56,Те меры привели к новым конфликтам и протестам,Those measures led to new conflicts and protests,[ðəʊz ˈmeʒəz led tu: nju: ˈkɒnflɪkts ænd ˈprəʊtests],A1_L81_S56.mp3
+57,Мне удалось сдать этот экзамен,I managed to pass this exam,[aɪ ˈmænɪʤd tu: pɑ:s ðɪs ɪgˈzæm],A1_L81_S57.mp3
+58,"Я могу сказать, что я был полностью удовлетворен качеством этих уроков",I can say that I was fully satisfied with the quality of these lessons,[aɪ kæn seɪ ðæt aɪ wɒz ˈfʊli ˈsætɪsfaɪd wɪð ðə ˈkwɒlɪti ɒv ði:z ˈlesnz],A1_L81_S58.mp3
+59,Качество этих продуктов было очень хорошим,The quality of these products was very good,[ðə ˈkwɒlɪti ɒv ði:z ˈprɒdʌkts wɒz ˈveri gʊd],A1_L81_S59.mp3
+60,Мне удалось сдать тот тест,I managed to pass that test,[aɪ ˈmænɪʤd tu: pɑ:s ðæt test],A1_L81_S60.mp3
+61,Это была очень неприятная вещь,It was a very unpleasant thing,[ɪt wɒz ə ˈveri ʌnˈpleznt θɪŋ],A1_L81_S61.mp3
+62,"Он часто опаздывал, и мне это не нравилось",He was often late and I didn't like it,[hi: wɒz ˈɒfn leɪt ænd aɪ dɪdnt laɪk ɪt],A1_L81_S62.mp3
+63,Я хотел увидеть мир,I wanted to see the world,[aɪ ˈwɒntɪd tu: si: ðə wɜ:ld],A1_L81_S63.mp3
+64,Все было чрезвычайно сложно,Everything was extremely difficult,[ˈevrɪθɪŋ wɒz ɪksˈtri:mli ˈdɪfɪkəlt],A1_L81_S64.mp3
+65,Эти экзамены были чрезвычайно сложными,These exams were extremely difficult,[ði:z ɪgˈzæmz wɜ:r ɪksˈtri:mli ˈdɪfɪkəlt],A1_L81_S65.mp3
+66,Все было действительно сложно,Everything was really difficult,[ˈevrɪθɪŋ wɒz ˈrɪəli ˈdɪfɪkəlt],A1_L81_S66.mp3
+67,"Я знаю, что принял правильное решение",I know that I made the right decision,[aɪ nəʊ ðæt aɪ meɪd ðə raɪt dɪˈsɪʒən],A1_L81_S67.mp3
+68,"Она знает, что приняла правильное решение",She knows that she made the right decision,[ʃi: nəʊz ðæt ʃi: meɪd ðə raɪt dɪˈsɪʒən],A1_L81_S68.mp3
+69,"Я знаю, что он нашел лучшее решение",I know that he found the best solution,[aɪ nəʊ ðæt hi: faʊnd ðə best səˈlu:ʃən],A1_L81_S69.mp3
+70,Это был чрезвычайно полезный урок,It was an extremely useful lesson,[ɪt wɒz ən ɪksˈtri:mli ˈju:sfəl ˈlesn],A1_L81_S70.mp3
+71,Это был очень полезный урок,It was a very useful lesson,[ɪt wɒz ə ˈveri ˈju:sfəl ˈlesn],A1_L81_S71.mp3
+72,"Это был очень полезный курс …………….…................................................... 73. Все было так необычно …………….…................................................... 74. Все было так обычно …………….…................................................... 75. Все было необычно …………….…................................................... 76. Я знаю, что мне действительно повезло …………….…................................................... 77. Я знаю, что мне очень повезло …………….…................................................... 78. Я знаю, что им очень повезло …………….…................................................... 79. Это был чрезвычайно длинный курс …………….…................................................... 80. Это был чрезвычайно сложный курс …………….…................................................... 81. Это был очень длинный курс …………….…................................................... 82. Это было очень приятное чувство …………….…................................................... 83. Это очень приятное чувство …………….…................................................... 84. Это было очень хорошее чувство …………….…................................................... 8 85. Коттедж был достаточно большим …………….…................................................... 86. Дом был достаточно большим …………….…................................................... 87. Это здание было достаточно большим …………….…................................................... 88. Я не думаю, что я сделал большую ошибку …………….…................................................... 89. Она не думает, что сделала большую ошибку …………….…................................................... 90. Я не думаю, что я сделал много ошибок …………….…................................................... 91. Все люди в том городе были очень дружелюбные …………….…................................................... 92. Все люди в этом городе были очень дружелюбные …………….…................................................... 93. Многие люди в том городе были очень дружелюбные …………….…................................................... 94. Одно из этих мест действительно впечатлило меня …………….…................................................... 95. Комната была достаточно большая …………….…................................................... 96. Это был чрезвычайно важный урок …………….…................................................... 97. Один из моих друзей работал в банке …………….…................................................... 9 98. Он согласился сделать это в конце …………….…................................................... 99. Люди в этом городе были очень дружелюбные …………….…................................................... 100. Я старался не показывать это …………….…................................................... 101. Я был полностью удовлетворен качеством этих продуктов …………….…................................................... 102. Я хотел общаться с иностранцами …………….…................................................... 103. Мне удалось сделать все вовремя …………….…................................................... 104. Я часто опаздывал …………….…................................................... 105. Я верил, что это была правда …………….…................................................... 106. Это было необходимо сделать …………….…................................................... 107. Он стал американским гражданином …………….…................................................... 108. Вам действительно повезло …………….…................................................... 10 Ответы 1. Это была долгая история",It was a long story,[ɪt wɒz ə lɒŋ ˈstɔ:ri],A1_L81_S72.mp3
+73,Все было так необычно,Everything was so unusual,[ˈevrɪθɪŋ wɒz səʊ ʌnˈju:ʒʊəl],A1_L81_S73.mp3
+74,Все было так обычно,Everything was so usual,[ˈevrɪθɪŋ wɒz səʊ ˈju:ʒʊəl],A1_L81_S74.mp3
+75,Все было необычно,Everything was unusual,[ˈevrɪθɪŋ wɒz ʌnˈju:ʒʊəl],A1_L81_S75.mp3
+76,"Я знаю, что мне действительно повезло",I know that I was really lucky,[aɪ nəʊ ðæt aɪ wɒz ˈrɪəli ˈlʌki],A1_L81_S76.mp3
+77,"Я знаю, что мне очень повезло",I know that I was very lucky,[aɪ nəʊ ðæt aɪ wɒz ˈveri ˈlʌki],A1_L81_S77.mp3
+78,"Я знаю, что им очень повезло",I know that they were very lucky,[aɪ nəʊ ðæt ðeɪ wɜ: ˈveri ˈlʌki],A1_L81_S78.mp3
+79,Это был чрезвычайно длинный курс,It was an extremely long course,[ɪt wɒz ən ɪksˈtri:mli lɒŋ kɔ:s],A1_L81_S79.mp3
+80,Это был чрезвычайно сложный курс,It was an extremely difficult course,[ɪt wɒz ən ɪksˈtri:mli ˈdɪfɪkəlt kɔ:s],A1_L81_S80.mp3
+81,Это был очень длинный курс,It was a very long course,[ɪt wɒz ə ˈveri lɒŋ kɔ:s],A1_L81_S81.mp3
+82,Это было очень приятное чувство,It was a very pleasant feeling,[ɪt wɒz ə ˈveri ˈpleznt ˈfi:lɪŋ],A1_L81_S82.mp3
+83,Это очень приятное чувство,It’s a very pleasant feeling,[ɪt ɪz ə ˈveri ˈpleznt ˈfi:lɪŋ],A1_L81_S83.mp3
+84,Это было очень хорошее чувство,It was a very good feeling,[ɪt wɒz ə ˈveri gʊd ˈfi:lɪŋ],A1_L81_S84.mp3
+85,Коттедж был достаточно большим,The cottage was big enough,[ðə ˈkɒtɪʤ wɒz bɪg ɪˈnʌf],A1_L81_S85.mp3
+86,Дом был достаточно большим,The house was big enough,[ðə haʊs wɒz bɪg ɪˈnʌf],A1_L81_S86.mp3
+87,Это здание было достаточно большим,This building was big enough,[ðɪs ˈbɪldɪŋ wɒz bɪg ɪˈnʌf],A1_L81_S87.mp3
+88,"Я не думаю, что я сделал большую ошибку",I don't think that I made a big mistake,[aɪ dəʊnt θɪŋk ðæt aɪ meɪd ə bɪg mɪsˈteɪk],A1_L81_S88.mp3
+89,"Она не думает, что сделала большую ошибку",She doesn't think that she made a big mistake,[ʃi: dʌznt θɪŋk ðæt ʃi: meɪd ə bɪg mɪsˈteɪk],A1_L81_S89.mp3
+90,"Я не думаю, что я сделал много ошибок",I don't think that I made many mistakes,[aɪ dəʊnt θɪŋk ðæt aɪ meɪd ˈmeni mɪsˈteɪks],A1_L81_S90.mp3
+91,Все люди в том городе были очень дружелюбные,All the people in that city were very friendly,[ɔ:l ðə ˈpi:pl ɪn ðæt ˈsɪti wɜ: ˈveri ˈfrendli],A1_L81_S91.mp3
+92,Все люди в этом городе были очень дружелюбные,All the people in this city were very friendly,[ɔ:l ðə ˈpi:pl ɪn ðɪs ˈsɪti wɜ: ˈveri ˈfrendli],A1_L81_S92.mp3
+93,Многие люди в том городе были очень дружелюбные,Many people in that city were very friendly,[ˈmeni ˈpi:pl ɪn ðæt ˈsɪti wɜ: ˈveri ˈfrendli],A1_L81_S93.mp3
+94,Одно из этих мест действительно впечатлило меня,One of these places really impressed me,[wʌn ɒv ði:z ˈpleɪsɪz ˈrɪəli ɪmˈprest mi:],A1_L81_S94.mp3
+95,Комната была достаточно большая,The room was big enough,[ðə ru:m wɒz bɪg ɪˈnʌf],A1_L81_S95.mp3
+96,Это был чрезвычайно важный урок,It was an extremely important lesson,[ɪt wɒz ən ɪksˈtri:mli ɪmˈpɔ:tənt ˈlesn],A1_L81_S96.mp3
+97,Один из моих друзей работал в банке,One of my friends worked in a bank,[wʌn ɒv maɪ frendz wɜ:kt ɪn ə bæŋk],A1_L81_S97.mp3
+98,Он согласился сделать это в конце,He agreed to do it in the end,[hi: əˈgri:d tu: du: ɪt ɪn ði end],A1_L81_S98.mp3
+99,Люди в этом городе были очень дружелюбные,The people in this city were very friendly,[ðə ˈpi:pl ɪn ðɪs ˈsɪti wɜ: ˈveri ˈfrendli],A1_L81_S99.mp3
+100,Я старался не показывать это,I tried not to show it,[aɪ traɪd nɒt tu: ʃəʊ ɪt],A1_L81_S100.mp3
+101,Я был полностью удовлетворен качеством этих продуктов,I was fully satisfied with the quality of these products,[aɪ wɒz ˈfʊli ˈsætɪsfaɪd wɪð ðə ˈkwɒlɪti ɒv ði:z ˈprɒdʌkts],A1_L81_S101.mp3
+102,Я хотел общаться с иностранцами,I wanted to communicate with foreigners,[aɪ ˈwɒntɪd tu: kəˈmju:nɪkeɪt wɪð ˈfɒrɪnəz],A1_L81_S102.mp3
+103,Мне удалось сделать все вовремя,I managed to do everything on time,[aɪ ˈmænɪʤd tu: du: ˈevrɪθɪŋ ɒn taɪm],A1_L81_S103.mp3
+104,Я часто опаздывал,I was often late,[aɪ wɒz ˈɒfn leɪt],A1_L81_S104.mp3
+105,"Я верил, что это была правда",I believed that it was true,[aɪ bɪˈli:vd ðæt ɪt wɒz tru:],A1_L81_S105.mp3
+106,Это было необходимо сделать,It was necessary to do,[ɪt wɒz ˈnesɪsəri tu: du:],A1_L81_S106.mp3
+107,Он стал американским гражданином,He became an American citizen,[hi: bɪˈkeɪm ən əˈmerɪkən ˈsɪtɪzn],A1_L81_S107.mp3
+108,Вам действительно повезло,You were really lucky,[ju: wɜ: ˈrɪəli ˈlʌki],A1_L81_S108.mp3

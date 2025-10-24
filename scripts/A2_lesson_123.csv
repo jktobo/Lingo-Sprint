@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Кто-то украл его ноутбук,Someone stole his laptop,[ˈsʌmwʌn stəʊl hɪz ˈlæpˌtɒp],A2_L123_S2.mp3
+3,Тебе задают вопрос,You are asked the question,[ju: ɑ: ɑ:skt ðə ˈkwesʧən],A2_L123_S3.mp3
+4,Это решение было принято им,This decision was made by him,[ðɪs dɪˈsɪʒən wɒz meɪd baɪ hɪm],A2_L123_S4.mp3
+5,Слишком мало денег заработано им,Too little money is earned by him,[tu: ˈlɪtl ˈmʌni ɪz ɜ:nd baɪ hɪm],A2_L123_S5.mp3
+6,Компания произвела эти товары в Китае,The company produced these goods in China,[ðə ˈkʌmpəni prəˈdju:st ði:z gʊdz ɪn ˈʧaɪnə],A2_L123_S6.mp3
+7,Эта работа будет закончена скоро,This work will be finished soon,[ðɪs wɜ:k wɪl bi: ˈfɪnɪʃt su:n],A2_L123_S7.mp3
+8,Ее часто хвалят,She is often praised,[ʃi: ɪz ˈɒfn preɪzd],A2_L123_S8.mp3
+9,Кто-то украл его ноутбук,Someone stole his laptop,[ˈsʌmwʌn stəʊl hɪz ˈlæpˌtɒp],A2_L123_S9.mp3
+10,Новая книга была написана им,A new book was written by him,[ə nju: bʊk wɒz ˈrɪtn baɪ hɪm],A2_L123_S10.mp3
+11,Он зарабатывает слишком мало денег,He earns too little money,[hi: ɜ:nz tu: ˈlɪtl ˈmʌni],A2_L123_S11.mp3
+12,Эти товары производятся в Китае,These goods are produced in China,[ði:z gʊdz ɑ: prəˈdju:st ɪn ˈʧaɪnə],A2_L123_S12.mp3
+13,Они скоро это забудут,They will forget it soon,[ðeɪ wɪl fəˈget ɪt su:n],A2_L123_S13.mp3
+14,Канал был создан год назад,The channel was created a year ago,[ðə ˈʧænl wɒz kri:ˈeɪtɪd ə jɪər əˈgəʊ],A2_L123_S14.mp3
+15,Его ноутбук был украден,His laptop was stolen,[hɪz ˈlæpˌtɒp wɒz ˈstəʊlən],A2_L123_S15.mp3
+16,Он неожиданно отменил встречу,He cancelled the meeting unexpectedly,[hi: ˈkænsəld ðə ˈmi:tɪŋ ˌʌnɪksˈpektɪdli],A2_L123_S16.mp3
+17,Мы приняли их предложение,We accepted their offer,[wi: əkˈseptɪd ðeər ˈɒfə],A2_L123_S17.mp3
+18,Они часто показывали это по телевизору,They often showed it on TV,[ðeɪ ˈɒfn ʃəʊd ɪt ɒn ˌti:ˈvi:],A2_L123_S18.mp3
+19,Я скоро закончу эту работу,I will finish this work soon,[aɪ wɪl ˈfɪnɪʃ ðɪs wɜ:k su:n],A2_L123_S19.mp3
+20,Ее часто критикуют,She is often criticized,[ʃi: ɪz ˈɒfn ˈkrɪtɪsaɪzd],A2_L123_S20.mp3
+21,Они нашли его живым,They found him alive,[ðeɪ faʊnd hɪm əˈlaɪv],A2_L123_S21.mp3
+22,Он создал канал два года назад,He created the channel two years ago,[hi: kri:ˈeɪtɪd ðə ˈʧænl tu: jɪəz əˈgəʊ],A2_L123_S22.mp3
+23,Он был найден живым,He was found alive,[hi: wɒz faʊnd əˈlaɪv],A2_L123_S23.mp3
+24,Это скоро будет забыто,It will be forgotten soon,[ɪt wɪl bi: fəˈgɒtn su:n],A2_L123_S24.mp3
+25,Другие уважают его,Others respect him,[ˈʌðəz rɪsˈpekt hɪm],A2_L123_S25.mp3
+26,Они часто критикуют ее,They often criticize her,[ðeɪ ˈɒfn ˈkrɪtɪsaɪz hɜ:],A2_L123_S26.mp3
+27,Они сказали это очень громко,They said it very loudly,[ðeɪ sed ɪt ˈveri ˈlaʊdli],A2_L123_S27.mp3
+28,Эти вещи производятся в Японии,These things are produced in Japan,[ði:z θɪŋz ɑ: prəˈdju:st ɪn ʤəˈpæn],A2_L123_S28.mp3
+29,Они украли эти деньги,They stole this money,[ðeɪ stəʊl ðɪs ˈmʌni],A2_L123_S29.mp3
+30,Другие люди часто хвалят ее,Other people often praise her,[ˈʌðə ˈpi:pl ˈɒfn preɪz hɜ:],A2_L123_S30.mp3
+31,Эти деньги были украдены ими,This money was stolen by them,[ðɪs ˈmʌni wɒz ˈstəʊlən baɪ ðem],A2_L123_S31.mp3
+32,Он написал новую книгу,He wrote a new book,[hi: rəʊt ə nju: bʊk],A2_L123_S32.mp3
+33,Его уважают,He is respected,[hi: ɪz rɪsˈpektɪd],A2_L123_S33.mp3
+34,Это было сказано очень громко,It was said very loudly,[ɪt wɒz sed ˈveri ˈlaʊdli],A2_L123_S34.mp3
+35,Он скоро выполнит задачу,He will complete the task soon,[hi: wɪl kəmˈpli:t ðə tɑ:sk su:n],A2_L123_S35.mp3
+36,Это часто показывали по телевизору,It was often shown on TV,[ɪt wɒz ˈɒfn ʃəʊn ɒn ˌti:ˈvi:],A2_L123_S36.mp3
+37,Их предложение было принято,Their offer was accepted,[ðeər ˈɒfə wɒz əkˈseptɪd],A2_L123_S37.mp3
+38,Они производят эти вещи в Японии,They produce these things in Japan,[ðeɪ ˈprɒdju:s ði:z θɪŋz ɪn ʤəˈpæn],A2_L123_S38.mp3
+39,Задание скоро будет выполнено,The task will be completed soon,[ðə tɑ:sk wɪl bi: kəmˈpli:tɪd su:n],A2_L123_S39.mp3
+40,Все контролируется ими,Everything is controlled by them,[ˈevrɪθɪŋ ɪz kənˈtrəʊld baɪ ðem],A2_L123_S40.mp3
+41,Они контролируют все,They control everything,[ðeɪ kənˈtrəʊl ˈevrɪθɪŋ],A2_L123_S41.mp3
+42,Встреча неожиданно была отменена,The meeting was cancelled unexpectedly,[ðə ˈmi:tɪŋ wɒz ˈkænsəld ˌʌnɪksˈpektɪdli],A2_L123_S42.mp3
+43,Он часто видит ее там,He often sees her there,[hi: ˈɒfn si:z hɜ: ðeə],A2_L123_S43.mp3
+44,Его часто видят там,He is often seen there,[hi: ɪz ˈɒfn si:n ðeə],A2_L123_S44.mp3
+45,Они выращивают фрукты и овощи в своем собственном саду,They grow fruit and vegetables in their own garden,[ðeɪ grəʊ fru:t ænd ˈveʤtəblz ɪn ðeər əʊn ˈgɑ:dn],A2_L123_S45.mp3
+46,С ним обращались очень грубо,He was treated very rudely,[hi: wɒz ˈtri:tɪd ˈveri ˈru:dli],A2_L123_S46.mp3
+47,Я родился двадцать лет назад,I was born twenty years ago,[aɪ wɒz bɔ:n ˈtwenti jɪəz əˈgəʊ],A2_L123_S47.mp3
+48,Это производится в Китае?,Is it produced in China?,[ɪz ɪt prəˈdju:st ɪn ˈʧaɪnə?],A2_L123_S48.mp3
+49,Эти деньги были возвращены им,This money was returned by him,[ðɪs ˈmʌni wɒz rɪˈtɜ:nd baɪ hɪm],A2_L123_S49.mp3
+50,"Мне кажется, он не сможет достичь этой цели",It seems to me he won't be able to achieve this aim,[ɪt si:mz tu: mi: hi: wəʊnt bi: ˈeɪbl tu: əˈʧi:v ðɪs eɪm],A2_L123_S50.mp3
+51,Фрукты и овощи выращиваются в их собственном саду,Fruit and vegetables are grown in their own garden,[fru:t ænd ˈveʤtəblz ɑ: grəʊn ɪn ðeər əʊn ˈgɑ:dn],A2_L123_S51.mp3
+52,Я перевёл этот текст очень легко,I translated this text very easily,[aɪ trænsˈleɪtɪd ðɪs tekst ˈveri ˈi:zɪli],A2_L123_S52.mp3
+53,"Я вижу, что эти две вещи тесно связаны друг с другом",I see that these two things are closely connected with each other,[aɪ si: ðæt ði:z tu: θɪŋz ɑ: ˈkləʊsli kəˈnektɪd wɪð i:ʧ ˈʌðə],A2_L123_S53.mp3
+54,Он не тратит на это достаточно времени,He doesn't spend enough time on it,[hi: dʌznt spend ɪˈnʌf taɪm ɒn ɪt],A2_L123_S54.mp3
+55,"Они ничего не делают, чтобы изменить эту ситуацию",They do nothing to change this situation,[ðeɪ du: ˈnʌθɪŋ tu: ʧeɪnʤ ðɪs ˌsɪtjʊˈeɪʃən],A2_L123_S55.mp3
+56,"Ничего не делается, чтобы улучшить эти условия",Nothing is done to improve these conditions,[ˈnʌθɪŋ ɪz dʌn tu: ɪmˈpru:v ði:z kənˈdɪʃənz],A2_L123_S56.mp3
+57,Это сделано за границей?,Is it made abroad?,[ɪz ɪt meɪd əˈbrɔ:d?],A2_L123_S57.mp3
+58,Люди рождаются и умирают каждый день,People are born and die every day,[ˈpi:pl ɑ: bɔ:n ænd daɪ ˈevri deɪ],A2_L123_S58.mp3
+59,Он родился в 1986 году,He was born in 1986,[hi: wɒz bɔ:n ɪn 1986],A2_L123_S59.mp3
+60,"Я действительно не понимаю, почему он игнорирует эти проблемы",I don't really understand why he ignores these problems,[aɪ dəʊnt ˈrɪəli ˌʌndəˈstænd waɪ hi: ɪgˈnɔ:z ði:z ˈprɒbləmz],A2_L123_S60.mp3
+61,"Я не понимаю, почему у него так много проблем",I don't understand why he has so many problems,[aɪ dəʊnt ˌʌndəˈstænd waɪ hi: hæz səʊ ˈmeni ˈprɒbləmz],A2_L123_S61.mp3
+62,"Я не знаю, почему она игнорирует эту проблему",I don't know why she ignores this problem,[aɪ dəʊnt nəʊ waɪ ʃi: ɪgˈnɔ:z ðɪs ˈprɒbləm],A2_L123_S62.mp3
+63,С ней обращаются очень несправедливо,She is treated very unfairly,[ʃi: ɪz ˈtri:tɪd ˈveri ʌnˈfeəli],A2_L123_S63.mp3
+64,С ней обращаются очень хорошо,She is treated very well,[ʃi: ɪz ˈtri:tɪd ˈveri wel],A2_L123_S64.mp3
+65,С ней обошлись так несправедливо,She was treated so unfairly,[ʃi: wɒz ˈtri:tɪd səʊ ʌnˈfeəli],A2_L123_S65.mp3
+66,"Я знаю, что на испанском языке говорят во многих странах",I know that Spanish is spoken in many countries,[aɪ nəʊ ðæt ˈspænɪʃ ɪz ˈspəʊkən ɪn ˈmeni ˈkʌntriz],A2_L123_S66.mp3
+67,"Я знаю, что на английском языке говорят во всем мире",I know that English is spoken all over the world,[aɪ nəʊ ðæt ˈɪŋglɪʃ ɪz ˈspəʊkən ɔ:l ˈəʊvə ðə wɜ:ld],A2_L123_S67.mp3
+68,"Я знаю, что на английском языке говорят во многих странах",I know that English is spoken in many countries,[aɪ nəʊ ðæt ˈɪŋglɪʃ ɪz ˈspəʊkən ɪn ˈmeni ˈkʌntriz],A2_L123_S68.mp3
+69,Его укусила собака,He was bitten by a dog,[hi: wɒz ˈbɪtn baɪ ə dɒg],A2_L123_S69.mp3
+70,Их укусила собака,They were bitten by a dog,[ðeɪ wɜ: ˈbɪtn baɪ ə dɒg],A2_L123_S70.mp3
+71,Его укусила очень злая собака,He was bitten by a very angry dog,[hi: wɒz ˈbɪtn baɪ ə ˈveri ˈæŋgri dɒg],A2_L123_S71.mp3
+72,Люди говорят по-английски во всем мире,People speak English all over the world,[ˈpi:pl spi:k ˈɪŋglɪʃ ɔ:l ˈəʊvə ðə wɜ:ld],A2_L123_S72.mp3
+73,"Эти люди не говорят по-испански …………….…................................................... 74. Эти люди говорят по-английски? …………….…................................................... 75. На это тратится недостаточно времени …………….…................................................... 76. На это тратится много времени …………….…................................................... 77. Сколько времени на это тратится? …………….…................................................... 78. Они ничего не заметили …………….…................................................... 79. Они что-то заметили …………….…................................................... 80. Они не заметили самых важных вещей …………….…................................................... 81. Они не делают ничего, чтобы улучшить эти условия …………….…................................................... 82. Мы делаем все, чтобы улучшить эти условия …………….…................................................... 83. Что они сделали, чтобы улучшить эти условия? …………….…................................................... 84. Мы все видим, что на английском языке говорят во всем мире …………….…................................................... 85. Ты знаешь, что на английском языке говорят во всем мире? …………….…................................................... 8 86. Я не понимаю, почему эти проблемы игнорируются …………….…................................................... 87. Я не могу понять, почему он игнорирует эти проблемы …………….…................................................... 88. Я не понимаю, почему эта проблема была проигнорирована …………….…................................................... 89. Они анализируют это очень тщательно …………….…................................................... 90. Эти вещи тесно связаны друг с другом …………….…................................................... 91. Они относятся к ней очень несправедливо …………….…................................................... 92. Этот текст был переведен очень легко …………….…................................................... 93. Они делают это в Китае? …………….…................................................... 94. Я думаю, эта цель не будет достигнута …………….…................................................... 95. Они относились к нему очень грубо …………….…................................................... 96. Все очень тщательно проанализировано …………….…................................................... 97. Люди говорят по-испански во многих странах …………….…................................................... 98. Некоторые ошибки были исправлены …………….…................................................... 9 99. Злая собака укусила его …………….…................................................... 100. Я постараюсь исправить все эти ошибки …………….…................................................... 101. Он не вернул эти деньги …………….…................................................... 102. Ничего не было замечено …………….…................................................... 103. Она родилась в 2015 году …………….…................................................... 10 Ответы 1. Моя мама работает в банке",My mother works in a bank,[maɪ ˈmʌðə wɜ:ks ɪn ə bæŋk],A2_L123_S73.mp3
+74,Эти люди говорят по-английски?,Do these people speak English?,[du: ði:z ˈpi:pl spi:k ˈɪŋglɪʃ?],A2_L123_S74.mp3
+75,На это тратится недостаточно времени,Not enough time is spent on it,[nɒt ɪˈnʌf taɪm ɪz spent ɒn ɪt],A2_L123_S75.mp3
+76,На это тратится много времени,A lot of time is spent on it,[ə lɒt ɒv taɪm ɪz spent ɒn ɪt],A2_L123_S76.mp3
+77,Сколько времени на это тратится?,How much time is spent on it?,[haʊ mʌʧ taɪm ɪz spent ɒn ɪt?],A2_L123_S77.mp3
+78,Они ничего не заметили,They didn't notice anything,[ðeɪ dɪdnt ˈnəʊtɪs ˈenɪθɪŋ],A2_L123_S78.mp3
+79,Они что-то заметили,They noticed something,[ðeɪ ˈnəʊtɪst ˈsʌmθɪŋ],A2_L123_S79.mp3
+80,Они не заметили самых важных вещей,They didn't notice the most important things,[ðeɪ dɪdnt ˈnəʊtɪs ðə məʊst ɪmˈpɔ:tənt θɪŋz],A2_L123_S80.mp3
+81,"Они не делают ничего, чтобы улучшить эти условия",They don't do anything to improve these conditions,[ðeɪ dəʊnt du: ˈenɪθɪŋ tu: ɪmˈpru:v ði:z kənˈdɪʃənz],A2_L123_S81.mp3
+82,"Мы делаем все, чтобы улучшить эти условия",We do everything to improve these conditions,[wi: du: ˈevrɪθɪŋ tu: ɪmˈpru:v ði:z kənˈdɪʃənz],A2_L123_S82.mp3
+83,"Что они сделали, чтобы улучшить эти условия?",What did they do to improve these conditions?,[wɒt dɪd ðeɪ du: tu: ɪmˈpru:v ði:z kənˈdɪʃənz?],A2_L123_S83.mp3
+84,"Мы все видим, что на английском языке говорят во всем мире",We all see that English is spoken all over the world,[wi: ɔ:l si: ðæt ˈɪŋglɪʃ ɪz ˈspəʊkən ɔ:l ˈəʊvə ðə wɜ:ld],A2_L123_S84.mp3
+85,"Ты знаешь, что на английском языке говорят во всем мире?",Do you know that English is spoken all over the world?,[du: ju: nəʊ ðæt ˈɪŋglɪʃ ɪz ˈspəʊkən ɔ:l ˈəʊvə ðə wɜ:ld?],A2_L123_S85.mp3
+86,"Я не понимаю, почему эти проблемы игнорируются",I don't understand why these problems are ignored,[aɪ dəʊnt ˌʌndəˈstænd waɪ ði:z ˈprɒbləmz ɑ: ɪgˈnɔ:d],A2_L123_S86.mp3
+87,"Я не могу понять, почему он игнорирует эти проблемы",I can't understand why he ignores these problems,[aɪ kɑ:nt ˌʌndəˈstænd waɪ hi: ɪgˈnɔ:z ði:z ˈprɒbləmz],A2_L123_S87.mp3
+88,"Я не понимаю, почему эта проблема была проигнорирована",I don't understand why this problem was ignored,[aɪ dəʊnt ˌʌndəˈstænd waɪ ðɪs ˈprɒbləm wɒz ɪgˈnɔ:d],A2_L123_S88.mp3
+89,Они анализируют это очень тщательно,They analyse it very thoroughly,[ðeɪ ˈænəlaɪz ɪt ˈveri ˈθʌrəli],A2_L123_S89.mp3
+90,Эти вещи тесно связаны друг с другом,These things are closely connected with each other,[ði:z θɪŋz ɑ: ˈkləʊsli kəˈnektɪd wɪð i:ʧ ˈʌðə],A2_L123_S90.mp3
+91,Они относятся к ней очень несправедливо,They treat her very unfairly,[ðeɪ tri:t hɜ: ˈveri ʌnˈfeəli],A2_L123_S91.mp3
+92,Этот текст был переведен очень легко,This text was translated very easily,[ðɪs tekst wɒz trænsˈleɪtɪd ˈveri ˈi:zɪli],A2_L123_S92.mp3
+93,Они делают это в Китае?,Do they make it in China?,[du: ðeɪ meɪk ɪt ɪn ˈʧaɪnə?],A2_L123_S93.mp3
+94,"Я думаю, эта цель не будет достигнута",I think this aim won't be achieved,[aɪ θɪŋk ðɪs eɪm wəʊnt bi: əˈʧi:vd],A2_L123_S94.mp3
+95,Они относились к нему очень грубо,They treated him very rudely,[ðeɪ ˈtri:tɪd hɪm ˈveri ˈru:dli],A2_L123_S95.mp3
+96,Все очень тщательно проанализировано,Everything is analysed very thoroughly,[ˈevrɪθɪŋ ɪz ˈænəlaɪzd ˈveri ˈθʌrəli],A2_L123_S96.mp3
+97,Люди говорят по-испански во многих странах,People speak Spanish in many countries,[ˈpi:pl spi:k ˈspænɪʃ ɪn ˈmeni ˈkʌntriz],A2_L123_S97.mp3
+98,Некоторые ошибки были исправлены,Some mistakes were corrected,[sʌm mɪsˈteɪks wɜ: kəˈrektɪd],A2_L123_S98.mp3
+99,Злая собака укусила его,An angry dog bit him,[ən ˈæŋgri dɒg bɪt hɪm],A2_L123_S99.mp3
+100,Я постараюсь исправить все эти ошибки,I will try to correct all these mistakes,[aɪ wɪl traɪ tu: kəˈrekt ɔ:l ði:z mɪsˈteɪks],A2_L123_S100.mp3
+101,Он не вернул эти деньги,He didn't return this money,[hi: dɪdnt rɪˈtɜ:n ðɪs ˈmʌni],A2_L123_S101.mp3
+102,Ничего не было замечено,Nothing was noticed,[ˈnʌθɪŋ wɒz ˈnəʊtɪst],A2_L123_S102.mp3
+103,Она родилась в 2015 году,She was born in 2015,[ʃi: wɒz bɔ:n ɪn 2015],A2_L123_S103.mp3

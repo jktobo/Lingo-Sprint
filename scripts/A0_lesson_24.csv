@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Посмотри на это!,Look at it!,[lʊk æt ɪt!],A0_L24_S1.mp3
+2,Я люблю такого рода еду,I love this kind of food,[aɪ lʌv ðɪs kaɪnd ɒv fu:d],A0_L24_S2.mp3
+3,Подожди меня!,Wait for me!,[weɪt fɔ: mi:!],A0_L24_S3.mp3
+4,Он работает мало,He works little,[hi: wɜ:ks ˈlɪtl],A0_L24_S4.mp3
+5,Я хочу обсудить это с тобой,I want to discuss it with you,[aɪ wɒnt tu: dɪsˈkʌs ɪt wɪð ju:],A0_L24_S5.mp3
+6,Они продают эти товары очень дешево,They sell these goods very cheaply,[ðeɪ sel ði:z gʊdz ˈveri ˈʧi:pli],A0_L24_S6.mp3
+7,Он бегает очень быстро,He runs very fast,[hi: rʌnz ˈveri fɑ:st],A0_L24_S7.mp3
+8,Что тебе нравится больше?,What do you like more?,[wɒt du: ju: laɪk mɔ:?],A0_L24_S8.mp3
+9,Она хочет продать свою квартиру,She wants to sell her apartment,[ʃi: wɒnts tu: sel hɜ:r əˈpɑ:tmənt],A0_L24_S9.mp3
+10,Они продают это очень дешево,They sell it very cheaply,[ðeɪ sel ɪt ˈveri ˈʧi:pli],A0_L24_S10.mp3
+11,Она не танцует профессионально,She doesn't dance professionally,[ʃi: dʌznt dɑ:ns prəˈfeʃnəli],A0_L24_S11.mp3
+12,"Встань, пожалуйста!","Stand up, please!","[stænd ʌp, pli:z!]",A0_L24_S12.mp3
+13,Он бегает быстрее,He runs faster,[hi: rʌnz ˈfɑ:stə],A0_L24_S13.mp3
+14,Я могу позвонить тебе сейчас,I can call you now,[aɪ kæn kɔ:l ju: naʊ],A0_L24_S14.mp3
+15,Посмотри на это!,Look at it!,[lʊk æt ɪt!],A0_L24_S15.mp3
+16,Они строят дома,They build houses,[ðeɪ bɪld ˈhaʊzɪz],A0_L24_S16.mp3
+17,Ей нравится ее новое платье?,Does she like her new dress?,[dʌz ʃi: laɪk hɜ: nju: dres?],A0_L24_S17.mp3
+18,Он действительно ненавидит это?,Does he really hate it?,[dʌz hi: ˈrɪəli heɪt ɪt?],A0_L24_S18.mp3
+19,Мы можем обсудить это прямо сейчас,We can discuss it right now,[wi: kæn dɪsˈkʌs ɪt raɪt naʊ],A0_L24_S19.mp3
+20,Они продают эти продукты очень дорого,They sell these products very expensively,[ðeɪ sel ði:z ˈprɒdʌkts ˈveri ɪksˈpensɪvli],A0_L24_S20.mp3
+21,Это может начаться скоро,It can begin soon,[ɪt kæn bɪˈgɪn su:n],A0_L24_S21.mp3
+22,Мне нужно позвонить ему сейчас,I need to call him now,[aɪ ni:d tu: kɔ:l hɪm naʊ],A0_L24_S22.mp3
+23,Ты можешь посмотреть на это,You can look at it,[ju: kæn lʊk æt ɪt],A0_L24_S23.mp3
+24,Посмотри на этот слайд!,Look at this slide!,[lʊk æt ðɪs slaɪd!],A0_L24_S24.mp3
+25,Встань!,Stand up!,[stænd ʌp!],A0_L24_S25.mp3
+26,Как часто ты пользуешься интернетом?,How often do you use the Internet?,[haʊ ˈɒfn du: ju: ju:z ði ˈɪntəˌnet?],A0_L24_S26.mp3
+27,Что ты думаешь о его предложении?,What do you think about his offer?,[wɒt du: ju: θɪŋk əˈbaʊt hɪz ˈɒfə?],A0_L24_S27.mp3
+28,Посмотри на него!,Look at him!,[lʊk æt hɪm!],A0_L24_S28.mp3
+29,Он строит очень хорошие дома,He builds very good houses,[hi: bɪldz ˈveri gʊd ˈhaʊzɪz],A0_L24_S29.mp3
+30,Смотри на меня!,Look at me!,[lʊk æt mi:!],A0_L24_S30.mp3
+31,Тебе нравится эта музыка?,Do you like this music?,[du: ju: laɪk ðɪs ˈmju:zɪk?],A0_L24_S31.mp3
+32,Он продает это очень дорого,He sells it very expensively,[hi: selz ɪt ˈveri ɪksˈpensɪvli],A0_L24_S32.mp3
+33,Я хочу встать,I want to stand up,[aɪ wɒnt tu: stænd ʌp],A0_L24_S33.mp3
+34,Я могу бежать очень быстро,I can run very fast,[aɪ kæn rʌn ˈveri fɑ:st],A0_L24_S34.mp3
+35,Что ты думаешь об этой идее?,What do you think about this idea?,[wɒt du: ju: θɪŋk əˈbaʊt ðɪs aɪˈdɪə?],A0_L24_S35.mp3
+36,Я часто пользуюсь этой услугой,I often use this service,[aɪ ˈɒfn ju:z ðɪs ˈsɜ:vɪs],A0_L24_S36.mp3
+37,Смотри!,Look!,[lʊk!],A0_L24_S37.mp3
+38,Я действительно ненавижу эту вещь,I really hate this thing,[aɪ ˈrɪəli heɪt ðɪs θɪŋ],A0_L24_S38.mp3
+39,Мне не нравится танцевать,I don't like dancing,[aɪ dəʊnt laɪk ˈdɑ:nsɪŋ],A0_L24_S39.mp3
+40,Я пользуюсь интернетом почти каждый день,I use the Internet almost every day,[aɪ ju:z ði ˈɪntəˌnet ˈɔ:lməʊst ˈevri deɪ],A0_L24_S40.mp3
+41,Я часто пользуюсь интернетом,I often use the Internet,[aɪ ˈɒfn ju:z ði ˈɪntəˌnet],A0_L24_S41.mp3
+42,Ты можешь встать здесь,You can stand here,[ju: kæn stænd hɪə],A0_L24_S42.mp3
+43,Ей нравится танцевать,She likes dancing,[ʃi: laɪks ˈdɑ:nsɪŋ],A0_L24_S43.mp3
+44,Не беспокойся об этом!,Don't worry about it!,[dəʊnt ˈwʌri əˈbaʊt ɪt!],A0_L24_S44.mp3
+45,Я пишу по-английски очень редко,I write in English very rarely,[aɪ raɪt ɪn ˈɪŋglɪʃ ˈveri ˈreəli],A0_L24_S45.mp3
+46,Я хочу улучшить свою речь,I want to improve my speaking,[aɪ wɒnt tu: ɪmˈpru:v maɪ ˈspi:kɪŋ],A0_L24_S46.mp3
+47,Когда ты просыпаешься?,When do you wake up?,[wen du: ju: weɪk ʌp?],A0_L24_S47.mp3
+48,Я делаю это очень редко,I do it very rarely,[aɪ du: ɪt ˈveri ˈreəli],A0_L24_S48.mp3
+49,Мне нужно запомнить эти правила,I need to remember these rules,[aɪ ni:d tu: rɪˈmembə ði:z ru:lz],A0_L24_S49.mp3
+50,Я обычно просыпаюсь в семь часов утра,I usually wake up at seven o'clock in the morning,[aɪ ˈju:ʒʊəli weɪk ʌp æt ˈsevn əˈklɒk ɪn ðə ˈmɔ:nɪŋ],A0_L24_S50.mp3
+51,Я хотел бы улучшить свою речь,I'd like to improve my speaking,[aɪd laɪk tu: ɪmˈpru:v maɪ ˈspi:kɪŋ],A0_L24_S51.mp3
+52,Ему нужно запомнить это,He needs to remember it,[hi: ni:dz tu: rɪˈmembər ɪt],A0_L24_S52.mp3
+53,"Я думаю, мы можем ждать этого",I think we can wait for it,[aɪ θɪŋk wi: kæn weɪt fɔ: ɪt],A0_L24_S53.mp3
+54,Как ты находишь эту идею?,How do you find this idea?,[haʊ du: ju: faɪnd ðɪs aɪˈdɪə?],A0_L24_S54.mp3
+55,Я часто гуляю в парке,I often walk in the park,[aɪ ˈɒfn wɔ:k ɪn ðə pɑ:k],A0_L24_S55.mp3
+56,Я хочу улучшить свое аудирование,I want to improve my listening,[aɪ wɒnt tu: ɪmˈpru:v maɪ ˈlɪsnɪŋ],A0_L24_S56.mp3
+57,Я хочу выпить чашку чая,I want to drink a cup of tea,[aɪ wɒnt tu: drɪŋk ə kʌp ɒv ti:],A0_L24_S57.mp3
+58,Я не беспокоюсь об этих вещах,I don't worry about these things,[aɪ dəʊnt ˈwʌri əˈbaʊt ði:z θɪŋz],A0_L24_S58.mp3
+59,Он предпочитает изучать английский здесь,He prefers to learn English here,[hi: priˈfɜ:z tu: lɜ:n ˈɪŋglɪʃ hɪə],A0_L24_S59.mp3
+60,Я предпочитаю изучать русский здесь,I prefer to learn Russian here,[aɪ priˈfɜ: tu: lɜ:n ˈrʌʃn hɪə],A0_L24_S60.mp3
+61,Она предпочитает изучать испанский язык там,She prefers to learn Spanish there,[ʃi: priˈfɜ:z tu: lɜ:n ˈspænɪʃ ðeə],A0_L24_S61.mp3
+62,Я хотел бы выпить немного воды,I'd like to drink some water,[aɪd laɪk tu: drɪŋk sʌm ˈwɔ:tə],A0_L24_S62.mp3
+63,Он хотел бы выпить немного чая,He'd like to drink some tea,[hi:d laɪk tu: drɪŋk sʌm ti:],A0_L24_S63.mp3
+64,Я хотел бы выпить чашку кофе,I'd like to drink a cup of coffee,[aɪd laɪk tu: drɪŋk ə kʌp ɒv ˈkɒfi],A0_L24_S64.mp3
+65,В какое время он встаёт?,What time does he get up?,[wɒt taɪm dʌz hi: get ʌp?],A0_L24_S65.mp3
+66,В какое время ты встаешь?,What time do you get up?,[wɒt taɪm du: ju: get ʌp?],A0_L24_S66.mp3
+67,Когда она просыпается?,When does she wake up?,[wen dʌz ʃi: weɪk ʌp?],A0_L24_S67.mp3
+68,Я предпочитаю изучать английский онлайн,I prefer to learn English online,[aɪ priˈfɜ: tu: lɜ:n ˈɪŋglɪʃ ˈɒnˌlaɪn],A0_L24_S68.mp3
+69,Он предпочитает изучать испанский онлайн,He prefers to learn Spanish online,[hi: priˈfɜ:z tu: lɜ:n ˈspænɪʃ ˈɒnˌlaɪn],A0_L24_S69.mp3
+70,Я предпочитаю смотреть эти видео уроки,I prefer to watch these video lessons,[aɪ priˈfɜ: tu: wɒʧ ði:z ˈvɪdɪəʊ ˈlesnz],A0_L24_S70.mp3
+71,Я хотел бы выпить стакан сока,I'd like to drink a glass of juice,[aɪd laɪk tu: drɪŋk ə glɑ:s ɒv ʤu:s],A0_L24_S71.mp3
+72,Я хотел бы выпить стакан воды,I'd like to drink a glass of water,[aɪd laɪk tu: drɪŋk ə glɑ:s ɒv ˈwɔ:tə],A0_L24_S72.mp3
+73,Он хотел бы выпить чашку чая,He'd like to drink a cup of tea,[hi:d laɪk tu: drɪŋk ə kʌp ɒv ti:],A0_L24_S73.mp3
+74,"Я не знаю, где я могу найти это",I don't know where I can find it,[aɪ dəʊnt nəʊ weər aɪ kæn faɪnd ɪt],A0_L24_S74.mp3
+75,"Он не знает, где он может найти это",He doesn't know where he can find it,[hi: dʌznt nəʊ weə hi: kæn faɪnd ɪt],A0_L24_S75.mp3
+76,Я пытаюсь запомнить это правило,I try to remember this rule,[aɪ traɪ tu: rɪˈmembə ðɪs ru:l],A0_L24_S76.mp3
+77,Он пытается запомнить эти правила,He tries to remember these rules,[hi: traɪz tu: rɪˈmembə ði:z ru:lz],A0_L24_S77.mp3
+78,Я могу найти это очень легко,I can find it very easily,[aɪ kæn faɪnd ɪt ˈveri ˈi:zɪli],A0_L24_S78.mp3
+79,Ты можешь найти это очень легко,You can find it very easily,[ju: kæn faɪnd ɪt ˈveri ˈi:zɪli],A0_L24_S79.mp3
+80,Он не может найти это сейчас,He can't find it now,[hi: kɑ:nt faɪnd ɪt naʊ],A0_L24_S80.mp3
+81,Не беспокойся!,Don't worry!,[dəʊnt ˈwʌri!],A0_L24_S81.mp3
+82,Не пей это!,Don't drink it!,[dəʊnt drɪŋk ɪt!],A0_L24_S82.mp3
+83,Подожди меня!,Wait for me!,[weɪt fɔ: mi:!],A0_L24_S83.mp3
+84,Как часто ты гуляешь в парке?,How often do you walk in the park?,[haʊ ˈɒfn du: ju: wɔ:k ɪn ðə pɑ:k?],A0_L24_S84.mp3
+85,Как часто она гуляет в парке?,How often does she walk in the park?,[haʊ ˈɒfn dʌz ʃi: wɔ:k ɪn ðə pɑ:k?],A0_L24_S85.mp3
+86,Когда ты гуляешь в парке?,When do you walk in the park?,[wen du: ju: wɔ:k ɪn ðə pɑ:k?],A0_L24_S86.mp3
+87,Они действительно любят друг друга,They really love each other,[ðeɪ ˈrɪəli lʌv i:ʧ ˈʌðə],A0_L24_S87.mp3
+88,Я люблю такого рода фильмы,I love this kind of movies,[aɪ lʌv ðɪs kaɪnd ɒv ˈmu:viz],A0_L24_S88.mp3
+89,"Я хочу улучшить мою речь, аудирование и грамматику","I want to improve my speaking, listening and grammar","[aɪ wɒnt tu: ɪmˈpru:v maɪ ˈspi:kɪŋ, ˈlɪsnɪŋ ænd ˈgræmə]",A0_L24_S89.mp3
+90,Подожди этого!,Wait for it!,[weɪt fɔ: ɪt!],A0_L24_S90.mp3
+91,Я не хочу ждать этого,I don't want to wait for it,[aɪ dəʊnt wɒnt tu: weɪt fɔ: ɪt],A0_L24_S91.mp3
+92,Я люблю такого рода музыку,I love this kind of music,[aɪ lʌv ðɪs kaɪnd ɒv ˈmju:zɪk],A0_L24_S92.mp3
+93,"Я не знаю, где я могу найти эту информацию",I don't know where I can find this information,[aɪ dəʊnt nəʊ weər aɪ kæn faɪnd ðɪs ˌɪnfəˈmeɪʃən],A0_L24_S93.mp3
+94,Я хотел бы улучшить свое аудирование,I'd like to improve my listening,[aɪd laɪk tu: ɪmˈpru:v maɪ ˈlɪsnɪŋ],A0_L24_S94.mp3
+95,В наши дни мы можем найти эту информацию очень легко,We can find this information very easily nowadays,[wi: kæn faɪnd ðɪs ˌɪnfəˈmeɪʃən ˈveri ˈi:zɪli ˈnaʊədeɪz],A0_L24_S95.mp3
+96,Я хочу улучшить свой английский,I want to improve my English,[aɪ wɒnt tu: ɪmˈpru:v maɪ ˈɪŋglɪʃ],A0_L24_S96.mp3
+97,Я люблю такую еду,I love this kind of food,[aɪ lʌv ðɪs kaɪnd ɒv fu:d],A0_L24_S97.mp3
+98,Она хочет выпить чашку кофе,She wants to drink a cup of coffee,[ʃi: wɒnts tu: drɪŋk ə kʌp ɒv ˈkɒfi],A0_L24_S98.mp3
+99,Когда ты обычно встаешь?,When do you usually get up?,[wen du: ju: ˈju:ʒʊəli get ʌp?],A0_L24_S99.mp3

@@ -1,0 +1,99 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Как долго твой друг учится за границей?,How long has your friend been studying abroad?,[haʊ lɒŋ hæz jɔ: frend bi:n ˈstʌdiɪŋ əˈbrɔ:d?],B1_L169_S2.mp3
+3,"Я позвоню тебе, когда вернется мой брат",I will call you when my brother gets back,[aɪ wɪl kɔ:l ju: wen maɪ ˈbrʌðə gets bæk],B1_L169_S3.mp3
+4,Солнце светило и было очень тепло,The sun was shining and it was very warm,[ðə sʌn wɒz ˈʃaɪnɪŋ ænd ɪt wɒz ˈveri wɔ:m],B1_L169_S4.mp3
+5,Я редактирую этот документ,I'm editing this document,[aɪm ˈedɪtɪŋ ðɪs ˈdɒkjʊmənt],B1_L169_S5.mp3
+6,Кто обычно готовит еду в твоей семье?,Who usually cooks food in your family?,[hu: ˈju:ʒʊəli kʊks fu:d ɪn jɔ: ˈfæmɪli?],B1_L169_S6.mp3
+7,Ты бывал в Испании?,Have you been to Spain?,[hæv ju: bi:n tu: speɪn?],B1_L169_S7.mp3
+8,Фильм начнется через пять минут,The movie will start in five minutes,[ðə ˈmu:vi wɪl stɑ:t ɪn faɪv ˈmɪnɪts],B1_L169_S8.mp3
+9,Их рейс был задержан из-за плохой погоды,Their flight was delayed due to bad weather,[ðeə flaɪt wɒz dɪˈleɪd dju: tu: bæd ˈweðə],B1_L169_S9.mp3
+10,Как давно ты живешь за границей?,How long have you been living abroad?,[haʊ lɒŋ hæv ju: bi:n ˈlɪvɪŋ əˈbrɔ:d?],B1_L169_S10.mp3
+11,Мы пьем чай в данный момент,We are drinking tea at the moment,[wi: ɑ: ˈdrɪŋkɪŋ ti: æt ðə ˈməʊmənt],B1_L169_S11.mp3
+12,Он только что получил письмо от своей подруги,He has just received a letter from his girlfriend,[hi: hæz ʤʌst rɪˈsi:vd ə ˈletə frɒm hɪz ˈgɜ:lˌfrend],B1_L169_S12.mp3
+13,"Я ожидаю, что достигну следующего уровня к следующему месяцу",I expect that I will have reached the next level by next month,[aɪ ɪksˈpekt ðæt aɪ wɪl hæv ri:ʧt ðə nekst ˈlevl baɪ nekst mʌnθ],B1_L169_S13.mp3
+14,Она разговаривает по телефону прямо сейчас,She is talking on the phone right now,[ʃi: ɪz ˈtɔ:kɪŋ ɒn ðə fəʊn raɪt naʊ],B1_L169_S14.mp3
+15,Я никогда не был там раньше,I have never been there before,[aɪ hæv ˈnevə bi:n ðeə bɪˈfɔ:],B1_L169_S15.mp3
+16,Это строго запрещено,It is strictly forbidden,[ɪt ɪz ˈstrɪktli fəˈbɪdn],B1_L169_S16.mp3
+17,Я жду его звонка с утра,I have been waiting for his call since morning,[aɪ hæv bi:n ˈweɪtɪŋ fɔ: hɪz kɔ:l sɪns ˈmɔ:nɪŋ],B1_L169_S17.mp3
+18,Он всегда ужасно занят,He is always terribly busy,[hi: ɪz ˈɔ:lweɪz ˈterəbli ˈbɪzi],B1_L169_S18.mp3
+19,Ты уже позавтракал?,Have you already had breakfast?,[hæv ju: ɔ:lˈredi hæd ˈbrekfəst?],B1_L169_S19.mp3
+20,"Я думаю, что я пойду туда с тобой",I think I will go there with you,[aɪ θɪŋk aɪ wɪl gəʊ ðeə wɪð ju:],B1_L169_S20.mp3
+21,Матч начнется через десять минут,The match will start in ten minutes,[ðə mæʧ wɪl stɑ:t ɪn ten ˈmɪnɪts],B1_L169_S21.mp3
+22,Он не мог скрыть своего восхищения,He couldn't hide his admiration,[hi: ˈkʊdnt haɪd hɪz ˌædməˈreɪʃn],B1_L169_S22.mp3
+23,Пристегни ремень!,Fasten the belt!,[ˈfɑ:sn ðə belt!],B1_L169_S23.mp3
+24,Он сказал это с чувством восхищения,He said it with a sense of admiration,[hi: sed ɪt wɪð ə sens ɒv ˌædməˈreɪʃn],B1_L169_S24.mp3
+25,Что его остановило?,What stopped him?,[wɒt stɒpt hɪm?],B1_L169_S25.mp3
+26,Я не часто это делаю,I don't often do it,[aɪ dəʊnt ˈɒfn du: ɪt],B1_L169_S26.mp3
+27,Он сделал это этим утром,He has done it this morning,[hi: hæz dʌn ɪt ðɪs ˈmɔ:nɪŋ],B1_L169_S27.mp3
+28,Плохая погода задержала их рейс,Bad weather delayed their flight,[bæd ˈweðə dɪˈleɪd ðeə flaɪt],B1_L169_S28.mp3
+29,Мне в любом случае пришлось это сделать,I had to do it in any case,[aɪ hæd tu: du: ɪt ɪn ˈeni keɪs],B1_L169_S29.mp3
+30,Она готовит больше часа,She has been cooking for over an hour,[ʃi: hæz bi:n ˈkʊkɪŋ fɔ: ˈəʊvər ən ˈaʊə],B1_L169_S30.mp3
+31,Он не часто туда ходит,He doesn't often go there,[hi: dʌznt ˈɒfn gəʊ ðeə],B1_L169_S31.mp3
+32,Этот документ был отредактирован вчера,This document was edited yesterday,[ðɪs ˈdɒkjʊmənt wɒz ˈedɪtɪd ˈjestədeɪ],B1_L169_S32.mp3
+33,Я закончу писать это письмо примерно через пять минут,I will finish writing this letter in about five minutes,[aɪ wɪl ˈfɪnɪʃ ˈraɪtɪŋ ðɪs ˈletər ɪn əˈbaʊt faɪv ˈmɪnɪts],B1_L169_S33.mp3
+34,Это было строго запрещено,It was strictly prohibited,[ɪt wɒz ˈstrɪktli prəˈhɪbɪtɪd],B1_L169_S34.mp3
+35,Как давно ты играешь в шахматы?,How long have you been playing chess?,[haʊ lɒŋ hæv ju: bi:n ˈpleɪɪŋ ʧes?],B1_L169_S35.mp3
+36,Его рейс был отменен из-за плохих погодных условий,His flight was cancelled due to bad weather conditions,[hɪz flaɪt wɒz ˈkænsəld dju: tu: bæd ˈweðə kənˈdɪʃənz],B1_L169_S36.mp3
+37,Он ремонтирует свою машину в гараже,He is repairing his car in the garage,[hi: ɪz rɪˈpeərɪŋ hɪz kɑ:r ɪn ðə ˈgærɑ:ʒ],B1_L169_S37.mp3
+38,Мой рабочий день начинается в восемь часов,My working day begins at eight o'clock,[maɪ ˈwɜ:kɪŋ deɪ bɪˈgɪnz æt eɪt əˈklɒk],B1_L169_S38.mp3
+39,Я был в Испании много лет назад,I was in Spain many years ago,[aɪ wɒz ɪn speɪn ˈmeni jɪəz əˈgəʊ],B1_L169_S39.mp3
+40,Я вчера видел отличный фильм,I saw a great movie yesterday,[aɪ sɔ: ə greɪt ˈmu:vi ˈjestədeɪ],B1_L169_S40.mp3
+41,"Я очень рад слышать, что ты сдал тест",I'm very pleased to hear that you passed the test,[aɪm ˈveri pli:zd tu: hɪə ðæt ju: pɑ:st ðə test],B1_L169_S41.mp3
+42,"Я не знаю, с чего начать",I don't know what to start with,[aɪ dəʊnt nəʊ wɒt tu: stɑ:t wɪð],B1_L169_S42.mp3
+43,"Я хотел выучить английский самостоятельно, но я не знал, с чего начать",I wanted to learn English by myself but I didn't know what to start with,[aɪ ˈwɒntɪd tu: lɜ:n ˈɪŋglɪʃ baɪ maɪˈself bʌt aɪ dɪdnt nəʊ wɒt tu: stɑ:t wɪð],B1_L169_S43.mp3
+44,Меньше ошибок было сделано мной,Fewer mistakes were made by me,[ˈfju:ə mɪsˈteɪks wɜ: meɪd baɪ mi:],B1_L169_S44.mp3
+45,"Его руки были грязные, потому что он долгое время работал в саду",His hands were dirty because he had been working in the garden for a long time,[hɪz hændz wɜ: ˈdɜ:ti bɪˈkɒz hi: hæd bi:n ˈwɜ:kɪŋ ɪn ðə ˈgɑ:dn fɔ: ə lɒŋ taɪm],B1_L169_S45.mp3
+46,"Когда учительница пыталась что-то объяснить, ее никто не слушал","When the teacher was trying to explain something, no one was listening to her","[wen ðə ˈti:ʧə wɒz ˈtraɪɪŋ tu: ɪksˈpleɪn ˈsʌmθɪŋ, nəʊ wʌn wɒz ˈlɪsnɪŋ tu: hɜ:]",B1_L169_S46.mp3
+47,"Когда она открыла дверь, там стоял незнакомец","When she opened the door, a stranger was standing there","[wen ʃi: ˈəʊpənd ðə dɔ:, ə ˈstreɪnʤə wɒz ˈstændɪŋ ðeə]",B1_L169_S47.mp3
+48,"Когда она купит квартиру, она попросит его сделать ремонт","When she buys an apartment, she will ask him to do repairs","[wen ʃi: baɪz ən əˈpɑ:tmənt, ʃi: wɪl ɑ:sk hɪm tu: du: rɪˈpeəz]",B1_L169_S48.mp3
+49,"Когда он встал, то выглянул в окно и увидел, что шел сильный дождь","When he got up, he looked out of the window and saw that it was raining heavily","[wen hi: gɒt ʌp, hi: lʊkt aʊt ɒv ðə ˈwɪndəʊ ænd sɔ: ðæt ɪt wɒz ˈreɪnɪŋ ˈhevɪli]",B1_L169_S49.mp3
+50,"Мы смотрели эту программу, когда мы услышали странный шум",We were watching this program when we heard a strange noise,[wi: wɜ: ˈwɒʧɪŋ ðɪs ˈprəʊgræm wen wi: hɜ:d ə streɪnʤ nɔɪz],B1_L169_S50.mp3
+51,"Они были действительно шокированы, когда услышали это объявление",They were really shocked when they heard this announcement,[ðeɪ wɜ: ˈrɪəli ʃɒkt wen ðeɪ hɜ:d ðɪs əˈnaʊnsmənt],B1_L169_S51.mp3
+52,"Я надеюсь, что смогу говорить по-английски свободно в следующем году",I hope I will be able to speak English fluently next year,[aɪ həʊp aɪ wɪl bi: ˈeɪbl tu: spi:k ˈɪŋglɪʃ ˈflu:əntli nekst jɪə],B1_L169_S52.mp3
+53,"Я пришел к выводу, что это необходимо сделать",I came to the conclusion that it's necessary to do it,[aɪ keɪm tu: ðə kənˈklu:ʒən ðæt ɪts ˈnesɪsəri tu: du: ɪt],B1_L169_S53.mp3
+54,"К тому времени, как ты уедешь, я буду здесь уже два дня","By the time you leave, I will have been here for two days","[baɪ ðə taɪm ju: li:v, aɪ wɪl hæv bi:n hɪə fɔ: tu: deɪz]",B1_L169_S54.mp3
+55,Последние пять лет он живет в Нью-Йорке,He has been living in New York for the last five years,[hi: hæz bi:n ˈlɪvɪŋ ɪn nju: jɔ:k fɔ: ðə lɑ:st faɪv jɪəz],B1_L169_S55.mp3
+56,"Это самый полезный курс, который я когда-либо смотрел",It is the most useful course I have ever watched,[ɪt ɪz ðə məʊst ˈju:sfəl kɔ:s aɪ hæv ˈevə wɒʧt],B1_L169_S56.mp3
+57,"Это самый интересный фильм, который я когда-либо смотрел",It is the most interesting movie I have ever watched,[ɪt ɪz ðə məʊst ˈɪntrɪstɪŋ ˈmu:vi aɪ hæv ˈevə wɒʧt],B1_L169_S57.mp3
+58,"Это самая полезная книга, которую я когда-либо покупал",It is the most useful book I have ever bought,[ɪt ɪz ðə məʊst ˈju:sfəl bʊk aɪ hæv ˈevə bɔ:t],B1_L169_S58.mp3
+59,Чем он зарабатывает на жизнь?,What does he do for a living?,[wɒt dʌz hi: du: fɔ: ə ˈlɪvɪŋ?],B1_L169_S59.mp3
+60,Чем ты зарабатываешь на жизнь?,What do you do for a living?,[wɒt du: ju: du: fɔ: ə ˈlɪvɪŋ?],B1_L169_S60.mp3
+61,Чем ты зарабатывал на жизнь в прошлом году?,What did you do for a living last year?,[wɒt dɪd ju: du: fɔ: ə ˈlɪvɪŋ lɑ:st jɪə?],B1_L169_S61.mp3
+62,Входить строго запрещено,It is strictly prohibited to enter,[ɪt ɪz ˈstrɪktli prəˈhɪbɪtɪd tu: ˈentə],B1_L169_S62.mp3
+63,Это было строго запрещено делать,It was strictly forbidden to do it,[ɪt wɒz ˈstrɪktli fəˈbɪdn tu: du: ɪt],B1_L169_S63.mp3
+64,В это здание запрещено входить?,Is it prohibited to enter this building?,[ɪz ɪt prəˈhɪbɪtɪd tu: ˈentə ðɪs ˈbɪldɪŋ?],B1_L169_S64.mp3
+65,"Он будет делать ремонт, когда купит дом",He will do repairs when he buys a house,[hi: wɪl du: rɪˈpeəz wen hi: baɪz ə haʊs],B1_L169_S65.mp3
+66,"Он будет делать ремонт, когда въедет в этот дом",He will do repairs when he moves into this house,[hi: wɪl du: rɪˈpeəz wen hi: mu:vz ˈɪntu: ðɪs haʊs],B1_L169_S66.mp3
+67,"Он отремонтирует свою машину, когда получит деньги",He will repair his car when he gets money,[hi: wɪl rɪˈpeə hɪz kɑ: wen hi: gets ˈmʌni],B1_L169_S67.mp3
+68,Чем он занят в последнее время?,What has he been busy with lately?,[wɒt hæz hi: bi:n ˈbɪzi wɪð ˈleɪtli?],B1_L169_S68.mp3
+69,Чем она была занята?,What was she busy with?,[wɒt wɒz ʃi: ˈbɪzi wɪð?],B1_L169_S69.mp3
+70,Я занят этим в последнее время,I have been busy with it lately,[aɪ hæv bi:n ˈbɪzi wɪð ɪt ˈleɪtli],B1_L169_S70.mp3
+71,Она все еще рассматривает это предложение о работе,She is still considering this job offer,[ʃi: ɪz stɪl kənˈsɪdərɪŋ ðɪs ʤɒb ˈɒfə],B1_L169_S71.mp3
+72,"Она все еще ищет новую работу …………….…................................................... 73. Она все еще ждет тебя …………….…................................................... 74. Не забудь пристегнуть ремень! …………….…................................................... 75. Не забудь это сделать! …………….…................................................... 76. Не забудь покормить мою кошку! …………….…................................................... 77. Строго запрещено делать это …………….…................................................... 78. Это запрещено делать? …………….…................................................... 79. Было запрещено обсуждать это …………….…................................................... 80. Чем ты был занят? …………….…................................................... 81. Я был занят своим домашним заданием …………….…................................................... 82. Ты был занят этим вчера? …………….…................................................... 83. Чем ты обычно зарабатываешь на жизнь? …………….…................................................... 84. Чем она будет зарабатывать на жизнь? …………….…................................................... 8 85. Чем ты занят? …………….…................................................... 86. Дом будет отремонтирован к следующему месяцу …………….…................................................... 87. Было очень сложно понять с чего начать …………….…................................................... 88. Они отремонтируют дом к следующей неделе …………….…................................................... 89. Все были шокированы, когда они услышали то объявление …………….…................................................... 90. К тому времени, как он уйдет, я буду здесь три часа …………….…................................................... 91. Наша квартира будет отремонтирована в ближайшее время …………….…................................................... 92. Я уже посмотрел два фильма на этой неделе …………….…................................................... 93. Говорят, это один из лучших отелей в мире …………….…................................................... 94. Завтра в шесть я буду спать …………….…................................................... 95. Рабочие скоро сделают ремонт в моей квартире …………….…................................................... 96. Завтра в восемь я буду в пути на работу …………….…................................................... 97. Квартира ремонтируется сейчас …………….…................................................... 9 98. Когда он открыл дверь, там никого не было …………….…................................................... 99. Это самое смешное видео, которое я когда-либо смотрел …………….…................................................... 10 Ответы 1. Он делал свое домашнее задание, пока его брат играл в компьютерную игру",He was doing his homework while his brother was playing a computer game,[hi: wɒz ˈdu:ɪŋ hɪz ˈhəʊmˌwɜ:k waɪl hɪz ˈbrʌðə wɒz ˈpleɪɪŋ ə kəmˈpju:tə geɪm],B1_L169_S72.mp3
+73,Она все еще ждет тебя,She is still waiting for you,[ʃi: ɪz stɪl ˈweɪtɪŋ fɔ: ju:],B1_L169_S73.mp3
+74,Не забудь пристегнуть ремень!,Don't forget to fasten the belt!,[dəʊnt fəˈget tu: ˈfɑ:sn ðə belt!],B1_L169_S74.mp3
+75,Не забудь это сделать!,Don't forget to do it!,[dəʊnt fəˈget tu: du: ɪt!],B1_L169_S75.mp3
+76,Не забудь покормить мою кошку!,Don't forget to feed my cat!,[dəʊnt fəˈget tu: fi:d maɪ kæt!],B1_L169_S76.mp3
+77,Строго запрещено делать это,It is strictly forbidden to do it,[ɪt ɪz ˈstrɪktli fəˈbɪdn tu: du: ɪt],B1_L169_S77.mp3
+78,Это запрещено делать?,Is it forbidden to do it?,[ɪz ɪt fəˈbɪdn tu: du: ɪt?],B1_L169_S78.mp3
+79,Было запрещено обсуждать это,It was prohibited to discuss it,[ɪt wɒz prəˈhɪbɪtɪd tu: dɪsˈkʌs ɪt],B1_L169_S79.mp3
+80,Чем ты был занят?,What were you busy with?,[wɒt wɜ: ju: ˈbɪzi wɪð?],B1_L169_S80.mp3
+81,Я был занят своим домашним заданием,I was busy with my homework,[aɪ wɒz ˈbɪzi wɪð maɪ ˈhəʊmˌwɜ:k],B1_L169_S81.mp3
+82,Ты был занят этим вчера?,Were you busy with it yesterday?,[wɜ: ju: ˈbɪzi wɪð ɪt ˈjestədeɪ?],B1_L169_S82.mp3
+83,Чем ты обычно зарабатываешь на жизнь?,What do you usually do for a living?,[wɒt du: ju: ˈju:ʒʊəli du: fɔ: ə ˈlɪvɪŋ?],B1_L169_S83.mp3
+84,Чем она будет зарабатывать на жизнь?,What will she do for a living?,[wɒt wɪl ʃi: du: fɔ: ə ˈlɪvɪŋ?],B1_L169_S84.mp3
+85,Чем ты занят?,What are you busy with?,[wɒt ɑ: ju: ˈbɪzi wɪð?],B1_L169_S85.mp3
+86,Дом будет отремонтирован к следующему месяцу,The house will have been repaired by next month,[ðə haʊs wɪl hæv bi:n rɪˈpeəd baɪ nekst mʌnθ],B1_L169_S86.mp3
+87,Было очень сложно понять с чего начать,It was very difficult to understand what to start with,[ɪt wɒz ˈveri ˈdɪfɪkəlt tu: ˌʌndəˈstænd wɒt tu: stɑ:t wɪð],B1_L169_S87.mp3
+88,Они отремонтируют дом к следующей неделе,They will have repaired the house by next week,[ðeɪ wɪl hæv rɪˈpeəd ðə haʊs baɪ nekst wi:k],B1_L169_S88.mp3
+89,"Все были шокированы, когда они услышали то объявление",Everyone was shocked when they heard that announcement,[ˈevrɪwʌn wɒz ʃɒkt wen ðeɪ hɜ:d ðæt əˈnaʊnsmənt],B1_L169_S89.mp3
+90,"К тому времени, как он уйдет, я буду здесь три часа","By the time he leaves, I will have been staying here for three hours","[baɪ ðə taɪm hi: li:vz, aɪ wɪl hæv bi:n ˈsteɪɪŋ hɪə fɔ: θri: ˈaʊəz]",B1_L169_S90.mp3
+91,Наша квартира будет отремонтирована в ближайшее время,Our apartment will be redecorated soon,[ˈaʊər əˈpɑ:tmənt wɪl bi: ˌri:ˈdekəreɪtɪd su:n],B1_L169_S91.mp3
+92,Я уже посмотрел два фильма на этой неделе,I have seen two movies so far this week,[aɪ hæv si:n tu: ˈmu:viz səʊ fɑ: ðɪs wi:k],B1_L169_S92.mp3
+93,"Говорят, это один из лучших отелей в мире",It is said it's one of the best hotels in the world,[ɪt ɪz sed ɪts wʌn ɒv ðə best həʊˈtelz ɪn ðə wɜ:ld],B1_L169_S93.mp3
+94,Завтра в шесть я буду спать,Tomorrow at six I will be sleeping,[təˈmɒrəʊ æt sɪks aɪ wɪl bi: ˈsli:pɪŋ],B1_L169_S94.mp3
+95,Рабочие скоро сделают ремонт в моей квартире,The workers will redecorate my apartment soon,[ðə ˈwɜ:kəz wɪl ˌri:ˈdekəreɪt maɪ əˈpɑ:tmənt su:n],B1_L169_S95.mp3
+96,Завтра в восемь я буду в пути на работу,Tomorrow at eight I will be on my way to work,[təˈmɒrəʊ æt eɪt aɪ wɪl bi: ɒn maɪ weɪ tu: wɜ:k],B1_L169_S96.mp3
+97,Квартира ремонтируется сейчас,The apartment is being redecorated now,[ði əˈpɑ:tmənt ɪz ˈbi:ɪŋ ˌri:ˈdekəreɪtɪd naʊ],B1_L169_S97.mp3
+98,"Когда он открыл дверь, там никого не было","When he opened the door, no one was there","[wen hi: ˈəʊpənd ðə dɔ:, nəʊ wʌn wɒz ðeə]",B1_L169_S98.mp3
+99,"Это самое смешное видео, которое я когда-либо смотрел",It is the funniest video I have ever watched,[ɪt ɪz ðə ˈfʌnɪɪst ˈvɪdɪəʊ aɪ hæv ˈevə wɒʧt],B1_L169_S99.mp3

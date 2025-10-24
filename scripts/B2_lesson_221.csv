@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Им не хватает денег,They are short of money,[ðeɪ ɑ: ʃɔ:t ɒv ˈmʌni],B2_L221_S2.mp3
+3,Его знание бизнеса довольно ограничено,His knowledge of business is rather limited,[hɪz ˈnɒlɪʤ ɒv ˈbɪznɪs ɪz ˈrɑ:ðə ˈlɪmɪtɪd],B2_L221_S3.mp3
+4,Они пригласили нас на свою свадьбу,They invited us to their wedding,[ðeɪ ɪnˈvaɪtɪd ʌs tu: ðeə ˈwedɪŋ],B2_L221_S4.mp3
+5,Он опоздал на встречу,He was late for the meeting,[hi: wɒz leɪt fɔ: ðə ˈmi:tɪŋ],B2_L221_S5.mp3
+6,Их дом находится близко к лесу,Their house is close to the forest,[ðeə haʊs ɪz kləʊs tu: ðə ˈfɒrɪst],B2_L221_S6.mp3
+7,Я был немного разочарован этими результатами,I was a little bit disappointed about these results,[aɪ wɒz ə ˈlɪtl bɪt ˌdɪsəˈpɔɪntɪd əˈbaʊt ði:z rɪˈzʌlts],B2_L221_S7.mp3
+8,Я был категорически против этого решения,I was strongly opposed to this decision,[aɪ wɒz ˈstrɒŋli əˈpəʊzd tu: ðɪs dɪˈsɪʒən],B2_L221_S8.mp3
+9,"Я вижу, что у этих студентов есть жажда знаний",I see that these students have a thirst for knowledge,[aɪ si: ðæt ði:z ˈstju:dənts hæv ə θɜ:st fɔ: ˈnɒlɪʤ],B2_L221_S9.mp3
+10,Я был действительно разочарован в нем,I was really disappointed in him,[aɪ wɒz ˈrɪəli ˌdɪsəˈpɔɪntɪd ɪn hɪm],B2_L221_S10.mp3
+11,Это связано со следующей вещью,It is related to the following thing,[ɪt ɪz rɪˈleɪtɪd tu: ðə ˈfɒləʊɪŋ θɪŋ],B2_L221_S11.mp3
+12,Это очевидно для большинства людей,It's obvious to most people,[ɪts ˈɒbvɪəs tu: məʊst ˈpi:pl],B2_L221_S12.mp3
+13,Он очень хорошо знает иностранные языки,He has very good knowledge of foreign languages,[hi: hæz ˈveri gʊd ˈnɒlɪʤ ɒv ˈfɒrɪn ˈlæŋgwɪʤɪz],B2_L221_S13.mp3
+14,Мой друг живет рядом с нами,My friend lives close to us,[maɪ frend lɪvz kləʊs tu: ʌs],B2_L221_S14.mp3
+15,Эти две вещи тесно связаны друг с другом,These two things are closely related to each other,[ði:z tu: θɪŋz ɑ: ˈkləʊsli rɪˈleɪtɪd tu: i:ʧ ˈʌðə],B2_L221_S15.mp3
+16,Я хотел бы пригласить тебя на ужин,I'd like to invite you for dinner,[aɪd laɪk tu: ɪnˈvaɪt ju: fɔ: ˈdɪnə],B2_L221_S16.mp3
+17,Это очевидно для большинства людей,It is obvious to most people,[ɪt ɪz ˈɒbvɪəs tu: məʊst ˈpi:pl],B2_L221_S17.mp3
+18,Он опаздывал на поезд,He was late for the train,[hi: wɒz leɪt fɔ: ðə treɪn],B2_L221_S18.mp3
+19,Мне нужно подготовиться к этому тесту более тщательно,I need to prepare for this test more thoroughly,[aɪ ni:d tu: prɪˈpeə fɔ: ðɪs test mɔ: ˈθʌrəli],B2_L221_S19.mp3
+20,Она любит детей,She is fond of children,[ʃi: ɪz fɒnd ɒv ˈʧɪldrən],B2_L221_S20.mp3
+21,У нас есть жажда знаний,We have a thirst for knowledge,[wi: hæv ə θɜ:st fɔ: ˈnɒlɪʤ],B2_L221_S21.mp3
+22,Мне не хватает наличных денег,I am short of cash,[aɪ æm ʃɔ:t ɒv kæʃ],B2_L221_S22.mp3
+23,Я действительно люблю изучать английский,I am really fond of learning English,[aɪ æm ˈrɪəli fɒnd ɒv ˈlɜ:nɪŋ ˈɪŋglɪʃ],B2_L221_S23.mp3
+24,Посмотри на весь этот беспорядок!,Look at all this mess!,[lʊk æt ɔ:l ðɪs mes!],B2_L221_S24.mp3
+25,Не сердись на него!,Don't be angry with him!,[dəʊnt bi: ˈæŋgri wɪð hɪm!],B2_L221_S25.mp3
+26,У него мало знаний о бизнесе,He has little knowledge of business,[hi: hæz ˈlɪtl ˈnɒlɪʤ ɒv ˈbɪznɪs],B2_L221_S26.mp3
+27,Пассажиры очень злились из-за задержки,The passengers were very angry about the delay,[ðə ˈpæsɪnʤəz wɜ: ˈveri ˈæŋgri əˈbaʊt ðə dɪˈleɪ],B2_L221_S27.mp3
+28,Она опоздала на ужин,She was late for dinner,[ʃi: wɒz leɪt fɔ: ˈdɪnə],B2_L221_S28.mp3
+29,У меня есть жажда знаний,I have a thirst for knowledge,[aɪ hæv ə θɜ:st fɔ: ˈnɒlɪʤ],B2_L221_S29.mp3
+30,Это стало очевидным для всех нас,It became obvious to all of us,[ɪt bɪˈkeɪm ˈɒbvɪəs tu: ɔ:l ɒv ʌs],B2_L221_S30.mp3
+31,"Он готов к худшему, но ожидает лучшего",He is prepared for the worst but expects the best,[hi: ɪz prɪˈpeəd fɔ: ðə wɜ:st bʌt ɪksˈpekts ðə best],B2_L221_S31.mp3
+32,Кого ты собираешься пригласить на вечеринку?,Who are you going to invite to the party?,[hu: ɑ: ju: ˈgəʊɪŋ tu: ɪnˈvaɪt tu: ðə ˈpɑ:ti?],B2_L221_S32.mp3
+33,Это всем очевидно,It is obvious to everyone,[ɪt ɪz ˈɒbvɪəs tu: ˈevrɪwʌn],B2_L221_S33.mp3
+34,Эти две проблемы тесно связаны друг с другом,These two problems are closely related to each other,[ði:z tu: ˈprɒbləmz ɑ: ˈkləʊsli rɪˈleɪtɪd tu: i:ʧ ˈʌðə],B2_L221_S34.mp3
+35,Какая связь между теми двумя вещами?,What's the connection between those two things?,[wɒts ðə kəˈnekʃən bɪˈtwi:n ðəʊz tu: θɪŋz?],B2_L221_S35.mp3
+36,Ей должно быть стыдно за это,She should be ashamed of it,[ʃi: ʃʊd bi: əˈʃeɪmd ɒv ɪt],B2_L221_S36.mp3
+37,Я хотел бы пригласить тебя на чашку кофе,I'd like to invite you for a cup of coffee,[aɪd laɪk tu: ɪnˈvaɪt ju: fɔ: ə kʌp ɒv ˈkɒfi],B2_L221_S37.mp3
+38,Ее квартира рядом с парком,Her apartment is close to the park,[hɜ: əˈpɑ:tmənt ɪz kləʊs tu: ðə pɑ:k],B2_L221_S38.mp3
+39,Кто несет ответственность за этот инцидент?,Who is responsible for this incident?,[hu: ɪz rɪsˈpɒnsəbl fɔ: ðɪs ˈɪnsɪdənt?],B2_L221_S39.mp3
+40,Это для меня очевидно,It is obvious to me,[ɪt ɪz ˈɒbvɪəs tu: mi:],B2_L221_S40.mp3
+41,"Ему нравится говорить о разных вещах, связанных с бизнесом или политикой",He likes talking about different things related to business or politics,[hi: laɪks ˈtɔ:kɪŋ əˈbaʊt ˈdɪfrənt θɪŋz rɪˈleɪtɪd tu: ˈbɪznɪs ɔ: ˈpɒlɪtɪks],B2_L221_S41.mp3
+42,"Его родителям стало очевидно, что у него очень большие проблемы с его учебой",It became obvious to his parents that he had very big problems with his studies,[ɪt bɪˈkeɪm ˈɒbvɪəs tu: hɪz ˈpeərənts ðæt hi: hæd ˈveri bɪg ˈprɒbləmz wɪð hɪz ˈstʌdiz],B2_L221_S42.mp3
+43,Я пишу тебе в связи с твоей недавней просьбой,I am writing to you in connection with your recent request,[aɪ æm ˈraɪtɪŋ tu: ju: ɪn kəˈnekʃən wɪð jɔ: ˈri:snt rɪˈkwest],B2_L221_S43.mp3
+44,Большинство сотрудников категорически против этих радикальных изменений,Most employees are strongly opposed to these radical changes,[məʊst ˌemplɔɪˈi:z ɑ: ˈstrɒŋli əˈpəʊzd tu: ði:z ˈrædɪkəl ˈʧeɪnʤɪz],B2_L221_S44.mp3
+45,"Полиция ищет любую информацию, связанную с этим преступлением",The police are looking for any information related to this crime,[ðə pəˈli:s ɑ: ˈlʊkɪŋ fɔ: ˈeni ˌɪnfəˈmeɪʃən rɪˈleɪtɪd tu: ðɪs kraɪm],B2_L221_S45.mp3
+46,Я пишу тебе в связи с твоим предложением о работе,I am writing to you in connection with your job offer,[aɪ æm ˈraɪtɪŋ tu: ju: ɪn kəˈnekʃən wɪð jɔ: ʤɒb ˈɒfə],B2_L221_S46.mp3
+47,"Для всех очевидно, что это обращение несправедливо",It's obvious to everyone that this treatment is unfair,[ɪts ˈɒbvɪəs tu: ˈevrɪwʌn ðæt ðɪs ˈtri:tmənt ɪz ʌnˈfeə],B2_L221_S47.mp3
+48,"Мне кажется, что эти проблемы связаны с его воспитанием",It seems to me that these problems are related to his upbringing,[ɪt si:mz tu: mi: ðæt ði:z ˈprɒbləmz ɑ: rɪˈleɪtɪd tu: hɪz ˈʌpˌbrɪŋɪŋ],B2_L221_S48.mp3
+49,Он ответственный за проверку этой работы,He is responsible for checking this work,[hi: ɪz rɪsˈpɒnsəbl fɔ: ˈʧekɪŋ ðɪs wɜ:k],B2_L221_S49.mp3
+50,Между этими двумя авариями существует тесная связь,There is a close connection between these two accidents,[ðeər ɪz ə kləʊs kəˈnekʃən bɪˈtwi:n ði:z tu: ˈæksɪdənts],B2_L221_S50.mp3
+51,На что ты так злишься?,What are you so angry about?,[wɒt ɑ: ju: səʊ ˈæŋgri əˈbaʊt?],B2_L221_S51.mp3
+52,Мальчик был очень разочарован такой низкой оценкой,The boy was very disappointed about such a low grade,[ðə bɔɪ wɒz ˈveri ˌdɪsəˈpɔɪntɪd əˈbaʊt sʌʧ ə ləʊ greɪd],B2_L221_S52.mp3
+53,Не все кажется очевидным для меня,Not everything seems obvious to me,[nɒt ˈevrɪθɪŋ si:mz ˈɒbvɪəs tu: mi:],B2_L221_S53.mp3
+54,Один из моих друзей живет близко к нам,One of my friends lives close to us,[wʌn ɒv maɪ frendz lɪvz kləʊs tu: ʌs],B2_L221_S54.mp3
+55,У нее глубокие знания этого предмета,She has a profound knowledge of this subject,[ʃi: hæz ə prəˈfaʊnd ˈnɒlɪʤ ɒv ðɪs ˈsʌbʤɪkt],B2_L221_S55.mp3
+56,Это не очевидно для тебя?,Isn't it obvious to you?,[ˈɪznt ɪt ˈɒbvɪəs tu: ju:?],B2_L221_S56.mp3
+57,Это не было очевидно для меня,It wasn't obvious to me,[ɪt wɒznt ˈɒbvɪəs tu: mi:],B2_L221_S57.mp3
+58,Что было для него очевидно?,What was obvious to him?,[wɒt wɒz ˈɒbvɪəs tu: hɪm?],B2_L221_S58.mp3
+59,Ему нечего стыдиться,He has nothing to be ashamed of,[hi: hæz ˈnʌθɪŋ tu: bi: əˈʃeɪmd ɒv],B2_L221_S59.mp3
+60,Им должно быть стыдно за такое поведение,They should be ashamed of such behaviour,[ðeɪ ʃʊd bi: əˈʃeɪmd ɒv sʌʧ bɪˈheɪvjə],B2_L221_S60.mp3
+61,"Я думаю, что ей нечего стыдиться",I think that she has nothing to be ashamed of,[aɪ θɪŋk ðæt ʃi: hæz ˈnʌθɪŋ tu: bi: əˈʃeɪmd ɒv],B2_L221_S61.mp3
+62,Компании не хватает этих ресурсов,The company is short of these resources,[ðə ˈkʌmpəni ɪz ʃɔ:t ɒv ði:z rɪˈsɔ:sɪz],B2_L221_S62.mp3
+63,Ему действительно не хватает денег,He is really short of money,[hi: ɪz ˈrɪəli ʃɔ:t ɒv ˈmʌni],B2_L221_S63.mp3
+64,"Я думаю, что ей не хватает этих знаний …………….…................................................... 65. Отель находится близко к морю …………….…................................................... 66. Его дом расположен близко к океану …………….…................................................... 67. Твой отель находится близко к тому музею? …………….…................................................... 68. Их коттедж находится рядом с озером …………….…................................................... 69. Отель находится рядом с морем …………….…................................................... 70. Этот супермаркет находится рядом с моим домом …………….…................................................... 71. Мне нечего бояться …………….…................................................... 72. Ему нечего бояться …………….…................................................... 73. Мне есть чего бояться? …………….…................................................... 74. Ты был приглашен на ту вечеринку? …………….…................................................... 75. Его также не пригласили на ту вечеринку …………….…................................................... 8 76. Они были приглашены на эту встречу …………….…................................................... 77. На кого он так зол? …………….…................................................... 78. На что она так злится? …………….…................................................... 79. Я так зол на него …………….…................................................... 80. Он против идеи жить за границей …………….…................................................... 81. Не удивительно, что люди против этих мер …………….…................................................... 82. Ты против этой идеи? …………….…................................................... 83. У него очень глубокие знания по этому предмету …………….…................................................... 84. Я думаю, что у нее глубокие знания по этой теме …………….…................................................... 85. Мой учитель имеет глубокие знания в истории …………….…................................................... 86. Она любит посещать музеи, театры и художественные галереи …………….…................................................... 87. Его неудовлетворенность этим ответом очевидна для всех …………….…................................................... 9 88. Это было равносильно поражению …………….…................................................... 89. Неудивительно, что люди против повышения налогов …………….…................................................... 90. Им должно быть стыдно за такой поступок …………….…................................................... 91. Он был очень разочарован тем, что не получил эту работу …………….…................................................... 92. Она говорит, что ей нечего стыдиться …………….…................................................... 93. Им нечего бояться …………….…................................................... 94. Он был горько разочарован этой неудачей …………….…................................................... 95. Она действительно злится на меня за то, что я сделал это …………….…................................................... 96. Его также пригласили на вечеринку …………….…................................................... 97. Это равносильно поражению …………….…................................................... 98. Отель рядом с океаном …………….…................................................... 99. Мне становится очевидно, что нам нужно быть с ним более осторожными …………….…................................................... 10 100. Она бросила на него сердитый взгляд …………….…................................................... 11 Ответы 1. Большинство работников против этих изменений",Most workers are opposed to these changes,[məʊst ˈwɜ:kəz ɑ: əˈpəʊzd tu: ði:z ˈʧeɪnʤɪz],B2_L221_S64.mp3
+65,Отель находится близко к морю,The hotel is close to the sea,[ðə həʊˈtel ɪz kləʊs tu: ðə si:],B2_L221_S65.mp3
+66,Его дом расположен близко к океану,His house is located close to the ocean,[hɪz haʊs ɪz ləʊˈkeɪtɪd kləʊs tu: ði ˈəʊʃən],B2_L221_S66.mp3
+67,Твой отель находится близко к тому музею?,Is your hotel close to that museum?,[ɪz jɔ: həʊˈtel kləʊs tu: ðæt mju:ˈzɪəm?],B2_L221_S67.mp3
+68,Их коттедж находится рядом с озером,Their cottage is near the lake,[ðeə ˈkɒtɪʤ ɪz nɪə ðə leɪk],B2_L221_S68.mp3
+69,Отель находится рядом с морем,The hotel is near the sea,[ðə həʊˈtel ɪz nɪə ðə si:],B2_L221_S69.mp3
+70,Этот супермаркет находится рядом с моим домом,This supermarket is near my house,[ðɪs ˈsju:pəˌmɑ:kɪt ɪz nɪə maɪ haʊs],B2_L221_S70.mp3
+71,Мне нечего бояться,I have nothing to be afraid of,[aɪ hæv ˈnʌθɪŋ tu: bi: əˈfreɪd ɒv],B2_L221_S71.mp3
+72,Ему нечего бояться,He has nothing to be afraid of,[hi: hæz ˈnʌθɪŋ tu: bi: əˈfreɪd ɒv],B2_L221_S72.mp3
+73,Мне есть чего бояться?,Do I have anything to be afraid of?,[du: aɪ hæv ˈenɪθɪŋ tu: bi: əˈfreɪd ɒv?],B2_L221_S73.mp3
+74,Ты был приглашен на ту вечеринку?,Were you invited to that party?,[wɜ: ju: ɪnˈvaɪtɪd tu: ðæt ˈpɑ:ti?],B2_L221_S74.mp3
+75,Его также не пригласили на ту вечеринку,He wasn't also invited to that party,[hi: wɒznt ˈɔ:lsəʊ ɪnˈvaɪtɪd tu: ðæt ˈpɑ:ti],B2_L221_S75.mp3
+76,Они были приглашены на эту встречу,They were invited to this meeting,[ðeɪ wɜ: ɪnˈvaɪtɪd tu: ðɪs ˈmi:tɪŋ],B2_L221_S76.mp3
+77,На кого он так зол?,Who is he so angry with?,[hu: ɪz hi: səʊ ˈæŋgri wɪð?],B2_L221_S77.mp3
+78,На что она так злится?,What is she so angry about?,[wɒt ɪz ʃi: səʊ ˈæŋgri əˈbaʊt?],B2_L221_S78.mp3
+79,Я так зол на него,I am so angry with him,[aɪ æm səʊ ˈæŋgri wɪð hɪm],B2_L221_S79.mp3
+80,Он против идеи жить за границей,He is opposed to the idea of living abroad,[hi: ɪz əˈpəʊzd tu: ði aɪˈdɪə ɒv ˈlɪvɪŋ əˈbrɔ:d],B2_L221_S80.mp3
+81,"Не удивительно, что люди против этих мер","Not surprisingly, people are opposed to these measures","[nɒt səˈpraɪzɪŋli, ˈpi:pl ɑ: əˈpəʊzd tu: ði:z ˈmeʒəz]",B2_L221_S81.mp3
+82,Ты против этой идеи?,Are you opposed to this idea?,[ɑ: ju: əˈpəʊzd tu: ðɪs aɪˈdɪə?],B2_L221_S82.mp3
+83,У него очень глубокие знания по этому предмету,He has a very profound knowledge of this subject,[hi: hæz ə ˈveri prəˈfaʊnd ˈnɒlɪʤ ɒv ðɪs ˈsʌbʤɪkt],B2_L221_S83.mp3
+84,"Я думаю, что у нее глубокие знания по этой теме",I think she has a profound knowledge of this topic,[aɪ θɪŋk ʃi: hæz ə prəˈfaʊnd ˈnɒlɪʤ ɒv ðɪs ˈtɒpɪk],B2_L221_S84.mp3
+85,Мой учитель имеет глубокие знания в истории,My teacher has a profound knowledge of history,[maɪ ˈti:ʧə hæz ə prəˈfaʊnd ˈnɒlɪʤ ɒv ˈhɪstəri],B2_L221_S85.mp3
+86,"Она любит посещать музеи, театры и художественные галереи","She is fond of visiting museums, theatres and art galleries","[ʃi: ɪz fɒnd ɒv ˈvɪzɪtɪŋ mju:ˈzɪəmz, ˈθɪətəz ænd ɑ:t ˈgæləriz]",B2_L221_S86.mp3
+87,Его неудовлетворенность этим ответом очевидна для всех,His dissatisfaction with this answer is obvious to everyone,[hɪz dɪsˌsætɪsˈfækʃən wɪð ðɪs ˈɑːnsər ɪz ˈɒbvɪəs tuː ˈɛvrɪwʌn],B2_L221_S87.mp3
+88,Это было равносильно поражению,It was equivalent to a defeat,[ɪt wɒz ɪˈkwɪvələnt tu: ə dɪˈfi:t],B2_L221_S88.mp3
+89,"Неудивительно, что люди против повышения налогов","Not surprisingly, people are opposed to tax increases","[nɒt səˈpraɪzɪŋli, ˈpi:pl ɑ: əˈpəʊzd tu: tæks ˈɪnkri:sɪz]",B2_L221_S89.mp3
+90,Им должно быть стыдно за такой поступок,They should be ashamed of such an action,[ðeɪ ʃʊd bi: əˈʃeɪmd ɒv sʌʧ ən ˈækʃn],B2_L221_S90.mp3
+91,"Он был очень разочарован тем, что не получил эту работу",He was very disappointed about not getting this job,[hi: wɒz ˈveri ˌdɪsəˈpɔɪntɪd əˈbaʊt nɒt ˈgetɪŋ ðɪs ʤɒb],B2_L221_S91.mp3
+92,"Она говорит, что ей нечего стыдиться",She says that she has nothing to be ashamed of,[ʃi: sez ðæt ʃi: hæz ˈnʌθɪŋ tu: bi: əˈʃeɪmd ɒv],B2_L221_S92.mp3
+93,Им нечего бояться,They have nothing to be afraid of,[ðeɪ hæv ˈnʌθɪŋ tu: bi: əˈfreɪd ɒv],B2_L221_S93.mp3
+94,Он был горько разочарован этой неудачей,He was bitterly disappointed by this failure,[hi: wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd baɪ ðɪs ˈfeɪljə],B2_L221_S94.mp3
+95,"Она действительно злится на меня за то, что я сделал это",She is really angry with me for doing it,[ʃi: ɪz ˈrɪəli ˈæŋgri wɪð mi: fɔ: ˈdu:ɪŋ ɪt],B2_L221_S95.mp3
+96,Его также пригласили на вечеринку,He was also invited to the party,[hi: wɒz ˈɔ:lsəʊ ɪnˈvaɪtɪd tu: ðə ˈpɑ:ti],B2_L221_S96.mp3
+97,Это равносильно поражению,It is equivalent to a defeat,[ɪt ɪz ɪˈkwɪvələnt tu: ə dɪˈfi:t],B2_L221_S97.mp3
+98,Отель рядом с океаном,The hotel is near the ocean,[ðə həʊˈtel ɪz nɪə ði ˈəʊʃən],B2_L221_S98.mp3
+99,"Мне становится очевидно, что нам нужно быть с ним более осторожными",It is becoming obvious to me that we need to be more careful with him,[ɪt ɪz bɪˈkʌmɪŋ ˈɒbvɪəs tu: mi: ðæt wi: ni:d tu: bi: mɔ: ˈkeəfəl wɪð hɪm],B2_L221_S99.mp3
+100,Она бросила на него сердитый взгляд,She threw an angry look at him,[ʃi: θru: ən ˈæŋgri lʊk æt hɪm],B2_L221_S100.mp3

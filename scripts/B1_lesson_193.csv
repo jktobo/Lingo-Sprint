@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я готовлю обед сейчас,I am making lunch,[aɪ æm ˈmeɪkɪŋ lʌnʧ],B1_L193_S2.mp3
+3,Я могу приготовить тебе чашку чая,I can make you a cup of tea,[aɪ kæn meɪk ju: ə kʌp ɒv ti:],B1_L193_S3.mp3
+4,Он готовит завтрак,He is making breakfast,[hi: ɪz ˈmeɪkɪŋ ˈbrekfəst],B1_L193_S4.mp3
+5,Ты можешь сделать мне чашку чая?,Can you make me a cup of tea?,[kæn ju: meɪk mi: ə kʌp ɒv ti:?],B1_L193_S5.mp3
+6,Ты все сделал правильно,You did everything right,[ju: dɪd ˈevrɪθɪŋ raɪt],B1_L193_S6.mp3
+7,Он действительно плохо сдал экзамен,He did really badly in the exam,[hi: dɪd ˈrɪəli ˈbædli ɪn ði ɪgˈzæm],B1_L193_S7.mp3
+8,"Нам нужно что-то сделать, чтобы изменить ситуацию",We need to do something to change the situation,[wi: ni:d tu: du: ˈsʌmθɪŋ tu: ʧeɪnʤ ðə ˌsɪtjʊˈeɪʃən],B1_L193_S8.mp3
+9,Мне нужно помыть посуду прямо сейчас,I need to do the dishes now,[aɪ ni:d tu: du: ðə ˈdɪʃɪz naʊ],B1_L193_S9.mp3
+10,Ей приходится заниматься глажкой,She has to do the ironing,[ʃi: hæz tu: du: ði ˈaɪənɪŋ],B1_L193_S10.mp3
+11,Он постелил себе постель,He made his bed,[hi: meɪd hɪz bed],B1_L193_S11.mp3
+12,Ты сделал правильную вещь,You did the right thing,[ju: dɪd ðə raɪt θɪŋ],B1_L193_S12.mp3
+13,Он плохо сдал экзамен,He did badly in the exam,[hi: dɪd ˈbædli ɪn ði ɪgˈzæm],B1_L193_S13.mp3
+14,Я делаю там курс английского языка,I am doing an English course there,[aɪ æm ˈdu:ɪŋ ən ˈɪŋglɪʃ kɔ:s ðeə],B1_L193_S14.mp3
+15,Ты проделал отличную работу!,You did an excellent job!,[ju: dɪd ən ˈeksələnt ʤɒb!],B1_L193_S15.mp3
+16,Я сделал правильный выбор,I made the right choice,[aɪ meɪd ðə raɪt ʧɔɪs],B1_L193_S16.mp3
+17,Я сделал два бутерброда на завтрак,I made two sandwiches for breakfast,[aɪ meɪd tu: ˈsænwɪʤɪz fɔ: ˈbrekfəst],B1_L193_S17.mp3
+18,Ей нужно сделать прическу,She needs to do her hair,[ʃi: ni:dz tu: du: hɜ: heə],B1_L193_S18.mp3
+19,Ты можешь сделать мне сэндвич?,Can you make me a sandwich?,[kæn ju: meɪk mi: ə ˈsænwɪʤ?],B1_L193_S19.mp3
+20,Я делаю ужин,I am making dinner,[aɪ æm ˈmeɪkɪŋ ˈdɪnə],B1_L193_S20.mp3
+21,Она делает себе маникюр,She is doing her nails,[ʃi: ɪz ˈdu:ɪŋ hɜ: neɪlz],B1_L193_S21.mp3
+22,Ты все сделал должным образом,You did everything properly,[ju: dɪd ˈevrɪθɪŋ ˈprɒpəli],B1_L193_S22.mp3
+23,Она постирала белье,She did the laundry,[ʃi: dɪd ðə ˈlɔ:ndri],B1_L193_S23.mp3
+24,Ты хорошо справился с собеседованием,You did well in the interview,[ju: dɪd wel ɪn ði ˈɪntəvju:],B1_L193_S24.mp3
+25,Ты приготовил очень вкусный салат,You made a very tasty salad,[ju: meɪd ə ˈveri ˈteɪsti ˈsæləd],B1_L193_S25.mp3
+26,Кто обычно делает покупки в твоей семье?,Who usually does the shopping in your family?,[hu: ˈju:ʒʊəli dʌz ðə ˈʃɒpɪŋ ɪn jɔ: ˈfæmɪli?],B1_L193_S26.mp3
+27,Он проделал хорошую работу!,He did a good job!,[hi: dɪd ə gʊd ʤɒb!],B1_L193_S27.mp3
+28,Она обычно гладит белье,She usually does the ironing,[ʃi: ˈju:ʒʊəli dʌz ði ˈaɪənɪŋ],B1_L193_S28.mp3
+29,Я сделал эту работу вовремя,I did this work on time,[aɪ dɪd ðɪs wɜ:k ɒn taɪm],B1_L193_S29.mp3
+30,Ты проделал хорошую работу!,You did a good job!,[ju: dɪd ə gʊd ʤɒb!],B1_L193_S30.mp3
+31,Я готовлю обед,I am making lunch,[aɪ æm ˈmeɪkɪŋ lʌnʧ],B1_L193_S31.mp3
+32,Я сделал бутерброд для него,I made a sandwich for him,[aɪ meɪd ə ˈsænwɪʤ fɔ: hɪm],B1_L193_S32.mp3
+33,Ты можешь сделать мне одолжение?,Can you do me a favour?,[kæn ju: du: mi: ə ˈfeɪvə?],B1_L193_S33.mp3
+34,Она очень плохо сделала тест,She did very badly in the test,[ʃi: dɪd ˈveri ˈbædli ɪn ðə test],B1_L193_S34.mp3
+35,Он проходят бизнес-курс в этом университете,He is doing a business course at this university,[hi: ɪz ˈdu:ɪŋ ə ˈbɪznɪs kɔ:s æt ðɪs ˌju:nɪˈvɜ:sɪti],B1_L193_S35.mp3
+36,Его жена любит делать покупки,His wife likes doing the shopping,[hɪz waɪf laɪks ˈdu:ɪŋ ðə ˈʃɒpɪŋ],B1_L193_S36.mp3
+37,Я сделал бронь стола на восемь в моем любимом ресторане,I made a reservation for eight at my favourite restaurant,[aɪ meɪd ə ˌrezəˈveɪʃən fɔ: eɪt æt maɪ ˈfeɪvərɪt ˈrestrɒnt],B1_L193_S37.mp3
+38,Он сделает для нас исключение,He will make an exception for us,[hi: wɪl meɪk ən ɪkˈsepʃən fɔ: ʌs],B1_L193_S38.mp3
+39,Ты мог бы сделать мне одолжение?,Could you do me a favour?,[kʊd ju: du: mi: ə ˈfeɪvə?],B1_L193_S39.mp3
+40,Она обычно занимается домашним хозяйством,She usually does housework,[ʃi: ˈju:ʒʊəli dʌz ˈhaʊswɜ:k],B1_L193_S40.mp3
+41,Он тратит так много времени на выполнение домашних заданий,He spends so much time on doing homework,[hi: spendz səʊ mʌʧ taɪm ɒn ˈdu:ɪŋ ˈhəʊmˌwɜ:k],B1_L193_S41.mp3
+42,Мой друг хочет заниматься бизнесом и зарабатывать большие деньги,My friend wants to do business and make big money,[maɪ frend wɒnts tu: du: ˈbɪznɪs ænd meɪk bɪg ˈmʌni],B1_L193_S42.mp3
+43,"Если кто-то занимается бизнесом, это не обязательно означает, что они зарабатывают очень большие деньги","If somebody does business, it doesn't necessarily mean that they make very big money","[ɪf ˈsʌmbədi dʌz ˈbɪznɪs, ɪt dʌznt ˈnesɪsərɪli mi:n ðæt ðeɪ meɪk ˈveri bɪg ˈmʌni]",B1_L193_S43.mp3
+44,"Я сделаю все возможное, чтобы достичь следующего уровня как можно скорее",I'll do my best to reach the next level as soon as possible,[aɪl du: maɪ best tu: ri:ʧ ðə nekst ˈlevl æz su:n æz ˈpɒsəbl],B1_L193_S44.mp3
+45,"Я остался в городе, потому что мне нужно было сделать некоторые приготовления",I stayed in the city because I had to make some arrangements,[aɪ steɪd ɪn ðə ˈsɪti bɪˈkɒz aɪ hæd tu: meɪk sʌm əˈreɪnʤmənts],B1_L193_S45.mp3
+46,"Некоторые эксперты склонны думать, что это совсем ничего не изменит",Some experts tend to think that it won't make a difference at all,[sʌm ˈekspɜ:ts tend tu: θɪŋk ðæt ɪt wəʊnt meɪk ə ˈdɪfrəns æt ɔ:l],B1_L193_S46.mp3
+47,"Она сказала, что она могла бы сделать исключение для нас",She said that she could make an exception for us,[ʃi: sed ðæt ʃi: kʊd meɪk ən ɪkˈsepʃən fɔ: ʌs],B1_L193_S47.mp3
+48,"Мне придется сделать кое-какую работу, прежде чем уйти из дома",I will have to do some work before leaving home,[aɪ wɪl hæv tu: du: sʌm wɜ:k bɪˈfɔ: ˈli:vɪŋ həʊm],B1_L193_S48.mp3
+49,Я уже зарезервировал столик в этом ресторане,I have already made a reservation at this restaurant,[aɪ hæv ɔ:lˈredi meɪd ə ˌrezəˈveɪʃən æt ðɪs ˈrestrɒnt],B1_L193_S49.mp3
+50,Это ее обязанность - стирать белье,It is her duty to do the laundry,[ɪt ɪz hɜ: ˈdju:ti tu: du: ðə ˈlɔ:ndri],B1_L193_S50.mp3
+51,Это может нанести вред нашей окружающей среде,It can do harm to our environment,[ɪt kæn du: hɑ:m tu: ˈaʊər ɪnˈvaɪərənmənt],B1_L193_S51.mp3
+52,"К сожалению, мы ничего не можем с этим поделать","Unfortunately, we can't do anything about it","[ʌnˈfɔ:ʧnɪtli, wi: kɑ:nt du: ˈenɪθɪŋ əˈbaʊt ɪt]",B1_L193_S52.mp3
+53,"Я думаю, я принял правильное решение",I think I made the right decision,[aɪ θɪŋk aɪ meɪd ðə raɪt dɪˈsɪʒən],B1_L193_S53.mp3
+54,"Я склонен думать, что это ничего не изменит",I tend to think that it won't make a difference,[aɪ tend tu: θɪŋk ðæt ɪt wəʊnt meɪk ə ˈdɪfrəns],B1_L193_S54.mp3
+55,"Ты думаешь, ты принял правильное решение?",Do you think you made the right decision?,[du: ju: θɪŋk ju: meɪd ðə raɪt dɪˈsɪʒən?],B1_L193_S55.mp3
+56,"Я могу слушать эти видео, делая физические упражнения",I can listen to these videos doing physical exercises,[aɪ kæn ˈlɪsn tu: ði:z ˈvɪdɪəʊz ˈdu:ɪŋ ˈfɪzɪkəl ˈeksəsaɪzɪz],B1_L193_S56.mp3
+57,"Я не думаю, что это сделает какую-либо большую разницу",I don't think that it will make any big difference,[aɪ dəʊnt θɪŋk ðæt ɪt wɪl meɪk ˈeni bɪg ˈdɪfrəns],B1_L193_S57.mp3
+58,"Занимаясь этим бизнесом, он разбогател",Doing this business he made a fortune,[ˈdu:ɪŋ ðɪs ˈbɪznɪs hi: meɪd ə ˈfɔ:ʧən],B1_L193_S58.mp3
+59,"Продавая эти товары, он разбогател",Selling these goods he made a fortune,[ˈselɪŋ ði:z gʊdz hi: meɪd ə ˈfɔ:ʧən],B1_L193_S59.mp3
+60,"Занимаясь таким бизнесом, она разбогатела",Doing such business she made a fortune,[ˈdu:ɪŋ sʌʧ ˈbɪznɪs ʃi: meɪd ə ˈfɔ:ʧən],B1_L193_S60.mp3
+61,"Я думаю, что был сделан правильный выбор",I think the right choice was made,[aɪ θɪŋk ðə raɪt ʧɔɪs wɒz meɪd],B1_L193_S61.mp3
+62,"Я думаю, правильный ответ был найден",I think the right answer was found,[aɪ θɪŋk ðə raɪt ˈɑ:nsə wɒz faʊnd],B1_L193_S62.mp3
+63,"Я полагаю, правильный выбор был сделан",I suppose the right choice was made,[aɪ səˈpəʊz ðə raɪt ʧɔɪs wɒz meɪd],B1_L193_S63.mp3
+64,"Я сделаю все возможное, чтобы достичь этой цели",I'll do my best to achieve this aim,[aɪl du: maɪ best tu: əˈʧi:v ðɪs eɪm],B1_L193_S64.mp3
+65,"Я сделаю все возможное, чтобы получить эту работу",I'll do my best to get this job,[aɪl du: maɪ best tu: get ðɪs ʤɒb],B1_L193_S65.mp3
+66,"Я сделаю все возможное, чтобы заработать эти деньги",I'll do my best to earn this money,[aɪl du: maɪ best tu: ɜ:n ðɪs ˈmʌni],B1_L193_S66.mp3
+67,Это наносит вред нашей окружающей среде,It does harm to our environment,[ɪt dʌz hɑ:m tu: ˈaʊər ɪnˈvaɪərənmənt],B1_L193_S67.mp3
+68,Это наносит вред нашему здоровью,It does harm to our health,[ɪt dʌz hɑ:m tu: ˈaʊə helθ],B1_L193_S68.mp3
+69,Я только что постелил себе постель,I have just made my bed,[aɪ hæv ʤʌst meɪd maɪ bed],B1_L193_S69.mp3
+70,"Я только что сделал домашнее задание …………….…................................................... 71. Я только что приготовил обед …………….…................................................... 72. Она только что сделала себе маникюр …………….…................................................... 73. Я только что сделала себе маникюр …………….…................................................... 74. Когда ты будешь делать себе маникюр? …………….…................................................... 75. К сожалению, мы ничего не можем с этим поделать …………….…................................................... 76. Я думаю, что мы можем что-то сделать с этим …………….…................................................... 77. К сожалению, мы не можем принять правильное решение …………….…................................................... 78. Все было сделано правильно …………….…................................................... 79. Все было сделано должным образом …………….…................................................... 80. Все было сделано вовремя …………….…................................................... 81. Она приготовила салат для всей семьи …………….…................................................... 82. Она сделала завтрак для всей семьи …………….…................................................... 8 83. Она сделала мне два бутерброда …………….…................................................... 84. Никто не помогает ей делать ее домашнее задание …………….…................................................... 85. Ее мама помогает ему делать его домашнее задание …………….…................................................... 86. Кто помогает тебе делать твое домашнее задание? …………….…................................................... 87. Я сделаю все возможное, чтобы не разочаровать тебя …………….…................................................... 88. Важно делать физические упражнения на регулярной основе …………….…................................................... 89. Я уверен, что было принято правильное решение …………….…................................................... 90. Я сделаю все возможное, чтобы не упустить этот шанс …………….…................................................... 91. Нам придется сделать выбор …………….…................................................... 92. Я хочу сказать вам, что вы все проделали фантастическую работу …………….…................................................... 93. Я уверен, что ты поступил правильно …………….…................................................... 94. Все было сделано в соответствии с теми инструкциями …………….…................................................... 95. Нам придется сделать специальные приготовления …………….…................................................... 9 96. Я хочу сказать, что ты проделал отличную работу …………….…................................................... 97. Обычно у нее уходит так много времени, чтобы сделать работу по дому …………….…................................................... 98. Он помогает сестре мыть посуду …………….…................................................... 99. Я думаю, что ты действительно хорошо справился с интервью …………….…................................................... 100. Я сделаю тебе чашку кофе, если ты не возражаешь …………….…................................................... 101. Когда я встал, она готовила завтрак …………….…................................................... 10 Ответы 1. Она делает свою домашнюю работу каждый день",She does her homework every day,[ʃi: dʌz hɜ: ˈhəʊmˌwɜ:k ˈevri deɪ],B1_L193_S70.mp3
+71,Я только что приготовил обед,I have just made lunch,[aɪ hæv ʤʌst meɪd lʌnʧ],B1_L193_S71.mp3
+72,Она только что сделала себе маникюр,She has just done her nails,[ʃi: hæz ʤʌst dʌn hɜ: neɪlz],B1_L193_S72.mp3
+73,Я только что сделала себе маникюр,I have just done my nails,[aɪ hæv ʤʌst dʌn maɪ neɪlz],B1_L193_S73.mp3
+74,Когда ты будешь делать себе маникюр?,When will you do your nails?,[wen wɪl ju: du: jɔ: neɪlz?],B1_L193_S74.mp3
+75,"К сожалению, мы ничего не можем с этим поделать","Unfortunately, we can do nothing about it","[ʌnˈfɔ:ʧnɪtli, wi: kæn du: ˈnʌθɪŋ əˈbaʊt ɪt]",B1_L193_S75.mp3
+76,"Я думаю, что мы можем что-то сделать с этим",I think we can do something about it,[aɪ θɪŋk wi: kæn du: ˈsʌmθɪŋ əˈbaʊt ɪt],B1_L193_S76.mp3
+77,"К сожалению, мы не можем принять правильное решение","Unfortunately, we can't make the right decision","[ʌnˈfɔ:ʧnɪtli, wi: kɑ:nt meɪk ðə raɪt dɪˈsɪʒən]",B1_L193_S77.mp3
+78,Все было сделано правильно,Everything was done rightly,[ˈevrɪθɪŋ wɒz dʌn ˈraɪtli],B1_L193_S78.mp3
+79,Все было сделано должным образом,Everything was done properly,[ˈevrɪθɪŋ wɒz dʌn ˈprɒpəli],B1_L193_S79.mp3
+80,Все было сделано вовремя,Everything was done on time,[ˈevrɪθɪŋ wɒz dʌn ɒn taɪm],B1_L193_S80.mp3
+81,Она приготовила салат для всей семьи,She made a salad for the whole family,[ʃi: meɪd ə ˈsæləd fɔ: ðə həʊl ˈfæmɪli],B1_L193_S81.mp3
+82,Она сделала завтрак для всей семьи,She made breakfast for the whole family,[ʃi: meɪd ˈbrekfəst fɔ: ðə həʊl ˈfæmɪli],B1_L193_S82.mp3
+83,Она сделала мне два бутерброда,She made two sandwiches for me,[ʃi: meɪd tu: ˈsænwɪʤɪz fɔ: mi:],B1_L193_S83.mp3
+84,Никто не помогает ей делать ее домашнее задание,No one helps her do her homework,[nəʊ wʌn helps hɜ: du: hɜ: ˈhəʊmˌwɜ:k],B1_L193_S84.mp3
+85,Ее мама помогает ему делать его домашнее задание,Her mother helps him do his homework,[hɜ: ˈmʌðə helps hɪm du: hɪz ˈhəʊmˌwɜ:k],B1_L193_S85.mp3
+86,Кто помогает тебе делать твое домашнее задание?,Who helps you do your homework?,[hu: helps ju: du: jɔ: ˈhəʊmˌwɜ:k?],B1_L193_S86.mp3
+87,"Я сделаю все возможное, чтобы не разочаровать тебя",I will do my best not to disappoint you,[aɪ wɪl du: maɪ best nɒt tu: ˌdɪsəˈpɔɪnt ju:],B1_L193_S87.mp3
+88,Важно делать физические упражнения на регулярной основе,It is important to do physical exercises on a regular basis,[ɪt ɪz ɪmˈpɔ:tənt tu: du: ˈfɪzɪkəl ˈeksəsaɪzɪz ɒn ə ˈregjʊlə ˈbeɪsɪs],B1_L193_S88.mp3
+89,"Я уверен, что было принято правильное решение",I am sure that the right decision was made,[aɪ æm ʃʊə ðæt ðə raɪt dɪˈsɪʒən wɒz meɪd],B1_L193_S89.mp3
+90,"Я сделаю все возможное, чтобы не упустить этот шанс",I will do my best not to miss this chance,[aɪ wɪl du: maɪ best nɒt tu: mɪs ðɪs ʧɑ:ns],B1_L193_S90.mp3
+91,Нам придется сделать выбор,We will have to make a choice,[wi: wɪl hæv tu: meɪk ə ʧɔɪs],B1_L193_S91.mp3
+92,"Я хочу сказать вам, что вы все проделали фантастическую работу",I want to tell you that you all did a fantastic job,[aɪ wɒnt tu: tel ju: ðæt ju: ɔ:l dɪd ə fænˈtæstɪk ʤɒb],B1_L193_S92.mp3
+93,"Я уверен, что ты поступил правильно",I am sure that you did the right thing,[aɪ æm ʃʊə ðæt ju: dɪd ðə raɪt θɪŋ],B1_L193_S93.mp3
+94,Все было сделано в соответствии с теми инструкциями,Everything was done according to those instructions,[ˈevrɪθɪŋ wɒz dʌn əˈkɔ:dɪŋ tu: ðəʊz ɪnˈstrʌkʃənz],B1_L193_S94.mp3
+95,Нам придется сделать специальные приготовления,We will have to make special arrangements,[wi: wɪl hæv tu: meɪk ˈspeʃəl əˈreɪnʤmənts],B1_L193_S95.mp3
+96,"Я хочу сказать, что ты проделал отличную работу",I want to say that you did a great job,[aɪ wɒnt tu: seɪ ðæt ju: dɪd ə greɪt ʤɒb],B1_L193_S96.mp3
+97,"Обычно у нее уходит так много времени, чтобы сделать работу по дому",It usually takes her so much time to do housework,[ɪt ˈju:ʒʊəli teɪks hɜ: səʊ mʌʧ taɪm tu: du: ˈhaʊswɜ:k],B1_L193_S97.mp3
+98,Он помогает сестре мыть посуду,He helps his sister do the dishes,[hi: helps hɪz ˈsɪstə du: ðə ˈdɪʃɪz],B1_L193_S98.mp3
+99,"Я думаю, что ты действительно хорошо справился с интервью",I think you did really well in the interview,[aɪ θɪŋk ju: dɪd ˈrɪəli wel ɪn ði ˈɪntəvju:],B1_L193_S99.mp3
+100,"Я сделаю тебе чашку кофе, если ты не возражаешь",I will make you a cup of coffee if you don't mind,[aɪ wɪl meɪk ju: ə kʌp ɒv ˈkɒfi ɪf ju: dəʊnt maɪnd],B1_L193_S100.mp3
+101,"Когда я встал, она готовила завтрак","When I got up, she was making breakfast","[wen aɪ gɒt ʌp, ʃi: wɒz ˈmeɪkɪŋ ˈbrekfəst]",B1_L193_S101.mp3

@@ -1,0 +1,99 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Это может изменить твою жизнь,It can change your life,[ɪt kæn ʧeɪnʤ jɔ: laɪf],A0_L48_S1.mp3
+2,Почему это происходит со мной?,Why does it happen to me?,[waɪ dʌz ɪt ˈhæpən tu: mi:?],A0_L48_S2.mp3
+3,Одна авария произошла вчера,One accident happened yesterday,[wʌn ˈæksɪdənt ˈhæpənd ˈjestədeɪ],A0_L48_S3.mp3
+4,У него не будет этого шанса,He will not have this chance,[hi: wɪl nɒt hæv ðɪs ʧɑ:ns],A0_L48_S4.mp3
+5,Я действительно поверил ему,I really believed him,[aɪ ˈrɪəli bɪˈli:vd hɪm],A0_L48_S5.mp3
+6,Она не пьет пиво,She doesn't drink beer,[ʃi: dʌznt drɪŋk bɪə],A0_L48_S6.mp3
+7,Как он преподавал английский?,How did he teach English?,[haʊ dɪd hi: ti:ʧ ˈɪŋglɪʃ?],A0_L48_S7.mp3
+8,Они не хотели его убивать,They didn't want to kill him,[ðeɪ dɪdnt wɒnt tu: kɪl hɪm],A0_L48_S8.mp3
+9,Посмотри на эту фотографию!,Look at this photo!,[lʊk æt ðɪs ˈfəʊtəʊ!],A0_L48_S9.mp3
+10,У них так много вопросов,They have so many questions,[ðeɪ hæv səʊ ˈmeni ˈkwesʧənz],A0_L48_S10.mp3
+11,Он рекомендовал несколько книг,He recommended some books,[hi: ˌrekəˈmendɪd sʌm bʊks],A0_L48_S11.mp3
+12,Мы продолжаем этот курс,We continue this course,[wi: kənˈtɪnju: ðɪs kɔ:s],A0_L48_S12.mp3
+13,Этот преступник не убивал их,This criminal didn't kill them,[ðɪs ˈkrɪmɪnl dɪdnt kɪl ðem],A0_L48_S13.mp3
+14,У меня было мало свободного времени на это,I had little free time for it,[aɪ hæd ˈlɪtl fri: taɪm fɔ: ɪt],A0_L48_S14.mp3
+15,Не потеряй это!,Don't lose it!,[dəʊnt lu:z ɪt!],A0_L48_S15.mp3
+16,Тебе нужно подумать об этом снова,You need to think about it again,[ju: ni:d tu: θɪŋk əˈbaʊt ɪt əˈgen],A0_L48_S16.mp3
+17,Она профессионально преподает математику,She teaches maths professionally,[ʃi: ˈti:ʧɪz mæθs prəˈfeʃnəli],A0_L48_S17.mp3
+18,Он может потерять это очень легко,He can lose it very easily,[hi: kæn lu:z ɪt ˈveri ˈi:zɪli],A0_L48_S18.mp3
+19,Он преподаст нам урок,He will teach us a lesson,[hi: wɪl ti:ʧ ʌs ə ˈlesn],A0_L48_S19.mp3
+20,Тот человек внезапно посмотрел на нее,That man looked at her suddenly,[ðæt mæn lʊkt æt hɜ: ˈsʌdnli],A0_L48_S20.mp3
+21,У тебя будет шанс,You will have a chance,[ju: wɪl hæv ə ʧɑ:ns],A0_L48_S21.mp3
+22,Когда ты встретил ее?,When did you meet her?,[wen dɪd ju: mi:t hɜ:?],A0_L48_S22.mp3
+23,Я не пил алкоголь,I didn't drink alcohol,[aɪ dɪdnt drɪŋk ˈælkəhɒl],A0_L48_S23.mp3
+24,Она спела свою любимую песню,She sang her favourite song,[ʃi: sæŋ hɜ: ˈfeɪvərɪt sɒŋ],A0_L48_S24.mp3
+25,Ты исправил все эти ошибки?,Did you correct all these mistakes?,[dɪd ju: kəˈrekt ɔ:l ði:z mɪsˈteɪks?],A0_L48_S25.mp3
+26,Где мы встретимся?,Where will we meet?,[weə wɪl wi: mi:t?],A0_L48_S26.mp3
+27,Когда мы продолжим?,When will we continue?,[wen wɪl wi: kənˈtɪnju:?],A0_L48_S27.mp3
+28,Наш учитель поправил меня,Our teacher corrected me,[ˈaʊə ˈti:ʧə kəˈrektɪd mi:],A0_L48_S28.mp3
+29,Я исправлю эту ошибку,I will correct this mistake,[aɪ wɪl kəˈrekt ðɪs mɪsˈteɪk],A0_L48_S29.mp3
+30,Мы встретились в кафе,We met in a cafe,[wi: met ɪn ə ˈkæfeɪ],A0_L48_S30.mp3
+31,Они сравнили свои результаты,They compared their results,[ðeɪ kəmˈpeəd ðeə rɪˈzʌlts],A0_L48_S31.mp3
+32,Эти вещи меняются очень быстро,These things change very quickly,[ði:z θɪŋz ʧeɪnʤ ˈveri ˈkwɪkli],A0_L48_S32.mp3
+33,Не переживай об этом так сильно!,Don't worry about it so much!,[dəʊnt ˈwʌri əˈbaʊt ɪt səʊ mʌʧ!],A0_L48_S33.mp3
+34,Она так красиво поет,She sings so beautifully,[ʃi: sɪŋz səʊ ˈbju:təfəli],A0_L48_S34.mp3
+35,Она потеряла это в лесу,She lost it in the forest,[ʃi: lɒst ɪt ɪn ðə ˈfɒrɪst],A0_L48_S35.mp3
+36,Я не рекомендую этот отель,I don't recommend this hotel,[aɪ dəʊnt ˌrekəˈmend ðɪs həʊˈtel],A0_L48_S36.mp3
+37,Не смейся!,Don't laugh!,[dəʊnt lɑ:f!],A0_L48_S37.mp3
+38,Это случилось с ним,It happened to him,[ɪt ˈhæpənd tu: hɪm],A0_L48_S38.mp3
+39,Он рекомендовал этот сайт?,Did he recommend this website?,[dɪd hi: ˌrekəˈmend ðɪs ˈwebˌsaɪt?],A0_L48_S39.mp3
+40,Ему нужно продолжить,He needs to continue,[hi: ni:dz tu: kənˈtɪnju:],A0_L48_S40.mp3
+41,У тебя были какие-либо проблемы с этим?,Did you have any problems with it?,[dɪd ju: hæv ˈeni ˈprɒbləmz wɪð ɪt?],A0_L48_S41.mp3
+42,Она сохранила этот секрет,She kept this secret,[ʃi: kept ðɪs ˈsi:krɪt],A0_L48_S42.mp3
+43,"Я думаю, он изменит свою точку зрения позже",I think he will change his point of view later,[aɪ θɪŋk hi: wɪl ʧeɪnʤ hɪz pɔɪnt ɒv vju: ˈleɪtə],A0_L48_S43.mp3
+44,"Я понял, что это было слишком дорого",I understood that it was too expensive,[aɪ ˌʌndəˈstʊd ðæt ɪt wɒz tu: ɪksˈpensɪv],A0_L48_S44.mp3
+45,Я хочу подвинуть этот стол,I want to move this table,[aɪ wɒnt tu: mu:v ðɪs ˈteɪbl],A0_L48_S45.mp3
+46,"Он пьет слишком много алкоголя, и это очень вредно для его здоровья",He drinks too much alcohol and it's very bad for his health,[hi: drɪŋks tu: mʌʧ ˈælkəhɒl ænd ɪts ˈveri bæd fɔ: hɪz helθ],A0_L48_S46.mp3
+47,Он понял тот урок лучше меня,He understood that lesson better than me,[hi: ˌʌndəˈstʊd ðæt ˈlesn ˈbetə ðæn mi:],A0_L48_S47.mp3
+48,Те парни смеялись над ней,Those boys laughed at her,[ðəʊz bɔɪz lɑ:ft æt hɜ:],A0_L48_S48.mp3
+49,"Она не думает, что он сдержит свое обещание",She doesn't think that he'll keep his promise,[ʃi: dʌznt θɪŋk ðæt hi:l ki:p hɪz ˈprɒmɪs],A0_L48_S49.mp3
+50,Я решил сделать это чуть позже,I decided to do it a bit later,[aɪ dɪˈsaɪdɪd tu: du: ɪt ə bɪt ˈleɪtə],A0_L48_S50.mp3
+51,Они двигаются очень быстро,They move very quickly,[ðeɪ mu:v ˈveri ˈkwɪkli],A0_L48_S51.mp3
+52,Я не хочу переезжать в другую страну,I don't want to move to another country,[aɪ dəʊnt wɒnt tu: mu:v tu: əˈnʌðə ˈkʌntri],A0_L48_S52.mp3
+53,Ты можешь сравнить эти два ресторана,You can compare these two restaurants,[ju: kæn kəmˈpeə ði:z tu: ˈrestrɒnts],A0_L48_S53.mp3
+54,Мой друг переехал в США,My friend moved to the U.S.,[maɪ frend mu:vd tu: ðə ju:.es.],A0_L48_S54.mp3
+55,Эта цена включает в себя эти услуги,This price includes these services,[ðɪs praɪs ɪnˈklu:dz ði:z ˈsɜ:vɪsɪz],A0_L48_S55.mp3
+56,Мне нужно решить это сейчас,I need to decide it now,[aɪ ni:d tu: dɪˈsaɪd ɪt naʊ],A0_L48_S56.mp3
+57,Ему нужно решить это сейчас,He needs to decide it now,[hi: ni:dz tu: dɪˈsaɪd ɪt naʊ],A0_L48_S57.mp3
+58,Мне нужно сказать это завтра,I need to say it tomorrow,[aɪ ni:d tu: seɪ ɪt təˈmɒrəʊ],A0_L48_S58.mp3
+59,Я не смеюсь над этим,I don't laugh at it,[aɪ dəʊnt lɑ:f æt ɪt],A0_L48_S59.mp3
+60,Мы не смеемся над ним,We don't laugh at him,[wi: dəʊnt lɑ:f æt hɪm],A0_L48_S60.mp3
+61,Она не смеется,She doesn't laugh,[ʃi: dʌznt lɑ:f],A0_L48_S61.mp3
+62,"Я понимаю, что мне нужно намного больше денег, если я хочу купить это",I understand that I need much more money if I want to buy it,[aɪ ˌʌndəˈstænd ðæt aɪ ni:d mʌʧ mɔ: ˈmʌni ɪf aɪ wɒnt tu: baɪ ɪt],A0_L48_S62.mp3
+63,"Он понимает, что ему нужно больше денег, если он хочет купить новую машину",He understands that he needs more money if he wants to buy a new car,[hi: ˌʌndəˈstændz ðæt hi: ni:dz mɔ: ˈmʌni ɪf hi: wɒnts tu: baɪ ə nju: kɑ:],A0_L48_S63.mp3
+64,"Я видел, что они жили так счастливо",I saw that they lived so happily,[aɪ sɔ: ðæt ðeɪ lɪvd səʊ ˈhæpɪli],A0_L48_S64.mp3
+65,"Я понимаю, что мы живем так счастливо",I understand that we live so happily,[aɪ ˌʌndəˈstænd ðæt wi: lɪv səʊ ˈhæpɪli],A0_L48_S65.mp3
+66,"Он видел, что они жили так счастливо",He saw that they lived so happily,[hi: sɔ: ðæt ðeɪ lɪvd səʊ ˈhæpɪli],A0_L48_S66.mp3
+67,Они скоро переедут в США,They will move to the USA soon,[ðeɪ wɪl mu:v tu: ðə ju:-es-eɪ su:n],A0_L48_S67.mp3
+68,Она скоро переедет в Англию,She will move to England soon,[ʃi: wɪl mu:v tu: ˈɪŋglənd su:n],A0_L48_S68.mp3
+69,Он не переедет в эту страну,He will not move to this country,[hi: wɪl nɒt mu:v tu: ðɪs ˈkʌntri],A0_L48_S69.mp3
+70,Он держит свои деньги в банке,He keeps his money in a bank,[hi: ki:ps hɪz ˈmʌni ɪn ə bæŋk],A0_L48_S70.mp3
+71,Она держит свои деньги дома,She keeps her money at home,[ʃi: ki:ps hɜ: ˈmʌni æt həʊm],A0_L48_S71.mp3
+72,Он не держит свои деньги в банке,He doesn't keep his money in a bank,[hi: dʌznt ki:p hɪz ˈmʌni ɪn ə bæŋk],A0_L48_S72.mp3
+73,Ты можешь сравнить эти цены,You can compare these prices,[ju: kæn kəmˈpeə ði:z ˈpraɪsɪz],A0_L48_S73.mp3
+74,Мы можем сравнить эти товары,We can compare these goods,[wi: kæn kəmˈpeə ði:z gʊdz],A0_L48_S74.mp3
+75,Он может сравнить эти цены,He can compare these prices,[hi: kæn kəmˈpeə ði:z ˈpraɪsɪz],A0_L48_S75.mp3
+76,Они включат это в счет,They will include it in the bill,[ðeɪ wɪl ɪnˈklu:d ɪt ɪn ðə bɪl],A0_L48_S76.mp3
+77,Мы включим это в счет,We will include it in the bill,[wi: wɪl ɪnˈklu:d ɪt ɪn ðə bɪl],A0_L48_S77.mp3
+78,Он не включит это в твой счет,He won't include it in your bill,[hi: wəʊnt ɪnˈklu:d ɪt ɪn jɔ: bɪl],A0_L48_S78.mp3
+79,"Тебе нужно быть более осторожным, когда ты водишь",You need to be more careful when you drive,[ju: ni:d tu: bi: mɔ: ˈkeəfəl wen ju: draɪv],A0_L48_S79.mp3
+80,"Нам нужно быть более осторожным, когда мы водим",We need to be more careful when we drive,[wi: ni:d tu: bi: mɔ: ˈkeəfəl wen wi: draɪv],A0_L48_S80.mp3
+81,"Мне нужно быть более осторожным, когда я говорю",I need to be more careful when I speak,[aɪ ni:d tu: bi: mɔ: ˈkeəfəl wen aɪ spi:k],A0_L48_S81.mp3
+82,"Он учит нас английскому, и мне это действительно нравится",He teaches us English and I really like it,[hi: ˈti:ʧɪz ʌs ˈɪŋglɪʃ ænd aɪ ˈrɪəli laɪk ɪt],A0_L48_S82.mp3
+83,"Она учит нас испанскому, и мне это действительно нравится",She teaches us Spanish and I really like it,[ʃi: ˈti:ʧɪz ʌs ˈspænɪʃ ænd aɪ ˈrɪəli laɪk ɪt],A0_L48_S83.mp3
+84,"Ты учишь меня английскому, и мне это действительно нравится",You teach me English and I really like it,[ju: ti:ʧ mi: ˈɪŋglɪʃ ænd aɪ ˈrɪəli laɪk ɪt],A0_L48_S84.mp3
+85,Они включат это в цену,They'll include it in the price,[ðeɪl ɪnˈklu:d ɪt ɪn ðə praɪs],A0_L48_S85.mp3
+86,Я хочу сравнить эти два приложения,I want to compare these two apps,[aɪ wɒnt tu: kəmˈpeə ði:z tu: æps],A0_L48_S86.mp3
+87,Ему нужно быть осторожнее,He needs to be more careful,[hi: ni:dz tu: bi: mɔ: ˈkeəfəl],A0_L48_S87.mp3
+88,Мы решили остаться дома,We decided to stay at home,[wi: dɪˈsaɪdɪd tu: steɪ æt həʊm],A0_L48_S88.mp3
+89,"Я действительно верю, что это возможно",I really believe that it's possible,[aɪ ˈrɪəli bɪˈli:v ðæt ɪts ˈpɒsəbl],A0_L48_S89.mp3
+90,Та цена включает в себя ужин и завтрак,That price includes dinner and breakfast,[ðæt praɪs ɪnˈklu:dz ˈdɪnər ænd ˈbrekfəst],A0_L48_S90.mp3
+91,"Она понимает это лучше, чем я",She understands it better than me,[ʃi: ˌʌndəˈstændz ɪt ˈbetə ðæn mi:],A0_L48_S91.mp3
+92,Не смейся над ним!,Don't laugh at him!,[dəʊnt lɑ:f æt hɪm!],A0_L48_S92.mp3
+93,Она изменила свое решение в конце,She changed her decision in the end,[ʃi: ʧeɪnʤd hɜ: dɪˈsɪʒən ɪn ði end],A0_L48_S93.mp3
+94,Она хочет учиться в Соединенных Штатах,She wants to study in the U.S.,[ʃi: wɒnts tu: ˈstʌdi ɪn ðə ju:.es.],A0_L48_S94.mp3
+95,Ты жил в США?,Did you live in the U.S.?,[dɪd ju: lɪv ɪn ðə ju:.es.?],A0_L48_S95.mp3
+96,Он хочет жить в Соединенных Штатах?,Does he want to live in the United States?,[dʌz hi: wɒnt tu: lɪv ɪn ðə jʊˈnaɪtɪd steɪts?],A0_L48_S96.mp3
+97,Я посмотрел на экран,"I looked at the screen / [aɪ lʊkt æt ðə skri:n] 98. Она очень быстро двигается, когда она танцует / She moves very quickly when she dances",[ʃi: mu:vz ˈveri ˈkwɪkli wen ʃi: ˈdɑ:nsɪz],A0_L48_S97.mp3
+99,Посмотри на экран!,Look at the screen!,[lʊk æt ðə skri:n!],A0_L48_S99.mp3

@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я закончил университет в прошлом году,I graduated from university last year,[aɪ ˈgrædjʊeɪtɪd frɒm ˌju:nɪˈvɜ:sɪti lɑ:st jɪə],B1_L166_S2.mp3
+3,Этот стол сделан из дерева,This table is made of wood,[ðɪs ˈteɪbl ɪz meɪd ɒv wʊd],B1_L166_S3.mp3
+4,Эта фотография была сделана мной,This photo was taken by me,[ðɪs ˈfəʊtəʊ wɒz ˈteɪkən baɪ mi:],B1_L166_S4.mp3
+5,Их офис расположен в центре,Their office is located in the centre,[ðeər ˈɒfɪs ɪz ləʊˈkeɪtɪd ɪn ðə ˈsentə],B1_L166_S5.mp3
+6,Они удалят эти файлы,They will delete these files,[ðeɪ wɪl dɪˈli:t ði:z faɪlz],B1_L166_S6.mp3
+7,Я только что купил новую пару кроссовок,I have just bought a new pair of trainers,[aɪ hæv ʤʌst bɔ:t ə nju: peər ɒv ˈtreɪnəz],B1_L166_S7.mp3
+8,Они продали эту мебель,They sold this furniture,[ðeɪ səʊld ðɪs ˈfɜ:nɪʧə],B1_L166_S8.mp3
+9,Конференция состоится летом,The conference will take place in summer,[ðə ˈkɒnfərəns wɪl teɪk pleɪs ɪn ˈsʌmə],B1_L166_S9.mp3
+10,Он купил килограмм груш,He bought a kilo of pears,[hi: bɔ:t ə ˈki:ləʊ ɒv peəz],B1_L166_S10.mp3
+11,Зеркало было разбито вчера,The mirror was broken yesterday,[ðə ˈmɪrə wɒz ˈbrəʊkən ˈjestədeɪ],B1_L166_S11.mp3
+12,Этот курс будет закончен к следующему году,This course will have been finished by next year,[ðɪs kɔ:s wɪl hæv bi:n ˈfɪnɪʃt baɪ nekst jɪə],B1_L166_S12.mp3
+13,"Когда он пришел домой, еда готовилась","When he came home, the food was being cooked","[wen hi: keɪm həʊm, ðə fu:d wɒz ˈbi:ɪŋ kʊkt]",B1_L166_S13.mp3
+14,Их рейс был задержан,Their flight was delayed,[ðeə flaɪt wɒz dɪˈleɪd],B1_L166_S14.mp3
+15,"Когда он вернулся, она что-то готовила","When he came back, she was cooking something","[wen hi: keɪm bæk, ʃi: wɒz ˈkʊkɪŋ ˈsʌmθɪŋ]",B1_L166_S15.mp3
+16,Он купил новую пару кроссовок,He bought a new pair of trainers,[hi: bɔ:t ə nju: peər ɒv ˈtreɪnəz],B1_L166_S16.mp3
+17,Килограмм груш был куплен им,A kilo of pears was bought by him,[ə ˈki:ləʊ ɒv peəz wɒz bɔ:t baɪ hɪm],B1_L166_S17.mp3
+18,Это часто объясняется очень непонятно,It is often explained very unclearly,[ɪt ɪz ˈɒfn ɪksˈpleɪnd ˈveri ʌnˈklɪəli],B1_L166_S18.mp3
+19,"Он сказал, что его уже поздравили",He said that he had already been congratulated,[hi: sed ðæt hi: hæd ɔ:lˈredi bi:n kənˈgrætjʊleɪtɪd],B1_L166_S19.mp3
+20,Те товары экспортируются,Those goods are exported,[ðəʊz gʊdz ɑ: eksˈpɔ:tɪd],B1_L166_S20.mp3
+21,Он только что это сказал,He has just said it,[hi: hæz ʤʌst sed ɪt],B1_L166_S21.mp3
+22,Их мебель еще не продана,Their furniture hasn't been sold yet,[ðeə ˈfɜ:nɪʧə ˈhæznt bi:n səʊld jet],B1_L166_S22.mp3
+23,"Он сказал, что уже поздравил ее",He said that he had already congratulated her,[hi: sed ðæt hi: hæd ɔ:lˈredi kənˈgrætjʊleɪtɪd hɜ:],B1_L166_S23.mp3
+24,Новая пара кроссовок была куплена им,A new pair of trainers was bought by him,[ə nju: peər ɒv ˈtreɪnəz wɒz bɔ:t baɪ hɪm],B1_L166_S24.mp3
+25,Они отправили тех грабителей в тюрьму,They sent those burglars to jail,[ðeɪ sent ðəʊz ˈbɜ:gləz tu: ʤeɪl],B1_L166_S25.mp3
+26,Это сейчас показывают по телевизору,It is being shown on TV now,[ɪt ɪz ˈbi:ɪŋ ʃəʊn ɒn ˌti:ˈvi: naʊ],B1_L166_S26.mp3
+27,Это основано на реальных фактах,It is based on real facts,[ɪt ɪz beɪst ɒn rɪəl fækts],B1_L166_S27.mp3
+28,Я закончу этот курс к следующему году,I will have finished this course by next year,[aɪ wɪl hæv ˈfɪnɪʃt ðɪs kɔ:s baɪ nekst jɪə],B1_L166_S28.mp3
+29,Что-то задержало рейс,Something delayed the flight,[ˈsʌmθɪŋ dɪˈleɪd ðə flaɪt],B1_L166_S29.mp3
+30,Конференция будет проведена летом,The conference will be held in summer,[ðə ˈkɒnfərəns wɪl bi: held ɪn ˈsʌmə],B1_L166_S30.mp3
+31,Они импортируют те товары из Европы,They import those goods from Europe,[ðeɪ ˈɪmpɔ:t ðəʊz gʊdz frɒm ˈjʊərəp],B1_L166_S31.mp3
+32,Мебель была продана,The furniture was sold,[ðə ˈfɜ:nɪʧə wɒz səʊld],B1_L166_S32.mp3
+33,Они экспортируют эти товары в Соединенные Штаты,They export these goods to the United States,[ðeɪ ˈekspɔ:t ði:z gʊdz tu: ði: jʊˈnaɪtɪd steɪts],B1_L166_S33.mp3
+34,Эта история основана на реальных фактах,This story is based on real facts,[ðɪs ˈstɔ:ri ɪz beɪst ɒn rɪəl fækts],B1_L166_S34.mp3
+35,Он исправил ошибку,He corrected the mistake,[hi: kəˈrektɪd ðə mɪsˈteɪk],B1_L166_S35.mp3
+36,Это только что было сказано,It has just been said,[ɪt hæz ʤʌst bi:n sed],B1_L166_S36.mp3
+37,Они показывают это по телевизору сейчас,They are showing it on TV now,[ðeɪ ɑ: ˈʃəʊɪŋ ɪt ɒn ˌti:ˈvi: naʊ],B1_L166_S37.mp3
+38,Грабители были отправлены в тюрьму,The burglars were sent to jail,[ðə ˈbɜ:gləz wɜ: sent tu: ʤeɪl],B1_L166_S38.mp3
+39,Кроссовки только что были куплены,The trainers have just been bought,[ðə ˈtreɪnəz hæv ʤʌst bi:n bɔ:t],B1_L166_S39.mp3
+40,Она часто объясняет это очень ясно,She often explains it very clearly,[ʃi: ˈɒfn ɪksˈpleɪnz ɪt ˈveri ˈklɪəli],B1_L166_S40.mp3
+41,Эти файлы будут удалены,These files will be deleted,[ði:z faɪlz wɪl bi: dɪˈli:tɪd],B1_L166_S41.mp3
+42,Эти товары импортируются,These goods are imported,[ði:z gʊdz ɑ: ɪmˈpɔ:tɪd],B1_L166_S42.mp3
+43,Ошибка была исправлена им,The mistake was corrected by him,[ðə mɪsˈteɪk wɒz kəˈrektɪd baɪ hɪm],B1_L166_S43.mp3
+44,Кто-то разбил зеркало,Someone broke the mirror,[ˈsʌmwʌn brəʊk ðə ˈmɪrə],B1_L166_S44.mp3
+45,Дом будет покрашен к началу следующей недели,The house will have been painted by the beginning of next week,[ðə haʊs wɪl hæv bi:n ˈpeɪntɪd baɪ ðə bɪˈgɪnɪŋ ɒv nekst wi:k],B1_L166_S45.mp3
+46,Штаб-квартира этой компании находится в Калифорнии,The headquarters of this company is located in California,[ðə ˈhedˈkwɔ:təz ɒv ðɪs ˈkʌmpəni ɪz ləʊˈkeɪtɪd ɪn ˌkæləˈfɔ:niə],B1_L166_S46.mp3
+47,"Пока работа проверялась, мы ждали наших результатов","While the work was being checked, we were waiting for our results","[waɪl ðə wɜ:k wɒz ˈbi:ɪŋ ʧekt, wi: wɜ: ˈweɪtɪŋ fɔ: ˈaʊə rɪˈzʌlts]",B1_L166_S47.mp3
+48,"Было сказано, что рабочие уже закончили красить дом",It was said that the workers had already finished painting the house,[ɪt wɒz sed ðæt ðə ˈwɜ:kəz hæd ɔ:lˈredi ˈfɪnɪʃt ˈpeɪntɪŋ ðə haʊs],B1_L166_S48.mp3
+49,Решение этой проблемы еще не найдено,A solution to this problem hasn't been found yet,[ə səˈlu:ʃən tu: ðɪs ˈprɒbləm ˈhæznt bi:n faʊnd jet],B1_L166_S49.mp3
+50,"Пока учитель проверял мою работу, я ждал своих результатов","While the teacher was checking my work, I was waiting for my results","[waɪl ðə ˈti:ʧə wɒz ˈʧekɪŋ maɪ wɜ:k, aɪ wɒz ˈweɪtɪŋ fɔ: maɪ rɪˈzʌlts]",B1_L166_S50.mp3
+51,Они еще не нашли решение такой проблемы,They haven't found a solution to such a problem yet,[ðeɪ hævnt faʊnd ə səˈlu:ʃən tu: sʌʧ ə ˈprɒbləm jet],B1_L166_S51.mp3
+52,Стены будут покрашены ко вторнику,The walls will have been painted by Tuesday,[ðə wɔ:lz wɪl hæv bi:n ˈpeɪntɪd baɪ ˈtju:zdeɪ],B1_L166_S52.mp3
+53,"Я полагаю, кто-то скоро купит этот дом",I suppose someone will buy this house soon,[aɪ səˈpəʊz ˈsʌmwʌn wɪl baɪ ðɪs haʊs su:n],B1_L166_S53.mp3
+54,"Было сказано, что дом уже покрашен",It was said that the house had already been painted,[ɪt wɒz sed ðæt ðə haʊs hæd ɔ:lˈredi bi:n ˈpeɪntɪd],B1_L166_S54.mp3
+55,Мой дом находится недалеко отсюда,My house is situated not far from here,[maɪ haʊs ɪz ˈsɪtjʊeɪtɪd nɒt fɑ: frɒm hɪə],B1_L166_S55.mp3
+56,"Ожидается, что они построят мост к следующей неделе",It is expected that they will have constructed the bridge by next week,[ɪt ɪz ɪksˈpektɪd ðæt ðeɪ wɪl hæv kənˈstrʌktɪd ðə brɪʤ baɪ nekst wi:k],B1_L166_S56.mp3
+57,"Я думаю, правильный выбор будет сделан",I think the right choice will be made,[aɪ θɪŋk ðə raɪt ʧɔɪs wɪl bi: meɪd],B1_L166_S57.mp3
+58,Банк находится достаточно близко,The bank is located quite near,[ðə bæŋk ɪz ləʊˈkeɪtɪd kwaɪt nɪə],B1_L166_S58.mp3
+59,Эта задача будет закончена завтра,This task will be finished tomorrow,[ðɪs tɑ:sk wɪl bi: ˈfɪnɪʃt təˈmɒrəʊ],B1_L166_S59.mp3
+60,Часы сейчас ремонтируются,The clock is being repaired now,[ðə klɒk ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L166_S60.mp3
+61,Устройство сейчас ремонтируется,The device is being repaired now,[ðə dɪˈvaɪs ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L166_S61.mp3
+62,Часы ремонтируются сейчас?,Is the clock being repaired now?,[ɪz ðə klɒk ˈbi:ɪŋ rɪˈpeəd naʊ?],B1_L166_S62.mp3
+63,Они сделали правильный вывод,They made the right conclusion,[ðeɪ meɪd ðə raɪt kənˈklu:ʒən],B1_L166_S63.mp3
+64,Они нашли правильное решение,They found the right decision,[ðeɪ faʊnd ðə raɪt dɪˈsɪʒən],B1_L166_S64.mp3
+65,Они сделали правильный вывод?,Did they make the right conclusion?,[dɪd ðeɪ meɪk ðə raɪt kənˈklu:ʒən?],B1_L166_S65.mp3
+66,Они дали ей куклу в подарок,They gave her a doll as a present,[ðeɪ geɪv hɜ: ə dɒl æz ə ˈpreznt],B1_L166_S66.mp3
+67,Они дали ему игрушку в подарок,They gave him a toy as a present,[ðeɪ geɪv hɪm ə tɔɪ æz ə ˈpreznt],B1_L166_S67.mp3
+68,Они дали ей куклу в подарок?,Did they give her a doll as a present?,[dɪd ðeɪ gɪv hɜ: ə dɒl æz ə ˈpreznt?],B1_L166_S68.mp3
+69,Где это расположено?,Where is it located?,[weər ɪz ɪt ləʊˈkeɪtɪd?],B1_L166_S69.mp3
+70,Где это было расположено?,Where was it located?,[weə wɒz ɪt ləʊˈkeɪtɪd?],B1_L166_S70.mp3
+71,Где находится это здание?,Where is this building located?,[weər ɪz ðɪs ˈbɪldɪŋ ləʊˈkeɪtɪd?],B1_L166_S71.mp3
+72,Правильное решение было принято,The right decision was made,[ðə raɪt dɪˈsɪʒən wɒz meɪd],B1_L166_S72.mp3
+73,"Было найдено правильное решение …………….…................................................... 74. Правильный вывод был сделан …………….…................................................... 75. Что они выяснили? …………….…................................................... 76. Они что-то выяснили? …………….…................................................... 77. Когда они выяснили это? …………….…................................................... 78. Я закончу эту задачу завтра …………….…................................................... 79. Я закончу работать над этим проектом завтра …………….…................................................... 80. Я закончу делать уроки завтра …………….…................................................... 81. Они собрали те данные …………….…................................................... 82. Они собрали эту информацию …………….…................................................... 83. Они собирали данные? …………….…................................................... 84. Что было обнаружено? …………….…................................................... 85. Кто это обнаружил? …………….…................................................... 8 86. Когда это было обнаружено? …………….…................................................... 87. Ничего еще не исправлено …………….…................................................... 88. Все уже исправлено …………….…................................................... 89. Кое-что уже исправлено …………….…................................................... 90. Смотри! Новое здание строится сейчас …………….…................................................... 91. Много вреда было нанесено нашей окружающей среде …………….…................................................... 92. Штаб-квартира располагается в Нью-Йорке …………….…................................................... 93. Это выяснилось только вчера …………….…................................................... 94. Я полагаю, дом скоро будет продан …………….…................................................... 95. Они еще ничего не исправили …………….…................................................... 96. Кукла была подарена ей в подарок …………….…................................................... 97. Мост будет построен к следующей неделе …………….…................................................... 98. Рабочие покрасят дом к субботе …………….…................................................... 9 99. Они нанесли большой вред нашей окружающей среде …………….…................................................... 100. Где это находится? …………….…................................................... 101. Они пытаются починить эти часы …………….…................................................... 102. Я принял правильное решение …………….…................................................... 103. Данные были собраны …………….…................................................... 10 Ответы 1. Она обычно объясняет это очень ясно",She usually explains it very clearly,[ʃi: ˈju:ʒʊəli ɪksˈpleɪnz ɪt ˈveri ˈklɪəli],B1_L166_S73.mp3
+74,Правильный вывод был сделан,The right conclusion was made,[ðə raɪt kənˈklu:ʒən wɒz meɪd],B1_L166_S74.mp3
+75,Что они выяснили?,What did they find out?,[wɒt dɪd ðeɪ faɪnd aʊt?],B1_L166_S75.mp3
+76,Они что-то выяснили?,Did they find out anything?,[dɪd ðeɪ faɪnd aʊt ˈenɪθɪŋ?],B1_L166_S76.mp3
+77,Когда они выяснили это?,When did they find it out?,[wen dɪd ðeɪ faɪnd ɪt aʊt?],B1_L166_S77.mp3
+78,Я закончу эту задачу завтра,I will finish this task tomorrow,[aɪ wɪl ˈfɪnɪʃ ðɪs tɑ:sk təˈmɒrəʊ],B1_L166_S78.mp3
+79,Я закончу работать над этим проектом завтра,I will finish working on this project tomorrow,[aɪ wɪl ˈfɪnɪʃ ˈwɜ:kɪŋ ɒn ðɪs ˈprɒʤekt təˈmɒrəʊ],B1_L166_S79.mp3
+80,Я закончу делать уроки завтра,I will finish doing my homework tomorrow,[aɪ wɪl ˈfɪnɪʃ ˈdu:ɪŋ maɪ ˈhəʊmˌwɜ:k təˈmɒrəʊ],B1_L166_S80.mp3
+81,Они собрали те данные,They collected the data,[ðeɪ kəˈlektɪd ðə ˈdeɪtə],B1_L166_S81.mp3
+82,Они собрали эту информацию,They collected this information,[ðeɪ kəˈlektɪd ðɪs ˌɪnfəˈmeɪʃən],B1_L166_S82.mp3
+83,Они собирали данные?,Did they collect the data?,[dɪd ðeɪ kəˈlekt ðə ˈdeɪtə?],B1_L166_S83.mp3
+84,Что было обнаружено?,What was found out?,[wɒt wɒz faʊnd aʊt?],B1_L166_S84.mp3
+85,Кто это обнаружил?,Who found it out?,[hu: faʊnd ɪt aʊt?],B1_L166_S85.mp3
+86,Когда это было обнаружено?,When was it found out?,[wen wɒz ɪt faʊnd aʊt?],B1_L166_S86.mp3
+87,Ничего еще не исправлено,Nothing has been corrected yet,[ˈnʌθɪŋ hæz bi:n kəˈrektɪd jet],B1_L166_S87.mp3
+88,Все уже исправлено,Everything has already been corrected,[ˈevrɪθɪŋ hæz ɔ:lˈredi bi:n kəˈrektɪd],B1_L166_S88.mp3
+89,Кое-что уже исправлено,Something has already been corrected,[ˈsʌmθɪŋ hæz ɔ:lˈredi bi:n kəˈrektɪd],B1_L166_S89.mp3
+90,Смотри! Новое здание строится сейчас,Look! A new building is being built now,[lʊk! ə nju: ˈbɪldɪŋ ɪz ˈbi:ɪŋ bɪlt naʊ],B1_L166_S90.mp3
+91,Много вреда было нанесено нашей окружающей среде,A lot of harm was done to our environment,[ə lɒt ɒv hɑ:m wɒz dʌn tu: ˈaʊər ɪnˈvaɪərənmənt],B1_L166_S91.mp3
+92,Штаб-квартира располагается в Нью-Йорке,The headquarters are located in New York,[ðə ˈhedˈkwɔ:təz ɑ: ləʊˈkeɪtɪd ɪn nju: jɔ:k],B1_L166_S92.mp3
+93,Это выяснилось только вчера,It was found out only yesterday,[ɪt wɒz faʊnd aʊt ˈəʊnli ˈjestədeɪ],B1_L166_S93.mp3
+94,"Я полагаю, дом скоро будет продан",I suppose the house will be sold soon,[aɪ səˈpəʊz ðə haʊs wɪl bi: səʊld su:n],B1_L166_S94.mp3
+95,Они еще ничего не исправили,They haven't corrected anything yet,[ðeɪ hævnt kəˈrektɪd ˈenɪθɪŋ jet],B1_L166_S95.mp3
+96,Кукла была подарена ей в подарок,The doll was given to her as a present,[ðə dɒl wɒz ˈgɪvn tu: hɜ: æz ə ˈpreznt],B1_L166_S96.mp3
+97,Мост будет построен к следующей неделе,The bridge will have been constructed by next week,[ðə brɪʤ wɪl hæv bi:n kənˈstrʌktɪd baɪ nekst wi:k],B1_L166_S97.mp3
+98,Рабочие покрасят дом к субботе,The workers will have painted the house by Saturday,[ðə ˈwɜ:kəz wɪl hæv ˈpeɪntɪd ðə haʊs baɪ ˈsætədeɪ],B1_L166_S98.mp3
+99,Они нанесли большой вред нашей окружающей среде,They did lots of harm to our environment,[ðeɪ dɪd lɒts ɒv hɑ:m tu: ˈaʊər ɪnˈvaɪərənmənt],B1_L166_S99.mp3
+100,Где это находится?,Where is it situated?,[weər ɪz ɪt ˈsɪtjʊeɪtɪd?],B1_L166_S100.mp3
+101,Они пытаются починить эти часы,They are trying to repair this clock,[ðeɪ ɑ: ˈtraɪɪŋ tu: rɪˈpeə ðɪs klɒk],B1_L166_S101.mp3
+102,Я принял правильное решение,I made the right decision,[aɪ meɪd ðə raɪt dɪˈsɪʒən],B1_L166_S102.mp3
+103,Данные были собраны,The data was collected,[ðə ˈdeɪtə wɒz kəˈlektɪd],B1_L166_S103.mp3

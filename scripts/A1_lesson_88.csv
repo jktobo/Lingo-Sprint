@@ -1,0 +1,99 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он перепрыгнул через камень,He jumped over the stone,[hi: ʤʌmpt ˈəʊvə ðə stəʊn],A1_L88_S2.mp3
+3,Ты последовал этому совету?,Did you follow this advice?,[dɪd ju: ˈfɒləʊ ðɪs ədˈvaɪs?],A1_L88_S3.mp3
+4,Они владели этим домом?,Did they own this house?,[dɪd ðeɪ əʊn ðɪs haʊs?],A1_L88_S4.mp3
+5,Я следовал тем инструкциям,I followed those instructions,[aɪ ˈfɒləʊd ðəʊz ɪnˈstrʌkʃənz],A1_L88_S5.mp3
+6,Покупатель пожаловался на сервис,The customer complained about the service,[ðə ˈkʌstəmə kəmˈpleɪnd əˈbaʊt ðə ˈsɜ:vɪs],A1_L88_S6.mp3
+7,Я повторил вопрос еще раз,I repeated the question one more time,[aɪ rɪˈpi:tɪd ðə ˈkwesʧən wʌn mɔ: taɪm],A1_L88_S7.mp3
+8,Она прибыла в Лондон в полдень,She arrived in London at midday,[ʃi: əˈraɪvd ɪn ˈlʌndən æt ˈmɪddeɪ],A1_L88_S8.mp3
+9,Они записали его речь,They recorded his speech,[ðeɪ rɪˈkɔ:dɪd hɪz spi:ʧ],A1_L88_S9.mp3
+10,Она слишком сильно волновалась об этом,She worried too much about it,[ʃi: ˈwʌrid tu: mʌʧ əˈbaʊt ɪt],A1_L88_S10.mp3
+11,Мне нужно было идти в банк,I needed to go to the bank,[aɪ ˈni:dɪd tu: gəʊ tu: ðə bæŋk],A1_L88_S11.mp3
+12,Они перепрыгнули через забор,They jumped over the fence,[ðeɪ ʤʌmpt ˈəʊvə ðə fens],A1_L88_S12.mp3
+13,"Он прибыл позже, чем обычно",He arrived later than usual,[hi: əˈraɪvd ˈleɪtə ðæn ˈju:ʒʊəl],A1_L88_S13.mp3
+14,Мне действительно нужна была твоя помощь,I really needed your help,[aɪ ˈrɪəli ˈni:dɪd jɔ: help],A1_L88_S14.mp3
+15,Это действительно пугало ее,It really frightened her,[ɪt ˈrɪəli ˈfraɪtnd hɜ:],A1_L88_S15.mp3
+16,Мы надеялись выиграть,We hoped to win,[wi: həʊpt tu: wɪn],A1_L88_S16.mp3
+17,Я много путешествовал,I travelled a lot,[aɪ ˈtrævld ə lɒt],A1_L88_S17.mp3
+18,Я нес ее сумку,I carried her bag,[aɪ ˈkærid hɜ: bæg],A1_L88_S18.mp3
+19,Они открыли ворота,They opened the gate,[ðeɪ ˈəʊpənd ðə geɪt],A1_L88_S19.mp3
+20,Он часто носил тяжелые вещи,He often carried heavy things,[hi: ˈɒfn ˈkærid ˈhevi θɪŋz],A1_L88_S20.mp3
+21,Она прыгнула очень высоко,She jumped very high,[ʃi: ʤʌmpt ˈveri haɪ],A1_L88_S21.mp3
+22,Этот дом принадлежал им?,Did this house belong to them?,[dɪd ðɪs haʊs bɪˈlɒŋ tu: ðem?],A1_L88_S22.mp3
+23,Проблема не исчезла,The problem didn't disappear,[ðə ˈprɒbləm dɪdnt ˌdɪsəˈpɪə],A1_L88_S23.mp3
+24,Он владел этой квартирой,He owned this apartment,[hi: əʊnd ðɪs əˈpɑ:tmənt],A1_L88_S24.mp3
+25,Мы играли в другую игру,We played another game,[wi: pleɪd əˈnʌðə geɪm],A1_L88_S25.mp3
+26,Он прибыл в Нью-Йорк в полдень,He arrived in New York at noon,[hi: əˈraɪvd ɪn nju: jɔ:k æt nu:n],A1_L88_S26.mp3
+27,Он часто тренировался в спортивном зале,He often trained in the gym,[hi: ˈɒfn treɪnd ɪn ðə ʤɪm],A1_L88_S27.mp3
+28,Он действительно беспокоился о своем будущем,He really worried about his future,[hi: ˈrɪəli ˈwʌrid əˈbaʊt hɪz ˈfju:ʧə],A1_L88_S28.mp3
+29,Мы путешествовали там каждое лето,We travelled there every summer,[wi: ˈtrævld ðeər ˈevri ˈsʌmə],A1_L88_S29.mp3
+30,Он перепрыгнул через реку,He jumped over the river,[hi: ʤʌmpt ˈəʊvə ðə ˈrɪvə],A1_L88_S30.mp3
+31,Нам действительно нравится путешествовать вместе,We really liked travelling together,[wi: ˈrɪəli laɪk ˈtrævlɪŋ təˈgeðə],A1_L88_S31.mp3
+32,Мне просто нужна была некоторая информация,I just needed some information,[aɪ ʤʌst ˈni:dɪd sʌm ˌɪnfəˈmeɪʃən],A1_L88_S32.mp3
+33,Преступники внезапно исчезли,The criminals disappeared suddenly,[ðə ˈkrɪmɪnlz ˌdɪsəˈpɪəd ˈsʌdnli],A1_L88_S33.mp3
+34,Я звонил своему брату вчера,I called my brother yesterday,[aɪ kɔ:ld maɪ ˈbrʌðə ˈjestədeɪ],A1_L88_S34.mp3
+35,Я повторил фразу несколько раз,I repeated the phrase several times,[aɪ rɪˈpi:tɪd ðə freɪz ˈsevrəl taɪmz],A1_L88_S35.mp3
+36,Двери открылись автоматически,The doors opened automatically,[ðə dɔ:z ˈəʊpənd ˌɔ:təˈmætɪkəli],A1_L88_S36.mp3
+37,Они записали тот разговор,They recorded that conversation,[ðeɪ rɪˈkɔ:dɪd ðæt ˌkɒnvəˈseɪʃən],A1_L88_S37.mp3
+38,Я достиг следующего уровня очень легко,I reached the next level very easily,[aɪ ri:ʧt ðə nekst ˈlevl ˈveri ˈi:zɪli],A1_L88_S38.mp3
+39,Он играл в шахматы со своим братом,He played chess with his brother,[hi: pleɪd ʧes wɪð hɪz ˈbrʌðə],A1_L88_S39.mp3
+40,Я перезвонил ему позже,I called him back later,[aɪ kɔ:ld hɪm bæk ˈleɪtə],A1_L88_S40.mp3
+41,"Она никогда не жаловалась, хотя это было очень трудно для нее",She never complained although it was very difficult for her,[ʃi: ˈnevə kəmˈpleɪnd ɔ:lˈðəʊ ɪt wɒz ˈveri ˈdɪfɪkəlt fɔ: hɜ:],A1_L88_S41.mp3
+42,"Я предполагал, что это был единственно правильный выбор",I supposed that it was the only right choice,[aɪ səˈpəʊzd ðæt ɪt wɒz ði ˈəʊnli raɪt ʧɔɪs],A1_L88_S42.mp3
+43,"Я пытался сделать все возможное, чтобы достичь этой цели",I tried to do my best to achieve this aim,[aɪ traɪd tu: du: maɪ best tu: əˈʧi:v ðɪs eɪm],A1_L88_S43.mp3
+44,"Он не заработал достаточно денег, чтобы купить новую квартиру в той области",He didn't earn enough money to buy a new apartment in that area,[hi: dɪdnt ɜ:n ɪˈnʌf ˈmʌni tu: baɪ ə nju: əˈpɑ:tmənt ɪn ðæt ˈeərɪə],A1_L88_S44.mp3
+45,"Он зарабатывал слишком мало денег, когда работал там",He earned too little money when he worked there,[hi: ɜ:nd tu: ˈlɪtl ˈmʌni wen hi: wɜ:kt ðeə],A1_L88_S45.mp3
+46,Я очень тщательно все проанализировал,I analysed everything very thoroughly,[aɪ ˈænəlaɪzd ˈevrɪθɪŋ ˈveri ˈθʌrəli],A1_L88_S46.mp3
+47,"Воры пытались исчезнуть, но они не могли этого сделать",The thieves tried to disappear but they couldn't do it,[ðə θi:vz traɪd tu: ˌdɪsəˈpɪə bʌt ðeɪ ˈkʊdnt du: ɪt],A1_L88_S47.mp3
+48,Его соседи часто жаловались на шум,His neighbours often complained about the noise,[hɪz ˈneɪbəz ˈɒfn kəmˈpleɪnd əˈbaʊt ðə nɔɪz],A1_L88_S48.mp3
+49,Я решил последовать его рекомендации,I decided to follow his recommendation,[aɪ dɪˈsaɪdɪd tu: ˈfɒləʊ hɪz ˌrekəmenˈdeɪʃən],A1_L88_S49.mp3
+50,Я никогда не жаловался на это,I never complained about it,[aɪ ˈnevə kəmˈpleɪnd əˈbaʊt ɪt],A1_L88_S50.mp3
+51,Я не мог поверить своим глазам,I couldn't believe my eyes,[aɪ ˈkʊdnt bɪˈli:v maɪ aɪz],A1_L88_S51.mp3
+52,Я решил перестать тратить время впустую,I decided to stop wasting time,[aɪ dɪˈsaɪdɪd tu: stɒp ˈweɪstɪŋ taɪm],A1_L88_S52.mp3
+53,Я старался не беспокоиться об этом,I tried not to worry about it,[aɪ traɪd nɒt tu: ˈwʌri əˈbaʊt ɪt],A1_L88_S53.mp3
+54,Я пытался контролировать свои эмоции,I tried to control my emotions,[aɪ traɪd tu: kənˈtrəʊl maɪ ɪˈməʊʃənz],A1_L88_S54.mp3
+55,"Я сделал все возможное, чтобы достичь своей цели",I did my best to achieve my aim,[aɪ dɪd maɪ best tu: əˈʧi:v maɪ eɪm],A1_L88_S55.mp3
+56,Мы прибыли на станцию,We arrived at the station,[wi: əˈraɪvd æt ðə ˈsteɪʃən],A1_L88_S56.mp3
+57,Мы прибыли в город,We arrived in the city,[wi: əˈraɪvd ɪn ðə ˈsɪti],A1_L88_S57.mp3
+58,Они прибыли в это место,They arrived at this place,[ðeɪ əˈraɪvd æt ðɪs pleɪs],A1_L88_S58.mp3
+59,Я очень усердно старался достичь этой цели,I tried very hard to achieve this aim,[aɪ traɪd ˈveri hɑ:d tu: əˈʧi:v ðɪs eɪm],A1_L88_S59.mp3
+60,Я пытался достичь этой цели,I tried to achieve this aim,[aɪ traɪd tu: əˈʧi:v ðɪs eɪm],A1_L88_S60.mp3
+61,Он так усердно старался достичь своей цели,He tried so hard to achieve his aim,[hi: traɪd səʊ hɑ:d tu: əˈʧi:v hɪz eɪm],A1_L88_S61.mp3
+62,Я решил сделать это чуть позже,I decided to do it a little later,[aɪ dɪˈsaɪdɪd tu: du: ɪt ə ˈlɪtl ˈleɪtə],A1_L88_S62.mp3
+63,Я решил сделать это чуть позже,I decided to do it a bit later,[aɪ dɪˈsaɪdɪd tu: du: ɪt ə bɪt ˈleɪtə],A1_L88_S63.mp3
+64,Он решил не делать этого,He decided not to do it,[hi: dɪˈsaɪdɪd nɒt tu: du: ɪt],A1_L88_S64.mp3
+65,Я не хотел больше впустую тратить время,I didn't want to waste time anymore,[aɪ dɪdnt wɒnt tu: weɪst taɪm ˌeniˈmɔ:],A1_L88_S65.mp3
+66,Я решил больше не тратить время впустую,I decided not to waste time anymore,[aɪ dɪˈsaɪdɪd nɒt tu: weɪst taɪm ˌeniˈmɔ:],A1_L88_S66.mp3
+67,Я не хотел больше тратить впустую свои деньги,I didn't want to waste my money anymore,[aɪ dɪdnt wɒnt tu: weɪst maɪ ˈmʌni ˌeniˈmɔ:],A1_L88_S67.mp3
+68,"Я предполагал, что это была ложь",I supposed that it was a lie,[aɪ səˈpəʊzd ðæt ɪt wɒz ə laɪ],A1_L88_S68.mp3
+69,"Я надеялся, что это была ложь",I hoped that it was a lie,[aɪ həʊpt ðæt ɪt wɒz ə laɪ],A1_L88_S69.mp3
+70,Я открыл крышку бутылки,I opened the lid of the bottle,[aɪ ˈəʊpənd ðə lɪd ɒv ðə ˈbɒtl],A1_L88_S70.mp3
+71,Я открыл крышку этой бутылки,I opened the lid of this bottle,[aɪ ˈəʊpənd ðə lɪd ɒv ðɪs ˈbɒtl],A1_L88_S71.mp3
+72,Он открыл крышку бутылки,He opened the lid of the bottle,[hi: ˈəʊpənd ðə lɪd ɒv ðə ˈbɒtl],A1_L88_S72.mp3
+73,"Я пытался все контролировать …………….…................................................... 74. Я пытался все сделать …………….…................................................... 75. Он пытался контролировать каждого …………….…................................................... 76. Я старался тренироваться как можно интенсивнее …………….…................................................... 77. Я хотел учиться как можно интенсивнее …………….…................................................... 78. Я старался тренироваться интенсивно …………….…................................................... 79. Он прибыл на вечеринку чуть позже …………….…................................................... 80. Он прибыл на вечеринку чуть позже …………….…................................................... 81. Он прибыл на вечеринку позже …………….…................................................... 82. Я согласился с ним в конце концов …………….…................................................... 83. Мы обсудили это в конце концов …………….…................................................... 84. Я согласился с ним в конце разговора …………….…................................................... 85. Я не хотел копировать ошибки других студентов …………….…................................................... 8 86. Почему ты решил не делать этого? …………….…................................................... 87. Я надеялся на лучшее, но ожидал худшего …………….…................................................... 88. Я полагал, что это было единственное правильное решение …………….…................................................... 89. Ничто не интересовало ее так сильно …………….…................................................... 90. Я решил достичь высшего уровня в английском …………….…................................................... 91. Я проанализировал результаты, которые у меня были …………….…................................................... 92. Я пожаловался менеджеру на это …………….…................................................... 93. Они скопировали дизайн этого продукта …………….…................................................... 94. Они не согласились в начале …………….…................................................... 95. Он не мог достичь этой цели …………….…................................................... 96. Ничего не произошло …………….…................................................... 97. Я ненавидел тратить время впустую …………….…................................................... 98. Я надеялся на лучшее …………….…................................................... 9 99. Ничего не интересовало его …………….…................................................... 10 Ответы 1. Эта вещь совсем меня не пугала",This thing didn't frighten me at all,[ðɪs θɪŋ dɪdnt ˈfraɪtn mi: æt ɔ:l],A1_L88_S73.mp3
+74,Я пытался все сделать,I tried to do everything,[aɪ traɪd tu: du: ˈevrɪθɪŋ],A1_L88_S74.mp3
+75,Он пытался контролировать каждого,He tried to control everyone,[hi: traɪd tu: kənˈtrəʊl ˈevrɪwʌn],A1_L88_S75.mp3
+76,Я старался тренироваться как можно интенсивнее,I tried to train as intensively as possible,[aɪ traɪd tu: treɪn æz ɪnˈtensɪvli æz ˈpɒsəbl],A1_L88_S76.mp3
+77,Я хотел учиться как можно интенсивнее,I wanted to study as intensively as possible,[aɪ ˈwɒntɪd tu: ˈstʌdi æz ɪnˈtensɪvli æz ˈpɒsəbl],A1_L88_S77.mp3
+78,Я старался тренироваться интенсивно,I tried to train intensively,[aɪ traɪd tu: treɪn ɪnˈtensɪvli],A1_L88_S78.mp3
+79,Он прибыл на вечеринку чуть позже,He arrived at the party a bit later,[hi: əˈraɪvd æt ðə ˈpɑ:ti ə bɪt ˈleɪtə],A1_L88_S79.mp3
+80,Он прибыл на вечеринку чуть позже,He arrived at the party a little later,[hi: əˈraɪvd æt ðə ˈpɑ:ti ə ˈlɪtl ˈleɪtə],A1_L88_S80.mp3
+81,Он прибыл на вечеринку позже,He arrived at the party later,[hi: əˈraɪvd æt ðə ˈpɑ:ti ˈleɪtə],A1_L88_S81.mp3
+82,Я согласился с ним в конце концов,I agreed with him in the end,[aɪ əˈgri:d wɪð hɪm ɪn ði end],A1_L88_S82.mp3
+83,Мы обсудили это в конце концов,We discussed it in the end,[wi: dɪsˈkʌst ɪt ɪn ði end],A1_L88_S83.mp3
+84,Я согласился с ним в конце разговора,I agreed with him at the end of the conversation,[aɪ əˈgri:d wɪð hɪm æt ði end ɒv ðə ˌkɒnvəˈseɪʃən],A1_L88_S84.mp3
+85,Я не хотел копировать ошибки других студентов,I didn't want to copy other students mistakes,[aɪ dɪdnt wɒnt tu: ˈkɒpi ˈʌðə ˈstju:dənts mɪsˈteɪks],A1_L88_S85.mp3
+86,Почему ты решил не делать этого?,Why did you decide not to do it?,[waɪ dɪd ju: dɪˈsaɪd nɒt tu: du: ɪt?],A1_L88_S86.mp3
+87,"Я надеялся на лучшее, но ожидал худшего",I hoped for the best but expected the worst,[aɪ həʊpt fɔ: ðə best bʌt ɪksˈpektɪd ðə wɜ:st],A1_L88_S87.mp3
+88,"Я полагал, что это было единственное правильное решение",I supposed that it was the only right decision,[aɪ səˈpəʊzd ðæt ɪt wɒz ði ˈəʊnli raɪt dɪˈsɪʒən],A1_L88_S88.mp3
+89,Ничто не интересовало ее так сильно,Nothing interested her so much,[ˈnʌθɪŋ ˈɪntrɪstɪd hɜ: səʊ mʌʧ],A1_L88_S89.mp3
+90,Я решил достичь высшего уровня в английском,I decided to reach the highest level in English,[aɪ dɪˈsaɪdɪd tu: ri:ʧ ðə ˈhaɪɪst ˈlevl ɪn ˈɪŋglɪʃ],A1_L88_S90.mp3
+91,"Я проанализировал результаты, которые у меня были",I analysed the results which I had,[aɪ ˈænəlaɪzd ðə rɪˈzʌlts wɪʧ aɪ hæd],A1_L88_S91.mp3
+92,Я пожаловался менеджеру на это,I complained to the manager about it,[aɪ kəmˈpleɪnd tu: ðə ˈmænɪʤər əˈbaʊt ɪt],A1_L88_S92.mp3
+93,Они скопировали дизайн этого продукта,They copied the design of this product,[ðeɪ ˈkɒpid ðə dɪˈzaɪn ɒv ðɪs ˈprɒdʌkt],A1_L88_S93.mp3
+94,Они не согласились в начале,They didn't agree in the beginning,[ðeɪ dɪdnt əˈgri: ɪn ðə bɪˈgɪnɪŋ],A1_L88_S94.mp3
+95,Он не мог достичь этой цели,He couldn't achieve this aim,[hi: ˈkʊdnt əˈʧi:v ðɪs eɪm],A1_L88_S95.mp3
+96,Ничего не произошло,Nothing happened,[ˈnʌθɪŋ ˈhæpənd],A1_L88_S96.mp3
+97,Я ненавидел тратить время впустую,I hated wasting time,[aɪ ˈheɪtɪd ˈweɪstɪŋ taɪm],A1_L88_S97.mp3
+98,Я надеялся на лучшее,I hoped for the best,[aɪ həʊpt fɔ: ðə best],A1_L88_S98.mp3
+99,Ничего не интересовало его,Nothing interested him,[ˈnʌθɪŋ ˈɪntrɪstɪd hɪm],A1_L88_S99.mp3

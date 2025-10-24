@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он такой милый человек,He is such a nice person,[hi: ɪz sʌʧ ə naɪs ˈpɜ:sn],A2_L142_S2.mp3
+3,Это специальная цена,It's a special price,[ɪts ə ˈspeʃəl praɪs],A2_L142_S3.mp3
+4,Они беспокоятся о своей национальной безопасности,They are worried about their national security,[ðeɪ ɑ: ˈwʌrid əˈbaʊt ðeə ˈnæʃənl sɪˈkjʊərɪti],A2_L142_S4.mp3
+5,Она живет в доме поменьше,She lives in a smaller house,[ʃi: lɪvz ɪn ə ˈsmɔ:lə haʊs],A2_L142_S5.mp3
+6,Он действительно сердится на него,He is really angry with him,[hi: ɪz ˈrɪəli ˈæŋgri wɪð hɪm],A2_L142_S6.mp3
+7,Они такие профессиональные учителя,They are such professional teachers,[ðeɪ ɑ: sʌʧ prəˈfeʃənl ˈti:ʧəz],A2_L142_S7.mp3
+8,Она обычная женщина,She is an ordinary woman,[ʃi: ɪz ən ˈɔ:dnri ˈwʊmən],A2_L142_S8.mp3
+9,Он живет в обычных условиях,He lives in ordinary conditions,[hi: lɪvz ɪn ˈɔ:dnri kənˈdɪʃənz],A2_L142_S9.mp3
+10,Это неофициальный ответ,It's an informal answer,[ɪts ən ɪnˈfɔ:ml ˈɑ:nsə],A2_L142_S10.mp3
+11,Здесь гораздо громче,It is much louder here,[ɪt ɪz mʌʧ ˈlaʊdə hɪə],A2_L142_S11.mp3
+12,Музыка такая громкая,The music is so loud,[ðə ˈmju:zɪk ɪz səʊ laʊd],A2_L142_S12.mp3
+13,Она всегда полна энергии,She is always full of energy,[ʃi: ɪz ˈɔ:lweɪz fʊl ɒv ˈenəʤi],A2_L142_S13.mp3
+14,Это правильный глагол,It's a regular verb,[ɪts ə ˈregjʊlə vɜ:b],A2_L142_S14.mp3
+15,Они очень милые люди,They are very nice people,[ðeɪ ɑ: ˈveri naɪs ˈpi:pl],A2_L142_S15.mp3
+16,Она действительно злится на это,She is really angry about it,[ʃi: ɪz ˈrɪəli ˈæŋgri əˈbaʊt ɪt],A2_L142_S16.mp3
+17,Это была такая сложная проблема,It was such a difficult problem,[ɪt wɒz sʌʧ ə ˈdɪfɪkəlt ˈprɒbləm],A2_L142_S17.mp3
+18,Шутка была совсем не смешная,The joke wasn't funny at all,[ðə ʤəʊk wɒznt ˈfʌni æt ɔ:l],A2_L142_S18.mp3
+19,Река очень глубокая,The river is very deep,[ðə ˈrɪvər ɪz ˈveri di:p],A2_L142_S19.mp3
+20,Он очень терпеливый человек,He is a very patient person,[hi: ɪz ə ˈveri ˈpeɪʃənt ˈpɜ:sn],A2_L142_S20.mp3
+21,Его машина более новая,His car is newer,[hɪz kɑ:r ɪz ˈnju:ə],A2_L142_S21.mp3
+22,Она в безопасном месте сейчас,She is in a safe place now,[ʃi: ɪz ɪn ə seɪf pleɪs naʊ],A2_L142_S22.mp3
+23,Это более популярная песня,It's a more popular song,[ɪts ə mɔ: ˈpɒpjʊlə sɒŋ],A2_L142_S23.mp3
+24,Это было специальное предложение,It was a special offer,[ɪt wɒz ə ˈspeʃəl ˈɒfə],A2_L142_S24.mp3
+25,Она такая мудрая женщина,She is such a wise woman,[ʃi: ɪz sʌʧ ə waɪz ˈwʊmən],A2_L142_S25.mp3
+26,У него широкие плечи,He has broad shoulders,[hi: hæz brɔ:d ˈʃəʊldəz],A2_L142_S26.mp3
+27,Ее английский безупречен,Her English is perfect,[hɜ: ˈɪŋglɪʃ ɪz ˈpɜ:fɪkt],A2_L142_S27.mp3
+28,Он был в очень сложной ситуации,He was in a very difficult situation,[hi: wɒz ɪn ə ˈveri ˈdɪfɪkəlt ˌsɪtjʊˈeɪʃən],A2_L142_S28.mp3
+29,Это такая смешная шутка,It is such a funny joke,[ɪt ɪz sʌʧ ə ˈfʌni ʤəʊk],A2_L142_S29.mp3
+30,Это было такое мудрое решение,It was such a wise decision,[ɪt wɒz sʌʧ ə waɪz dɪˈsɪʒən],A2_L142_S30.mp3
+31,Он был нашим специальным гостем,He was our special guest,[hi: wɒz ˈaʊə ˈspeʃəl gest],A2_L142_S31.mp3
+32,Это очень популярная тенденция в наши дни,It's a very popular trend – nowadays,[ɪts ə ˈveri ˈpɒpjʊlə trend - ˈnaʊədeɪz],A2_L142_S32.mp3
+33,У мальчика широкие плечи,The boy has broad shoulders,[ðə bɔɪ hæz brɔ:d ˈʃəʊldəz],A2_L142_S33.mp3
+34,То место было полно людей,That place was full of people,[ðæt pleɪs wɒz fʊl ɒv ˈpi:pl],A2_L142_S34.mp3
+35,Она чувствует себя такой несчастной,She feels so unhappy,[ʃi: fi:lz səʊ ʌnˈhæpi],A2_L142_S35.mp3
+36,Это идеальный пример,It's a perfect example,[ɪts ə ˈpɜ:fɪkt ɪgˈzɑ:mpl],A2_L142_S36.mp3
+37,Он национальный герой,He is a national hero,[hi: ɪz ə ˈnæʃənl ˈhɪərəʊ],A2_L142_S37.mp3
+38,Тест был таким сложным,The test was so difficult,[ðə test wɒz səʊ ˈdɪfɪkəlt],A2_L142_S38.mp3
+39,Это такой сложный тест,It is such a difficult test,[ɪt ɪz sʌʧ ə ˈdɪfɪkəlt test],A2_L142_S39.mp3
+40,Она сейчас может чувствовать себя в безопасности,She can feel safe now,[ʃi: kæn fi:l seɪf naʊ],A2_L142_S40.mp3
+41,"Эта песня не так популярна, как та",This song isn't as popular as that one,[ðɪs sɒŋ ˈɪznt æz ˈpɒpjʊlər æz ðæt wʌn],A2_L142_S41.mp3
+42,Он один из самых богатых людей в мире,He is one of the richest people in the world,[hi: ɪz wʌn ɒv ðə ˈrɪʧɪst ˈpi:pl ɪn ðə wɜ:ld],A2_L142_S42.mp3
+43,Нам также нужно учитывать политические факторы,We also need to consider political factors,[wi: ˈɔ:lsəʊ ni:d tu: kənˈsɪdə pəˈlɪtɪkəl ˈfæktəz],A2_L142_S43.mp3
+44,"Я абсолютно уверен, что делаю правильную вещь",I'm absolutely sure that I'm doing the right thing,[aɪm ˈæbsəlu:tli ʃʊə ðæt aɪm ˈdu:ɪŋ ðə raɪt θɪŋ],A2_L142_S44.mp3
+45,Это неформальный способ сказать это по-английски,It's an informal way of saying it in English,[ɪts ən ɪnˈfɔ:ml weɪ ɒv ˈseɪɪŋ ɪt ɪn ˈɪŋglɪʃ],A2_L142_S45.mp3
+46,"Я знаю, что мне нужно быть более терпеливым",I know that I need to be more patient,[aɪ nəʊ ðæt aɪ ni:d tu: bi: mɔ: ˈpeɪʃənt],A2_L142_S46.mp3
+47,Он может говорить на трех иностранных языках,He can speak three foreign languages,[hi: kæn spi:k θri: ˈfɒrɪn ˈlæŋgwɪʤɪz],A2_L142_S47.mp3
+48,"Я абсолютно уверен, что Бог действительно существует",I am absolutely sure that God really exists,[aɪ æm ˈæbsəlu:tli ʃʊə ðæt gɒd ˈrɪəli ɪgˈzɪsts],A2_L142_S48.mp3
+49,Какая была общая сумма?,What was the total sum?,[wɒt wɒz ðə ˈtəʊtl sʌm?],A2_L142_S49.mp3
+50,Он мой любимый видеоблогер,He is my favourite video blogger,[hi: ɪz maɪ ˈfeɪvərɪt ˈvɪdɪəʊ ˈblɒgə],A2_L142_S50.mp3
+51,"То, что они сделали, было незаконно",What they did was illegal,[wɒt ðeɪ dɪd wɒz ɪˈli:gəl],A2_L142_S51.mp3
+52,Он один из самых богатых людей на нашей планете,He is one of the richest people on our planet,[hi: ɪz wʌn ɒv ðə ˈrɪʧɪst ˈpi:pl ɒn ˈaʊə ˈplænɪt],A2_L142_S52.mp3
+53,Общая сумма была двести долларов,The total sum was two hundred dollars,[ðə ˈtəʊtl sʌm wɒz tu: ˈhʌndrəd ˈdɒləz],A2_L142_S53.mp3
+54,Это такое грязное место,It's such a dirty place,[ɪts sʌʧ ə ˈdɜ:ti pleɪs],A2_L142_S54.mp3
+55,Он гораздо более богатый человек,He is a much richer person,[hi: ɪz ə mʌʧ ˈrɪʧə ˈpɜ:sn],A2_L142_S55.mp3
+56,Я стараюсь делать это на регулярной основе,I try to do it on a regular basis,[aɪ traɪ tu: du: ɪt ɒn ə ˈregjʊlə ˈbeɪsɪs],A2_L142_S56.mp3
+57,Я использую это приложение на регулярной основе,I use this application on a regular basis,[aɪ ju:z ðɪs ˌæplɪˈkeɪʃn ɒn ə ˈregjʊlə ˈbeɪsɪs],A2_L142_S57.mp3
+58,"Я стараюсь делать это так часто, как могу",I try to do it as often as I can,[aɪ traɪ tu: du: ɪt æz ˈɒfn æz aɪ kæn],A2_L142_S58.mp3
+59,Это неформальный способ сказать это,It's an informal way of saying it,[ɪts ən ɪnˈfɔ:ml weɪ ɒv ˈseɪɪŋ ɪt],A2_L142_S59.mp3
+60,Это неформальный способ сделать это,It's an informal way of doing it,[ɪts ən ɪnˈfɔ:ml weɪ ɒv ˈdu:ɪŋ ɪt],A2_L142_S60.mp3
+61,Он обычно носит неформальную одежду,He usually wears informal clothes,[hi: ˈju:ʒʊəli weəz ɪnˈfɔ:ml kləʊðz],A2_L142_S61.mp3
+62,Это такое захватывающее событие,It's such an exciting event,[ɪts sʌʧ ən ɪkˈsaɪtɪŋ ɪˈvent],A2_L142_S62.mp3
+63,Это событие было таким захватывающим,This event was so exciting,[ðɪs ɪˈvent wɒz səʊ ɪkˈsaɪtɪŋ],A2_L142_S63.mp3
+64,Это такое важное событие,It's such an important event,[ɪts sʌʧ ən ɪmˈpɔ:tənt ɪˈvent],A2_L142_S64.mp3
+65,Эта новость такая захватывающая,This news is so exciting,[ðɪs nju:z ɪz səʊ ɪkˈsaɪtɪŋ],A2_L142_S65.mp3
+66,Эта новость такая шокирующая,This news is so shocking,[ðɪs nju:z ɪz səʊ ˈʃɒkɪŋ],A2_L142_S66.mp3
+67,Это такая захватывающая новость,It is such an exciting news,[ɪt ɪz sʌʧ ən ɪkˈsaɪtɪŋ nju:z],A2_L142_S67.mp3
+68,Его дом меньше чем ее,His house is smaller than hers,[hɪz haʊs ɪz ˈsmɔ:lə ðæn hɜ:z],A2_L142_S68.mp3
+69,Его дом больше моего,His house is bigger than mine,[hɪz haʊs ɪz ˈbɪgə ðæn maɪn],A2_L142_S69.mp3
+70,Его дом дороже чем ее?,Is his house more expensive than hers?,[ɪz hɪz haʊs mɔ: ɪksˈpensɪv ðæn hɜ:z?],A2_L142_S70.mp3
+71,Ты заплатил всю сумму сразу?,Did you pay the total sum at once?,[dɪd ju: peɪ ðə ˈtəʊtl sʌm æt wʌns?],A2_L142_S71.mp3
+72,Ты потратил эту сумму сразу?,Did you spend this sum at once?,[dɪd ju: spend ðɪs sʌm æt wʌns?],A2_L142_S72.mp3
+73,"Ты сделал это сразу? …………….…................................................... 74. Он более профессиональный тренер …………….…................................................... 75. Он профессиональный спортсмен …………….…................................................... 76. Он тренирует их действительно профессионально …………….…................................................... 77. Это одна из самых мощных организаций …………….…................................................... 78. Это один из самых полезных уроков …………….…................................................... 79. Это самая богатая организация …………….…................................................... 80. Он отказался сделать это по политическим причинам …………….…................................................... 81. Он отказался сделать это по другой причине …………….…................................................... 82. Он сделал это без причины …………….…................................................... 83. Она гораздо более профессиональный тренер …………….…................................................... 84. Она действительно профессиональный музыкант …………….…................................................... 85. Она делала это действительно профессионально …………….…................................................... 8 86. Кто твой любимый певец? …………….…................................................... 87. На скольких иностранных языках он говорит? …………….…................................................... 88. Эта река глубже, чем та …………….…................................................... 89. Новости были такими захватывающими …………….…................................................... 90. Это очень мощная организация …………….…................................................... 91. Мы учим как правильные, так и неправильные глаголы …………….…................................................... 92. Это мое любимое блюдо …………….…................................................... 93. То, что они делают, незаконно …………….…................................................... 94. Эта река не такая глубокая, как та …………….…................................................... 95. Разные вещи обсуждались вчера …………….…................................................... 96. Небо серое …………….…................................................... 97. Он более богатый человек …………….…................................................... 98. У него седые волосы …………….…................................................... 9 99. Она маленькая девочка …………….…................................................... 100. Какая общая сумма? …………….…................................................... 10 Ответы 1. Это незаконно",It is illegal,[ɪt ɪz ɪˈli:gəl],A2_L142_S73.mp3
+74,Он более профессиональный тренер,He is a more professional trainer,[hi: ɪz ə mɔ: prəˈfeʃənl ˈtreɪnə],A2_L142_S74.mp3
+75,Он профессиональный спортсмен,He is a professional sportsman,[hi: ɪz ə prəˈfeʃənl ˈspɔ:tsmən],A2_L142_S75.mp3
+76,Он тренирует их действительно профессионально,He trains them really professionally,[hi: treɪnz ðem ˈrɪəli prəˈfeʃnəli],A2_L142_S76.mp3
+77,Это одна из самых мощных организаций,It is one of the most powerful organizations,[ɪt ɪz wʌn ɒv ðə məʊst ˈpaʊəfəl ˌɔ:gənaɪˈzeɪʃənz],A2_L142_S77.mp3
+78,Это один из самых полезных уроков,It is one of the most useful lessons,[ɪt ɪz wʌn ɒv ðə məʊst ˈju:sfəl ˈlesnz],A2_L142_S78.mp3
+79,Это самая богатая организация,It is the richest organization,[ɪt ɪz ðə ˈrɪʧɪst ˌɔ:gənaɪˈzeɪʃən],A2_L142_S79.mp3
+80,Он отказался сделать это по политическим причинам,He refused to do it for political reasons,[hi: ˌri:ˈfju:zd tu: du: ɪt fɔ: pəˈlɪtɪkəl ˈri:znz],A2_L142_S80.mp3
+81,Он отказался сделать это по другой причине,He refused to do it for another reason,[hi: ˌri:ˈfju:zd tu: du: ɪt fɔ: əˈnʌðə ˈri:zn],A2_L142_S81.mp3
+82,Он сделал это без причины,He did it for no reason,[hi: dɪd ɪt fɔ: nəʊ ˈri:zn],A2_L142_S82.mp3
+83,Она гораздо более профессиональный тренер,She is a much more professional trainer,[ʃi: ɪz ə mʌʧ mɔ: prəˈfeʃənl ˈtreɪnə],A2_L142_S83.mp3
+84,Она действительно профессиональный музыкант,She is a really professional musician,[ʃi: ɪz ə ˈrɪəli prəˈfeʃənl mju:ˈzɪʃən],A2_L142_S84.mp3
+85,Она делала это действительно профессионально,She did it really professionally,[ʃi: dɪd ɪt ˈrɪəli prəˈfeʃnəli],A2_L142_S85.mp3
+86,Кто твой любимый певец?,Who is your favourite singer?,[hu: ɪz jɔ: ˈfeɪvərɪt ˈsɪŋə?],A2_L142_S86.mp3
+87,На скольких иностранных языках он говорит?,How many foreign languages does he speak?,[haʊ ˈmeni ˈfɒrɪn ˈlæŋgwɪʤɪz dʌz hi: spi:k?],A2_L142_S87.mp3
+88,"Эта река глубже, чем та",That river is deeper than that one,[ðæt ˈrɪvər ɪz ˈdi:pə ðæn ðæt wʌn],A2_L142_S88.mp3
+89,Новости были такими захватывающими,The news was so exciting,[ðə nju:z wɒz səʊ ɪkˈsaɪtɪŋ],A2_L142_S89.mp3
+90,Это очень мощная организация,It's a very powerful organization,[ɪts ə ˈveri ˈpaʊəfəl ˌɔ:gənaɪˈzeɪʃən],A2_L142_S90.mp3
+91,"Мы учим как правильные, так и неправильные глаголы",We learn both regular and irregular verbs,[wi: lɜ:n bəʊθ ˈregjʊlər ænd ɪˈregjʊlə vɜ:bz],A2_L142_S91.mp3
+92,Это мое любимое блюдо,It's my favourite dish,[ɪts maɪ ˈfeɪvərɪt dɪʃ],A2_L142_S92.mp3
+93,"То, что они делают, незаконно",What they do is illegal,[wɒt ðeɪ du: ɪz ɪˈli:gəl],A2_L142_S93.mp3
+94,"Эта река не такая глубокая, как та",This river isn't as deep as that one,[ðɪs ˈrɪvər ˈɪznt æz di:p æz ðæt wʌn],A2_L142_S94.mp3
+95,Разные вещи обсуждались вчера,Different things were discussed yesterday,[ˈdɪfrənt θɪŋz wɜ: dɪsˈkʌst ˈjestədeɪ],A2_L142_S95.mp3
+96,Небо серое,The sky is grey,[ðə skaɪ ɪz greɪ],A2_L142_S96.mp3
+97,Он более богатый человек,He is a richer person,[hi: ɪz ə ˈrɪʧə ˈpɜ:sn],A2_L142_S97.mp3
+98,У него седые волосы,He has grey hair,[hi: hæz greɪ heə],A2_L142_S98.mp3
+99,Она маленькая девочка,She is a little girl,[ʃi: ɪz ə ˈlɪtl gɜ:l],A2_L142_S99.mp3
+100,Какая общая сумма?,What is the total sum?,[wɒt ɪz ðə ˈtəʊtl sʌm?],A2_L142_S100.mp3

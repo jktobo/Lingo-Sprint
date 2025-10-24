@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я совсем не пью алкоголь,I don’t drink alcohol at all,[aɪ dəʊnt drɪŋk ˈælkəhɒl æt ɔ:l],A1_L60_S2.mp3
+3,Я не на работе сейчас,I’m not at work now,[aɪm nɒt æt wɜ:k naʊ],A1_L60_S3.mp3
+4,Они не больны,They aren’t sick,[ðeɪ ɑ:nt sɪk],A1_L60_S4.mp3
+5,Он не студент,He isn’t a student,[hi: ˈɪznt ə ˈstju:dənt],A1_L60_S5.mp3
+6,Он не нервничает,He doesn't feel nervous,[hi: dʌznt fi:l ˈnɜ:vəs],A1_L60_S6.mp3
+7,Это дешевое ожерелье,It's a cheap necklace,[ɪts ə ʧi:p ˈneklɪs],A1_L60_S7.mp3
+8,Они не чувствуют себя плохо,They don't feel bad,[ðeɪ dəʊnt fi:l bæd],A1_L60_S8.mp3
+9,Это не дорогие часы,It isn't an expensive watch,[ɪt ˈɪznt ən ɪksˈpensɪv wɒʧ],A1_L60_S9.mp3
+10,Они не учатся за границей,They don't study abroad,[ðeɪ dəʊnt ˈstʌdi əˈbrɔ:d],A1_L60_S10.mp3
+11,Он не работает переводчиком,He doesn't work as a translator,[hi: dʌznt wɜ:k æz ə trænsˈleɪtə],A1_L60_S11.mp3
+12,Это не важная вещь,It isn't an important thing,[ɪt ˈɪznt ən ɪmˈpɔ:tənt θɪŋ],A1_L60_S12.mp3
+13,Он не болен,He isn't sick,[hi: ˈɪznt sɪk],A1_L60_S13.mp3
+14,Это не очень легкая задача для меня,It isn't a very easy task for me,[ɪt ˈɪznt ə ˈveri ˈi:zi tɑ:sk fɔ: mi:],A1_L60_S14.mp3
+15,Это не важная вещь,It's an unimportant thing,[ɪts ən ˌʌnɪmˈpɒtənt θɪŋ],A1_L60_S15.mp3
+16,Это не главная задача,It isn't the main task,[ɪt ˈɪznt ðə meɪn tɑ:sk],A1_L60_S16.mp3
+17,Он не хирург,He isn't a surgeon,[hi: ˈɪznt ə ˈsɜ:ʤən],A1_L60_S17.mp3
+18,Это не очень хорошая клиника,It isn't a very good clinic,[ɪt ˈɪznt ə ˈveri gʊd ˈklɪnɪk],A1_L60_S18.mp3
+19,Он не работает дизайнером,He doesn't work as a designer,[hi: dʌznt wɜ:k æz ə dɪˈzaɪnə],A1_L60_S19.mp3
+20,Мне это совсем не интересно,It isn't interesting for me at all,[ɪt ˈɪznt ˈɪntrɪstɪŋ fɔ: mi: æt ɔ:l],A1_L60_S20.mp3
+21,Он не инженер,He isn't an engineer,[hi: ˈɪznt ən ˌenʤɪˈnɪə],A1_L60_S21.mp3
+22,Это не кажется очень хорошей клиникой,It doesn't seem a very good clinic,[ɪt dʌznt si:m ə ˈveri gʊd ˈklɪnɪk],A1_L60_S22.mp3
+23,Они не больны,They aren't ill,[ðeɪ ɑ:nt ɪl],A1_L60_S23.mp3
+24,Это не кажется неэффективным,It doesn't seem ineffective,[ɪt dʌznt si:m ˌɪnɪˈfektɪv],A1_L60_S24.mp3
+25,Они не за границей сейчас,They aren't abroad now,[ðeɪ ɑ:nt əˈbrɔ:d naʊ],A1_L60_S25.mp3
+26,Он не работает инженером,He doesn't work as an engineer,[hi: dʌznt wɜ:k æz ən ˌenʤɪˈnɪə],A1_L60_S26.mp3
+27,Это не плохая клиника,It isn't a bad clinic,[ɪt ˈɪznt ə bæd ˈklɪnɪk],A1_L60_S27.mp3
+28,Он не переводчик,He isn't a translator,[hi: ˈɪznt ə trænsˈleɪtə],A1_L60_S28.mp3
+29,Он не нервный,He isn't nervous,[hi: ˈɪznt ˈnɜ:vəs],A1_L60_S29.mp3
+30,Это не серьезная болезнь,It isn't a serious illness,[ɪt ˈɪznt ə ˈsɪərɪəs ˈɪlnɪs],A1_L60_S30.mp3
+31,Это не выглядит дешево,It doesn't look cheap,[ɪt dʌznt lʊk ʧi:p],A1_L60_S31.mp3
+32,Он не дизайнер,He isn't a designer,[hi: ˈɪznt ə dɪˈzaɪnə],A1_L60_S32.mp3
+33,Он не уверен насчет этого,He isn't sure about it,[hi: ˈɪznt ʃʊər əˈbaʊt ɪt],A1_L60_S33.mp3
+34,Это не сложное упражнение,It isn't a difficult exercise,[ɪt ˈɪznt ə ˈdɪfɪkəlt ˈeksəsaɪz],A1_L60_S34.mp3
+35,Это не выглядит таким сложным,It doesn't look so difficult,[ɪt dʌznt lʊk səʊ ˈdɪfɪkəlt],A1_L60_S35.mp3
+36,Он не работает хирургом в той больнице,He doesn't work as a surgeon in that hospital,[hi: dʌznt wɜ:k æz ə ˈsɜ:ʤən ɪn ðæt ˈhɒspɪtl],A1_L60_S36.mp3
+37,Я не так уверен,I am not so sure,[aɪ æm nɒt səʊ ʃʊə],A1_L60_S37.mp3
+38,Это совсем меня не интересует,It doesn't interest me at all,[ɪt dʌznt ˈɪntrɪst mi: æt ɔ:l],A1_L60_S38.mp3
+39,Это не выглядит таким дорогим,It doesn't look so expensive,[ɪt dʌznt lʊk səʊ ɪksˈpensɪv],A1_L60_S39.mp3
+40,Это не сложная задача,It isn't a difficult task,[ɪt ˈɪznt ə ˈdɪfɪkəlt tɑ:sk],A1_L60_S40.mp3
+41,Я так не чувствую,I don't feel so,[aɪ dəʊnt fi:l səʊ],A1_L60_S41.mp3
+42,Это не дорогое ожерелье,It isn't an expensive necklace,[ɪt ˈɪznt ən ɪksˈpensɪv ˈneklɪs],A1_L60_S42.mp3
+43,Это совсем не эффективно,It isn't effective at all,[ɪt ˈɪznt ɪˈfektɪv æt ɔ:l],A1_L60_S43.mp3
+44,Это не кажется хорошей клиникой,It doesn't seem a good clinic,[ɪt dʌznt si:m ə gʊd ˈklɪnɪk],A1_L60_S44.mp3
+45,Это не наша главная задача,It isn't our main task,[ɪt ˈɪznt ˈaʊə meɪn tɑ:sk],A1_L60_S45.mp3
+46,"Она не хочет там учиться, потому что это не так дешево",She doesn't want to study there because it isn't so cheap,[ʃi: dʌznt wɒnt tu: ˈstʌdi ðeə bɪˈkɒz ɪt ˈɪznt səʊ ʧi:p],A1_L60_S46.mp3
+47,"Я чувствую, что у меня иногда недостаточно уверенности, когда я говорю по-английски, но я работаю над этим",I feel that sometimes I don't have enough confidence when I speak English but I work on it,[aɪ fi:l ðæt ˈsʌmtaɪmz aɪ dəʊnt hæv ɪˈnʌf ˈkɒnfɪdəns wen aɪ spi:k ˈɪŋglɪʃ bʌt aɪ wɜ:k ɒn ɪt],A1_L60_S47.mp3
+48,"Это действительно странно, что он не сожалеет об этом",It's really strange that he isn't sorry about it,[ɪts ˈrɪəli streɪnʤ ðæt hi: ˈɪznt ˈsɒri əˈbaʊt ɪt],A1_L60_S48.mp3
+49,"Он не хочет делать те упражнения, потому что он думает, что они совсем не эффективны",He doesn't want to do those exercises because he thinks that they aren't effective at all,[hi: dʌznt wɒnt tu: du: ðəʊz ˈeksəsaɪzɪz bɪˈkɒz hi: θɪŋks ðæt ðeɪ ɑ:nt ɪˈfektɪv æt ɔ:l],A1_L60_S49.mp3
+50,"Она говорит, что они не хотят извиняться за это",She says that they don't want to apologize for it,[ʃi: sez ðæt ðeɪ dəʊnt wɒnt tu: əˈpɒləʤaɪz fɔ: ɪt],A1_L60_S50.mp3
+51,"Он не понимает, что он не прав",He doesn't understand that he isn't right,[hi: dʌznt ˌʌndəˈstænd ðæt hi: ˈɪznt raɪt],A1_L60_S51.mp3
+52,"Он не пьет алкоголь, потому что знает, что это не хорошо для его здоровья",He doesn't drink alcohol because he knows that it isn't good for his health,[hi: dʌznt drɪŋk ˈælkəhɒl bɪˈkɒz hi: nəʊz ðæt ɪt ˈɪznt gʊd fɔ: hɪz helθ],A1_L60_S52.mp3
+53,"Я думаю, это не плохое приложение",I think it isn't a bad app,[aɪ θɪŋk ɪt ˈɪznt ə bæd æp],A1_L60_S53.mp3
+54,Он не в бассейне сейчас,He isn't in the swimming pool now,[hi: ˈɪznt ɪn ðə ˈswɪmɪŋ pu:l naʊ],A1_L60_S54.mp3
+55,"Я думаю, это не лучшая клиника в области",I think it isn't the best clinic in the area,[aɪ θɪŋk ɪt ˈɪznt ðə best ˈklɪnɪk ɪn ði ˈeərɪə],A1_L60_S55.mp3
+56,"Он не хочет там жить, потому что это очень скучное место",He doesn't want to live there because it's a very boring place,[hi: dʌznt wɒnt tu: lɪv ðeə bɪˈkɒz ɪts ə ˈveri ˈbɔ:rɪŋ pleɪs],A1_L60_S56.mp3
+57,Он не профессиональный тренер,He isn't a professional trainer,[hi: ˈɪznt ə prəˈfeʃənl ˈtreɪnə],A1_L60_S57.mp3
+58,Это не большое достижение для него,It isn't a big achievement for him,[ɪt ˈɪznt ə bɪg əˈʧi:vmənt fɔ: hɪm],A1_L60_S58.mp3
+59,"Я не знаю, что делать с этим",I don't know what to do with it,[aɪ dəʊnt nəʊ wɒt tu: du: wɪð ɪt],A1_L60_S59.mp3
+60,"Я не понимаю, почему это не бесплатно",I don't understand why it isn't free,[aɪ dəʊnt ˌʌndəˈstænd waɪ ɪt ˈɪznt fri:],A1_L60_S60.mp3
+61,"Он не чувствует себя достаточно уверенно, когда он говорит по-английски",He doesn't feel confident enough when he speaks English,[hi: dʌznt fi:l ˈkɒnfɪdənt ɪˈnʌf wen hi: spi:ks ˈɪŋglɪʃ],A1_L60_S61.mp3
+62,"Я не чувствую себя достаточно уверенно, когда я говорю по-английски",I don't feel confident enough when I speak English,[aɪ dəʊnt fi:l ˈkɒnfɪdənt ɪˈnʌf wen aɪ spi:k ˈɪŋglɪʃ],A1_L60_S62.mp3
+63,"Она не чувствует себя достаточно уверенно, когда она говорит по-английски",She doesn't feel confident enough when she speaks English,[ʃi: dʌznt fi:l ˈkɒnfɪdənt ɪˈnʌf wen ʃi: spi:ks ˈɪŋglɪʃ],A1_L60_S63.mp3
+64,"Она не знает, как добраться до этого места",She doesn't know how to get to this place,[ʃi: dʌznt nəʊ haʊ tu: get tu: ðɪs pleɪs],A1_L60_S64.mp3
+65,Я знаю как добраться до этого места,I know how to get to this place,[aɪ nəʊ haʊ tu: get tu: ðɪs pleɪs],A1_L60_S65.mp3
+66,"Он не знает, как добраться до того места",He doesn't know how to get to that place,[hi: dʌznt nəʊ haʊ tu: get tu: ðæt pleɪs],A1_L60_S66.mp3
+67,"Конечно, они не рекомендуют этот отель, потому он действительно плохой","Of course, they don't recommend this hotel because it's really bad","[ɒv kɔ:s, ðeɪ dəʊnt ˌrekəˈmend ðɪs həʊˈtel bɪˈkɒz ɪts ˈrɪəli bæd]",A1_L60_S67.mp3
+68,"Конечно, я не рекомендую этот отель, потому что он такой плохой …………….…................................................... 69. Она рекомендует тот отель, потому что он действительно хороший …………….…................................................... 70. Он не чувствует себя финансово независимым …………….…................................................... 71. Она не чувствует себя финансово независимой …………….…................................................... 72. Я не чувствую себя финансово независимым …………….…................................................... 73. Он не знает, куда идти …………….…................................................... 74. Я не знаю, куда идти …………….…................................................... 75. Она не знает, куда идти …………….…................................................... 76. Я не чувствую себя достаточно уверенно …………….…................................................... 77. Они не чувствуют себя достаточно уверенно …………….…................................................... 78. Она не чувствует себя достаточно уверенно …………….…................................................... 79. Это не высокая зарплата …………….…................................................... 80. Это высокая зарплата …………….…................................................... 8 81. Это не большая зарплата …………….…................................................... 82. Я знаю, что это не низкая зарплата …………….…................................................... 83. Я знаю, что моя зарплата низкая …………….…................................................... 84. Она знает, что это не высокая зарплата …………….…................................................... 85. Я не хочу читать эту книгу, потому что она такая скучная …………….…................................................... 86. Я не хочу читать ту книгу, потому что она такая скучная …………….…................................................... 87. Я не хочу читать этот журнал, потому что он такой скучный …………….…................................................... 88. Его работа не такая хорошо оплачиваемая …………….…................................................... 89. Моя работа не такая хорошо оплачиваемая …………….…................................................... 90. Ее работа хорошо оплачиваемая …………….…................................................... 91. Я не хочу останавливаться, поэтому я делаю больше упражнений, …………….…................................................... чтобы чувствовать больше уверенности …………….…................................................... 92. У него не хорошо оплачиваемая работа …………….…................................................... 9 …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... 93. Он говорит, что он так не думает 94. Он не зависит финансово 95. Она не ходит в бассейн 96. Я знаю, что это не так популярно среди американцев 97. У него не высокая зарплата 98. Я не знаю, как туда добраться 99. Это совсем не проблема для меня 100. Они не чувствуют себя независимыми …………….…................................................... 101. Она не делает те упражнения, потому что они так неэффективны для нее …………….…................................................... 102. Я не курю, потому что знаю, это не хорошо для моего здоровья …………….…................................................... 103. Он не хочет извиняться за это …………….…................................................... 104. Я не знаю, почему это не так …………….…................................................... 105. Он не сожалеет об этом …………….…................................................... 10 Ответы 1. Он не понимает ее",He doesn’t understand her,[hi: dʌznt ˌʌndəˈstænd hɜ:],A1_L60_S68.mp3
+69,"Она рекомендует тот отель, потому что он действительно хороший",She recommends that hotel because it's really good,[ʃi: ˌrekəˈmendz ðæt həʊˈtel bɪˈkɒz ɪts ˈrɪəli gʊd],A1_L60_S69.mp3
+70,Он не чувствует себя финансово независимым,He doesn't feel financially independent,[hi: dʌznt fi:l faɪˈnænʃəli ˌɪndɪˈpendənt],A1_L60_S70.mp3
+71,Она не чувствует себя финансово независимой,She doesn't feel financially independent,[ʃi: dʌznt fi:l faɪˈnænʃəli ˌɪndɪˈpendənt],A1_L60_S71.mp3
+72,Я не чувствую себя финансово независимым,I don't feel financially independent,[aɪ dəʊnt fi:l faɪˈnænʃəli ˌɪndɪˈpendənt],A1_L60_S72.mp3
+73,"Он не знает, куда идти",He doesn't know where to go,[hi: dʌznt nəʊ weə tu: gəʊ],A1_L60_S73.mp3
+74,"Я не знаю, куда идти",I don't know where to go,[aɪ dəʊnt nəʊ weə tu: gəʊ],A1_L60_S74.mp3
+75,"Она не знает, куда идти",She doesn't know where to go,[ʃi: dʌznt nəʊ weə tu: gəʊ],A1_L60_S75.mp3
+76,Я не чувствую себя достаточно уверенно,I don't feel confident enough,[aɪ dəʊnt fi:l ˈkɒnfɪdənt ɪˈnʌf],A1_L60_S76.mp3
+77,Они не чувствуют себя достаточно уверенно,They don't feel confident enough,[ðeɪ dəʊnt fi:l ˈkɒnfɪdənt ɪˈnʌf],A1_L60_S77.mp3
+78,Она не чувствует себя достаточно уверенно,She doesn't feel confident enough,[ʃi: dʌznt fi:l ˈkɒnfɪdənt ɪˈnʌf],A1_L60_S78.mp3
+79,Это не высокая зарплата,It isn't a high salary,[ɪt ˈɪznt ə haɪ ˈsæləri],A1_L60_S79.mp3
+80,Это высокая зарплата,It is a high salary,[ɪt ɪz ə haɪ ˈsæləri],A1_L60_S80.mp3
+81,Это не большая зарплата,It isn't a big salary,[ɪt ˈɪznt ə bɪg ˈsæləri],A1_L60_S81.mp3
+82,"Я знаю, что это не низкая зарплата",I know that it isn't a low salary,[aɪ nəʊ ðæt ɪt ˈɪznt ə ləʊ ˈsæləri],A1_L60_S82.mp3
+83,"Я знаю, что моя зарплата низкая",I know that my salary is low,[aɪ nəʊ ðæt maɪ ˈsæləri ɪz ləʊ],A1_L60_S83.mp3
+84,"Она знает, что это не высокая зарплата",She knows that it isn't a high salary,[ʃi: nəʊz ðæt ɪt ˈɪznt ə haɪ ˈsæləri],A1_L60_S84.mp3
+85,"Я не хочу читать эту книгу, потому что она такая скучная",I don't want to read this book because it's so boring,[aɪ dəʊnt wɒnt tu: ri:d ðɪs bʊk bɪˈkɒz ɪts səʊ ˈbɔ:rɪŋ],A1_L60_S85.mp3
+86,"Я не хочу читать ту книгу, потому что она такая скучная",I don't want to read that book because it's so boring,[aɪ dəʊnt wɒnt tu: ri:d ðæt bʊk bɪˈkɒz ɪts səʊ ˈbɔ:rɪŋ],A1_L60_S86.mp3
+87,"Я не хочу читать этот журнал, потому что он такой скучный",I don't want to read this magazine because it's so boring,[aɪ dəʊnt wɒnt tu: ri:d ðɪs ˌmægəˈzi:n bɪˈkɒz ɪts səʊ ˈbɔ:rɪŋ],A1_L60_S87.mp3
+88,Его работа не такая хорошо оплачиваемая,His job isn't so well-paid,[hɪz ʤɒb ˈɪznt səʊ wel-peɪd],A1_L60_S88.mp3
+89,Моя работа не такая хорошо оплачиваемая,My job isn't so well-paid,[maɪ ʤɒb ˈɪznt səʊ wel-peɪd],A1_L60_S89.mp3
+90,Ее работа хорошо оплачиваемая,Her job is well-paid,[hɜ: ʤɒb ɪz wel-peɪd],A1_L60_S90.mp3
+91,"Я не хочу останавливаться, поэтому я делаю больше упражнений, чтобы чувствовать больше уверенности",I don't want to stop so I do more exercises to feel more confidence,[aɪ dəʊnt wɒnt tu: stɒp səʊ aɪ du: mɔ: ˈeksəsaɪzɪz tu: fi:l mɔ: ˈkɒnfɪdəns],A1_L60_S91.mp3
+92,У него не хорошо оплачиваемая работа,He doesn't have a well-paid job,[hi: dʌznt hæv ə wel-peɪd ʤɒb],A1_L60_S92.mp3
+93,"Он говорит, что он так не думает",He says that he doesn't think so,[hi: sez ðæt hi: dʌznt θɪŋk səʊ],A1_L60_S93.mp3
+94,Он не зависит финансово,He isn't financially dependent,[hi: ˈɪznt faɪˈnænʃəli dɪˈpendənt],A1_L60_S94.mp3
+95,Она не ходит в бассейн,She doesn't go to the swimming pool,[ʃi: dʌznt gəʊ tu: ðə ˈswɪmɪŋ pu:l],A1_L60_S95.mp3
+96,"Я знаю, что это не так популярно среди американцев",I know that it isn't so popular among Americans,[aɪ nəʊ ðæt ɪt ˈɪznt səʊ ˈpɒpjʊlər əˈmʌŋ əˈmerɪkənz],A1_L60_S96.mp3
+97,У него не высокая зарплата,He doesn't have a high salary,[hi: dʌznt hæv ə haɪ ˈsæləri],A1_L60_S97.mp3
+98,"Я не знаю, как туда добраться",I don't know how to get there,[aɪ dəʊnt nəʊ haʊ tu: get ðeə],A1_L60_S98.mp3
+99,Это совсем не проблема для меня,It isn't a problem for me at all,[ɪt ˈɪznt ə ˈprɒbləm fɔ: mi: æt ɔ:l],A1_L60_S99.mp3
+100,Они не чувствуют себя независимыми,They don't feel independent,[ðeɪ dəʊnt fi:l ˌɪndɪˈpendənt],A1_L60_S100.mp3
+101,"Она не делает те упражнения, потому что они так неэффективны для нее",She doesn't do those exercises because they are so ineffective for her,[ʃi: dʌznt du: ðəʊz ˈeksəsaɪzɪz bɪˈkɒz ðeɪ ɑ: səʊ ˌɪnɪˈfektɪv fɔ: hɜ:],A1_L60_S101.mp3
+102,"Я не курю, потому что знаю, это не хорошо для моего здоровья",I don't smoke because I know it isn't good for my health,[aɪ dəʊnt sməʊk bɪˈkɒz aɪ nəʊ ɪt ˈɪznt gʊd fɔ: maɪ helθ],A1_L60_S102.mp3
+103,Он не хочет извиняться за это,He doesn't want to apologize for it,[hi: dʌznt wɒnt tu: əˈpɒləʤaɪz fɔ: ɪt],A1_L60_S103.mp3
+104,"Я не знаю, почему это не так",I don't know why it isn't so,[aɪ dəʊnt nəʊ waɪ ɪt ˈɪznt səʊ],A1_L60_S104.mp3
+105,Он не сожалеет об этом,He doesn't feel sorry about it,[hi: dʌznt fi:l ˈsɒri əˈbaʊt ɪt],A1_L60_S105.mp3

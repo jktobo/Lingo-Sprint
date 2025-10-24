@@ -1,0 +1,107 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он только что посмотрел этот фильм,He has just watched this film,[hi: hæz ʤʌst wɒʧt ðɪs fɪlm],A2_L116_S2.mp3
+3,Я уже получил твое письмо,I’ve already got your letter,[aɪv ɔ:lˈredi gɒt jɔ: ˈletə],A2_L116_S3.mp3
+4,Он только что прочитал эту книгу,He's just read this book,[hi:z ʤʌst ri:d ðɪs bʊk],A2_L116_S4.mp3
+5,Я только что закончил свою домашнюю работу,I have just finished my homework,[aɪ hæv ʤʌst ˈfɪnɪʃt maɪ ˈhəʊmˌwɜ:k],A2_L116_S5.mp3
+6,Мы уже посмотрели этот фильм,We have already watched this movie,[wi: hæv ɔ:lˈredi wɒʧt ðɪs ˈmu:vi],A2_L116_S6.mp3
+7,Я еще не получил твою посылку,I haven’t received your parcel yet,[aɪ hævnt rɪˈsi:vd jɔ: ˈpɑ:sl jet],A2_L116_S7.mp3
+8,Она еще не приготовила ужин,She hasn’t cooked dinner yet,[ʃi: ˈhæznt kʊkt ˈdɪnə jet],A2_L116_S8.mp3
+9,Ты когда-нибудь был там?,Have you ever been there?,[hæv ju: ˈevə bi:n ðeə?],A2_L116_S9.mp3
+10,Он когда-нибудь был в Канаде?,Has he ever been to Canada?,[hæz hi: ˈevə bi:n tu: ˈkænədə?],A2_L116_S10.mp3
+11,Я был в этом городе много раз,I've been to this city many times,[aɪv bi:n tu: ðɪs ˈsɪti ˈmeni taɪmz],A2_L116_S11.mp3
+12,Я там еще не был,I haven't been there yet,[aɪ hævnt bi:n ðeə jet],A2_L116_S12.mp3
+13,Он закончил школу в этом году,He has finished school this year,[hi: hæz ˈfɪnɪʃt sku:l ðɪs jɪə],A2_L116_S13.mp3
+14,Мы только что посетили этот замок,We have just visited this castle,[wi: hæv ʤʌst ˈvɪzɪtɪd ðɪs ˈkɑ:sl],A2_L116_S14.mp3
+15,Я посетил тот музей на этой неделе,I've visited that museum this week,[aɪv ˈvɪzɪtɪd ðæt mju:ˈzɪəm ðɪs wi:k],A2_L116_S15.mp3
+16,Я уже зарезервировал столик в местном ресторане,I have already reserved a table at the local restaurant,[aɪ hæv ɔ:lˈredi rɪˈzɜ:vd ə ˈteɪbl æt ðə ˈləʊkəl ˈrestrɒnt],A2_L116_S16.mp3
+17,Я только что узнал это,I have just known it,[aɪ hæv ʤʌst nəʊn ɪt],A2_L116_S17.mp3
+18,Я никогда не был в Китае,I have never been to China,[aɪ hæv ˈnevə bi:n tu: ˈʧaɪnə],A2_L116_S18.mp3
+19,Я только что закончил свой проект,I have just finished my project,[aɪ hæv ʤʌst ˈfɪnɪʃt maɪ ˈprɒʤekt],A2_L116_S19.mp3
+20,Мы уже встречались,We have already met,[wi: hæv ɔ:lˈredi met],A2_L116_S20.mp3
+21,Я только что понял это,I have just understood it,[aɪ hæv ʤʌst ˌʌndəˈstʊd ɪt],A2_L116_S21.mp3
+22,Он был на Мальте,He's been to Malta,[hi:z bi:n tu: ˈmɔ:ltə],A2_L116_S22.mp3
+23,Пациент только что выздоровел,The patient has just recovered,[ðə ˈpeɪʃənt hæz ʤʌst rɪˈkʌvəd],A2_L116_S23.mp3
+24,Я был в Англии три раза,I've been to England three times,[aɪv bi:n tu: ˈɪŋglənd θri: taɪmz],A2_L116_S24.mp3
+25,Он только что окончил университет и получил диплом,He's just graduated from university and got a diploma,[hi:z ʤʌst ˈgrædjʊeɪtɪd frɒm ˌju:nɪˈvɜ:sɪti ænd gɒt ə dɪˈpləʊmə],A2_L116_S25.mp3
+26,Я видел это так много раз,I have seen it so many times,[aɪ hæv si:n ɪt səʊ ˈmeni taɪmz],A2_L116_S26.mp3
+27,Я был за границей,I've been abroad,[aɪv bi:n əˈbrɔ:d],A2_L116_S27.mp3
+28,Я несколько раз посещал Нью-Йорк,I have visited New York several times,[aɪ hæv ˈvɪzɪtɪd nju: jɔ:k ˈsevrəl taɪmz],A2_L116_S28.mp3
+29,Шоу только началось,The show has just begun,[ðə ʃəʊ hæz ʤʌst bɪˈgʌn],A2_L116_S29.mp3
+30,Она еще не вернулась из школы,She hasn't returned from school yet,[ʃi: ˈhæznt rɪˈtɜ:nd frɒm sku:l jet],A2_L116_S30.mp3
+31,Я уже был там,I have already been there,[aɪ hæv ɔ:lˈredi bi:n ðeə],A2_L116_S31.mp3
+32,Ты когда-нибудь был за границей?,Have you ever been abroad?,[hæv ju: ˈevə bi:n əˈbrɔ:d?],A2_L116_S32.mp3
+33,Ты когда-нибудь был в этой стране?,Have you ever been to this country?,[hæv ju: ˈevə bi:n tu: ðɪs ˈkʌntri?],A2_L116_S33.mp3
+34,Я смотрел этот фильм много раз,I have watched this movie many times,[aɪ hæv wɒʧt ðɪs ˈmu:vi ˈmeni taɪmz],A2_L116_S34.mp3
+35,Я уже сделал это,I have already done it,[aɪ hæv ɔ:lˈredi dʌn ɪt],A2_L116_S35.mp3
+36,Я уже погладил свой костюм,I have already ironed my suit,[aɪ hæv ɔ:lˈredi ˈaɪənd maɪ sju:t],A2_L116_S36.mp3
+37,Я был в Канаде,I've been to Canada,[aɪv bi:n tu: ˈkænədə],A2_L116_S37.mp3
+38,Я был в Англии,I've been to England,[aɪv bi:n tu: ˈɪŋglənd],A2_L116_S38.mp3
+39,Я уже забронировал билеты,I have already booked the tickets,[aɪ hæv ɔ:lˈredi bʊkt ðə ˈtɪkɪts],A2_L116_S39.mp3
+40,Пациент уже выздоровел,The patient has already recovered,[ðə ˈpeɪʃənt hæz ɔ:lˈredi rɪˈkʌvəd],A2_L116_S40.mp3
+41,Ты когда-нибудь был в этом городе?,Have you ever been to this city?,[hæv ju: ˈevə bi:n tu: ðɪs ˈsɪti?],A2_L116_S41.mp3
+42,Она позвонила мне на этой неделе,She has called me this week,[ʃi: hæz kɔ:ld mi: ðɪs wi:k],A2_L116_S42.mp3
+43,Я только что позвонил ему,I have just called him,[aɪ hæv ʤʌst kɔ:ld hɪm],A2_L116_S43.mp3
+44,Он уже забронировал стол в местном кафе,He has already reserved the table in a local cafe,[hi: hæz ɔ:lˈredi rɪˈzɜ:vd ðə ˈteɪbl ɪn ə ˈləʊkəl ˈkæfeɪ],A2_L116_S44.mp3
+45,Я был в Соединенных Штатах дважды,I've been to the United States twice,[aɪv bi:n tu: ði: jʊˈnaɪtɪd steɪts twaɪs],A2_L116_S45.mp3
+46,Ты когда-нибудь думал об этом?,Have you ever thought about it?,[hæv ju: ˈevə θɔ:t əˈbaʊt ɪt?],A2_L116_S46.mp3
+47,Она закончила колледж в этом году,She has graduated from college this year,[ʃi: hæz ˈgrædjʊeɪtɪd frɒm ˈkɒlɪʤ ðɪs jɪə],A2_L116_S47.mp3
+48,Он только что подтвердил нашу встречу,He has just confirmed our meeting,[hi: hæz ʤʌst kənˈfɜ:md ˈaʊə ˈmi:tɪŋ],A2_L116_S48.mp3
+49,Она только что погладила рубашки,She has just ironed the shirts,[ʃi: hæz ʤʌst ˈaɪənd ðə ʃɜ:ts],A2_L116_S49.mp3
+50,Я всегда хотел иметь свой собственный бизнес,I've always wanted to have my own business,[aɪv ˈɔ:lweɪz ˈwɒntɪd tu: hæv maɪ əʊn ˈbɪznɪs],A2_L116_S50.mp3
+51,Он всегда хотел иметь большую семью,He has always wanted to have a big family,[hi: hæz ˈɔ:lweɪz ˈwɒntɪd tu: hæv ə bɪg ˈfæmɪli],A2_L116_S51.mp3
+52,"Я был в Англии, но я еще не был в Соединенных Штатах",I've been to England but I haven't been to the United States yet,[aɪv bi:n tu: ˈɪŋglənd bʌt aɪ hævnt bi:n tu: ði: jʊˈnaɪtɪd steɪts jet],A2_L116_S52.mp3
+53,Он всегда хотел стать ученым,He has always wanted to become a scientist,[hi: hæz ˈɔ:lweɪz ˈwɒntɪd tu: bɪˈkʌm ə ˈsaɪəntɪst],A2_L116_S53.mp3
+54,Я всегда хотел уметь говорить по-английски,I've always wanted to be able to speak English,[aɪv ˈɔ:lweɪz ˈwɒntɪd tu: bi: ˈeɪbl tu: spi:k ˈɪŋglɪʃ],A2_L116_S54.mp3
+55,Я знал его около десяти лет,I have known him for about ten years,[aɪ hæv nəʊn hɪm fɔ: əˈbaʊt ten jɪəz],A2_L116_S55.mp3
+56,Она потеряла свою сумку. Она не может найти ее,She has lost her bag. She can't find it,[ʃi: hæz lɒst hɜ: bæg.],A2_L116_S56.mp3
+57,"Я не могу найти свои ключи. Я думаю, что потерял их",I can't find my keys. I think I've lost them,[aɪ kɑ:nt faɪnd maɪ ki:z.],A2_L116_S57.mp3
+58,Она никогда не была в Соединенных Штатах,She's never been to the United States,[ʃi:z ˈnevə bi:n tu: ði: jʊˈnaɪtɪd steɪts],A2_L116_S58.mp3
+59,Я потерял свой бумажник. Я не могу найти его,I've lost my wallet. I can't find it,[aɪv lɒst maɪ ˈwɒlɪt.],A2_L116_S59.mp3
+60,Я никогда не был в Японии,I have never been to Japan,[aɪ hæv ˈnevə bi:n tu: ʤəˈpæn],A2_L116_S60.mp3
+61,Я всегда хотел стать настоящим экспертом в этой области,I have always wanted to become a real expert in this area,[aɪ hæv ˈɔ:lweɪz ˈwɒntɪd tu: bɪˈkʌm ə rɪəl ˈekspɜ:t ɪn ðɪs ˈeərɪə],A2_L116_S61.mp3
+62,Ты когда-нибудь был в Англии?,Have you ever been to England?,[hæv ju: ˈevə bi:n tu: ˈɪŋglənd?],A2_L116_S62.mp3
+63,Я только что закончил работу над этим проектом,I have just finished working on this project,[aɪ hæv ʤʌst ˈfɪnɪʃt ˈwɜ:kɪŋ ɒn ðɪs ˈprɒʤekt],A2_L116_S63.mp3
+64,Ты был в англоязычной стране?,Have you been to an English-speaking country?,[hæv ju: bi:n tu: ən ˈɪŋglɪʃ- ˈspi:kɪŋ ˈkʌntri?],A2_L116_S64.mp3
+65,Он всегда хотел стать предпринимателем,He's always wanted to become an entrepreneur,[hi:z ˈɔ:lweɪz ˈwɒntɪd tu: bɪˈkʌm ən ˌɒntrəprəˈnɜ:],A2_L116_S65.mp3
+66,Он никогда не хотел стать предпринимателем,He's never wanted to become an entrepreneur,[hi:z ˈnevə ˈwɒntɪd tu: bɪˈkʌm ən ˌɒntrəprəˈnɜ:],A2_L116_S66.mp3
+67,Он всегда хотел стать инженером,He's always wanted to become an engineer,[hi:z ˈɔ:lweɪz ˈwɒntɪd tu: bɪˈkʌm ən ˌenʤɪˈnɪə],A2_L116_S67.mp3
+68,Я никогда не был в Лос-Анджелесе,I have never been to Los Angeles,[aɪ hæv ˈnevə bi:n tu: Los ˈeɪnʤəlz],A2_L116_S68.mp3
+69,Я никогда не был в Соединенных Штатах,I have never been to The United States,[aɪ hæv ˈnevə bi:n tu: ði: jʊˈnaɪtɪd steɪts],A2_L116_S69.mp3
+70,Он никогда не был в Англии,He has never been to England,[hi: hæz ˈnevə bi:n tu: ˈɪŋglənd],A2_L116_S70.mp3
+71,У него плохие новости. Он потерял работу,He has bad news. He has lost his job,[hi: hæz bæd nju:z],A2_L116_S71.mp3
+72,У меня плохие новости. Я потерял работу,I have bad news. I have lost my job,[aɪ hæv bæd nju:z],A2_L116_S72.mp3
+73,У нее очень плохие новости. Она потеряла работу …………….…................................................... 74. Ты когда-нибудь слышал об этом? …………….…................................................... 75. Ты когда-нибудь был там? …………….…................................................... 76. Ты когда-нибудь слышал эту информацию? …………….…................................................... 77. Ты когда-нибудь смотрел этот фильм? …………….…................................................... 78. Я никогда не смотрел этот фильм …………….…................................................... 79. Она когда-нибудь смотрела это видео? …………….…................................................... 80. Я не видел его с прошлого года …………….…................................................... 81. Я не видел ее с прошлого месяца …………….…................................................... 82. Я не видел тебя с прошлого года …………….…................................................... 83. Я еще не получил твое электронное письмо …………….…................................................... 84. Я уже получил твое электронное письмо …………….…................................................... 85. Я еще не получил твою посылку …………….…................................................... 8 86. Я только что закончил писать этот отчет …………….…................................................... 87. Я только начал писать этот отчет …………….…................................................... 88. Я только что закончил писать тебе письмо …………….…................................................... 89. Он никогда не был в англоязычной стране …………….…................................................... 90. Ты когда-нибудь был в англоязычной стране? …………….…................................................... 91. Мы знаем друг друга с детства …………….…................................................... 92. Мы знаем друг друга с прошлого года …………….…................................................... 93. Они знают друг друга с детства …………….…................................................... 94. Я всегда хотел знать английский …………….…................................................... 95. Ты когда-нибудь летал на самолете? …………….…................................................... 96. Ты уже устал? …………….…................................................... 97. Ты когда-нибудь читал эту книгу? …………….…................................................... 98. Она всегда хотела стать суперзвездой …………….…................................................... 9 99. Ты когда-нибудь интересовался бизнесом? …………….…................................................... 100. Мы знаем друг друга два года …………….…................................................... 101. Программа еще не началась …………….…................................................... 102. Он не может пойти с тобой в горы. Он повредил ногу …………….…................................................... 103. Ты когда-нибудь катался на лошади? …………….…................................................... 104. Я никогда не была в Англии …………….…................................................... 105. Я всегда хотел сделать это …………….…................................................... 106. Ты когда-нибудь водил машину? …………….…................................................... 107. Ты когда-нибудь катался на верблюде? …………….…................................................... 10 Ответы 1. Мы уже встречались,We have already met,[wi: hæv ɔ:lˈredi met],A2_L116_S73.mp3
+74,Ты когда-нибудь слышал об этом?,Have you ever heard about it?,[hæv ju: ˈevə hɜ:d əˈbaʊt ɪt?],A2_L116_S74.mp3
+75,Ты когда-нибудь был там?,Have you ever been there?,[hæv ju: ˈevə bi:n ðeə?],A2_L116_S75.mp3
+76,Ты когда-нибудь слышал эту информацию?,Have you ever heard this information?,[hæv ju: ˈevə hɜ:d ðɪs ˌɪnfəˈmeɪʃən?],A2_L116_S76.mp3
+77,Ты когда-нибудь смотрел этот фильм?,Have you ever watched this movie?,[hæv ju: ˈevə wɒʧt ðɪs ˈmu:vi?],A2_L116_S77.mp3
+78,Я никогда не смотрел этот фильм,I have never watched this movie,[aɪ hæv ˈnevə wɒʧt ðɪs ˈmu:vi],A2_L116_S78.mp3
+79,Она когда-нибудь смотрела это видео?,Has she ever watched this video?,[hæz ʃi: ˈevə wɒʧt ðɪs ˈvɪdɪəʊ?],A2_L116_S79.mp3
+80,Я не видел его с прошлого года,I haven't seen him since last year,[aɪ hævnt si:n hɪm sɪns lɑ:st jɪə],A2_L116_S80.mp3
+81,Я не видел ее с прошлого месяца,I haven't seen her since last month,[aɪ hævnt si:n hɜ: sɪns lɑ:st mʌnθ],A2_L116_S81.mp3
+82,Я не видел тебя с прошлого года,I haven't seen you since last year,[aɪ hævnt si:n ju: sɪns lɑ:st jɪə],A2_L116_S82.mp3
+83,Я еще не получил твое электронное письмо,I haven't received your email yet,[aɪ hævnt rɪˈsi:vd jɔ: ˈi:meɪl jet],A2_L116_S83.mp3
+84,Я уже получил твое электронное письмо,I have already received your email,[aɪ hæv ɔ:lˈredi rɪˈsi:vd jɔ: ˈi:meɪl],A2_L116_S84.mp3
+85,Я еще не получил твою посылку,I haven't received your parcel yet,[aɪ hævnt rɪˈsi:vd jɔ: ˈpɑ:sl jet],A2_L116_S85.mp3
+86,Я только что закончил писать этот отчет,I've just finished writing this report,[aɪv ʤʌst ˈfɪnɪʃt ˈraɪtɪŋ ðɪs rɪˈpɔ:t],A2_L116_S86.mp3
+87,Я только начал писать этот отчет,I've just started writing this report,[aɪv ʤʌst ˈstɑ:tɪd ˈraɪtɪŋ ðɪs rɪˈpɔ:t],A2_L116_S87.mp3
+88,Я только что закончил писать тебе письмо,I've just finished writing a letter to you,[aɪv ʤʌst ˈfɪnɪʃt ˈraɪtɪŋ ə ˈletə tu: ju:],A2_L116_S88.mp3
+89,Он никогда не был в англоязычной стране,He has never been to an English-speaking country,[hi: hæz ˈnevə bi:n tu: ən ˈɪŋglɪʃ-ˈspi:kɪŋ ˈkʌntri],A2_L116_S89.mp3
+90,Ты когда-нибудь был в англоязычной стране?,Have you ever been to an English-speaking country?,[hæv ju: ˈevə bi:n tu: ən ˈɪŋglɪʃ-ˈspi:kɪŋ ˈkʌntri?],A2_L116_S90.mp3
+91,Мы знаем друг друга с детства,We have known each other since childhood,[wi: hæv nəʊn i:ʧ ˈʌðə sɪns ˈʧaɪldhʊd],A2_L116_S91.mp3
+92,Мы знаем друг друга с прошлого года,We have known each other since last year,[wi: hæv nəʊn i:ʧ ˈʌðə sɪns lɑ:st jɪə],A2_L116_S92.mp3
+93,Они знают друг друга с детства,They have known each other since childhood,[ðeɪ hæv nəʊn i:ʧ ˈʌðə sɪns ˈʧaɪldhʊd],A2_L116_S93.mp3
+94,Я всегда хотел знать английский,I've always wanted to know English,[aɪv ˈɔ:lweɪz ˈwɒntɪd tu: nəʊ ˈɪŋglɪʃ],A2_L116_S94.mp3
+95,Ты когда-нибудь летал на самолете?,Have you ever flown on a plane?,[hæv ju: ˈevə fləʊn ɒn ə pleɪn?],A2_L116_S95.mp3
+96,Ты уже устал?,Have you already got tired?,[hæv ju: ɔ:lˈredi gɒt ˈtaɪəd?],A2_L116_S96.mp3
+97,Ты когда-нибудь читал эту книгу?,Have you ever read this book?,[hæv ju: ˈevə ri:d ðɪs bʊk?],A2_L116_S97.mp3
+98,Она всегда хотела стать суперзвездой,She has always wanted to become a superstar,[ʃi: hæz ˈɔ:lweɪz ˈwɒntɪd tu: bɪˈkʌm ə ˈsu:pəˌstɑ:],A2_L116_S98.mp3
+99,Ты когда-нибудь интересовался бизнесом?,Have you ever been interested in business?,[hæv ju: ˈevə bi:n ˈɪntrɪstɪd ɪn ˈbɪznɪs?],A2_L116_S99.mp3
+100,Мы знаем друг друга два года,We have known each other for two years,[wi: hæv nəʊn i:ʧ ˈʌðə fɔ: tu: jɪəz],A2_L116_S100.mp3
+101,Программа еще не началась,The program hasn't started yet,[ðə ˈprəʊgræm ˈhæznt ˈstɑ:tɪd jet],A2_L116_S101.mp3
+102,Он не может пойти с тобой в горы. Он повредил ногу,He can't go to the mountains with you. He's injured his leg,[hi: kɑ:nt gəʊ tu: ðə ˈmaʊntɪnz wɪð ju:],A2_L116_S102.mp3
+103,Ты когда-нибудь катался на лошади?,Have you ever ridden a horse?,[hæv ju: ˈevə ˈrɪdn ə hɔ:s?],A2_L116_S103.mp3
+104,Я никогда не была в Англии,I've never been to England,[aɪv ˈnevə bi:n tu: ˈɪŋglənd],A2_L116_S104.mp3
+105,Я всегда хотел сделать это,I've always wanted to do it,[aɪv ˈɔ:lweɪz ˈwɒntɪd tu: du: ɪt],A2_L116_S105.mp3
+106,Ты когда-нибудь водил машину?,Have you ever driven a car?,[hæv ju: ˈevə ˈdrɪvn ə kɑ:?],A2_L116_S106.mp3
+107,Ты когда-нибудь катался на верблюде?,Have you ever ridden a camel?,[hæv ju: ˈevə ˈrɪdn ə ˈkæməl?],A2_L116_S107.mp3

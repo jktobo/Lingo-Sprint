@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он пытался решить эту проблему,He tried to solve this problem,[hi: traɪd tu: sɒlv ðɪs ˈprɒbləm],A1_L96_S2.mp3
+3,Он сообщит нам?,Will he inform us?,[wɪl hi: ɪnˈfɔ:m ʌs?],A1_L96_S3.mp3
+4,Как он будет праздновать свой день рождения?,How will he celebrate his birthday?,[haʊ wɪl hi: ˈselɪbreɪt hɪz ˈbɜ:θdeɪ?],A1_L96_S4.mp3
+5,Давай посмотрим это видео сейчас!,Let's watch this video now!,[lets wɒʧ ðɪs ˈvɪdɪəʊ naʊ!],A1_L96_S5.mp3
+6,Я скоро пойду в отпуск,I’ll go on holiday soon,[aɪ wɪl gəʊ ɒn ˈhɒlədeɪ su:n],A1_L96_S6.mp3
+7,Это может разрушить наше здоровье,It can destroy our health,[ɪt kæn dɪsˈtrɔɪ ˈaʊə helθ],A1_L96_S7.mp3
+8,Я хранил все эти письма,I kept all these letters,[aɪ kept ɔ:l ði:z ˈletəz],A1_L96_S8.mp3
+9,Почему это имеет значение?,Why does it matter?,[waɪ dʌz ɪt ˈmætə?],A1_L96_S9.mp3
+10,Я могу остаться там с тобой,I can stay there with you,[aɪ kæn steɪ ðeə wɪð ju:],A1_L96_S10.mp3
+11,"Я пришел домой, и затем я лег в кровать",I came home and then I lay in bed,[aɪ keɪm həʊm ænd ðen aɪ leɪ ɪn bed],A1_L96_S11.mp3
+12,Полиция сообщила им об этой аварии,The police informed them of this accident,[ðə pəˈli:s ɪnˈfɔ:md ðem ɒv ðɪs ˈæksɪdənt],A1_L96_S12.mp3
+13,Он все скопировал,He copied everything,[hi: ˈkɒpid ˈevrɪθɪŋ],A1_L96_S13.mp3
+14,Ты останешься дома сегодня?,Will you stay at home today?,[wɪl ju: steɪ æt həʊm təˈdeɪ?],A1_L96_S14.mp3
+15,Ты пойдешь туда с нами?,Will you go there with us?,[wɪl ju: gəʊ ðeə wɪð ʌs?],A1_L96_S15.mp3
+16,Я прочитал письмо,I read the letter,[aɪ ri:d ðə ˈletə],A1_L96_S16.mp3
+17,Ты можешь сесть,You can sit down,[ju: kæn sɪt daʊn],A1_L96_S17.mp3
+18,Она дотронулась до меня,She touched me,[ʃi: tʌʧt mi:],A1_L96_S18.mp3
+19,Они сидели на полу,They sat on the floor,[ðeɪ sæt ɒn ðə flɔ:],A1_L96_S19.mp3
+20,Не трогай!,Don't touch!,[dəʊnt tʌʧ!],A1_L96_S20.mp3
+21,Я сел возле нее,I sat beside her,[aɪ sæt bɪˈsaɪd hɜ:],A1_L96_S21.mp3
+22,Ты можешь попробовать снова позже,You can try again later,[ju: kæn traɪ əˈgen ˈleɪtə],A1_L96_S22.mp3
+23,Пошли туда прямо сейчас!,Let's go there right now!,[lets gəʊ ðeə raɪt naʊ!],A1_L96_S23.mp3
+24,Я коснулся экрана,I touched the screen,[aɪ tʌʧt ðə skri:n],A1_L96_S24.mp3
+25,Как ты будешь отмечать Новый год?,How will you celebrate New Year?,[haʊ wɪl ju: ˈselɪbreɪt nju: jɪə?],A1_L96_S25.mp3
+26,Сколько денег ты взял с собой?,How much money did you take with you?,[haʊ mʌʧ ˈmʌni dɪd ju: teɪk wɪð ju:?],A1_L96_S26.mp3
+27,Я хотел бы прилечь,I’d like to lie down,[aɪ wʊd laɪk tu: laɪ daʊn],A1_L96_S27.mp3
+28,Как это звучит?,How does it sound?,[haʊ dʌz ɪt saʊnd?],A1_L96_S28.mp3
+29,Это лежит на полу,It lies on the floor,[ɪt laɪz ɒn ðə flɔ:],A1_L96_S29.mp3
+30,Он пытался и потерпел неудачу,He tried and failed,[hi: traɪd ænd feɪld],A1_L96_S30.mp3
+31,Их план провалился,Their plan failed,[ðeə plæn feɪld],A1_L96_S31.mp3
+32,Я хочу остаться дома,I want to stay in,[aɪ wɒnt tu: steɪ ɪn],A1_L96_S32.mp3
+33,Фабрика делает одежду,The factory makes clothes,[ðə ˈfæktəri meɪks kləʊðz],A1_L96_S33.mp3
+34,Что ты попытаешься сделать?,What will you try to do?,[wɒt wɪl ju: traɪ tu: du:?],A1_L96_S34.mp3
+35,Ты прочтешь эту книгу?,Will you read this book?,[wɪl ju: ri:d ðɪs bʊk?],A1_L96_S35.mp3
+36,Твое предложение звучит очень привлекательно,Your offer sounds very attractive,[jɔ: ˈɒfə saʊndz ˈveri əˈtræktɪv],A1_L96_S36.mp3
+37,Она порезала пирог,She cut the pie,[ʃi: kʌt ðə paɪ],A1_L96_S37.mp3
+38,Как вы встретились?,How did you meet?,[haʊ dɪd ju: mi:t?],A1_L96_S38.mp3
+39,Она хранила все их фотографии,She kept all their photos,[ʃi: kept ɔ:l ðeə ˈfəʊtəʊz],A1_L96_S39.mp3
+40,Я взял с собой свою сумку,I took my bag with me,[aɪ tʊk maɪ bæg wɪð mi:],A1_L96_S40.mp3
+41,"Я отремонтировал свои старые часы, но было не так дешево сделать это",I repaired my old watch but it wasn't so cheap to do it,[aɪ rɪˈpeəd maɪ əʊld wɒʧ bʌt ɪt wɒznt səʊ ʧi:p tu: du: ɪt],A1_L96_S41.mp3
+42,"Мой друг часто говорит мне, что курение разрушает здоровье людей",My friend often tells me that smoking destroys people's health,[maɪ frend ˈɒfn telz mi: ðæt ˈsməʊkɪŋ dɪsˈtrɔɪz ˈpi:plz helθ],A1_L96_S42.mp3
+43,"Многие люди знают, что курение очень вредно для нашего здоровья",Many people know that smoking is very bad for our health,[ˈmeni ˈpi:pl nəʊ ðæt ˈsməʊkɪŋ ɪz ˈveri bæd fɔ: ˈaʊə helθ],A1_L96_S43.mp3
+44,"Я хочу сказать тебе, что ты всегда можешь рассчитывать на мою поддержку",I want to tell you that you can always count on my support,[aɪ wɒnt tu: tel ju: ðæt ju: kæn ˈɔ:lweɪz kaʊnt ɒn maɪ səˈpɔ:t],A1_L96_S44.mp3
+45,"Каждый знает, что деньги действительно имеют значение в нашем обществе",Everyone knows that money really matters in our society,[ˈevrɪwʌn nəʊz ðæt ˈmʌni ˈrɪəli ˈmætəz ɪn ˈaʊə səˈsaɪəti],A1_L96_S45.mp3
+46,"Она всегда носит очень тяжелые сумки, и это выглядит действительно странно",She always carries very heavy bags and it looks really strange,[ʃi: ˈɔ:lweɪz ˈkæriz ˈveri ˈhevi bægz ænd ɪt lʊks ˈrɪəli streɪnʤ],A1_L96_S46.mp3
+47,"Мой друг часто говорит, что курение разрушает наше здоровье",My friend often says that smoking destroys our health,[maɪ frend ˈɒfn sez ðæt ˈsməʊkɪŋ dɪsˈtrɔɪz ˈaʊə helθ],A1_L96_S47.mp3
+48,"Он делает эти упражнения, потому что он не хочет делать ошибки",He does these exercises because he doesn't want to make mistakes,[hi: dʌz ði:z ˈeksəsaɪzɪz bɪˈkɒz hi: dʌznt wɒnt tu: meɪk mɪsˈteɪks],A1_L96_S48.mp3
+49,Он поступил в лучший университет в этом городе,He entered the best university in this city,[hi: ˈentəd ðə best ˌju:nɪˈvɜ:sɪti ɪn ðɪs ˈsɪti],A1_L96_S49.mp3
+50,Я старался не потратить свои последние деньги на это,I tried not to spend my last money on it,[aɪ traɪd nɒt tu: spend maɪ lɑ:st ˈmʌni ɒn ɪt],A1_L96_S50.mp3
+51,"Я не знаю, что он действительно имеет в виду",I don't know what he really means,[aɪ dəʊnt nəʊ wɒt hi: ˈrɪəli mi:nz],A1_L96_S51.mp3
+52,Армия контролировала ту территорию,The army controlled that territory,[ði ˈɑ:mi kənˈtrəʊld ðæt ˈterɪtəri],A1_L96_S52.mp3
+53,Мы могли бы посмотреть этот фильм вместе,We could watch this movie together,[wi: kʊd wɒʧ ðɪs ˈmu:vi təˈgeðə],A1_L96_S53.mp3
+54,Он сделал важное открытие,He made an important discovery,[hi: meɪd ən ɪmˈpɔ:tənt dɪsˈkʌvəri],A1_L96_S54.mp3
+55,"Я знаю, что ты имеешь в виду",I know what you mean,[aɪ nəʊ wɒt ju: mi:n],A1_L96_S55.mp3
+56,Что может привести меня к успеху?,What can lead me to success?,[wɒt kæn li:d mi: tu: səkˈses?],A1_L96_S56.mp3
+57,Это может привести меня к успеху,It can lead me to success,[ɪt kæn li:d mi: tu: səkˈses],A1_L96_S57.mp3
+58,Что может привести его к настоящему успеху?,What can lead him to a real success?,[wɒt kæn li:d hɪm tu: ə rɪəl səkˈses?],A1_L96_S58.mp3
+59,Она разрезала это на два куска,She cut it into two pieces,[ʃi: kʌt ɪt ˈɪntu: tu: ˈpi:sɪz],A1_L96_S59.mp3
+60,Она разделила это на два куска,She divided it into two pieces,[ʃi: dɪˈvaɪdɪd ɪt ˈɪntu: tu: ˈpi:sɪz],A1_L96_S60.mp3
+61,Она разрезала это на несколько частей,She cut it into several parts,[ʃi: kʌt ɪt ˈɪntu: ˈsevrəl pɑ:ts],A1_L96_S61.mp3
+62,Я хотел бы поступить в этот университет,I’d like to enter this university,[aɪ wʊd laɪk tu: ˈentə ðɪs ˌju:nɪˈvɜ:sɪti],A1_L96_S62.mp3
+63,Он хотел бы поступить в тот университет,He’d like to enter that university,[hi: wʊd laɪk tu: ˈentə ðæt ˌju:nɪˈvɜ:sɪti],A1_L96_S63.mp3
+64,Я хочу окончить этот университет,I want to graduate from this university,[aɪ wɒnt tu: ˈgrædjʊət frɒm ðɪs ˌju:nɪˈvɜ:sɪti],A1_L96_S64.mp3
+65,Как она вошла в здание?,How did she enter the building?,[haʊ dɪd ʃi: ˈentə ðə ˈbɪldɪŋ?],A1_L96_S65.mp3
+66,Как ты вошел в это здание?,How did you enter this building?,[haʊ dɪd ju: ˈentə ðɪs ˈbɪldɪŋ?],A1_L96_S66.mp3
+67,Когда она вошла в здание?,When did she enter the building?,[wen dɪd ʃi: ˈentə ðə ˈbɪldɪŋ?],A1_L96_S67.mp3
+68,Как тебе удалось победить?,How did you manage to win?,[haʊ dɪd ju: ˈmænɪʤ tu: wɪn?],A1_L96_S68.mp3
+69,Почему ей удалось победить?,Why did she manage to win?,[waɪ dɪd ʃi: ˈmænɪʤ tu: wɪn?],A1_L96_S69.mp3
+70,Мне удалось победить в этом конкурсе,I managed to win in this competition,[aɪ ˈmænɪʤd tu: wɪn ɪn ðɪs ˌkɒmpɪˈtɪʃən],A1_L96_S70.mp3
+71,"Я рад сообщить тебе, что ты выиграл …………….…................................................... 72. Он рад сообщить мне, что я наконец-то выиграл …………….…................................................... 73. Я очень рад видеть тебя …………….…................................................... 74. Эта дорога ведет к ближайшему отелю …………….…................................................... 75. Дорога вела в этот отель …………….…................................................... 76. Эта дорога привела нас к ближайшему ресторану …………….…................................................... 77. Ты можешь рассчитывать на мою поддержку …………….…................................................... 78. Я могу рассчитывать на твою поддержку? …………….…................................................... 79. Ты не можешь рассчитывать на его поддержку …………….…................................................... 80. Я не думаю, что я провалю экзамен …………….…................................................... 81. Он не думает, что я провалю этот экзамен …………….…................................................... 82. Я думаю, что я сдам экзамен …………….…................................................... 83. Нашему правительству следует контролировать это …………….…................................................... 8 84. Наше правительство должно контролировать это …………….…................................................... 85. Наше правительство не может контролировать это …………….…................................................... 86. Когда ты смотрел этот фильм в последний раз? …………….…................................................... 87. Я встретил ее, когда я работал там …………….…................................................... 88. Ему нужно все контролировать …………….…................................................... 89. Они смотрели это видео ради забавы …………….…................................................... 90. Я думаю, это не имеет значения …………….…................................................... 91. Ты всегда можешь рассчитывать на мою помощь …………….…................................................... 92. Ему нужно контролировать свое поведение …………….…................................................... 93. Дорога вела к ближайшему супермаркету …………….…................................................... 94. Я стараюсь не носить тяжелые вещи …………….…................................................... 95. Она разрезала это на много маленьких кусочков …………….…................................................... 96. Я хотел занять первое место …………….…................................................... 9 97. Что привело тебя к успеху? …………….…................................................... 98. Кто поддерживает тебя? …………….…................................................... 99. Постарайся не копировать это! …………….…................................................... 100. Я знал, что он имел в виду …………….…................................................... 101. Не волнуйся! …………….…................................................... 10 Ответы 1. Его голос звучал очень странно",His voice sounded very strange,[hɪz vɔɪs ˈsaʊndɪd ˈveri streɪnʤ],A1_L96_S71.mp3
+72,"Он рад сообщить мне, что я наконец-то выиграл",He's pleased to inform me that I finally won,[hi:z pli:zd tu: ɪnˈfɔ:m mi: ðæt aɪ ˈfaɪnəli wʌn],A1_L96_S72.mp3
+73,Я очень рад видеть тебя,I'm very pleased to see you,[aɪm ˈveri pli:zd tu: si: ju:],A1_L96_S73.mp3
+74,Эта дорога ведет к ближайшему отелю,This road leads to the nearest hotel,[ðɪs rəʊd li:dz tu: ðə ˈnɪərɪst həʊˈtel],A1_L96_S74.mp3
+75,Дорога вела в этот отель,The road led to this hotel,[ðə rəʊd led tu: ðɪs həʊˈtel],A1_L96_S75.mp3
+76,Эта дорога привела нас к ближайшему ресторану,This road led us to the nearest restaurant,[ðɪs rəʊd led ʌs tu: ðə ˈnɪərɪst ˈrestrɒnt],A1_L96_S76.mp3
+77,Ты можешь рассчитывать на мою поддержку,You can count on my support,[ju: kæn kaʊnt ɒn maɪ səˈpɔ:t],A1_L96_S77.mp3
+78,Я могу рассчитывать на твою поддержку?,Can I count on your support?,[kæn aɪ kaʊnt ɒn jɔ: səˈpɔ:t?],A1_L96_S78.mp3
+79,Ты не можешь рассчитывать на его поддержку,You can't count on his support,[ju: kɑ:nt kaʊnt ɒn hɪz səˈpɔ:t],A1_L96_S79.mp3
+80,"Я не думаю, что я провалю экзамен",I don't think that I’ll fail the exam,[aɪ dəʊnt θɪŋk ðæt aɪ wɪl feɪl ði ɪgˈzæm],A1_L96_S80.mp3
+81,"Он не думает, что я провалю этот экзамен",He doesn't think that I’ll fail this exam,[hi: dʌznt θɪŋk ðæt aɪ wɪl feɪl ðɪs ɪgˈzæm],A1_L96_S81.mp3
+82,"Я думаю, что я сдам экзамен",I think that I’ll pass the exam,[aɪ θɪŋk ðæt aɪ wɪl pɑ:s ði ɪgˈzæm],A1_L96_S82.mp3
+83,Нашему правительству следует контролировать это,Our government should control it,[ˈaʊə ˈgʌvnmənt ʃʊd kənˈtrəʊl ɪt],A1_L96_S83.mp3
+84,Наше правительство должно контролировать это,Our government must control it,[ˈaʊə ˈgʌvnmənt mʌst kənˈtrəʊl ɪt],A1_L96_S84.mp3
+85,Наше правительство не может контролировать это,Our government can't control it,[ˈaʊə ˈgʌvnmənt kɑ:nt kənˈtrəʊl ɪt],A1_L96_S85.mp3
+86,Когда ты смотрел этот фильм в последний раз?,When did you watch this movie last time?,[wen dɪd ju: wɒʧ ðɪs ˈmu:vi lɑ:st taɪm?],A1_L96_S86.mp3
+87,"Я встретил ее, когда я работал там",I met her when I worked there,[aɪ met hɜ: wen aɪ wɜ:kt ðeə],A1_L96_S87.mp3
+88,Ему нужно все контролировать,He needs to control everything,[hi: ni:dz tu: kənˈtrəʊl ˈevrɪθɪŋ],A1_L96_S88.mp3
+89,Они смотрели это видео ради забавы,They watched this video for fun,[ðeɪ wɒʧt ðɪs ˈvɪdɪəʊ fɔ: fʌn],A1_L96_S89.mp3
+90,"Я думаю, это не имеет значения",I think it doesn't matter,[aɪ θɪŋk ɪt dʌznt ˈmætə],A1_L96_S90.mp3
+91,Ты всегда можешь рассчитывать на мою помощь,You can always count on my help,[ju: kæn ˈɔ:lweɪz kaʊnt ɒn maɪ help],A1_L96_S91.mp3
+92,Ему нужно контролировать свое поведение,He needs to control his behaviour,[hi: ni:dz tu: kənˈtrəʊl hɪz bɪˈheɪvjə],A1_L96_S92.mp3
+93,Дорога вела к ближайшему супермаркету,The road led to the nearest supermarket,[ðə rəʊd led tu: ðə ˈnɪərɪst ˈsu:pəˌmɑ:kɪt],A1_L96_S93.mp3
+94,Я стараюсь не носить тяжелые вещи,I try not to carry heavy things,[aɪ traɪ nɒt tu: ˈkæri ˈhevi θɪŋz],A1_L96_S94.mp3
+95,Она разрезала это на много маленьких кусочков,She cut it into many small pieces,[ʃi: kʌt ɪt ˈɪntu: ˈmeni smɔ:l ˈpi:sɪz],A1_L96_S95.mp3
+96,Я хотел занять первое место,I wanted to take the first place,[aɪ ˈwɒntɪd tu: teɪk ðə fɜ:st pleɪs],A1_L96_S96.mp3
+97,Что привело тебя к успеху?,What led you to success?,[wɒt led ju: tu: səkˈses?],A1_L96_S97.mp3
+98,Кто поддерживает тебя?,Who supports you?,[hu: səˈpɔ:ts ju:?],A1_L96_S98.mp3
+99,Постарайся не копировать это!,Try not to copy it!,[traɪ nɒt tu: ˈkɒpi ɪt!],A1_L96_S99.mp3
+100,"Я знал, что он имел в виду",I knew what he meant,[aɪ nju: wɒt hi: ment],A1_L96_S100.mp3
+101,Не волнуйся!,Don’t worry!,[dəʊnt ˈwʌri!],A1_L96_S101.mp3

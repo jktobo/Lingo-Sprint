@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,"Этот урок такой же интересный, как и этот фильм",This lesson is as interesting as this movie,[ðɪs ˈlesn ɪz æz ˈɪntrɪstɪŋ æz ðɪs ˈmu:vi],B1_L180_S2.mp3
+3,"Это самое смешное видео, которое я когда-либо смотрел",It's the funniest video I have ever watched,[ɪts ðə ˈfʌnɪɪst ˈvɪdɪəʊ aɪ hæv ˈevə wɒʧt],B1_L180_S3.mp3
+4,Сегодня день намного жарче,It's a much hotter day today,[ɪts ə mʌʧ ˈhɒtə deɪ təˈdeɪ],B1_L180_S4.mp3
+5,Это решение лучше,It's a better decision,[ɪts ə ˈbetə dɪˈsɪʒən],B1_L180_S5.mp3
+6,Сегодня холоднее,It's colder today,[ɪts ˈkəʊldə təˈdeɪ],B1_L180_S6.mp3
+7,"У меня такие же вопросы, как и у тебя",I have the same questions as you,[aɪ hæv ðə seɪm ˈkwesʧənz æz ju:],B1_L180_S7.mp3
+8,У нас такие же идеи,We have the same ideas,[wi: hæv ðə seɪm aɪˈdɪəz],B1_L180_S8.mp3
+9,"Его машина дешевле, чем ее",His car is cheaper than hers,[hɪz kɑ:r ɪz ˈʧi:pə ðæn hɜ:z],B1_L180_S9.mp3
+10,У меня такой же уровень как и у тебя,I have the same level as you,[aɪ hæv ðə seɪm ˈlevl æz ju:],B1_L180_S10.mp3
+11,"Эта презентация гораздо более красочная, чем та",This presentation is much more colourful than that one,[ðɪs ˌprezenˈteɪʃən ɪz mʌʧ mɔ: ˈkʌləfəl ðæn ðæt wʌn],B1_L180_S11.mp3
+12,"У меня те же проблемы, что и у тебя",I have the same problems as you,[aɪ hæv ðə seɪm ˈprɒbləmz æz ju:],B1_L180_S12.mp3
+13,Это одна из самых высоких башен,It's one of the highest towers,[ɪts wʌn ɒv ðə ˈhaɪɪst ˈtaʊəz],B1_L180_S13.mp3
+14,Это гораздо более красочная презентация,It's a much more colourful presentation,[ɪts ə mʌʧ mɔ: ˈkʌləfəl ˌprezenˈteɪʃən],B1_L180_S14.mp3
+15,Это более серьезная экономическая проблема,It's a more serious economic problem,[ɪts ə mɔ: ˈsɪərɪəs ˌi:kəˈnɒmɪk ˈprɒbləm],B1_L180_S15.mp3
+16,Эта стиральная машина кажется более экономичной,This washing machine seems more economical,[ðɪs ˈwɒʃɪŋ məˈʃi:n si:mz mɔ: ˌi:kəˈnɒmɪkəl],B1_L180_S16.mp3
+17,Это один из самых высоких небоскребов в мире,It's one of the highest skyscrapers in the world,[ɪts wʌn ɒv ðə ˈhaɪɪst ˈskaɪˌskreɪpəz ɪn ðə wɜ:ld],B1_L180_S17.mp3
+18,Сейчас дождливо,It's rainy,[ɪts ˈreɪni],B1_L180_S18.mp3
+19,"У него те же ошибки, что и у тебя",He has the same mistakes as you,[hi: hæz ðə seɪm mɪsˈteɪks æz ju:],B1_L180_S19.mp3
+20,Он живет в большей квартире,He lives in a larger apartment,[hi: lɪvz ɪn ə ˈlɑ:ʤər əˈpɑ:tmənt],B1_L180_S20.mp3
+21,Это одна из самых серьезных проблем,It is one of the most serious problems,[ɪt ɪz wʌn ɒv ðə məʊst ˈsɪərɪəs ˈprɒbləmz],B1_L180_S21.mp3
+22,У него есть более надежная машина,He has a more reliable car,[hi: hæz ə mɔ: rɪˈlaɪəbl kɑ:],B1_L180_S22.mp3
+23,Это более информативный курс,It's a more informative course,[ɪts ə mɔ: ɪnˈfɔ:mətɪv kɔ:s],B1_L180_S23.mp3
+24,"Чем скорее, тем лучше","The sooner, the better","[ðə ˈsu:nə, ðə ˈbetə]",B1_L180_S24.mp3
+25,"Чем меньше мы учимся, тем меньше мы знаем","The less we study, the less we know","[ðə les wi: ˈstʌdi, ðə les wi: nəʊ]",B1_L180_S25.mp3
+26,Я более уверен в этом,I am more certain about it,[aɪ æm mɔ: ˈsɜ:tn əˈbaʊt ɪt],B1_L180_S26.mp3
+27,Это лучший выбор для тебя,It's the best choice for you,[ɪts ðə best ʧɔɪs fɔ: ju:],B1_L180_S27.mp3
+28,Это наименее важная вещь для нас,It's the least important thing for us,[ɪts ðə li:st ɪmˈpɔ:tənt θɪŋ fɔ: ʌs],B1_L180_S28.mp3
+29,Его квартира в три раза больше их,His flat is three times larger than theirs,[hɪz flæt ɪz θri: taɪmz ˈlɑ:ʤə ðæn ðeəz],B1_L180_S29.mp3
+30,"Мой уровень выше, чем его",My level is higher than his,[maɪ ˈlevl ɪz ˈhaɪə ðæn hɪz],B1_L180_S30.mp3
+31,Это была наименее интересная статья,It was the least interesting article,[ɪt wɒz ðə li:st ˈɪntrɪstɪŋ ˈɑ:tɪkl],B1_L180_S31.mp3
+32,У него такие же планы,He has the same plans,[hi: hæz ðə seɪm plænz],B1_L180_S32.mp3
+33,Он один из моих лучших друзей,He is one of my best friends,[hi: ɪz wʌn ɒv maɪ best frendz],B1_L180_S33.mp3
+34,Его уровень ниже моего,His level is lower than mine,[hɪz ˈlevl ɪz ˈləʊə ðæn maɪn],B1_L180_S34.mp3
+35,Эта машина более экономична,This machine is more economical,[ðɪs məˈʃi:n ɪz mɔ: ˌi:kəˈnɒmɪkəl],B1_L180_S35.mp3
+36,"У нее больше времени, чем у меня",She has more time than me,[ʃi: hæz mɔ: taɪm ðæn mi:],B1_L180_S36.mp3
+37,Сегодня теплее день,It's a warmer day today,[ɪts ə ˈwɔ:mə deɪ təˈdeɪ],B1_L180_S37.mp3
+38,Это один из худших сценариев,It is one of the worst scenarios,[ɪt ɪz wʌn ɒv ðə wɜ:st sɪˈnɑ:rɪəʊz],B1_L180_S38.mp3
+39,Сегодня более облачно,It is more cloudy today,[ɪt ɪz mɔ: ˈklaʊdi təˈdeɪ],B1_L180_S39.mp3
+40,"Твоя идея такая же, как у нее",Your idea is the same as hers,[jɔ:r aɪˈdɪə ɪz ðə seɪm æz hɜ:z],B1_L180_S40.mp3
+41,"Наш дом меньше, чем их",Our house is smaller than theirs,[ˈaʊə haʊs ɪz ˈsmɔ:lə ðæn ðeəz],B1_L180_S41.mp3
+42,Это более экономичная машина,It's a more economical machine,[ɪts ə mɔ: ˌi:kəˈnɒmɪkəl məˈʃi:n],B1_L180_S42.mp3
+43,"Звук лучше, чем был",The sound is better than it was,[ðə saʊnd ɪz ˈbetə ðæn ɪt wɒz],B1_L180_S43.mp3
+44,"Качество продукта лучше, чем было",The quality of the product is better than it was,[ðə ˈkwɒlɪti ɒv ðə ˈprɒdʌkt ɪz ˈbetə ðæn ɪt wɒz],B1_L180_S44.mp3
+45,Это один из самых больших городов в мире,It is one of the biggest cities in the world,[ɪt ɪz wʌn ɒv ðə ˈbɪgɪst ˈsɪtiz ɪn ðə wɜ:ld],B1_L180_S45.mp3
+46,"Чем меньше ты работаешь, тем меньше у тебя денег","The less you work, the less money you have","[ðə les ju: wɜ:k, ðə les ˈmʌni ju: hæv]",B1_L180_S46.mp3
+47,"Чем больше я остаюсь здесь, тем больше мне нравится это место","The more I stay here, the more I like this place","[ðə mɔ: aɪ steɪ hɪə, ðə mɔ:r aɪ laɪk ðɪs pleɪs]",B1_L180_S47.mp3
+48,"Та машина не такая новая, как эта",That car isn't as new as this one,[ðæt kɑ:r ˈɪznt æz nju: æz ðɪs wʌn],B1_L180_S48.mp3
+49,"Чем больше мы изучаем английский язык, тем выше наш уровень","The more we learn English, the higher our level is","[ðə mɔ: wi: lɜ:n ˈɪŋglɪʃ, ðə ˈhaɪər ˈaʊə ˈlevl ɪz]",B1_L180_S49.mp3
+50,"Чем больше у нас опыта, тем выше наш профессионализм","The more experience we have, the higher our professionalism is","[ðə mɔ: ɪksˈpɪərɪəns wi: hæv, ðə ˈhaɪər ˈaʊə prəˈfeʃnəlɪzm ɪz]",B1_L180_S50.mp3
+51,"Чем больше ты работаешь, тем больше у тебя денег","The more you work, the more money you have","[ðə mɔ: ju: wɜ:k, ðə mɔ: ˈmʌni ju: hæv]",B1_L180_S51.mp3
+52,"Качество лучше, чем было",The quality is better than it was,[ðə ˈkwɒlɪti ɪz ˈbetə ðæn ɪt wɒz],B1_L180_S52.mp3
+53,"Чем меньше ошибок мы совершаем, тем больше мы уверены","The fewer mistakes we make, the more confident we are","[ðə ˈfju:ə mɪsˈteɪks wi: meɪk, ðə mɔ: ˈkɒnfɪdənt wi: ɑ:]",B1_L180_S53.mp3
+54,"Тот курс не так полезен, как этот",That course isn't as useful as this one,[ðæt kɔ:s ˈɪznt æz ˈju:sfəl æz ðɪs wʌn],B1_L180_S54.mp3
+55,"Чем больше у тебя практики, тем лучше для тебя","The more practice you have, the better it is for you","[ðə mɔ: ˈpræktɪs ju: hæv, ðə ˈbetər ɪt ɪz fɔ: ju:]",B1_L180_S55.mp3
+56,Этот компьютер стоит в два раза дешевле,This computer is twice as cheap,[ðɪs kəmˈpju:tər ɪz twaɪs æz ʧi:p],B1_L180_S56.mp3
+57,Это одно из самых серьезных оружий,It is one of the most serious weapons,[ɪt ɪz wʌn ɒv ðə məʊst ˈsɪərɪəs ˈwepənz],B1_L180_S57.mp3
+58,"Эта книга не такая интересная, как та",This book isn't as interesting as that one,[ðɪs bʊk ˈɪznt æz ˈɪntrɪstɪŋ æz ðæt wʌn],B1_L180_S58.mp3
+59,"Тот фильм не так интересен, как этот",That movie isn't as interesting as this one,[ðæt ˈmu:vi ˈɪznt æz ˈɪntrɪstɪŋ æz ðɪs wʌn],B1_L180_S59.mp3
+60,"Эта вещь не такая дорогая, как та",This thing isn't as expensive as that one,[ðɪs θɪŋ ˈɪznt æz ɪksˈpensɪv æz ðæt wʌn],B1_L180_S60.mp3
+61,"Чем больше у нас есть, тем больше мы хотим","The more we have, the more we want","[ðə mɔ: wi: hæv, ðə mɔ: wi: wɒnt]",B1_L180_S61.mp3
+62,"Чем меньше у нас есть, тем больше мы хотим","The less we have, the more we want","[ðə les wi: hæv, ðə mɔ: wi: wɒnt]",B1_L180_S62.mp3
+63,"Чем больше ты учишься, тем больше ты знаешь","The more you study, the more you know","[ðə mɔ: ju: ˈstʌdi, ðə mɔ: ju: nəʊ]",B1_L180_S63.mp3
+64,"Чем больше мы читаем об этом, тем больше понимаем","The more we read about it, the more we understand","[ðə mɔ: wi: ri:d əˈbaʊt ɪt, ðə mɔ: wi: ˌʌndəˈstænd]",B1_L180_S64.mp3
+65,"Чем больше мы знаем об этом, тем больше понимаем","The more we know about it, the more we understand","[ðə mɔ: wi: nəʊ əˈbaʊt ɪt, ðə mɔ: wi: ˌʌndəˈstænd]",B1_L180_S65.mp3
+66,"Чем усерднее ты будешь учиться, тем лучше будет твой результат","The harder you study, the better your result will be","[ðə ˈhɑ:də ju: ˈstʌdi, ðə ˈbetə jɔ: rɪˈzʌlt wɪl bi:]",B1_L180_S66.mp3
+67,"Чем больше я учусь, тем лучше будет мой результат","The more I study, the better my result will be","[ðə mɔ: aɪ ˈstʌdi, ðə ˈbetə maɪ rɪˈzʌlt wɪl bi:]",B1_L180_S67.mp3
+68,"Чем больше книг я читаю, тем больше я понимаю","The more books I read, the more I understand","[ðə mɔ: bʊks aɪ ri:d, ðə mɔ: aɪ ˌʌndəˈstænd]",B1_L180_S68.mp3
+69,Это очень опасное оружие,It is a very dangerous weapon,[ɪt ɪz ə ˈveri ˈdeɪnʤrəs ˈwepən],B1_L180_S69.mp3
+70,Это очень дорогая вещь,It is a very expensive thing,[ɪt ɪz ə ˈveri ɪksˈpensɪv θɪŋ],B1_L180_S70.mp3
+71,Это очень холодная вода,It is very cold water,[ɪt ɪz ˈveri kəʊld ˈwɔ:tə],B1_L180_S71.mp3
+72,"Чем больше ты тренируешься, тем больше устаешь","The more you train, the more tired you get","[ðə mɔ: ju: treɪn, ðə mɔ: ˈtaɪəd ju: get]",B1_L180_S72.mp3
+73,"Чем больше ты тренируешься, тем более здоровым ты будешь …………….…................................................... 74. Чем больше он курит, тем хуже себя чувствует …………….…................................................... 75. Чем больше ты читаешь по-английски, …………….…................................................... тем богаче становится твой словарный запас …………….…................................................... 76. Чем больше я смотрю эти уроки, …………….…................................................... тем богаче становится мой словарный запас …………….…................................................... 77. Чем больше я использую это приложение, тем больше я знаю …………….…................................................... 78. Это одно из недавних открытий …………….…................................................... 79. Он один из самых богатых людей …………….…................................................... 80. Это одно из самых полезных открытий …………….…................................................... 81. Чем меньше мы тренируемся, тем мы слабее …………….…................................................... 82. Чем больше мы тренируемся, тем больше устаем …………….…................................................... 83. Чем меньше я ем, тем я слабее …………….…................................................... 8 84. Чем больше я думал об этом, тем больше мне нравилась идея …………….…................................................... 85. Чем больше я изучал это, тем больше понимал …………….…................................................... 86. Чем больше мы говорили об этом, тем больше информации я получал …………….…................................................... 87. Я хочу выучить самые частые английские слова в первую очередь …………….…................................................... 88. Это одно из самых частых английских слов …………….…................................................... 89. Мы учим наиболее употребляемые английские слова в этом курсе …………….…................................................... 90. Я все больше и больше уверен в этом …………….…................................................... 91. Я полагаю, это гораздо лучше решение …………….…................................................... 92. Чем дороже отель, тем лучше сервис …………….…................................................... 93. Чем меньше ошибок мы делаем, тем увереннее мы себя чувствуем …………….…................................................... 94. Чем интенсивнее ты тренируешься, тем лучше будут твои достижения …………….…................................................... 95. Это одно из самых интересных недавних открытий …………….…................................................... 96. Мы выйдем, если погода станет лучше …………….…................................................... 9 97. Мы преодолели большее расстояние …………….…................................................... 98. Эта сумка в три раза дешевле той …………….…................................................... 99. Чем больше у тебя практики, тем больше твой прогресс …………….…................................................... 100. Это одно из самых употребляемых английских слов …………….…................................................... 101. Эта машина не такая старая, как та …………….…................................................... 10 Ответы 1. Он так же умен как, и его сестра",He’s as smart as his sister,[hi:z æz smɑ:t æz hɪz ˈsɪstə],B1_L180_S73.mp3
+74,"Чем больше он курит, тем хуже себя чувствует","The more he smokes, the worse he feels","[ðə mɔ: hi: sməʊks, ðə wɜ:s hi: fi:lz]",B1_L180_S74.mp3
+75,"Чем больше ты читаешь по-английски, тем богаче становится твой словарный запас","The more you read in English, the richer your vocabulary becomes","[ðə mɔ: ju: ri:d ɪn ˈɪŋglɪʃ, ðə ˈrɪʧə jɔ: vəʊˈkæbjʊləri bɪˈkʌmz]",B1_L180_S75.mp3
+76,"Чем больше я смотрю эти уроки, тем богаче становится мой словарный запас","The more I watch these lessons, the richer my vocabulary becomes","[ðə mɔ: aɪ wɒʧ ði:z ˈlesnz, ðə ˈrɪʧə maɪ vəʊˈkæbjʊləri bɪˈkʌmz]",B1_L180_S76.mp3
+77,"Чем больше я использую это приложение, тем больше я знаю","The more I use this application, the more I know","[ðə mɔ: aɪ ju:z ðɪs ˌæplɪˈkeɪʃn, ðə mɔ:r aɪ nəʊ]",B1_L180_S77.mp3
+78,Это одно из недавних открытий,It is one of the recent discoveries,[ɪt ɪz wʌn ɒv ðə ˈri:snt dɪsˈkʌvəriz],B1_L180_S78.mp3
+79,Он один из самых богатых людей,He is one of the richest people,[hi: ɪz wʌn ɒv ðə ˈrɪʧɪst ˈpi:pl],B1_L180_S79.mp3
+80,Это одно из самых полезных открытий,It is one of the most useful discoveries,[ɪt ɪz wʌn ɒv ðə məʊst ˈju:sfəl dɪsˈkʌvəriz],B1_L180_S80.mp3
+81,"Чем меньше мы тренируемся, тем мы слабее","The less we train, the weaker we are","[ðə les wi: treɪn, ðə ˈwi:kə wi: ɑ:]",B1_L180_S81.mp3
+82,"Чем больше мы тренируемся, тем больше устаем","The more we train, the more tired we are","[ðə mɔ: wi: treɪn, ðə mɔ: ˈtaɪəd wi: ɑ:]",B1_L180_S82.mp3
+83,"Чем меньше я ем, тем я слабее","The less I eat, the weaker I am","[ðə les aɪ i:t, ðə ˈwi:kər aɪ æm]",B1_L180_S83.mp3
+84,"Чем больше я думал об этом, тем больше мне нравилась идея","The more I thought about it, the more I liked the idea","[ðə mɔ: aɪ θɔ:t əˈbaʊt ɪt, ðə mɔ:r aɪ laɪkt ði aɪˈdɪə]",B1_L180_S84.mp3
+85,"Чем больше я изучал это, тем больше понимал","The more I learned it, the more I understood","[ðə mɔ: aɪ lɜ:nt ɪt, ðə mɔ:r aɪ ˌʌndəˈstʊd]",B1_L180_S85.mp3
+86,"Чем больше мы говорили об этом, тем больше информации я получал","The more we talked about it, the more information I got","[ðə mɔ: wi: tɔ:kt əˈbaʊt ɪt, ðə mɔ: ˌɪnfəˈmeɪʃən aɪ gɒt]",B1_L180_S86.mp3
+87,Я хочу выучить самые частые английские слова в первую очередь,I want to learn the most frequent English words first of all,[aɪ wɒnt tu: lɜ:n ðə məʊst ˈfri:kwənt ˈɪŋglɪʃ wɜ:dz fɜ:st ɒv ɔ:l],B1_L180_S87.mp3
+88,Это одно из самых частых английских слов,It is one of the most frequent English words,[ɪt ɪz wʌn ɒv ðə məʊst ˈfri:kwənt ˈɪŋglɪʃ wɜ:dz],B1_L180_S88.mp3
+89,Мы учим наиболее употребляемые английские слова в этом курсе,We learn the most used English words in this course,[wi: lɜ:n ðə məʊst ju:zd ˈɪŋglɪʃ wɜ:dz ɪn ðɪs kɔ:s],B1_L180_S89.mp3
+90,Я все больше и больше уверен в этом,I'm more and more certain about it,[aɪm mɔ: ænd mɔ: ˈsɜ:tn əˈbaʊt ɪt],B1_L180_S90.mp3
+91,"Я полагаю, это гораздо лучше решение",I suppose it's a much better decision,[aɪ səˈpəʊz ɪts ə mʌʧ ˈbetə dɪˈsɪʒən],B1_L180_S91.mp3
+92,"Чем дороже отель, тем лучше сервис","The more expensive the hotel, the better the service","[ðə mɔ: ɪksˈpensɪv ðə həʊˈtel, ðə ˈbetə ðə ˈsɜ:vɪs]",B1_L180_S92.mp3
+93,"Чем меньше ошибок мы делаем, тем увереннее мы себя чувствуем","The fewer mistakes we make, the more confident we feel","[ðə ˈfju:ə mɪsˈteɪks wi: meɪk, ðə mɔ: ˈkɒnfɪdənt wi: fi:l]",B1_L180_S93.mp3
+94,"Чем интенсивнее ты тренируешься, тем лучше будут твои достижения","The more intensively you train, the better your achievements will be","[ðə mɔ: ɪnˈtensɪvli ju: treɪn, ðə ˈbetə jɔ:r əˈʧi:vmənts wɪl bi:]",B1_L180_S94.mp3
+95,Это одно из самых интересных недавних открытий,It is one of the most interesting recent discoveries,[ɪt ɪz wʌn ɒv ðə məʊst ˈɪntrɪstɪŋ ˈri:snt dɪsˈkʌvəriz],B1_L180_S95.mp3
+96,"Мы выйдем, если погода станет лучше",We will go out if the weather becomes better,[wi: wɪl gəʊ aʊt ɪf ðə ˈweðə bɪˈkʌmz ˈbetə],B1_L180_S96.mp3
+97,Мы преодолели большее расстояние,We covered a longer distance,[wi: ˈkʌvəd ə ˈlɒŋgə ˈdɪstəns],B1_L180_S97.mp3
+98,Эта сумка в три раза дешевле той,This bag is three times cheaper than that one,[ðɪs bæg ɪz θri: taɪmz ˈʧi:pə ðæn ðæt wʌn],B1_L180_S98.mp3
+99,"Чем больше у тебя практики, тем больше твой прогресс","The more practice you have, the bigger your progress is","[ðə mɔ: ˈpræktɪs ju: hæv, ðə ˈbɪgə jɔ: ˈprəʊgrəs ɪz]",B1_L180_S99.mp3
+100,Это одно из самых употребляемых английских слов,It is one of the most used English words,[ɪt ɪz wʌn ɒv ðə məʊst ju:zd ˈɪŋglɪʃ wɜ:dz],B1_L180_S100.mp3
+101,"Эта машина не такая старая, как та",This car isn't as old as that one,[ðɪs kɑ:r ˈɪznt æz əʊld æz ðæt wʌn],B1_L180_S101.mp3

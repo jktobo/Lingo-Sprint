@@ -1,0 +1,95 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Она была замужем?,Was she married?,[wɒz ʃi: ˈmærɪd?],A0_L42_S1.mp3
+2,Ты был готов?,Were you ready?,[wɜ: ju: ˈredi?],A0_L42_S2.mp3
+3,Это было нормально для тебя?,Was it normal for you?,[wɒz ɪt ˈnɔ:məl fɔ: ju:?],A0_L42_S3.mp3
+4,Он был прав?,Was he right?,[wɒz hi: raɪt?],A0_L42_S4.mp3
+5,Это было действительно дорого?,Was it really expensive?,[wɒz ɪt ˈrɪəli ɪksˈpensɪv?],A0_L42_S5.mp3
+6,Это было вчера?,Was it yesterday?,[wɒz ɪt ˈjestədeɪ?],A0_L42_S6.mp3
+7,Он был действительно уверен?,Was he really sure?,[wɒz hi: ˈrɪəli ʃʊə?],A0_L42_S7.mp3
+8,Это было очень далеко?,Was it very far?,[wɒz ɪt ˈveri fɑ:?],A0_L42_S8.mp3
+9,Это было странно?,Was it strange?,[wɒz ɪt streɪnʤ?],A0_L42_S9.mp3
+10,Это было действительно важно?,Was it really important?,[wɒz ɪt ˈrɪəli ɪmˈpɔ:tənt?],A0_L42_S10.mp3
+11,Это было в прошлом веке?,Was it last century?,[wɒz ɪt lɑ:st ˈsenʧʊri?],A0_L42_S11.mp3
+12,Ты был готов?,Were you ready?,[wɜ: ju: ˈredi?],A0_L42_S12.mp3
+13,Это было очень популярно?,Was it very popular?,[wɒz ɪt ˈveri ˈpɒpjʊlə?],A0_L42_S13.mp3
+14,Он был одинок?,Was he single?,[wɒz hi: ˈsɪŋgl?],A0_L42_S14.mp3
+15,Это была игра?,Was it a game?,[wɒz ɪt ə geɪm?],A0_L42_S15.mp3
+16,Ты был уверен?,Were you sure?,[wɜ: ju: ʃʊə?],A0_L42_S16.mp3
+17,Это было на прошлой неделе?,Was it last week?,[wɒz ɪt lɑ:st wi:k?],A0_L42_S17.mp3
+18,Он был твоим лучшим другом?,Was he your best friend?,[wɒz hi: jɔ: best frend?],A0_L42_S18.mp3
+19,Ты был действительно счастлив?,Were you really happy?,[wɜ: ju: ˈrɪəli ˈhæpi?],A0_L42_S19.mp3
+20,Они были в школе?,Were they at school?,[wɜ: ðeɪ æt sku:l?],A0_L42_S20.mp3
+21,Это было действительно интересно тебе?,Was it really interesting for you?,[wɒz ɪt ˈrɪəli ˈɪntrɪstɪŋ fɔ: ju:?],A0_L42_S21.mp3
+22,Ты был в университете?,Were you at university?,[wɜ: ju: æt ˌju:nɪˈvɜ:sɪti?],A0_L42_S22.mp3
+23,Она была замужем?,Was she married?,[wɒz ʃi: ˈmærɪd?],A0_L42_S23.mp3
+24,Это было действительно возможно?,Was it really possible?,[wɒz ɪt ˈrɪəli ˈpɒsəbl?],A0_L42_S24.mp3
+25,Ты был очень занят в пятницу?,Were you very busy on Friday?,[wɜ: ju: ˈveri ˈbɪzi ɒn ˈfraɪdeɪ?],A0_L42_S25.mp3
+26,Это было дорого?,Was it expensive?,[wɒz ɪt ɪksˈpensɪv?],A0_L42_S26.mp3
+27,Они были очень хорошими учителями?,Were they very good teachers?,[wɜ: ðeɪ ˈveri gʊd ˈti:ʧəz?],A0_L42_S27.mp3
+28,Это было интересно?,Was it interesting?,[wɒz ɪt ˈɪntrɪstɪŋ?],A0_L42_S28.mp3
+29,Ты был оптимистичен?,Were you optimistic?,[wɜ: ju: ˌɒptɪˈmɪstɪk?],A0_L42_S29.mp3
+30,Он был действительно зол?,Was he really angry?,[wɒz hi: ˈrɪəli ˈæŋgri?],A0_L42_S30.mp3
+31,Это было два века назад?,Was it two centuries ago?,[wɒz ɪt tu: ˈsenʧʊriz əˈgəʊ?],A0_L42_S31.mp3
+32,Она была пессимистична?,Was she pessimistic?,[wɒz ʃi: ˌpesɪˈmɪstɪk?],A0_L42_S32.mp3
+33,Ты действительно был так оптимистичен?,Were you really so optimistic?,[wɜ: ju: ˈrɪəli səʊ ˌɒptɪˈmɪstɪk?],A0_L42_S33.mp3
+34,Это было действительно полезно для тебя?,Was it really useful for you?,[wɒz ɪt ˈrɪəli ˈju:sfəl fɔ: ju:?],A0_L42_S34.mp3
+35,Это было очень забавно?,Was it very funny?,[wɒz ɪt ˈveri ˈfʌni?],A0_L42_S35.mp3
+36,Они были очень бедные?,Were they very poor?,[wɜ: ðeɪ ˈveri pʊə?],A0_L42_S36.mp3
+37,Я был прав?,Was I right?,[wɒz aɪ raɪt?],A0_L42_S37.mp3
+38,Это было действительно так?,Was it really so?,[wɒz ɪt ˈrɪəli səʊ?],A0_L42_S38.mp3
+39,Он был очень занят в прошлый понедельник?,Was he very busy last Monday?,[wɒz hi: ˈveri ˈbɪzi lɑ:st ˈmʌndeɪ?],A0_L42_S39.mp3
+40,Он был слишком пессимистичен?,Was he too pessimistic?,[wɒz hi: tu: ˌpesɪˈmɪstɪk?],A0_L42_S40.mp3
+41,Это действительно было так сложно?,Was it really so difficult?,[wɒz ɪt ˈrɪəli səʊ ˈdɪfɪkəlt?],A0_L42_S41.mp3
+42,Она была больна на прошлой неделе?,Was she ill last week?,[wɒz ʃi: ɪl lɑ:st wi:k?],A0_L42_S42.mp3
+43,Это была здоровая еда?,Was it healthy food?,[wɒz ɪt ˈhelθi fu:d?],A0_L42_S43.mp3
+44,Это был неправильный ответ?,Was it the wrong answer?,[wɒz ɪt ðə rɒŋ ˈɑ:nsə?],A0_L42_S44.mp3
+45,Ты был рад этому?,Were you happy about it?,[wɜ: ju: ˈhæpi əˈbaʊt ɪt?],A0_L42_S45.mp3
+46,Он был в отпуске в прошлом месяце?,Was he on holiday last month?,[wɒz hi: ɒn ˈhɒlədeɪ lɑ:st mʌnθ?],A0_L42_S46.mp3
+47,Он был в аэропорту?,Was he at the airport?,[wɒz hi: æt ði ˈeəpɔ:t?],A0_L42_S47.mp3
+48,Ты действительно был уставший?,Were you really tired?,[wɜ: ju: ˈrɪəli ˈtaɪəd?],A0_L42_S48.mp3
+49,Это было хорошо или плохо?,Was it good or bad?,[wɒz ɪt gʊd ɔ: bæd?],A0_L42_S49.mp3
+50,Ты был в музее?,Were you in the museum?,[wɜ: ju: ɪn ðə mju:ˈzɪəm?],A0_L42_S50.mp3
+51,Это было действительно так ужасно?,Was it really so terrible?,[wɒz ɪt ˈrɪəli səʊ ˈterəbl?],A0_L42_S51.mp3
+52,Это было дорого или нет?,Was it expensive or not?,[wɒz ɪt ɪksˈpensɪv ɔ: nɒt?],A0_L42_S52.mp3
+53,Они были очень профессиональны?,Were they very professional?,[wɜ: ðeɪ ˈveri prəˈfeʃənl?],A0_L42_S53.mp3
+54,Она действительно боялась этого?,Was she really afraid of it?,[wɒz ʃi: ˈrɪəli əˈfreɪd ɒv ɪt?],A0_L42_S54.mp3
+55,Это был правильный ответ?,Was it the correct answer?,[wɒz ɪt ðə kəˈrekt ˈɑ:nsə?],A0_L42_S55.mp3
+56,Они часто бывали в том месте?,Were they often in that place?,[wɜ: ðeɪ ˈɒfn ɪn ðæt pleɪs?],A0_L42_S56.mp3
+57,Он был в ванной?,Was he in the bathroom?,[wɒz hi: ɪn ðə ˈbɑ:θru:m?],A0_L42_S57.mp3
+58,Ты был в гостиной?,Were you in the living room?,[wɜ: ju: ɪn ðə ˈlɪvɪŋ ru:m?],A0_L42_S58.mp3
+59,Ты был на кухне?,Were you in the kitchen?,[wɜ: ju: ɪn ðə ˈkɪʧɪn?],A0_L42_S59.mp3
+60,Он был в комнате?,Was he in the room?,[wɒz hi: ɪn ðə ru:m?],A0_L42_S60.mp3
+61,Они были в своей комнате?,Were they in their room?,[wɜ: ðeɪ ɪn ðeə ru:m?],A0_L42_S61.mp3
+62,Она была на кухне?,Was she in the kitchen?,[wɒz ʃi: ɪn ðə ˈkɪʧɪn?],A0_L42_S62.mp3
+63,Он боялся?,Was he afraid?,[wɒz hi: əˈfreɪd?],A0_L42_S63.mp3
+64,Она действительно боялась?,Was she really afraid?,[wɒz ʃi: ˈrɪəli əˈfreɪd?],A0_L42_S64.mp3
+65,Они боялись?,Were they afraid?,[wɜ: ðeɪ əˈfreɪd?],A0_L42_S65.mp3
+66,Он был в гостиной?,Was he in the living room?,[wɒz hi: ɪn ðə ˈlɪvɪŋ ru:m?],A0_L42_S66.mp3
+67,Ты был в театре?,Were you in the theatre?,[wɜ: ju: ɪn ðə ˈθɪətə?],A0_L42_S67.mp3
+68,Ты был в зоопарке?,Were you in the zoo?,[wɜ: ju: ɪn ðə zu:?],A0_L42_S68.mp3
+69,Он был в своем саду?,Was he in his garden?,[wɒz hi: ɪn hɪz ˈgɑ:dn?],A0_L42_S69.mp3
+70,Это была хорошая еда?,Was it good food?,[wɒz ɪt gʊd fu:d?],A0_L42_S70.mp3
+71,Они были хорошими друзьями?,Were they good friends?,[wɜ: ðeɪ gʊd frendz?],A0_L42_S71.mp3
+72,Ты был в отпуске на прошлой неделе?,Were you on holiday last week?,[wɜ: ju: ɒn ˈhɒlədeɪ lɑ:st wi:k?],A0_L42_S72.mp3
+73,Они были в отпуске в прошлом году?,Were they on holiday last year?,[wɜ: ðeɪ ɒn ˈhɒlədeɪ lɑ:st jɪə?],A0_L42_S73.mp3
+74,Он был дома на прошлой неделе?,Was he at home last week?,[wɒz hi: æt həʊm lɑ:st wi:k?],A0_L42_S74.mp3
+75,Это был правильный ответ?,Was it the right answer?,[wɒz ɪt ðə raɪt ˈɑ:nsə?],A0_L42_S75.mp3
+76,Это был правильный вопрос?,Was it the right question?,[wɒz ɪt ðə raɪt ˈkwesʧən?],A0_L42_S76.mp3
+77,Они были хорошими работниками?,Were they good workers?,[wɜ: ðeɪ gʊd ˈwɜ:kəz?],A0_L42_S77.mp3
+78,Он был хорошим тренером?,Was he a good trainer?,[wɒz hi: ə gʊd ˈtreɪnə?],A0_L42_S78.mp3
+79,Мы были хорошими учителями?,Were we good teachers?,[wɜ: wi: gʊd ˈti:ʧəz?],A0_L42_S79.mp3
+80,Это было слишком легко для тебя?,Was it too easy for you?,[wɒz ɪt tu: ˈi:zi fɔ: ju:?],A0_L42_S80.mp3
+81,Она была в театре?,Was she in the theatre?,[wɒz ʃi: ɪn ðə ˈθɪətə?],A0_L42_S81.mp3
+82,Ты рад был своим результатом?,Were you happy about your result?,[wɜ: ju: ˈhæpi əˈbaʊt jɔ: rɪˈzʌlt?],A0_L42_S82.mp3
+83,Она была в отпуске?,Was she on holiday?,[wɒz ʃi: ɒn ˈhɒlədeɪ?],A0_L42_S83.mp3
+84,Ты был уставшим?,Were you tired?,[wɜ: ju: ˈtaɪəd?],A0_L42_S84.mp3
+85,Вы часто были вместе?,Were you often together?,[wɜ: ju: ˈɒfn təˈgeðə?],A0_L42_S85.mp3
+86,Это было дешево или нет?,Was it cheap or not?,[wɒz ɪt ʧi:p ɔ: nɒt?],A0_L42_S86.mp3
+87,Она была в музее вчера?,Was she in the museum yesterday?,[wɒz ʃi: ɪn ðə mju:ˈzɪəm ˈjestədeɪ?],A0_L42_S87.mp3
+88,Ты был в саду?,Were you in the garden?,[wɜ: ju: ɪn ðə ˈgɑ:dn?],A0_L42_S88.mp3
+89,Это было рядом с этим местом?,Was it near this place?,[wɒz ɪt nɪə ðɪs pleɪs?],A0_L42_S89.mp3
+90,Ты был готов к этому?,Were you ready for it?,[wɜ: ju: ˈredi fɔ: ɪt?],A0_L42_S90.mp3
+91,Это было далеко отсюда?,Was it far from here?,[wɒz ɪt fɑ: frɒm hɪə?],A0_L42_S91.mp3
+92,Ты был в аэропорту?,Were you at the airport?,[wɜ: ju: æt ði ˈeəpɔ:t?],A0_L42_S92.mp3
+93,Это было эффективно или нет?,Was it effective or not?,[wɒz ɪt ɪˈfektɪv ɔ: nɒt?],A0_L42_S93.mp3
+94,Ты был в ванной?,Were you in the bathroom?,[wɜ: ju: ɪn ðə ˈbɑ:θru:m?],A0_L42_S94.mp3

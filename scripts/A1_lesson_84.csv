@@ -1,0 +1,104 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Где он остановился?,Where did he stay?,[weə dɪd hi: steɪ?],A1_L84_S2.mp3
+3,Где он был?,Where was he?,[weə wɒz hi:?],A1_L84_S3.mp3
+4,Почему ты был дома вчера?,Why were you at home yesterday?,[waɪ wɜ: ju: æt həʊm ˈjestədeɪ?],A1_L84_S4.mp3
+5,Когда ты родился?,When were you born?,[wen wɜ: ju: bɔ:n?],A1_L84_S5.mp3
+6,Как ты обычно отдыхал летом?,How did you usually have a rest in summer?,[haʊ dɪd ju: ˈju:ʒʊəli hæv ə rest ɪn ˈsʌmə?],A1_L84_S6.mp3
+7,Кому ты звонил?,Who did you call?,[hu: dɪd ju: kɔ:l?],A1_L84_S7.mp3
+8,Как прошел твой отпуск?,How was your vacation?,[haʊ wɒz jɔ: vəˈkeɪʃən?],A1_L84_S8.mp3
+9,Насколько интересным был урок?,How interesting was the lesson?,[haʊ ˈɪntrɪstɪŋ wɒz ðə ˈlesn?],A1_L84_S9.mp3
+10,Насколько эффективным был курс?,How effective was the course?,[haʊ ɪˈfektɪv wɒz ðə kɔ:s?],A1_L84_S10.mp3
+11,Насколько это было дорого?,How expensive was it?,[haʊ ɪksˈpensɪv wɒz ɪt?],A1_L84_S11.mp3
+12,Когда был твой день рождения?,When was your birthday?,[wen wɒz jɔ: ˈbɜ:θdeɪ?],A1_L84_S12.mp3
+13,Ты путешествовал на самолете?,Did you travel by plane?,[dɪd ju: ˈtrævl baɪ pleɪn?],A1_L84_S13.mp3
+14,Почему ты выбрал эту профессию?,Why did you choose this profession?,[waɪ dɪd ju: ʧu:z ðɪs prəˈfeʃən?],A1_L84_S14.mp3
+15,Почему ты установил эту программу?,Why did you install this program?,[waɪ dɪd ju: ɪnˈstɔ:l ðɪs ˈprəʊgræm?],A1_L84_S15.mp3
+16,Что он делал на прошлых выходных?,What did he do last weekend?,[wɒt dɪd hi: du: lɑ:st wi:kˈend?],A1_L84_S16.mp3
+17,Ты путешествовал на поезде?,Did you travel by train?,[dɪd ju: ˈtrævl baɪ treɪn?],A1_L84_S17.mp3
+18,Они также проинформировали тебя?,Did they also inform you?,[dɪd ðeɪ ˈɔ:lsəʊ ɪnˈfɔ:m ju:?],A1_L84_S18.mp3
+19,Где ты родился?,Where were you born?,[weə wɜ: ju: bɔ:n?],A1_L84_S19.mp3
+20,Кто тебе это сказал?,Who told you it?,[hu: təʊld ju: ɪt?],A1_L84_S20.mp3
+21,Как был фильм?,How was the movie?,[haʊ wɒz ðə ˈmu:vi?],A1_L84_S21.mp3
+22,Кто это сказал?,Who said it?,[hu: sed ɪt?],A1_L84_S22.mp3
+23,Насколько это было дешево?,How cheap was it?,[haʊ ʧi:p wɒz ɪt?],A1_L84_S23.mp3
+24,Как это случилось с тобой?,How did it happen to you?,[haʊ dɪd ɪt ˈhæpən tu: ju:?],A1_L84_S24.mp3
+25,Как прошел твой летний отпуск?,How was your summer vacation?,[haʊ wɒz jɔ: ˈsʌmə vəˈkeɪʃən?],A1_L84_S25.mp3
+26,Как долго длился один урок английского?,How long did one English lesson last?,[haʊ lɒŋ dɪd wʌn ˈɪŋglɪʃ ˈlesn lɑ:st?],A1_L84_S26.mp3
+27,Как прошло интервью?,How was the interview?,[haʊ wɒz ði ˈɪntəvju:?],A1_L84_S27.mp3
+28,Где ты остановился?,Where did you stay?,[weə dɪd ju: steɪ?],A1_L84_S28.mp3
+29,Как ты отпраздновал Новый год?,How did you celebrate New Year?,[haʊ dɪd ju: ˈselɪbreɪt nju: jɪə?],A1_L84_S29.mp3
+30,Насколько глубоким было озеро?,How deep was the lake?,[haʊ di:p wɒz ðə leɪk?],A1_L84_S30.mp3
+31,Насколько хороша была эта рекомендация?,How good was this recommendation?,[haʊ gʊd wɒz ðɪs ˌrekəmenˈdeɪʃən?],A1_L84_S31.mp3
+32,Как прошла игра?,How was the game?,[haʊ wɒz ðə geɪm?],A1_L84_S32.mp3
+33,Ты закончил всю свою работу?,Did you finish all your work?,[dɪd ju: ˈfɪnɪʃ ɔ:l jɔ: wɜ:k?],A1_L84_S33.mp3
+34,Где была твоя сумка?,Where was your bag?,[weə wɒz jɔ: bæg?],A1_L84_S34.mp3
+35,Как ты обычно отдыхал после работы?,How did you usually relax after work?,[haʊ dɪd ju: ˈju:ʒʊəli rɪˈlæks ˈɑ:ftə wɜ:k?],A1_L84_S35.mp3
+36,Что ты делал в прошлое воскресенье?,What did you do last Sunday?,[wɒt dɪd ju: du: lɑ:st ˈsʌndeɪ?],A1_L84_S36.mp3
+37,Как долго ты оставался там?,How long did you stay there?,[haʊ lɒŋ dɪd ju: steɪ ðeə?],A1_L84_S37.mp3
+38,Почему машина сломалась?,Why did the car break down?,[waɪ dɪd ðə kɑ: breɪk daʊn?],A1_L84_S38.mp3
+39,Кто звонил тебе?,Who called [d] you?,[hu: kɔ:ld ju:?],A1_L84_S39.mp3
+40,Как прошла встреча?,How was the meeting?,[haʊ wɒz ðə ˈmi:tɪŋ?],A1_L84_S40.mp3
+41,Почему компьютер сломался?,Why did the computer break down?,[waɪ dɪd ðə kəmˈpju:tə breɪk daʊn?],A1_L84_S41.mp3
+42,Когда случилась эта авария?,When did this accident happen?,[wen dɪd ðɪs ˈæksɪdənt ˈhæpən?],A1_L84_S42.mp3
+43,Насколько он был заинтересован?,How interested was he?,[haʊ ˈɪntrɪstɪd wɒz hi:?],A1_L84_S43.mp3
+44,Кого они проинформировали?,Who did they inform?,[hu: dɪd ðeɪ ɪnˈfɔ:m?],A1_L84_S44.mp3
+45,Почему ты перестал это делать?,Why did you stop doing it?,[waɪ dɪd ju: stɒp ˈdu:ɪŋ ɪt?],A1_L84_S45.mp3
+46,"Ты думал, что это действительно необходимо было сделать?",Did you think that it was really necessary to do it?,[dɪd ju: θɪŋk ðæt ɪt wɒz ˈrɪəli ˈnesɪsəri tu: du: ɪt?],A1_L84_S46.mp3
+47,Что тебе больше всего помогло?,What helped you most of all?,[wɒt helpt ju: məʊst ɒv ɔ:l?],A1_L84_S47.mp3
+48,Что ты решил купить?,What did you decide to buy?,[wɒt dɪd ju: dɪˈsaɪd tu: baɪ?],A1_L84_S48.mp3
+49,Как тебе удалось найти решение этой проблемы?,How did you manage to find a solution to this problem?,[haʊ dɪd ju: ˈmænɪʤ tu: faɪnd ə səˈlu:ʃən tu: ðɪs ˈprɒbləm?],A1_L84_S49.mp3
+50,Почему ты решил сделать это позже?,Why did you decide to do it later?,[waɪ dɪd ju: dɪˈsaɪd tu: du: ɪt ˈleɪtə?],A1_L84_S50.mp3
+51,Почему он сказал тебе не делать этого?,Why did he tell you not to do it?,[waɪ dɪd hi: tel ju: nɒt tu: du: ɪt?],A1_L84_S51.mp3
+52,Почему еда так плохо пахла?,Why did the food smell so bad?,[waɪ dɪd ðə fu:d smel səʊ bæd?],A1_L84_S52.mp3
+53,Сколько предложений ты перевел?,How many sentences did you translate?,[haʊ ˈmeni ˈsentənsɪz dɪd ju: trænsˈleɪt?],A1_L84_S53.mp3
+54,Что она решила не покупать?,What did she decide not to buy?,[wɒt dɪd ʃi: dɪˈsaɪd nɒt tu: baɪ?],A1_L84_S54.mp3
+55,Какие упражнения ты сделал?,What exercises did you do?,[wɒt ˈeksəsaɪzɪz dɪd ju: du:?],A1_L84_S55.mp3
+56,Насколько успешной была операция?,How successful was the operation?,[haʊ səkˈsesfəl wɒz ði ˌɒpəˈreɪʃən?],A1_L84_S56.mp3
+57,Какой отель ты выбрал?,Which hotel did you choose?,[wɪʧ həʊˈtel dɪd ju: ʧu:z?],A1_L84_S57.mp3
+58,Как они разрешили этот конфликт?,How did they resolve this conflict?,[haʊ dɪd ðeɪ rɪˈzɒlv ðɪs ˈkɒnflɪkt?],A1_L84_S58.mp3
+59,Что исчезло?,What disappeared?,[wɒt ˌdɪsəˈpɪəd?],A1_L84_S59.mp3
+60,Почему он предпочел не покупать это?,Why did he prefer not to buy it?,[waɪ dɪd hi: priˈfɜ: nɒt tu: baɪ ɪt?],A1_L84_S60.mp3
+61,Почему он решил не покупать это?,Why did he decide not to buy it?,[waɪ dɪd hi: dɪˈsaɪd nɒt tu: baɪ ɪt?],A1_L84_S61.mp3
+62,Почему ты предпочел не покупать эту вещь?,Why did you prefer not to buy this thing?,[waɪ dɪd ju: priˈfɜ: nɒt tu: baɪ ðɪs θɪŋ?],A1_L84_S62.mp3
+63,Что действительно удивило тебя?,What really surprised you?,[wɒt ˈrɪəli səˈpraɪzd ju:?],A1_L84_S63.mp3
+64,Кто удивил тебя?,Who surprised you?,[hu: səˈpraɪzd ju:?],A1_L84_S64.mp3
+65,Что удивило тебя так сильно?,What surprised you so much?,[wɒt səˈpraɪzd ju: səʊ mʌʧ?],A1_L84_S65.mp3
+66,Почему ты решил начать изучать английский здесь?,Why did you decide to start learning English here?,[waɪ dɪd ju: dɪˈsaɪd tu: stɑ:t ˈlɜ:nɪŋ ˈɪŋglɪʃ hɪə?],A1_L84_S66.mp3
+67,Почему ты решил начать изучать английский язык там?,Why did you decide to start learning English there?,[waɪ dɪd ju: dɪˈsaɪd tu: stɑ:t ˈlɜ:nɪŋ ˈɪŋglɪʃ ðeə?],A1_L84_S67.mp3
+68,Почему ты решил учиться здесь?,Why did you decide to study here?,[waɪ dɪd ju: dɪˈsaɪd tu: ˈstʌdi hɪə?],A1_L84_S68.mp3
+69,Как ты сумел это сделать?,How did you manage to do it?,[haʊ dɪd ju: ˈmænɪʤ tu: du: ɪt?],A1_L84_S69.mp3
+70,Как он это сделал?,How did he do it?,[haʊ dɪd hi: du: ɪt?],A1_L84_S70.mp3
+71,Как ты предпочел это сделать?,How did you prefer to do it?,[haʊ dɪd ju: priˈfɜ: tu: du: ɪt?],A1_L84_S71.mp3
+72,Как он вошел в здание?,How did he enter the building?,[haʊ dɪd hi: ˈentə ðə ˈbɪldɪŋ?],A1_L84_S72.mp3
+73,Когда он вошел в здание?,When did he enter the building?,[wen dɪd hi: ˈentə ðə ˈbɪldɪŋ?],A1_L84_S73.mp3
+74,Как они вошли в здание? …………….…................................................... 75. Кого удивила эта новость? …………….…................................................... 76. Кого больше всего удивила эта новость? …………….…................................................... 77. Кого удивила эта ситуация? …………….…................................................... 78. Как пахла еда? …………….…................................................... 79. Как пахнет эта еда? …………….…................................................... 80. Как пахли эти продукты? …………….…................................................... 81. Как ты сумел решить эту проблему? …………….…................................................... 82. Как тебе удалось решить проблему? …………….…................................................... 83. Когда ему удалось решить эту проблему? …………….…................................................... 84. Сколько стоило платье? …………….…................................................... 85. Сколько стоила эта одежда? …………….…................................................... 86. Сколько стоила эта вещь? …………….…................................................... 8 87. Как ты бросил курить? …………….…................................................... 88. Когда ты бросил курить? …………….…................................................... 89. Когда ты прекратил это делать? …………….…................................................... 90. Сколько времени ты потратил на это? …………….…................................................... 91. Что случилось с тобой? …………….…................................................... 92. Что ты предпочел сделать? …………….…................................................... 93. Почему ты перестал читать эту книгу? …………….…................................................... 94. Почему они исчезли? …………….…................................................... 95. Кого удивило это решение? …………….…................................................... 96. Почему ты начал изучать английский? …………….…................................................... 97. Почему ты начал делать это? …………….…................................................... 98. Как ты поступил в этот университет? …………….…................................................... 99. Почему ты предпочел не делать этого? …………….…................................................... 9 100. Когда ты вошел в комнату? …………….…................................................... 101. Кто исчез? …………….…................................................... 102. Как долго длилась операция? …………….…................................................... 103. Что удивило тебя больше всего? …………….…................................................... 104. Сколько стоило платье? …………….…................................................... 10 Ответы 1. Почему ты выбрал эту профессию?,Why did you choose this profession?,[waɪ dɪd ju: ʧu:z ðɪs prəˈfeʃən?],A1_L84_S74.mp3
+75,Кого удивила эта новость?,Who did this news surprise?,[hu: dɪd ðɪs nju:z səˈpraɪz?],A1_L84_S75.mp3
+76,Кого больше всего удивила эта новость?,Who did this news surprise most of all?,[hu: dɪd ðɪs nju:z səˈpraɪz məʊst ɒv ɔ:l?],A1_L84_S76.mp3
+77,Кого удивила эта ситуация?,Who did this situation surprise?,[hu: dɪd ðɪs ˌsɪtjʊˈeɪʃən səˈpraɪz?],A1_L84_S77.mp3
+78,Как пахла еда?,How did the food smell?,[haʊ dɪd ðə fu:d smel?],A1_L84_S78.mp3
+79,Как пахнет эта еда?,How does this food smell?,[haʊ dʌz ðɪs fu:d smel?],A1_L84_S79.mp3
+80,Как пахли эти продукты?,How did these products smell?,[haʊ dɪd ði:z ˈprɒdʌkts smel?],A1_L84_S80.mp3
+81,Как ты сумел решить эту проблему?,How did you manage to solve this problem?,[haʊ dɪd ju: ˈmænɪʤ tu: sɒlv ðɪs ˈprɒbləm?],A1_L84_S81.mp3
+82,Как тебе удалось решить проблему?,How did you manage to solve the problem?,[haʊ dɪd ju: ˈmænɪʤ tu: sɒlv ðə ˈprɒbləm?],A1_L84_S82.mp3
+83,Когда ему удалось решить эту проблему?,When did he manage to solve this problem?,[wen dɪd hi: ˈmænɪʤ tu: sɒlv ðɪs ˈprɒbləm?],A1_L84_S83.mp3
+84,Сколько стоило платье?,How much did the dress cost?,[haʊ mʌʧ dɪd ðə dres kɒst?],A1_L84_S84.mp3
+85,Сколько стоила эта одежда?,How much did these clothes cost?,[haʊ mʌʧ dɪd ði:z kləʊðz kɒst?],A1_L84_S85.mp3
+86,Сколько стоила эта вещь?,How much did this thing cost?,[haʊ mʌʧ dɪd ðɪs θɪŋ kɒst?],A1_L84_S86.mp3
+87,Как ты бросил курить?,How did you stop smoking?,[haʊ dɪd ju: stɒp ˈsməʊkɪŋ?],A1_L84_S87.mp3
+88,Когда ты бросил курить?,When did you stop smoking?,[wen dɪd ju: stɒp ˈsməʊkɪŋ?],A1_L84_S88.mp3
+89,Когда ты прекратил это делать?,When did you stop doing it?,[wen dɪd ju: stɒp ˈdu:ɪŋ ɪt?],A1_L84_S89.mp3
+90,Сколько времени ты потратил на это?,How much time did you spend on it?,[haʊ mʌʧ taɪm dɪd ju: spend ɒn ɪt?],A1_L84_S90.mp3
+91,Что случилось с тобой?,What happened to you?,[wɒt ˈhæpənd tu: ju:?],A1_L84_S91.mp3
+92,Что ты предпочел сделать?,What did you prefer to do?,[wɒt dɪd ju: priˈfɜ: tu: du:?],A1_L84_S92.mp3
+93,Почему ты перестал читать эту книгу?,Why did you stop reading this book?,[waɪ dɪd ju: stɒp ˈri:dɪŋ ðɪs bʊk?],A1_L84_S93.mp3
+94,Почему они исчезли?,Why did they disappear?,[waɪ dɪd ðeɪ ˌdɪsəˈpɪə?],A1_L84_S94.mp3
+95,Кого удивило это решение?,Who did this decision surprise?,[hu: dɪd ðɪs dɪˈsɪʒən səˈpraɪz?],A1_L84_S95.mp3
+96,Почему ты начал изучать английский?,Why did you start learning English?,[waɪ dɪd ju: stɑ:t ˈlɜ:nɪŋ ˈɪŋglɪʃ?],A1_L84_S96.mp3
+97,Почему ты начал делать это?,Why did you start doing it?,[waɪ dɪd ju: stɑ:t ˈdu:ɪŋ ɪt?],A1_L84_S97.mp3
+98,Как ты поступил в этот университет?,How did you enter this university?,[haʊ dɪd ju: ˈentə ðɪs ˌju:nɪˈvɜ:sɪti?],A1_L84_S98.mp3
+99,Почему ты предпочел не делать этого?,Why did you prefer not to do it?,[waɪ dɪd ju: priˈfɜ: nɒt tu: du: ɪt?],A1_L84_S99.mp3
+100,Когда ты вошел в комнату?,When did you enter the room?,[wen dɪd ju: ˈentə ðə ru:m?],A1_L84_S100.mp3
+101,Кто исчез?,Who disappeared?,[hu: ˌdɪsəˈpɪəd?],A1_L84_S101.mp3
+102,Как долго длилась операция?,How long was the operation?,[haʊ lɒŋ wɒz ði ˌɒpəˈreɪʃən?],A1_L84_S102.mp3
+103,Что удивило тебя больше всего?,What surprised you most of all?,[wɒt səˈpraɪzd ju: məʊst ɒv ɔ:l?],A1_L84_S103.mp3
+104,Сколько стоило платье?,How much was the dress?,[haʊ mʌʧ wɒz ðə dres?],A1_L84_S104.mp3

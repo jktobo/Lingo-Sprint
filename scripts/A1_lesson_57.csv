@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Вода в этой бутылке,The water is in this bottle,[ðə ˈwɔ:tər ɪz ɪn ðɪs ˈbɒtl],A1_L57_S2.mp3
+3,Эта девушка моя подруга,This girl is my friend,[ðɪs gɜ:l ɪz maɪ frend],A1_L57_S3.mp3
+4,Много людей приходит сюда каждый день,Many people come here every day,[ˈmeni ˈpi:pl kʌm hɪər ˈevri deɪ],A1_L57_S4.mp3
+5,Еда свежая,The food is fresh,[ðə fu:d ɪz freʃ],A1_L57_S5.mp3
+6,Игра такая скучная,The game is so boring,[ðə geɪm ɪz səʊ ˈbɔ:rɪŋ],A1_L57_S6.mp3
+7,Книга очень тонкая,The book is very thin,[ðə bʊk ɪz ˈveri θɪn],A1_L57_S7.mp3
+8,Это солнечный день,It is a sunny day,[ɪt ɪz ə ˈsʌni deɪ],A1_L57_S8.mp3
+9,Комната слишком маленькая,The room is too small,[ðə ru:m ɪz tu: smɔ:l],A1_L57_S9.mp3
+10,День такой солнечный,The day is so sunny,[ðə deɪ ɪz səʊ ˈsʌni],A1_L57_S10.mp3
+11,Это маленькая комната,It is a small room,[ɪt ɪz ə smɔ:l ru:m],A1_L57_S11.mp3
+12,Экзамен слишком сложный,The exam is too difficult,[ði ɪgˈzæm ɪz tu: ˈdɪfɪkəlt],A1_L57_S12.mp3
+13,Это тонкая книга,It is a thin book,[ɪt ɪz ə θɪn bʊk],A1_L57_S13.mp3
+14,Это скучная игра,It is a boring game,[ɪt ɪz ə ˈbɔ:rɪŋ geɪm],A1_L57_S14.mp3
+15,Мужчина толстый,The man is fat,[ðə mæn ɪz fæt],A1_L57_S15.mp3
+16,Это очень сложная ситуация,It is a very difficult situation,[ɪt ɪz ə ˈveri ˈdɪfɪkəlt ˌsɪtjʊˈeɪʃən],A1_L57_S16.mp3
+17,Идеи очень интересные,The ideas are very interesting,[ði aɪˈdɪəz ɑ: ˈveri ˈɪntrɪstɪŋ],A1_L57_S17.mp3
+18,Студент очень амбициозен,The student is very ambitious,[ðə ˈstju:dənt ɪz ˈveri æmˈbɪʃəs],A1_L57_S18.mp3
+19,Результаты блестящие,The results are brilliant,[ðə rɪˈzʌlts ɑ: ˈbrɪljənt],A1_L57_S19.mp3
+20,Ситуация очень сложная,The situation is very difficult,[ðə ˌsɪtjʊˈeɪʃən ɪz ˈveri ˈdɪfɪkəlt],A1_L57_S20.mp3
+21,Женщина очень стройная,The woman is very slim,[ðə ˈwʊmən ɪz ˈveri slɪm],A1_L57_S21.mp3
+22,Тест очень простой,The test is very simple,[ðə test ɪz ˈveri ˈsɪmpl],A1_L57_S22.mp3
+23,Путь слишком длинный,The way is too long,[ðə weɪ ɪz tu: lɒŋ],A1_L57_S23.mp3
+24,Это блестящий результат,It's a brilliant result,[ɪts ə ˈbrɪljənt rɪˈzʌlt],A1_L57_S24.mp3
+25,Вопросы очень хорошие,The questions are very good,[ðə ˈkwesʧənz ɑ: ˈveri gʊd],A1_L57_S25.mp3
+26,Студенты очень амбициозны,The students are very ambitious,[ðə ˈstju:dənts ɑ: ˈveri æmˈbɪʃəs],A1_L57_S26.mp3
+27,Урок чрезвычайно полезен,The lesson is extremely useful,[ðə ˈlesn ɪz ɪksˈtri:mli ˈju:sfəl],A1_L57_S27.mp3
+28,Она очень стройная девушка,She's a very slim girl,[ʃi:z ə ˈveri slɪm gɜ:l],A1_L57_S28.mp3
+29,Шутка очень смешная,The joke is very funny,[ðə ʤəʊk ɪz ˈveri ˈfʌni],A1_L57_S29.mp3
+30,Программа действительно скучная,The program is really boring,[ðə ˈprəʊgræm ɪz ˈrɪəli ˈbɔ:rɪŋ],A1_L57_S30.mp3
+31,Видео такие скучные,The videos are so boring,[ðə ˈvɪdɪəʊz ɑ: səʊ ˈbɔ:rɪŋ],A1_L57_S31.mp3
+32,Мужчины очень толстые,The men are very fat,[ðə men ɑ: ˈveri fæt],A1_L57_S32.mp3
+33,Это очень интересная идея,It's a very interesting idea,[ɪts ə ˈveri ˈɪntrɪstɪŋ aɪˈdɪə],A1_L57_S33.mp3
+34,Уроки очень полезны,The lessons are very useful,[ðə ˈlesnz ɑ: ˈveri ˈju:sfəl],A1_L57_S34.mp3
+35,Место такое красивое,The place is so beautiful,[ðə pleɪs ɪz səʊ ˈbju:təfəl],A1_L57_S35.mp3
+36,Результат отличный,The result is excellent,[ðə rɪˈzʌlt ɪz ˈeksələnt],A1_L57_S36.mp3
+37,Ребенок в школе,The child is at school,[ðə ʧaɪld ɪz æt sku:l],A1_L57_S37.mp3
+38,Еда очень вкусная,The food is very tasty,[ðə fu:d ɪz ˈveri ˈteɪsti],A1_L57_S38.mp3
+39,Это дождливый день,It's a rainy day,[ɪts ə ˈreɪni deɪ],A1_L57_S39.mp3
+40,Путь очень короткий,The way is very short,[ðə weɪ ɪz ˈveri ʃɔ:t],A1_L57_S40.mp3
+41,День дождливый,The day is rainy,[ðə deɪ ɪz ˈreɪni],A1_L57_S41.mp3
+42,Видео такое неинформативное,The video is so uninformative,[ðə ˈvɪdɪəʊ ɪz səʊ ˌʌnɪnˈfɔ:mətɪv],A1_L57_S42.mp3
+43,Это очень простой тест,It's a very simple test,[ɪts ə ˈveri ˈsɪmpl test],A1_L57_S43.mp3
+44,Цена слишком высокая,The price is too high,[ðə praɪs ɪz tu: haɪ],A1_L57_S44.mp3
+45,Это очень красивая церковь,It is a very beautiful church,[ɪt ɪz ə ˈveri ˈbju:təfəl ʧɜ:ʧ],A1_L57_S45.mp3
+46,Женщины очень стройные,The women are very slim,[ðə ˈwɪmɪn ɑ: ˈveri slɪm],A1_L57_S46.mp3
+47,"Я думаю, что настоящее счастье намного больше, чем просто деньги",I think that real happiness is much more than just money,[aɪ θɪŋk ðæt rɪəl ˈhæpɪnɪs ɪz mʌʧ mɔ: ðæn ʤʌst ˈmʌni],A1_L57_S47.mp3
+48,Он очень амбициозный студент,He is a very ambitious student,[hi: ɪz ə ˈveri æmˈbɪʃəs ˈstju:dənt],A1_L57_S48.mp3
+49,У тебя блестящие идеи как всегда,You have brilliant ideas as always,[ju: hæv ˈbrɪljənt aɪˈdɪəz æz ˈɔ:lweɪz],A1_L57_S49.mp3
+50,"Многие люди говорят, что здоровье важнее денег",Many people say that health is more important than money,[ˈmeni ˈpi:pl seɪ ðæt helθ ɪz mɔ: ɪmˈpɔ:tənt ðæn ˈmʌni],A1_L57_S50.mp3
+51,Он очень опытный учитель,He's a very experienced teacher,[hi:z ə ˈveri ɪksˈpɪərɪənst ˈti:ʧə],A1_L57_S51.mp3
+52,Дорога пустая,The road is empty,[ðə rəʊd ɪz ˈempti],A1_L57_S52.mp3
+53,"Я вижу, ты полон энтузиазма",I see you're full of enthusiasm,[aɪ si: jʊə fʊl ɒv ɪnˈθju:zɪæzm],A1_L57_S53.mp3
+54,Это очень узкая улица,It's a very narrow street,[ɪts ə ˈveri ˈnærəʊ stri:t],A1_L57_S54.mp3
+55,Дети в кровати,The children are in bed,[ðə ˈʧɪldrən ɑ: ɪn bed],A1_L57_S55.mp3
+56,Земля круглая,The Earth is round,[ði ɜ:θ ɪz raʊnd],A1_L57_S56.mp3
+57,Еда вкусная,The food is delicious,[ðə fu:d ɪz dɪˈlɪʃəs],A1_L57_S57.mp3
+58,Она очень опытный врач,She's a very experienced doctor,[ʃi:z ə ˈveri ɪksˈpɪərɪənst ˈdɒktə],A1_L57_S58.mp3
+59,Церковь очень красивая,The church is very beautiful,[ðə ʧɜ:ʧ ɪz ˈveri ˈbju:təfəl],A1_L57_S59.mp3
+60,Ребенок в кровати,The baby is in bed,[ðə ˈbeɪbi ɪz ɪn bed],A1_L57_S60.mp3
+61,Ребенок лежит в кровати,The baby lies in bed,[ðə ˈbeɪbi laɪz ɪn bed],A1_L57_S61.mp3
+62,Этот ребенок в кровати,This baby is in bed,[ðɪs ˈbeɪbi ɪz ɪn bed],A1_L57_S62.mp3
+63,Стакан пустой,The glass is empty,[ðə glɑ:s ɪz ˈempti],A1_L57_S63.mp3
+64,Мой стакан пустой,My glass is empty,[maɪ glɑ:s ɪz ˈempti],A1_L57_S64.mp3
+65,Этот стакан пустой,This glass is empty,[ðɪs glɑ:s ɪz ˈempti],A1_L57_S65.mp3
+66,"Я вижу, что ты очень опытный",I see that you are very experienced,[aɪ si: ðæt ju: ɑ: ˈveri ɪksˈpɪərɪənst],A1_L57_S66.mp3
+67,"Я вижу, что они очень опытные",I see that they are very experienced,[aɪ si: ðæt ðeɪ ɑ: ˈveri ɪksˈpɪərɪənst],A1_L57_S67.mp3
+68,"Я знаю, что она очень опытная",I know that she is very experienced,[aɪ nəʊ ðæt ʃi: ɪz ˈveri ɪksˈpɪərɪənst],A1_L57_S68.mp3
+69,Это неинформативное видео,It's an uninformative video,[ɪts ən ˌʌnɪnˈfɔ:mətɪv ˈvɪdɪəʊ],A1_L57_S69.mp3
+70,Это информативное видео,It's an informative video,[ɪts ən ɪnˈfɔ:mətɪv ˈvɪdɪəʊ],A1_L57_S70.mp3
+71,Это неинформативный урок,It's an uninformative lesson,[ɪts ən ˌʌnɪnˈfɔ:mətɪv ˈlesn],A1_L57_S71.mp3
+72,Это пустая бутылка,It is an empty bottle,[ɪt ɪz ən ˈempti ˈbɒtl],A1_L57_S72.mp3
+73,Это пустой стакан,It is an empty glass,[ɪt ɪz ən ˈempti glɑ:s],A1_L57_S73.mp3
+74,"Это полная бутылка …………….…................................................... 75. Счастье - больше, чем деньги …………….…................................................... 76. Счастье - это действительно больше, чем деньги …………….…................................................... 77. Работа полна ошибок …………….…................................................... 78. Эта работа полна ошибок …………….…................................................... 79. Эти документы полны ошибок …………….…................................................... 80. Те дети в кровати …………….…................................................... 81. Он очень профессиональный врач …………….…................................................... 82. Они очень профессиональные врачи …………….…................................................... 83. Он очень хороший врач …………….…................................................... 84. Любовь - это прекрасное чувство …………….…................................................... 85. Любовь - это хорошее чувство …………….…................................................... 86. Любовь - это действительно прекрасное чувство …………….…................................................... 8 87. Полиция там …………….…................................................... 88. Дети дома …………….…................................................... 89. Деньги - больше, чем бумага …………….…................................................... 90. Это широкая улица …………….…................................................... 91. Я знаю, что компьютеры очень старые …………….…................................................... 92. Дорога полна машинами …………….…................................................... 93. Улица очень узкая …………….…................................................... 94. Текст сложный для понимания …………….…................................................... 95. Это чрезвычайно полезный урок …………….…................................................... 96. Ответ очевиден …………….…................................................... 97. Я полон энергии …………….…................................................... 98. Это старая машина 99. Эта улица очень широкая …………….…................................................... 9 100. Они очень опытные работники …………….…................................................... 101. Полиция здесь …………….…................................................... 10 Ответы 1. Ребенок дома",The child is at home,[ðə ʧaɪld ɪz æt həʊm],A1_L57_S74.mp3
+75,"Счастье - больше, чем деньги",Happiness is more than money,[ˈhæpɪnɪs ɪz mɔ: ðæn ˈmʌni],A1_L57_S75.mp3
+76,"Счастье - это действительно больше, чем деньги",Happiness is really more than money,[ˈhæpɪnɪs ɪz ˈrɪəli mɔ: ðæn ˈmʌni],A1_L57_S76.mp3
+77,Работа полна ошибок,The work is full of mistakes,[ðə wɜ:k ɪz fʊl ɒv mɪsˈteɪks],A1_L57_S77.mp3
+78,Эта работа полна ошибок,This work is full of mistakes,[ðɪs wɜ:k ɪz fʊl ɒv mɪsˈteɪks],A1_L57_S78.mp3
+79,Эти документы полны ошибок,These documents are full of mistakes,[ði:z ˈdɒkjʊmənts ɑ: fʊl ɒv mɪsˈteɪks],A1_L57_S79.mp3
+80,Те дети в кровати,Those children are in bed,[ðəʊz ˈʧɪldrən ɑ: ɪn bed],A1_L57_S80.mp3
+81,Он очень профессиональный врач,He is a very professional doctor,[hi: ɪz ə ˈveri prəˈfeʃənl ˈdɒktə],A1_L57_S81.mp3
+82,Они очень профессиональные врачи,They are very professional doctors,[ðeɪ ɑ: ˈveri prəˈfeʃənl ˈdɒktəz],A1_L57_S82.mp3
+83,Он очень хороший врач,He is a very good doctor,[hi: ɪz ə ˈveri gʊd ˈdɒktə],A1_L57_S83.mp3
+84,Любовь - это прекрасное чувство,Love is a wonderful feeling,[lʌv ɪz ə ˈwʌndəfəl ˈfi:lɪŋ],A1_L57_S84.mp3
+85,Любовь - это хорошее чувство,Love is a good feeling,[lʌv ɪz ə gʊd ˈfi:lɪŋ],A1_L57_S85.mp3
+86,Любовь - это действительно прекрасное чувство,Love is a really wonderful feeling,[lʌv ɪz ə ˈrɪəli ˈwʌndəfəl ˈfi:lɪŋ],A1_L57_S86.mp3
+87,Полиция там,The police are there,[ðə pəˈli:s ɑ: ðeə],A1_L57_S87.mp3
+88,Дети дома,The children are at home,[ðə ˈʧɪldrən ɑ: æt həʊm],A1_L57_S88.mp3
+89,"Деньги - больше, чем бумага",Money is more than paper,[ˈmʌni ɪz mɔ: ðæn ˈpeɪpə],A1_L57_S89.mp3
+90,Это широкая улица,It is a wide street,[ɪt ɪz ə waɪd stri:t],A1_L57_S90.mp3
+91,"Я знаю, что компьютеры очень старые",I know that the computers are very old,[aɪ nəʊ ðæt ðə kəmˈpju:təz ɑ: ˈveri əʊld],A1_L57_S91.mp3
+92,Дорога полна машинами,The road is full of cars,[ðə rəʊd ɪz fʊl ɒv kɑ:z],A1_L57_S92.mp3
+93,Улица очень узкая,The street is very narrow,[ðə stri:t ɪz ˈveri ˈnærəʊ],A1_L57_S93.mp3
+94,Текст сложный для понимания,The text is difficult for understanding,[ðə tekst ɪz ˈdɪfɪkəlt fɔ:r ˌʌndəˈstændɪŋ],A1_L57_S94.mp3
+95,Это чрезвычайно полезный урок,It is an extremely useful lesson,[ɪt ɪz ən ɪksˈtri:mli ˈju:sfəl ˈlesn],A1_L57_S95.mp3
+96,Ответ очевиден,The answer is obvious,[ði ˈɑ:nsər ɪz ˈɒbvɪəs],A1_L57_S96.mp3
+97,Я полон энергии,I'm full of energy,[aɪm fʊl ɒv ˈenəʤi],A1_L57_S97.mp3
+98,Это старая машина,It's an old car,[ɪts ən əʊld kɑ:],A1_L57_S98.mp3
+99,Эта улица очень широкая,This street is very wide,[ðɪs stri:t ɪz ˈveri waɪd],A1_L57_S99.mp3
+100,Они очень опытные работники,They're very experienced workers,[ðeə ˈveri ɪksˈpɪərɪənst ˈwɜ:kəz],A1_L57_S100.mp3
+101,Полиция здесь,The police are here,[ðə pəˈli:s ɑ: hɪə],A1_L57_S101.mp3

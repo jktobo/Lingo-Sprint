@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Эта ошибка больше,This mistake is bigger,[ðɪs mɪsˈteɪk ɪz ˈbɪgə],A2_L136_S2.mp3
+3,Это самый длинный путь,It’s the longest way,[ɪts ðə ˈlɒŋgɪst weɪ],A2_L136_S3.mp3
+4,Это самая большая ошибка,It is the biggest mistake,[ɪt ɪz ðə ˈbɪgɪst mɪsˈteɪk],A2_L136_S4.mp3
+5,Этот метод более эффективный,This method is more effective,[ðɪs ˈmeθəd ɪz mɔ: ɪˈfektɪv],A2_L136_S5.mp3
+6,Это самый эффективный метод,It’s the most effective method,[ɪts ðə məʊst ɪˈfektɪv ˈmeθəd],A2_L136_S6.mp3
+7,Это наименее интересная вещь для нас,It is the least interesting thing for us,[ɪt ɪz ðə li:st ˈɪntrɪstɪŋ θɪŋ fɔ: ʌs],A2_L136_S7.mp3
+8,Этот хлеб дешевле,This bread is cheaper,[ðɪs bred ɪz ˈʧi:pə],A2_L136_S8.mp3
+9,Это самые дорогие часы в этом магазине,It is the most expensive watch in this store,[ɪt ɪz ðə məʊst ɪksˈpensɪv wɒʧ ɪn ðɪs stɔ:],A2_L136_S9.mp3
+10,Он знает меньше,He knows less,[hi: nəʊz les],A2_L136_S10.mp3
+11,Мой компьютер более мощный,My computer is more powerful,[maɪ kəmˈpju:tər ɪz mɔ: ˈpaʊəfəl],A2_L136_S11.mp3
+12,Этот курс более эффективен,This course is more effective,[ðɪs kɔ:s ɪz mɔ: ɪˈfektɪv],A2_L136_S12.mp3
+13,Мы можем обсуждать это дальше,We can discuss it further,[wi: kæn dɪsˈkʌs ɪt ˈfɜ:ðə],A2_L136_S13.mp3
+14,Эти цифры являются более точными,These figures are more exact,[ði:z ˈfɪgəz ɑ: mɔ: ɪgˈzækt],A2_L136_S14.mp3
+15,Это место намного тише,This place is much quieter,[ðɪs pleɪs ɪz mʌʧ ˈkwaɪətə],A2_L136_S15.mp3
+16,Он более трудолюбивый,He is more hardworking,[hi: ɪz mɔ: ˈhɑ:dˌwɜ:kɪŋ],A2_L136_S16.mp3
+17,Ты можешь связаться с нами для дальнейшей информации,You can contact us for further information,[ju: kæn ˈkɒntækt ʌs fɔ: ˈfɜ:ðər ˌɪnfəˈmeɪʃən],A2_L136_S17.mp3
+18,Эта вещь важнее,This thing is more important,[ðɪs θɪŋ ɪz mɔ: ɪmˈpɔ:tənt],A2_L136_S18.mp3
+19,Это предложение является более привлекательным,This offer is more attractive,[ðɪs ˈɒfər ɪz mɔ: əˈtræktɪv],A2_L136_S19.mp3
+20,Это наименее важная вещь,It's the least important thing,[ɪts ðə li:st ɪmˈpɔ:tənt θɪŋ],A2_L136_S20.mp3
+21,Это место намного дальше,This place is much further,[ðɪs pleɪs ɪz mʌʧ ˈfɜ:ðə],A2_L136_S21.mp3
+22,Этот отель дешевле,This hotel is cheaper,[ðɪs həʊˈtel ɪz ˈʧi:pə],A2_L136_S22.mp3
+23,Это приложение лучше,This application is better,[ðɪs ˌæplɪˈkeɪʃn ɪz ˈbetə],A2_L136_S23.mp3
+24,Этот отель лучше,This hotel is better,[ðɪs həʊˈtel ɪz ˈbetə],A2_L136_S24.mp3
+25,Этот хлеб намного дешевле,That bread is much cheaper,[ðæt bred ɪz mʌʧ ˈʧi:pə],A2_L136_S25.mp3
+26,Эти билеты гораздо дешевле,These tickets are much cheaper,[ði:z ˈtɪkɪts ɑ: mʌʧ ˈʧi:pə],A2_L136_S26.mp3
+27,Это была лучшая цена,It was the best price,[ɪt wɒz ðə best praɪs],A2_L136_S27.mp3
+28,Тот фильм менее интересный,That movie is less interesting,[ðæt ˈmu:vi ɪz les ˈɪntrɪstɪŋ],A2_L136_S28.mp3
+29,Это самая информативная статья,It is the most informative article,[ɪt ɪz ðə məʊst ɪnˈfɔ:mətɪv ˈɑ:tɪkl],A2_L136_S29.mp3
+30,Эта организация более мощная,This organization is more powerful,[ðɪs ˌɔ:gənaɪˈzeɪʃən ɪz mɔ: ˈpaʊəfəl],A2_L136_S30.mp3
+31,Эта музыка намного громче,This music is much louder,[ðɪs ˈmju:zɪk ɪz mʌʧ ˈlaʊdə],A2_L136_S31.mp3
+32,Это самая важная вещь,It's the most important thing,[ɪts ðə məʊst ɪmˈpɔ:tənt θɪŋ],A2_L136_S32.mp3
+33,Это самая длинная река в мире,It is the longest river in the world,[ɪt ɪz ðə ˈlɒŋgɪst ˈrɪvər ɪn ðə wɜ:ld],A2_L136_S33.mp3
+34,Это лучшая цена,It's the best price,[ɪts ðə best praɪs],A2_L136_S34.mp3
+35,Это самый высокий небоскреб в мире,It's the highest skyscraper in the world,[ɪts ðə ˈhaɪɪst ˈskaɪˌskreɪpər ɪn ðə wɜ:ld],A2_L136_S35.mp3
+36,То здание дальше,That building is further,[ðæt ˈbɪldɪŋ ɪz ˈfɜ:ðə],A2_L136_S36.mp3
+37,Те цифры менее точные,Those figures are less exact,[ðəʊz ˈfɪgəz ɑ: les ɪgˈzækt],A2_L136_S37.mp3
+38,"Кейт моложе, чем Том",Kate is younger than Tom,[keɪt ɪz ˈjʌŋə ðæn tɒm],A2_L136_S38.mp3
+39,Эта цена ниже,That price is lower,[ðæt praɪs ɪz ˈləʊə],A2_L136_S39.mp3
+40,Эта мебель более модная,This furniture is more fashionable,[ðɪs ˈfɜ:nɪʧər ɪz mɔ: ˈfæʃnəbl],A2_L136_S40.mp3
+41,Это действительно лучше,It is really better,[ɪt ɪz ˈrɪəli ˈbetə],A2_L136_S41.mp3
+42,Этот уровень выше,This level is higher,[ðɪs ˈlevl ɪz ˈhaɪə],A2_L136_S42.mp3
+43,Этот тест намного сложнее,That test is much more difficult,[ðæt test ɪz mʌʧ mɔ: ˈdɪfɪkəlt],A2_L136_S43.mp3
+44,Этот мужчина сильнее,That man is stronger,[ðæt mæn ɪz ˈstrɒŋgə],A2_L136_S44.mp3
+45,Этот путь намного короче,This way is much shorter,[ðɪs weɪ ɪz mʌʧ ˈʃɔ:tə],A2_L136_S45.mp3
+46,Это самая высокая гора в мире,It's the highest mountain in the world,[ɪts ðə ˈhaɪɪst ˈmaʊntɪn ɪn ðə wɜ:ld],A2_L136_S46.mp3
+47,Уроки становятся более и более интересными,The lessons are getting more and more interesting,[ðə ˈlesnz ɑ: ˈgetɪŋ mɔ: ænd mɔ: ˈɪntrɪstɪŋ],A2_L136_S47.mp3
+48,"Я думаю, это самое красивое место в мире",I think it's the most beautiful place in the world,[aɪ θɪŋk ɪts ðə məʊst ˈbju:təfəl pleɪs ɪn ðə wɜ:ld],A2_L136_S48.mp3
+49,"Он знает это лучше, чем я",He knows it better than me,[hi: nəʊz ɪt ˈbetə ðæn mi:],A2_L136_S49.mp3
+50,"Определенно, эта вещь намного важнее","Definitely, this thing is much more important","[ˈdefɪnɪtli, ðɪs θɪŋ ɪz mʌʧ mɔ: ɪmˈpɔ:tənt]",A2_L136_S50.mp3
+51,Он самый талантливый мальчик в нашей группе,He is the most talented boy in our group,[hi: ɪz ðə məʊst ˈtæləntɪd bɔɪ ɪn ˈaʊə gru:p],A2_L136_S51.mp3
+52,"Говорят, что рай гораздо красивее, чем люди могут себе представить",It is said that paradise is much more beautiful than people can imagine,[ɪt ɪz sed ðæt ˈpærədaɪs ɪz mʌʧ mɔ: ˈbju:təfəl ðæn ˈpi:pl kæn ɪˈmæʤɪn],A2_L136_S52.mp3
+53,Риски становятся выше и выше,The risks are getting higher and higher,[ðə rɪsks ɑ: ˈgetɪŋ ˈhaɪər ænd ˈhaɪə],A2_L136_S53.mp3
+54,Он мой старший брат,He is my elder brother,[hi: ɪz maɪ ˈeldə ˈbrʌðə],A2_L136_S54.mp3
+55,"Я не думаю, что это сложнее",I don't think that it's more difficult,[aɪ dəʊnt θɪŋk ðæt ɪts mɔ: ˈdɪfɪkəlt],A2_L136_S55.mp3
+56,Качество этого продукта хуже,The quality of this product is worse,[ðə ˈkwɒlɪti ɒv ðɪs ˈprɒdʌkt ɪz wɜ:s],A2_L136_S56.mp3
+57,"Он не думает, что это намного проще",He doesn't think that it's much easier,[hi: dʌznt θɪŋk ðæt ɪts mʌʧ ˈi:zɪə],A2_L136_S57.mp3
+58,Она его младшая сестра,She is his younger sister,[ʃi: ɪz hɪz ˈjʌŋə ˈsɪstə],A2_L136_S58.mp3
+59,Это был лучший день в моей жизни,It was the best day in my life,[ɪt wɒz ðə best deɪ ɪn maɪ laɪf],A2_L136_S59.mp3
+60,Он сделал музыку тише,He made the music quieter,[hi: meɪd ðə ˈmju:zɪk ˈkwaɪətə],A2_L136_S60.mp3
+61,"Определенно, это намного лучше","Definitely, it's much better","[ˈdefɪnɪtli, ɪts mʌʧ ˈbetə]",A2_L136_S61.mp3
+62,"У него больше времени, чем у меня",He has more time than me,[hi: hæz mɔ: taɪm ðæn mi:],A2_L136_S62.mp3
+63,"У него меньше времени, чем у нее",He has less time than her,[hi: hæz les taɪm ðæn hɜ:],A2_L136_S63.mp3
+64,У него много времени,He has much time,[hi: hæz mʌʧ taɪm],A2_L136_S64.mp3
+65,"Его компьютер мощнее, чем их",His computer is more powerful than theirs,[hɪz kəmˈpju:tər ɪz mɔ: ˈpaʊəfəl ðæn ðeəz],A2_L136_S65.mp3
+66,"Эти устройства более мощные, чем их",These devices are more powerful than theirs,[ði:z dɪˈvaɪsɪz ɑ: mɔ: ˈpaʊəfəl ðæn ðeəz],A2_L136_S66.mp3
+67,"Этот компьютер менее мощный, чем твой",This computer is less powerful than yours,[ðɪs kəmˈpju:tər ɪz les ˈpaʊəfəl ðæn jɔ:z],A2_L136_S67.mp3
+68,"Та вещь дороже, чем эта",That thing is more expensive than this one,[ðæt θɪŋ ɪz mɔ: ɪksˈpensɪv ðæn ðɪs wʌn],A2_L136_S68.mp3
+69,"Та вещь менее дорогая, чем другая",That thing is less expensive than another one,[ðæt θɪŋ ɪz les ɪksˈpensɪv ðæn əˈnʌðə wʌn],A2_L136_S69.mp3
+70,Эта вещь дороже?,Is this thing more expensive?,[ɪz ðɪs θɪŋ mɔ: ɪksˈpensɪv?],A2_L136_S70.mp3
+71,То оборудование хуже,That equipment is worse,[ðæt ɪˈkwɪpmənt ɪz wɜ:s],A2_L136_S71.mp3
+72,"Это оборудование хуже, чем твое",This equipment is worse than yours,[ðɪs ɪˈkwɪpmənt ɪz wɜ:s ðæn jɔ:z],A2_L136_S72.mp3
+73,"То оборудование самое лучшее …………….…................................................... 74. Их дом меньше нашего …………….…................................................... 75. Мой дом больше твоего …………….…................................................... 76. Твой дом меньше, чем его? …………….…................................................... 77. Она знает это лучше нас …………….…................................................... 78. Я знаю это лучше …………….…................................................... 79. Она делает это лучше меня …………….…................................................... 80. Где твой старший брат? …………….…................................................... 81. Он старше меня …………….…................................................... 82. Его английский очень хорош, но ее английский лучше …………….…................................................... 83. Мой английский лучше твоего …………….…................................................... 84. Его английский довольно хорош, но мой английский лучше …………….…................................................... 85. Мой друг на два года моложе меня …………….…................................................... 8 86. Мой друг старше меня …………….…................................................... 87. Он ее младший сын …………….…................................................... 88. Моя машина очень надежная, но эта машина лучше …………….…................................................... 89. Моя машина мощная, но ее машина намного мощнее …………….…................................................... 90. Моя машина лучше, чем эта …………….…................................................... 91. Она знает английский лучше, чем он …………….…................................................... 92. Этот автомобиль дешевле, чем тот …………….…................................................... 93. Она на год старше меня …………….…................................................... 94. Она трудолюбивее его …………….…................................................... 95. Я знаю его лучше, чем она …………….…................................................... 96. Этот отель дороже, чем тот …………….…................................................... 97. Этот ресурс менее популярен, чем тот …………….…................................................... 98. Моя сестра на три года старше меня …………….…................................................... 9 99. Это оборудование лучше …………….…................................................... 100. Он живет дальше ее …………….…................................................... 101. В этом месте намного жарче …………….…................................................... 102. Он выше нее …………….…................................................... 103. Здесь теплее …………….…................................................... 104. Определенно, это лучше …………….…................................................... 105. Там холоднее …………….…................................................... 10 Ответы 1. Этот путь длиннее",This way is longer,[ðɪs weɪ ɪz ˈlɒŋgə],A2_L136_S73.mp3
+74,Их дом меньше нашего,Their house is smaller than ours,[ðeə haʊs ɪz ˈsmɔ:lə ðæn ˈaʊəz],A2_L136_S74.mp3
+75,Мой дом больше твоего,My house is bigger than yours,[maɪ haʊs ɪz ˈbɪgə ðæn jɔ:z],A2_L136_S75.mp3
+76,"Твой дом меньше, чем его?",Is your house smaller than his?,[ɪz jɔ: haʊs ˈsmɔ:lə ðæn hɪz?],A2_L136_S76.mp3
+77,Она знает это лучше нас,She knows it better than us,[ʃi: nəʊz ɪt ˈbetə ðæn ʌs],A2_L136_S77.mp3
+78,Я знаю это лучше,I know it better,[aɪ nəʊ ɪt ˈbetə],A2_L136_S78.mp3
+79,Она делает это лучше меня,She does it better than me,[ʃi: dʌz ɪt ˈbetə ðæn mi:],A2_L136_S79.mp3
+80,Где твой старший брат?,Where is your elder brother?,[weər ɪz jɔ: ˈeldə ˈbrʌðə?],A2_L136_S80.mp3
+81,Он старше меня,He is older than me,[hi: ɪz ˈəʊldə ðæn mi:],A2_L136_S81.mp3
+82,"Его английский очень хорош, но ее английский лучше",His English is very good but her English is better,[hɪz ˈɪŋglɪʃ ɪz ˈveri gʊd bʌt hɜ: ˈɪŋglɪʃ ɪz ˈbetə],A2_L136_S82.mp3
+83,Мой английский лучше твоего,My English is better than yours,[maɪ ˈɪŋglɪʃ ɪz ˈbetə ðæn jɔ:z],A2_L136_S83.mp3
+84,"Его английский довольно хорош, но мой английский лучше",His English is quite good but my English is better,[hɪz ˈɪŋglɪʃ ɪz kwaɪt gʊd bʌt maɪ ˈɪŋglɪʃ ɪz ˈbetə],A2_L136_S84.mp3
+85,Мой друг на два года моложе меня,My friend is two years younger than me,[maɪ frend ɪz tu: jɪəz ˈjʌŋə ðæn mi:],A2_L136_S85.mp3
+86,Мой друг старше меня,My friend is older than me,[maɪ frend ɪz ˈəʊldə ðæn mi:],A2_L136_S86.mp3
+87,Он ее младший сын,He is her youngest son,[hi: ɪz hɜ: ˈjʌŋɪst sʌn],A2_L136_S87.mp3
+88,"Моя машина очень надежная, но эта машина лучше",My car is very reliable but this car is better,[maɪ kɑ:r ɪz ˈveri rɪˈlaɪəbl bʌt ðɪs kɑ:r ɪz ˈbetə],A2_L136_S88.mp3
+89,"Моя машина мощная, но ее машина намного мощнее",My car is powerful but her car is much more powerful,[maɪ kɑ:r ɪz ˈpaʊəfəl bʌt hɜ: kɑ:r ɪz mʌʧ mɔ: ˈpaʊəfʊl],A2_L136_S89.mp3
+90,"Моя машина лучше, чем эта",My car is better than this one,[maɪ kɑ:r ɪz ˈbetə ðæn ðɪs wʌn],A2_L136_S90.mp3
+91,"Она знает английский лучше, чем он",She knows English better than him,[ʃi: nəʊz ˈɪŋglɪʃ ˈbetə ðæn hɪm],A2_L136_S91.mp3
+92,"Этот автомобиль дешевле, чем тот",This car is cheaper than that one,[ðɪs kɑ:r ɪz ˈʧi:pə ðæn ðæt wʌn],A2_L136_S92.mp3
+93,Она на год старше меня,She is one year older than me,[ʃi: ɪz wʌn jɪər ˈəʊldə ðæn mi:],A2_L136_S93.mp3
+94,Она трудолюбивее его,She is more hardworking than him,[ʃi: ɪz mɔ: ˈhɑ:dˌwɜ:kɪŋ ðæn hɪm],A2_L136_S94.mp3
+95,"Я знаю его лучше, чем она",I know him better than her,[aɪ nəʊ hɪm ˈbetə ðæn hɜ:],A2_L136_S95.mp3
+96,"Этот отель дороже, чем тот",This hotel is more expensive than that one,[ðɪs həʊˈtel ɪz mɔ: ɪksˈpensɪv ðæn ðæt wʌn],A2_L136_S96.mp3
+97,"Этот ресурс менее популярен, чем тот",This resource is less popular than that one,[ðɪs rɪˈsɔ:s ɪz les ˈpɒpjʊlə ðæn ðæt wʌn],A2_L136_S97.mp3
+98,Моя сестра на три года старше меня,My sister is three years older than me,[maɪ ˈsɪstər ɪz θri: jɪəz ˈəʊldə ðæn mi:],A2_L136_S98.mp3
+99,Это оборудование лучше,This equipment is better,[ðɪs ɪˈkwɪpmənt ɪz ˈbetə],A2_L136_S99.mp3
+100,Он живет дальше ее,He lives further than her,[hi: lɪvz ˈfɜ:ðə ðæn hɜ:],A2_L136_S100.mp3
+101,В этом месте намного жарче,It is much hotter in this place,[ɪt ɪz mʌʧ ˈhɒtər ɪn ðɪs pleɪs],A2_L136_S101.mp3
+102,Он выше нее,He is taller than her,[hi: ɪz ˈtɔ:lə ðæn hɜ:],A2_L136_S102.mp3
+103,Здесь теплее,It is warmer here,[ɪt ɪz ˈwɔ:mə hɪə],A2_L136_S103.mp3
+104,"Определенно, это лучше","Definitely, it is better","[ˈdefɪnɪtli, ɪt ɪz ˈbetə]",A2_L136_S104.mp3
+105,Там холоднее,It is colder there,[ɪt ɪz ˈkəʊldə ðeə],A2_L136_S105.mp3

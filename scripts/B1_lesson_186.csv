@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я чувствую настоящий прогресс после выполнения этих упражнений,I feel real progress after doing these exercises,[aɪ fi:l rɪəl ˈprəʊgrəs ˈɑ:ftə ˈdu:ɪŋ ði:z ˈeksəsaɪzɪz],B1_L186_S2.mp3
+3,Он так устал от этого,He is so tired of it,[hi: ɪz səʊ ˈtaɪəd ɒv ɪt],B1_L186_S3.mp3
+4,Он очень умный человек,He is a very intelligent person,[hi: ɪz ə ˈveri ɪnˈtelɪʤənt ˈpɜ:sn],B1_L186_S4.mp3
+5,У него есть реальная возможность победить,He has a real possibility to win,[hi: hæz ə rɪəl ˌpɒsəˈbɪlɪti tu: wɪn],B1_L186_S5.mp3
+6,Фильм действительно скучный,The movie is really dull,[ðə ˈmu:vi ɪz ˈrɪəli dʌl],B1_L186_S6.mp3
+7,Это такая скучная книга,It is such a dull book,[ɪt ɪz sʌʧ ə dʌl bʊk],B1_L186_S7.mp3
+8,Это такая вкусная еда,It is such tasty food,[ɪt ɪz sʌʧ ˈteɪsti fu:d],B1_L186_S8.mp3
+9,Это была очень вкусная еда,It was a very tasty meal,[ɪt wɒz ə ˈveri ˈteɪsti mi:l],B1_L186_S9.mp3
+10,Рад тебя видеть,Glad to see you,[glæd tu: si: ju:],B1_L186_S10.mp3
+11,Погода сегодня действительно ужасная,The weather is really awful today,[ðə ˈweðər ɪz ˈrɪəli ˈɔ:fəl təˈdeɪ],B1_L186_S11.mp3
+12,Это главная проблема,It is the main problem,[ɪt ɪz ðə meɪn ˈprɒbləm],B1_L186_S12.mp3
+13,Сегодня дождливо,It is rainy today,[ɪt ɪz ˈreɪni təˈdeɪ],B1_L186_S13.mp3
+14,Нож очень острый,The knife is very sharp,[ðə naɪf ɪz ˈveri ʃɑ:p],B1_L186_S14.mp3
+15,Какое элегантное платье!,What an elegant dress!,[wɒt ən ˈelɪgənt dres!],B1_L186_S15.mp3
+16,Он хранит свои деньги в секретном месте,He keeps his money in a secret place,[hi: ki:ps hɪz ˈmʌni ɪn ə ˈsi:krɪt pleɪs],B1_L186_S16.mp3
+17,Она обычно носит очень элегантную одежду,She usually wears very elegant clothes,[ʃi: ˈju:ʒʊəli weəz ˈveri ˈelɪgənt kləʊðz],B1_L186_S17.mp3
+18,Тебе нужно быть более реалистичными,You need to be more realistic,[ju: ni:d tu: bi: mɔ: rɪəˈlɪstɪk],B1_L186_S18.mp3
+19,Ты такой щедрый,You are so generous,[ju: ɑ: səʊ ˈʤenərəs],B1_L186_S19.mp3
+20,Какой ужасный запах!,What an awful smell!,[wɒt ən ˈɔ:fəl smel!],B1_L186_S20.mp3
+21,Он очень опытный работник,He is a very skilful worker,[hi: ɪz ə ˈveri ˈskɪlfəl ˈwɜ:kə],B1_L186_S21.mp3
+22,Завтра будет дождливо,It will be rainy tomorrow,[ɪt wɪl bi: ˈreɪni təˈmɒrəʊ],B1_L186_S22.mp3
+23,Это правда!,That's true!,[ðæts tru:!],B1_L186_S23.mp3
+24,Я успел на последний автобус,I caught the last bus,[aɪ kɔ:t ðə lɑ:st bʌs],B1_L186_S24.mp3
+25,Яблоко спелое?,Is the apple ripe?,[ɪz ði ˈæpl raɪp?],B1_L186_S25.mp3
+26,Я хочу быть реалистом,I want to be realistic,[aɪ wɒnt tu: bi: rɪəˈlɪstɪk],B1_L186_S26.mp3
+27,Я нахожу это здание очень уродливым,I find this building very ugly,[aɪ faɪnd ðɪs ˈbɪldɪŋ ˈveri ˈʌgli],B1_L186_S27.mp3
+28,Эта информация осталась секретной,This information remained secret,[ðɪs ˌɪnfəˈmeɪʃən rɪˈmeɪnd ˈsi:krɪt],B1_L186_S28.mp3
+29,Стол круглый,The table is round,[ðə ˈteɪbl ɪz raʊnd],B1_L186_S29.mp3
+30,Она чувствует себя больной,She feels sick,[ʃi: fi:lz sɪk],B1_L186_S30.mp3
+31,Это вполне рациональное решение,It is quite a rational decision,[ɪt ɪz kwaɪt ə ˈræʃənl dɪˈsɪʒən],B1_L186_S31.mp3
+32,Это великолепная идея,It is a splendid idea,[ɪt ɪz ə ˈsplendɪd aɪˈdɪə],B1_L186_S32.mp3
+33,Почему он такой нетерпеливый?,Why is he so impatient?,[waɪ ɪz hi: səʊ ɪmˈpeɪʃənt?],B1_L186_S33.mp3
+34,У нее голубые глаза и светлые волосы,She has blue eyes and blonde hair,[ʃi: hæz blu: aɪz ænd blɒnd heə],B1_L186_S34.mp3
+35,Какое уродливое здание!,What an ugly building!,[wɒt ən ˈʌgli ˈbɪldɪŋ!],B1_L186_S35.mp3
+36,Нож недостаточно острый,The knife isn't sharp enough,[ðə naɪf ˈɪznt ʃɑ:p ɪˈnʌf],B1_L186_S36.mp3
+37,Она просто маленькая девочка,She is just a little girl,[ʃi: ɪz ʤʌst ə ˈlɪtl gɜ:l],B1_L186_S37.mp3
+38,Плод спелый,The fruit is ripe,[ðə fru:t ɪz raɪp],B1_L186_S38.mp3
+39,Я так рад тебя видеть,I'm so glad to see you,[aɪm səʊ glæd tu: si: ju:],B1_L186_S39.mp3
+40,Небо голубое,The sky is blue,[ðə skaɪ ɪz blu:],B1_L186_S40.mp3
+41,"Я не знаю, правда это или ложь",I don't know whether it's true or false,[aɪ dəʊnt nəʊ ˈweðər ɪts tru: ɔ: fɔ:ls],B1_L186_S41.mp3
+42,Это одна из главных социальных проблем,It is one of the main social problems,[ɪt ɪz wʌn ɒv ðə meɪn ˈsəʊʃəl ˈprɒbləmz],B1_L186_S42.mp3
+43,"Я думаю, что есть простое решение этой проблемы",I think there is a simple solution to this problem,[aɪ θɪŋk ðeər ɪz ə ˈsɪmpl səˈlu:ʃən tu: ðɪs ˈprɒbləm],B1_L186_S43.mp3
+44,"Мне кажется, что существует простое решение той проблемы",It seems to me that a simple solution to that problem exists,[ɪt si:mz tu: mi: ðæt ə ˈsɪmpl səˈlu:ʃən tu: ðæt ˈprɒbləm ɪgˈzɪsts],B1_L186_S44.mp3
+45,"Это общеизвестный факт, что Земля круглая",It's a well-known fact that the Earth is round,[ɪts ə wel- nəʊn fækt ðæt ði ɜ:θ ɪz raʊnd],B1_L186_S45.mp3
+46,У меня есть великолепная возможность попрактиковать свой английский язык здесь,I have a splendid opportunity to practise my English here,[aɪ hæv ə ˈsplendɪd ˌɒpəˈtju:nɪti tu: ˈpræktɪs maɪ ˈɪŋglɪʃ hɪə],B1_L186_S46.mp3
+47,Она устала делать одни и те же вещи снова и снова,She is tired of doing the same things again and again,[ʃi: ɪz ˈtaɪəd ɒv ˈdu:ɪŋ ðə seɪm θɪŋz əˈgen ænd əˈgen],B1_L186_S47.mp3
+48,"Я хочу сказать тебе, что еда там была восхитительной",I want to tell you that the food was delicious there,[aɪ wɒnt tu: tel ju: ðæt ðə fu:d wɒz dɪˈlɪʃəs ðeə],B1_L186_S48.mp3
+49,Он болен неделю,He has been sick for a week,[hi: hæz bi:n sɪk fɔ: ə wi:k],B1_L186_S49.mp3
+50,Ты очень покладистый человек,You are a very easy-going person,[ju: ɑ: ə ˈveri ˈi:zɪˌgəʊɪŋ ˈpɜ:sn],B1_L186_S50.mp3
+51,Большинство моих друзей очень покладисты,Most of my friends are very easy-going,[məʊst ɒv maɪ frendz ɑ: ˈveri ˈi:zɪˌgəʊɪŋ],B1_L186_S51.mp3
+52,Это очень медленный химический процесс,It is a very slow chemical process,[ɪt ɪz ə ˈveri sləʊ ˈkemɪkəl ˈprəʊses],B1_L186_S52.mp3
+53,Я хотел бы отметить следующее,I'd like to point out the following,[aɪd laɪk tu: pɔɪnt aʊt ðə ˈfɒləʊɪŋ],B1_L186_S53.mp3
+54,Позволь мне сказать тебе следующую вещь,Let me tell you the following thing,[let mi: tel ju: ðə ˈfɒləʊɪŋ θɪŋ],B1_L186_S54.mp3
+55,Он слышал это в ежедневных новостях,He heard it in daily news,[hi: hɜ:d ɪt ɪn ˈdeɪli nju:z],B1_L186_S55.mp3
+56,Сейчас так жарко,It is so hot now,[ɪt ɪz səʊ hɒt naʊ],B1_L186_S56.mp3
+57,На улице так холодно,It is so cold outside,[ɪt ɪz səʊ kəʊld ˌaʊtˈsaɪd],B1_L186_S57.mp3
+58,Вчера было так жарко,It was so hot yesterday,[ɪt wɒz səʊ hɒt ˈjestədeɪ],B1_L186_S58.mp3
+59,"Он такой же высокий, как и он",He is as tall as him,[hi: ɪz æz tɔ:l æz hɪm],B1_L186_S59.mp3
+60,"Он не такой высокий, как она",He isn't as tall as her,[hi: ˈɪznt æz tɔ:l æz hɜ:],B1_L186_S60.mp3
+61,"Он так же хорош в теннисе, как и он",He is as good at tennis as him,[hi: ɪz æz gʊd æt ˈtenɪs æz hɪm],B1_L186_S61.mp3
+62,Я полон решимости сделать это,I'm determined to do it,[aɪm dɪˈtɜ:mɪnd tu: du: ɪt],B1_L186_S62.mp3
+63,Я полон решимости купить эту вещь,I'm determined to buy this thing,[aɪm dɪˈtɜ:mɪnd tu: baɪ ðɪs θɪŋ],B1_L186_S63.mp3
+64,Я полон решимости найти решение этой проблемы,I'm determined to find a solution to this problem,[aɪm dɪˈtɜ:mɪnd tu: faɪnd ə səˈlu:ʃən tu: ðɪs ˈprɒbləm],B1_L186_S64.mp3
+65,Он более слабый мальчик,He is a weaker boy,[hi: ɪz ə ˈwi:kə bɔɪ],B1_L186_S65.mp3
+66,Он слабый мальчик,He is a weak boy,[hi: ɪz ə wi:k bɔɪ],B1_L186_S66.mp3
+67,"Он здоровый мальчик …………….…................................................... 68. На улице холодно? …………….…................................................... 69. На улице тепло? …………….…................................................... 70. На улице очень холодно …………….…................................................... 71. Это химический элемент …………….…................................................... 72. Это основной элемент …………….…................................................... 73. Это простой элемент …………….…................................................... 74. Это ежедневная газета …………….…................................................... 75. Это еженедельная газета …………….…................................................... 76. Это ежемесячная газета …………….…................................................... 77. У тебя есть какое-либо свободное время? …………….…................................................... 78. У тебя есть свободное время? …………….…................................................... 8 79. У меня нет никакого свободного времени …………….…................................................... 80. Я вижу, что он умный парень …………….…................................................... 81. Я знаю, что она очень умная девочка …………….…................................................... 82. Я вижу, что он очень образованный человек …………….…................................................... 83. Тот мальчик выше этого …………….…................................................... 84. Тот мальчик моложе этого …………….…................................................... 85. Этот мальчик старше того …………….…................................................... 86. Это самый рациональный способ решения этой проблемы …………….…................................................... 87. Ему действительно надоела эта система образования …………….…................................................... 88. Он самый щедрый человек, которого я когда-либо встречал …………….…................................................... 89. Он жил в Великобритании, когда он был маленьким …………….…................................................... 90. Я полон решимости продолжать делать это …………….…................................................... 9 91. Он становился все более и более нетерпеливым …………….…................................................... 92. Он знает, что это его последний шанс …………….…................................................... 93. Я хочу сказать, что еда вкусная …………….…................................................... 94. На мой взгляд, это лучшее решение этой проблемы …………….…................................................... 95. Ей очень надоела эта ежедневная рутина …………….…................................................... 96. У меня не достаточно свободного времени на это …………….…................................................... 97. Этот человек слабее того …………….…................................................... 98. Это один из самых жарких летних дней …………….…................................................... 99. На мой взгляд, он лучший из лучших …………….…................................................... 100. Насколько холодно сегодня? …………….…................................................... 10 Ответы 1. Рабочие очень опытные",The workers are very skilful,[ðə ˈwɜ:kəz ɑ: ˈveri ˈskɪlfəl],B1_L186_S67.mp3
+68,На улице холодно?,Is it cold outside?,[ɪz ɪt kəʊld ˌaʊtˈsaɪd?],B1_L186_S68.mp3
+69,На улице тепло?,Is it warm outside?,[ɪz ɪt wɔ:m ˌaʊtˈsaɪd?],B1_L186_S69.mp3
+70,На улице очень холодно,It is very cold outside,[ɪt ɪz ˈveri kəʊld ˌaʊtˈsaɪd],B1_L186_S70.mp3
+71,Это химический элемент,It is a chemical element,[ɪt ɪz ə ˈkemɪkəl ˈelɪmənt],B1_L186_S71.mp3
+72,Это основной элемент,It is the main element,[ɪt ɪz ðə meɪn ˈelɪmənt],B1_L186_S72.mp3
+73,Это простой элемент,It is a simple element,[ɪt ɪz ə ˈsɪmpl ˈelɪmənt],B1_L186_S73.mp3
+74,Это ежедневная газета,It is a daily newspaper,[ɪt ɪz ə ˈdeɪli ˈnju:zˌpeɪpə],B1_L186_S74.mp3
+75,Это еженедельная газета,It is a weekly newspaper,[ɪt ɪz ə ˈwi:kli ˈnju:zˌpeɪpə],B1_L186_S75.mp3
+76,Это ежемесячная газета,It is a monthly newspaper,[ɪt ɪz ə ˈmʌnθli ˈnju:zˌpeɪpə],B1_L186_S76.mp3
+77,У тебя есть какое-либо свободное время?,Do you have any spare time?,[du: ju: hæv ˈeni speə taɪm?],B1_L186_S77.mp3
+78,У тебя есть свободное время?,Do you have free time?,[du: ju: hæv fri: taɪm?],B1_L186_S78.mp3
+79,У меня нет никакого свободного времени,I have no spare time,[aɪ hæv nəʊ speə taɪm],B1_L186_S79.mp3
+80,"Я вижу, что он умный парень",I see that he is an intelligent guy,[aɪ si: ðæt hi: ɪz ən ɪnˈtelɪʤənt gaɪ],B1_L186_S80.mp3
+81,"Я знаю, что она очень умная девочка",I know that she is a very smart girl,[aɪ nəʊ ðæt ʃi: ɪz ə ˈveri smɑ:t gɜ:l],B1_L186_S81.mp3
+82,"Я вижу, что он очень образованный человек",I see that he is a very educated person,[aɪ si: ðæt hi: ɪz ə ˈveri ˈedju:keɪtɪd ˈpɜ:sn],B1_L186_S82.mp3
+83,Тот мальчик выше этого,That boy is taller than this one,[ðæt bɔɪ ɪz ˈtɔ:lə ðæn ðɪs wʌn],B1_L186_S83.mp3
+84,Тот мальчик моложе этого,That boy is younger than this one,[ðæt bɔɪ ɪz ˈjʌŋə ðæn ðɪs wʌn],B1_L186_S84.mp3
+85,Этот мальчик старше того,This boy is older than that one,[ðɪs bɔɪ ɪz ˈəʊldə ðæn ðæt wʌn],B1_L186_S85.mp3
+86,Это самый рациональный способ решения этой проблемы,It's the most rational way of solving this problem,[ɪts ðə məʊst ˈræʃənl weɪ ɒv ˈsɒlvɪŋ ðɪs ˈprɒbləm],B1_L186_S86.mp3
+87,Ему действительно надоела эта система образования,He is really bored with this system of education,[hi: ɪz ˈrɪəli bɔ:d wɪð ðɪs ˈsɪstɪm ɒv ˌedju:ˈkeɪʃən],B1_L186_S87.mp3
+88,"Он самый щедрый человек, которого я когда-либо встречал",He is the most generous person I have ever met,[hi: ɪz ðə məʊst ˈʤenərəs ˈpɜ:sn aɪ hæv ˈevə met],B1_L186_S88.mp3
+89,"Он жил в Великобритании, когда он был маленьким",He lived in the UK when he was little,[hi: lɪvd ɪn ðə ju:-keɪ wen hi: wɒz ˈlɪtl],B1_L186_S89.mp3
+90,Я полон решимости продолжать делать это,I'm determined to continue doing it,[aɪm dɪˈtɜ:mɪnd tu: kənˈtɪnju: ˈdu:ɪŋ ɪt],B1_L186_S90.mp3
+91,Он становился все более и более нетерпеливым,He was becoming more and more impatient,[hi: wɒz bɪˈkʌmɪŋ mɔ: ænd mɔ: ɪmˈpeɪʃənt],B1_L186_S91.mp3
+92,"Он знает, что это его последний шанс",He knows that it is his last chance,[hi: nəʊz ðæt ɪt ɪz hɪz lɑ:st ʧɑ:ns],B1_L186_S92.mp3
+93,"Я хочу сказать, что еда вкусная",I want to say that the food is delicious,[aɪ wɒnt tu: seɪ ðæt ðə fu:d ɪz dɪˈlɪʃəs],B1_L186_S93.mp3
+94,"На мой взгляд, это лучшее решение этой проблемы","In my opinion, it is the best solution to this problem","[ɪn maɪ əˈpɪnjən, ɪt ɪz ðə best səˈlu:ʃən tu: ðɪs ˈprɒbləm]",B1_L186_S94.mp3
+95,Ей очень надоела эта ежедневная рутина,She is really bored with this daily routine,[ʃi: ɪz ˈrɪəli bɔ:d wɪð ðɪs ˈdeɪli ru:ˈti:n],B1_L186_S95.mp3
+96,У меня не достаточно свободного времени на это,I don't have enough spare time for it,[aɪ dəʊnt hæv ɪˈnʌf speə taɪm fɔ: ɪt],B1_L186_S96.mp3
+97,Этот человек слабее того,This man is weaker than that one,[ðɪs mæn ɪz ˈwi:kə ðæn ðæt wʌn],B1_L186_S97.mp3
+98,Это один из самых жарких летних дней,It is one of the hottest summer days,[ɪt ɪz wʌn ɒv ðə ˈhɒtɪst ˈsʌmə deɪz],B1_L186_S98.mp3
+99,"На мой взгляд, он лучший из лучших","In my view, he is the best of the best","[ɪn maɪ vju:, hi: ɪz ðə best ɒv ðə best]",B1_L186_S99.mp3
+100,Насколько холодно сегодня?,How cold is it today?,[haʊ kəʊld ɪz ɪt təˈdeɪ?],B1_L186_S100.mp3

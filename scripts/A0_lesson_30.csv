@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Они двигались очень быстро,They moved very quickly,[ðeɪ mu:vd ˈveri ˈkwɪkli],A0_L30_S1.mp3
+2,Она задала мне вопрос,She asked me a question,[ʃi: ɑ:skt mi: ə ˈkwesʧən],A0_L30_S2.mp3
+3,Он сделал несколько ошибок,He made some mistakes,[hi: meɪd sʌm mɪsˈteɪks],A0_L30_S3.mp3
+4,Он ходил в школу,He went to school,[hi: went tu: sku:l],A0_L30_S4.mp3
+5,Я посетил Францию в прошлом году,I visited France last year,[aɪ ˈvɪzɪtɪd ˈfrɑ:ns lɑ:st jɪə],A0_L30_S5.mp3
+6,Я поделился этой информацией со своими коллегами,I shared this information with my colleagues,[aɪ ʃeəd ðɪs ˌɪnfəˈmeɪʃən wɪð maɪ ˈkɒli:gz],A0_L30_S6.mp3
+7,Они двигались очень быстро,They moved very quickly,[ðeɪ mu:vd ˈveri ˈkwɪkli],A0_L30_S7.mp3
+8,Мы часто разговаривали вместе,We often talked together,[wi: ˈɒfn tɔ:kt təˈgeðə],A0_L30_S8.mp3
+9,Он двигался так быстро,He moved so quickly,[hi: mu:vd səʊ ˈkwɪkli],A0_L30_S9.mp3
+10,Она задала мне вопрос,She asked me a question,[ʃi: ɑ:skt mi: ə ˈkwesʧən],A0_L30_S10.mp3
+11,Я часто пользовался интернетом,I often used the Internet,[aɪ ˈɒfn ju:zd ði ˈɪntəˌnet],A0_L30_S11.mp3
+12,Наш урок начался вовремя,Our lesson started on time,[ˈaʊə ˈlesn ˈstɑ:tɪd ɒn taɪm],A0_L30_S12.mp3
+13,Он спас ей жизнь,He saved her life,[hi: seɪvd hɜ: laɪf],A0_L30_S13.mp3
+14,Это мне так сильно помогло,It helped me so much,[ɪt helpt mi: səʊ mʌʧ],A0_L30_S14.mp3
+15,Я посетил Францию в прошлом году,I visited France last year,[aɪ ˈvɪzɪtɪd ˈfrɑ:ns lɑ:st jɪə],A0_L30_S15.mp3
+16,Наш учитель исправил мои ошибки,Our teacher corrected my mistakes,[ˈaʊə ˈti:ʧə kəˈrektɪd maɪ mɪsˈteɪks],A0_L30_S16.mp3
+17,Я учился действительно усердно,I studied really hard,[aɪ ˈstʌdɪd ˈrɪəli hɑ:d],A0_L30_S17.mp3
+18,Этот курс действительно помог мне,This course really helped me,[ðɪs kɔ:s ˈrɪəli helpt mi:],A0_L30_S18.mp3
+19,Мне очень понравилась эта поездка,I really liked this trip,[aɪ ˈrɪəli laɪkt ðɪs trɪp],A0_L30_S19.mp3
+20,Я работал вчера,I worked yesterday,[aɪ wɜ:kt ˈjestədeɪ],A0_L30_S20.mp3
+21,Она прыгнула так высоко,She jumped so high,[ʃi: ʤʌmpt səʊ haɪ],A0_L30_S21.mp3
+22,Это действительно помогло мне,It really helped me,[ɪt ˈrɪəli helpt mi:],A0_L30_S22.mp3
+23,Я посетил Соединенные Штаты два месяца назад,I visited the United States two months ago,[aɪ ˈvɪzɪtɪd ði: jʊˈnaɪtɪd steɪts tu: mʌnθs əˈgəʊ],A0_L30_S23.mp3
+24,Я работал очень усердно,I worked very hard,[aɪ wɜ:kt ˈveri hɑ:d],A0_L30_S24.mp3
+25,Эта вещь мне очень помогла,This thing helped me a lot,[ðɪs θɪŋ helpt mi: ə lɒt],A0_L30_S25.mp3
+26,Те уроки так сильно помогли мне,Those lessons helped me so much,[ðəʊz ˈlesnz helpt mi: səʊ mʌʧ],A0_L30_S26.mp3
+27,Я перезвонил ему,I called him back,[aɪ kɔ:ld hɪm bæk],A0_L30_S27.mp3
+28,Мы сравнили эти цены,We compared these prices,[wi: kəmˈpeəd ði:z ˈpraɪsɪz],A0_L30_S28.mp3
+29,Мне действительно понравилось это приложение,I really liked this app,[aɪ ˈrɪəli laɪkt ðɪs æp],A0_L30_S29.mp3
+30,Мы играли в разные игры,We played different games,[wi: pleɪd ˈdɪfrənt geɪmz],A0_L30_S30.mp3
+31,Он провалил свой экзамен,He failed his exam,[hi: feɪld hɪz ɪgˈzæm],A0_L30_S31.mp3
+32,Она провалила этот тест,She failed this test,[ʃi: feɪld ðɪs test],A0_L30_S32.mp3
+33,Я поделился этим видео с моими друзьями,I shared this video with my friends,[aɪ ʃeəd ðɪs ˈvɪdɪəʊ wɪð maɪ frendz],A0_L30_S33.mp3
+34,Он провалил свой последний экзамен,He failed his last exam,[hi: feɪld hɪz lɑ:st ɪgˈzæm],A0_L30_S34.mp3
+35,Он задал мне несколько вопросов,He asked me some questions,[hi: ɑ:skt mi: sʌm ˈkwesʧənz],A0_L30_S35.mp3
+36,Мне понравилась эта поездка,I liked this trip,[aɪ laɪkt ðɪs trɪp],A0_L30_S36.mp3
+37,Мне действительно нравилась эта тренировка,I really liked this training,[aɪ ˈrɪəli laɪkt ðɪs ˈtreɪnɪŋ],A0_L30_S37.mp3
+38,Я поделился этой ссылкой с моими друзьями,I shared this link with my friends,[aɪ ʃeəd ðɪs lɪŋk wɪð maɪ frendz],A0_L30_S38.mp3
+39,Я сравнил наши результаты,I compared our results,[aɪ kəmˈpeəd ˈaʊə rɪˈzʌlts],A0_L30_S39.mp3
+40,Мне так сильно нравилась эта страна,I liked this country so much,[aɪ laɪkt ðɪs ˈkʌntri səʊ mʌʧ],A0_L30_S40.mp3
+41,Мне все нравилось,I liked everything,[aɪ laɪkt ˈevrɪθɪŋ],A0_L30_S41.mp3
+42,Она посетила Бразилию три месяца назад,She visited Brazil three months ago,[ʃi: ˈvɪzɪtɪd brəˈzɪl θri: mʌnθs əˈgəʊ],A0_L30_S42.mp3
+43,Я исправил эту ошибку,I corrected this mistake,[aɪ kəˈrektɪd ðɪs mɪsˈteɪk],A0_L30_S43.mp3
+44,Ей действительно нравился этот город,She really liked this city,[ʃi: ˈrɪəli laɪkt ðɪs ˈsɪti],A0_L30_S44.mp3
+45,Он прыгнул очень высоко,He jumped very high,[hi: ʤʌmpt ˈveri haɪ],A0_L30_S45.mp3
+46,Он сделал ошибку,He made a mistake,[hi: meɪd ə mɪsˈteɪk],A0_L30_S46.mp3
+47,Я купил немного еды,I bought some food,[aɪ bɔ:t sʌm fu:d],A0_L30_S47.mp3
+48,Я часто делал эти ошибки,I often made these mistakes,[aɪ ˈɒfn meɪd ði:z mɪsˈteɪks],A0_L30_S48.mp3
+49,Она пошла в магазин,She went to the shop,[ʃi: went tu: ðə ʃɒp],A0_L30_S49.mp3
+50,"Она часто говорила, что жила там",She often said that she lived there,[ʃi: ˈɒfn sed ðæt ʃi: lɪvd ðeə],A0_L30_S50.mp3
+51,Он пошел в школу,He went to school,[hi: went tu: sku:l],A0_L30_S51.mp3
+52,Я мог учить английский весь день,I could learn English all day,[aɪ kʊd lɜ:n ˈɪŋglɪʃ ɔ:l deɪ],A0_L30_S52.mp3
+53,Я получил письмо от нее,I got a letter from her,[aɪ gɒt ə ˈletə frɒm hɜ:],A0_L30_S53.mp3
+54,Он получил слишком мало денег там,He got too little money there,[hi: gɒt tu: ˈlɪtl ˈmʌni ðeə],A0_L30_S54.mp3
+55,Он сделал несколько ошибок,He made some mistakes,[hi: meɪd sʌm mɪsˈteɪks],A0_L30_S55.mp3
+56,Я был очень занят,I was very busy,[aɪ wɒz ˈveri ˈbɪzi],A0_L30_S56.mp3
+57,У меня был вопрос,I had a question,[aɪ hæd ə ˈkwesʧən],A0_L30_S57.mp3
+58,Он рассказал мне эту историю,He told me this story,[hi: təʊld mi: ðɪs ˈstɔ:ri],A0_L30_S58.mp3
+59,Мы были действительно счастливы,We were really happy,[wi: wɜ: ˈrɪəli ˈhæpi],A0_L30_S59.mp3
+60,Он купил машину,He bought a car,[hi: bɔ:t ə kɑ:],A0_L30_S60.mp3
+61,Я получил твое письмо,I got your letter,[aɪ gɒt jɔ: ˈletə],A0_L30_S61.mp3
+62,Он получил твое письмо,He got your letter,[hi: gɒt jɔ: ˈletə],A0_L30_S62.mp3
+63,Мы получили письмо от тебя,We got a letter from you,[wi: gɒt ə ˈletə frɒm ju:],A0_L30_S63.mp3
+64,Мы видели много людей там,We saw many people there,[wi: sɔ: ˈmeni ˈpi:pl ðeə],A0_L30_S64.mp3
+65,Они видели много людей тут,They saw many people here,[ðeɪ sɔ: ˈmeni ˈpi:pl hɪə],A0_L30_S65.mp3
+66,Он видел много детей там,He saw many children there,[hi: sɔ: ˈmeni ˈʧɪldrən ðeə],A0_L30_S66.mp3
+67,Я пошел на работу,I went to work,[aɪ went tu: wɜ:k],A0_L30_S67.mp3
+68,Он пошел на работу,He went to work,[hi: went tu: wɜ:k],A0_L30_S68.mp3
+69,Он хотел работать,He wanted to work,[hi: ˈwɒntɪd tu: wɜ:k],A0_L30_S69.mp3
+70,Она рассказала мне эту вещь снова,She told me this thing again,[ʃi: təʊld mi: ðɪs θɪŋ əˈgen],A0_L30_S70.mp3
+71,Он рассказал тебе ту вещь позже,He told you that thing later,[hi: təʊld ju: ðæt θɪŋ ˈleɪtə],A0_L30_S71.mp3
+72,Он сказал кое-что очень интересное,He told something very interesting,[hi: təʊld ˈsʌmθɪŋ ˈveri ˈɪntrɪstɪŋ],A0_L30_S72.mp3
+73,Он сказал что-то очень интересное,He said something very interesting,[hi: sed ˈsʌmθɪŋ ˈveri ˈɪntrɪstɪŋ],A0_L30_S73.mp3
+74,Она рассказала мне кое-что,She told me something,[ʃi: təʊld mi: ˈsʌmθɪŋ],A0_L30_S74.mp3
+75,Это было абсолютно бесплатно,It was absolutely free,[ɪt wɒz ˈæbsəlu:tli fri:],A0_L30_S75.mp3
+76,Там было очень красиво,It was very beautiful there,[ɪt wɒz ˈveri ˈbju:təfəl ðeə],A0_L30_S76.mp3
+77,Это было действительно бесплатно,It was really free,[ɪt wɒz ˈrɪəli fri:],A0_L30_S77.mp3
+78,Они ездили в Китай,They went to China,[ðeɪ went tu: ˈʧaɪnə],A0_L30_S78.mp3
+79,Он ездил в Англию,He went to England,[hi: went tu: ˈɪŋglənd],A0_L30_S79.mp3
+80,Мы ездили в Китай,We went to China,[wi: went tu: ˈʧaɪnə],A0_L30_S80.mp3
+81,У меня было несколько вопросов,I had some questions,[aɪ hæd sʌm ˈkwesʧənz],A0_L30_S81.mp3
+82,У него было несколько вопросов,He had some questions,[hi: hæd sʌm ˈkwesʧənz],A0_L30_S82.mp3
+83,У них было так много вопросов,They had so many questions,[ðeɪ hæd səʊ ˈmeni ˈkwesʧənz],A0_L30_S83.mp3
+84,Я мог понять его очень хорошо,I could understand him very well,[aɪ kʊd ˌʌndəˈstænd hɪm ˈveri wel],A0_L30_S84.mp3
+85,Он мог понять ее очень легко,He could understand her very easily,[hi: kʊd ˌʌndəˈstænd hɜ: ˈveri ˈi:zɪli],A0_L30_S85.mp3
+86,Я мог понять его очень легко,I could understand him very easily,[aɪ kʊd ˌʌndəˈstænd hɪm ˈveri ˈi:zɪli],A0_L30_S86.mp3
+87,Я видел их вместе,I saw them together,[aɪ sɔ: ðem təˈgeðə],A0_L30_S87.mp3
+88,Он видел их вместе,He saw them together,[hi: sɔ: ðem təˈgeðə],A0_L30_S88.mp3
+89,Она видела его там,She saw him there,[ʃi: sɔ: hɪm ðeə],A0_L30_S89.mp3
+90,Я ходил туда вчера,I went there yesterday,[aɪ went ðeə ˈjestədeɪ],A0_L30_S90.mp3
+91,Я получил эти деньги,I got this money,[aɪ gɒt ðɪs ˈmʌni],A0_L30_S91.mp3
+92,Я был так счастлив,I was so happy,[aɪ wɒz səʊ ˈhæpi],A0_L30_S92.mp3
+93,Я пошел за покупками,I went shopping,[aɪ went ˈʃɒpɪŋ],A0_L30_S93.mp3
+94,Я видел отель,I saw a hotel,[aɪ sɔ: ə həʊˈtel],A0_L30_S94.mp3
+95,Я сделал все эти упражнения,I did all these exercises,[aɪ dɪd ɔ:l ði:z ˈeksəsaɪzɪz],A0_L30_S95.mp3
+96,Он занимался бизнесом,He did business,[hi: dɪd ˈbɪznɪs],A0_L30_S96.mp3
+97,"Я часто видел ее, когда я там работал",I often saw her when I worked there,[aɪ ˈɒfn sɔ: hɜ: wen aɪ wɜ:kt ðeə],A0_L30_S97.mp3
+98,Я мог понимать их без каких-либо проблем,I could understand them without any problems,[aɪ kʊd ˌʌndəˈstænd ðem wɪˈðaʊt ˈeni ˈprɒbləmz],A0_L30_S98.mp3
+99,Он часто говорил это,He often said it,[hi: ˈɒfn sed ɪt],A0_L30_S99.mp3
+100,Я купил билет,I bought a ticket,[aɪ bɔ:t ə ˈtɪkɪt],A0_L30_S100.mp3
+101,Я получил сообщение от него,I got a message from him,[aɪ gɒt ə ˈmesɪʤ frɒm hɪm],A0_L30_S101.mp3
+102,Я получил твое сообщение,I got your message,[aɪ gɒt jɔ: ˈmesɪʤ],A0_L30_S102.mp3
+103,Это было бесплатно,It was free,[ɪt wɒz fri:],A0_L30_S103.mp3
+104,Он сказал это снова,He said it again,[hi: sed ɪt əˈgen],A0_L30_S104.mp3

@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он будет отдыхать завтра в 9,He will be having a rest tomorrow at 9,[hi: wɪl bi: ˈhævɪŋ ə rest təˈmɒrəʊ æt 9],A2_L120_S2.mp3
+3,Я буду ждать больше практики,I'll be waiting for more practice,[aɪl bi: ˈweɪtɪŋ fɔ: mɔ: ˈpræktɪs],A2_L120_S3.mp3
+4,Я буду записывать новый урок,I'll be recording a new lesson,[aɪl bi: rɪˈkɔ:dɪŋ ə nju: ˈlesn],A2_L120_S4.mp3
+5,Я буду гулять в парке весь день,I will be walking in the park all day,[aɪ wɪl bi: ˈwɔ:kɪŋ ɪn ðə pɑ:k ɔ:l deɪ],A2_L120_S5.mp3
+6,Я буду смотреть этот урок с 3 до 4,I will be watching this lesson from 3 till 4,[aɪ wɪl bi: ˈwɒʧɪŋ ðɪs ˈlesn frɒm 3 tɪl 4],A2_L120_S6.mp3
+7,Я не буду отдыхать,I won't be having a rest,[aɪ wəʊnt bi: ˈhævɪŋ ə rest],A2_L120_S7.mp3
+8,Он не будет спать завтра в 8,He won’t be sleeping tomorrow at 8,[hi: wəʊnt bi: ˈsli:pɪŋ təˈmɒrəʊ æt 8],A2_L120_S8.mp3
+9,Она будет читать завтра весь день?,Will she be reading all day tomorrow?,[wɪl ʃi: bi: ˈri:dɪŋ ɔ:l deɪ təˈmɒrəʊ?],A2_L120_S9.mp3
+10,Они будут играть в футбол завтра в 5?,Will they be playing football tomorrow at 5?,[wɪl ðeɪ bi: ˈpleɪɪŋ ˈfʊtbɔ:l təˈmɒrəʊ æt 5?],A2_L120_S10.mp3
+11,В это время завтра я буду купаться в море,This time tomorrow I will be swimming in the sea,[ðɪs taɪm təˈmɒrəʊ aɪ wɪl bi: ˈswɪmɪŋ ɪn ðə si:],A2_L120_S11.mp3
+12,Я буду отдыхать завтра в 10,I will be having a rest tomorrow at 10,[aɪ wɪl bi: ˈhævɪŋ ə rest təˈmɒrəʊ æt 10],A2_L120_S12.mp3
+13,Я буду ждать следующих видео с нетерпением,I will be waiting for the next videos with impatience,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: ðə nekst ˈvɪdɪəʊz wɪð ɪmˈpeɪʃəns],A2_L120_S13.mp3
+14,Я буду ждать нашей встречи с нетерпением,I will be waiting for our meeting with impatience,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: ˈaʊə ˈmi:tɪŋ wɪð ɪmˈpeɪʃəns],A2_L120_S14.mp3
+15,"Пока мы работаем, они будут отдыхать","While we are working, they will be having a rest","[waɪl wi: ɑ: ˈwɜ:kɪŋ, ðeɪ wɪl bi: ˈhævɪŋ ə rest]",A2_L120_S15.mp3
+16,Я буду ждать твоего сообщения,I will be waiting for your message,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˈmesɪʤ],A2_L120_S16.mp3
+17,В это время на следующей неделе я буду кататься на лыжах,This time next week I will be skiing,[ðɪs taɪm nekst wi:k aɪ wɪl bi: ˈski:ɪŋ],A2_L120_S17.mp3
+18,Мы будем ждать их ответа,We will be waiting for their response,[wi: wɪl bi: ˈweɪtɪŋ fɔ: ðeə rɪsˈpɒns],A2_L120_S18.mp3
+19,В 7 часов вечера в следующее воскресенье я буду проводить время со своими друзьями,At 7 p.m. next Sunday I will be spending time with my friends,[æt 7 pi:.em. nekst ˈsʌndeɪ aɪ wɪl bi: ˈspendɪŋ taɪm wɪð maɪ frendz],A2_L120_S19.mp3
+20,Я буду спать в полночь,I will be sleeping at midnight,[aɪ wɪl bi: ˈsli:pɪŋ æt ˈmɪdnaɪt],A2_L120_S20.mp3
+21,Я буду лежать на пляже на солнце завтра в это время,I will be lying on the beach in the sun this time tomorrow,[aɪ wɪl bi: ˈlaɪɪŋ ɒn ðə bi:ʧ ɪn ðə sʌn ðɪs taɪm təˈmɒrəʊ],A2_L120_S21.mp3
+22,Она будет смотреть вебинар завтра в это время,She will be watching a webinar this time tomorrow,[ʃi: wɪl bi: ˈwɒʧɪŋ ə ˈwebɪnɑ: ðɪs taɪm təˈmɒrəʊ],A2_L120_S22.mp3
+23,Что ты будешь делать завтра в 11?,What will you be doing tomorrow at 11?,[wɒt wɪl ju: bi: ˈdu:ɪŋ təˈmɒrəʊ æt 11?],A2_L120_S23.mp3
+24,Я буду отдыхать весь день завтра,I will be having a rest all day tomorrow,[aɪ wɪl bi: ˈhævɪŋ ə rest ɔ:l deɪ təˈmɒrəʊ],A2_L120_S24.mp3
+25,Мы будем ждать твой отзыв,We will be waiting for your feedback,[wi: wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˈfi:dbæk],A2_L120_S25.mp3
+26,Я буду работать с двух до пяти,I will be working from two to five,[aɪ wɪl bi: ˈwɜ:kɪŋ frɒm tu: tu: faɪv],A2_L120_S26.mp3
+27,Я буду ждать самых последних новостей,I will be waiting for the latest news,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: ðə ˈleɪtɪst nju:z],A2_L120_S27.mp3
+28,Я буду купаться в бассейне с трех до пяти,I will be swimming in the swimming pool from 3 to five,[aɪ wɪl bi: ˈswɪmɪŋ ɪn ðə ˈswɪmɪŋ pu:l frɒm 3 tu: faɪv],A2_L120_S28.mp3
+29,"Когда ты придешь завтра, мы будем играть в теннис","When you come tomorrow, we will be playing tennis","[wen ju: kʌm təˈmɒrəʊ, wi: wɪl bi: ˈpleɪɪŋ ˈtenɪs]",A2_L120_S29.mp3
+30,Я буду учить английский язык завтра весь день,I will be learning English tomorrow all day,[aɪ wɪl bi: ˈlɜ:nɪŋ ˈɪŋglɪʃ təˈmɒrəʊ ɔ:l deɪ],A2_L120_S30.mp3
+31,Она будет смотреть новости в 9,She will be watching the news at 9,[ʃi: wɪl bi: ˈwɒʧɪŋ ðə nju:z æt 9],A2_L120_S31.mp3
+32,Я буду ждать твоего ответа,I will be waiting for your response,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: rɪsˈpɒns],A2_L120_S32.mp3
+33,Он будет ждать ее приглашения,He will be waiting for her invitation,[hi: wɪl bi: ˈweɪtɪŋ fɔ: hɜ: ˌɪnvɪˈteɪʃən],A2_L120_S33.mp3
+34,Что ты будешь делать завтра в 9 вечера?,What will you be doing at 9pm tomorrow?,[wɒt wɪl ju: bi: ˈdu:ɪŋ æt 9pm təˈmɒrəʊ?],A2_L120_S34.mp3
+35,Он будет смотреть этот вебинар завтра в 5,He will be watching this webinar tomorrow at 5,[hi: wɪl bi: ˈwɒʧɪŋ ðɪs ˈwebɪnɑ: təˈmɒrəʊ æt 5],A2_L120_S35.mp3
+36,Я буду ждать твоего подтверждения,I will be waiting for your confirmation,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˌkɒnfəˈmeɪʃən],A2_L120_S36.mp3
+37,"Пока они отдыхают, мы будем работать","While they are having a rest, we will be working","[waɪl ðeɪ ɑ: ˈhævɪŋ ə rest, wi: wɪl bi: ˈwɜ:kɪŋ]",A2_L120_S37.mp3
+38,Он не будет работать весь день завтра,He won't be working all day tomorrow,[hi: wəʊnt bi: ˈwɜ:kɪŋ ɔ:l deɪ təˈmɒrəʊ],A2_L120_S38.mp3
+39,Я буду ждать твоего отзыва,I will be waiting for your feedback,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˈfi:dbæk],A2_L120_S39.mp3
+40,Я буду ждать твоего звонка,I will be waiting for your call,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: kɔ:l],A2_L120_S40.mp3
+41,Мы будем упаковывать нашу одежду завтра,We'll be packing our clothes this time tomorrow,[wi:l bi: ˈpækɪŋ ˈaʊə kləʊðz ðɪs taɪm təˈmɒrəʊ],A2_L120_S41.mp3
+42,Она будет делать покупки весь день,She'll be shopping all afternoon,[ʃi:l bi: ˈʃɒpɪŋ ɔ:l ˈɑ:ftəˈnu:n],A2_L120_S42.mp3
+43,Я буду работать весь день завтра,I will be working all day tomorrow,[aɪ wɪl bi: ˈwɜ:kɪŋ ɔ:l deɪ təˈmɒrəʊ],A2_L120_S43.mp3
+44,Мы будем ждать твоего подтверждения,We will be waiting for your confirmation,[wi: wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˌkɒnfəˈmeɪʃən],A2_L120_S44.mp3
+45,Я буду тренироваться в спортзале завтра в это время,I will be training in the gym - this time tomorrow,[aɪ wɪl bi: ˈtreɪnɪŋ ɪn ðə ʤɪm - ðɪs taɪm təˈmɒrəʊ],A2_L120_S45.mp3
+46,В это время завтра я буду работать из дома,This time tomorrow I will be working from home,[ðɪs taɪm təˈmɒrəʊ aɪ wɪl bi: ˈwɜ:kɪŋ frɒm həʊm],A2_L120_S46.mp3
+47,Я буду учиться завтра в это время,I'll be studying this time tomorrow,[aɪl bi: ˈstʌdiɪŋ ðɪs taɪm təˈmɒrəʊ],A2_L120_S47.mp3
+48,В это время завтра я буду кататься на велосипеде со своими друзьями,This time tomorrow I will be cycling with my friends,[ðɪs taɪm təˈmɒrəʊ aɪ wɪl bi: ˈsaɪklɪŋ wɪð maɪ frendz],A2_L120_S48.mp3
+49,Они будут играть в футбол в 10 часов утра завтра,They will be playing football at 10 a.m. tomorrow,[ðeɪ wɪl bi: ˈpleɪɪŋ ˈfʊtbɔ:l æt 10 eɪ.em. təˈmɒrəʊ],A2_L120_S49.mp3
+50,Я буду ждать твоего ответа,I will be waiting for your answer,[aɪ wɪl bi: ˈweɪtɪŋ fɔ: jɔ: ˈɑ:nsə],A2_L120_S50.mp3
+51,"Я увеличу громкость, если ты не против",I will turn up the volume if you don't mind,[aɪ wɪl tɜ:n ʌp ðə ˈvɒljʊm ɪf ju: dəʊnt maɪnd],A2_L120_S51.mp3
+52,"Когда она вернется домой, он будет готовить","When she comes back home, he will be cooking","[wen ʃi: kʌmz bæk həʊm, hi: wɪl bi: ˈkʊkɪŋ]",A2_L120_S52.mp3
+53,Мне придется остановиться на этой заправке сейчас,I will have to stop at this petrol station now,[aɪ wɪl hæv tu: stɒp æt ðɪs ˈpetrəl ˈsteɪʃən naʊ],A2_L120_S53.mp3
+54,Я буду учить английский очень интенсивно в этом году,I will be learning English very intensively this year,[aɪ wɪl bi: ˈlɜ:nɪŋ ˈɪŋglɪʃ ˈveri ɪnˈtensɪvli ðɪs jɪə],A2_L120_S54.mp3
+55,"Прогноз погоды говорит, что будет идти сильный снег завтра весь день",The weather forecast says that it will be snowing heavily all day tomorrow,[ðə ˈweðə ˈfɔ:kɑ:st sez ðæt ɪt wɪl bi: ˈsnəʊɪŋ ˈhevɪli ɔ:l deɪ təˈmɒrəʊ],A2_L120_S55.mp3
+56,Снег будет идти завтра весь день,It will be snowing all day tomorrow,[ɪt wɪl bi: ˈsnəʊɪŋ ɔ:l deɪ təˈmɒrəʊ],A2_L120_S56.mp3
+57,"Когда ее мама придет домой, она будет играть на пианино","When her mother comes home, she will be playing the piano","[wen hɜ: ˈmʌðə kʌmz həʊm, ʃi: wɪl bi: ˈpleɪɪŋ ðə pɪˈænəʊ]",A2_L120_S57.mp3
+58,"Когда я вернусь домой, они будут ужинать","When I return home, they will be having dinner","[wen aɪ rɪˈtɜ:n həʊm, ðeɪ wɪl bi: ˈhævɪŋ ˈdɪnə]",A2_L120_S58.mp3
+59,"Я думаю, это произойдет рано или поздно",I think it will happen sooner or later,[aɪ θɪŋk ɪt wɪl ˈhæpən ˈsu:nər ɔ: ˈleɪtə],A2_L120_S59.mp3
+60,Дождь будет идти завтра весь день?,Will it be raining all day tomorrow?,[wɪl ɪt bi: ˈreɪnɪŋ ɔ:l deɪ təˈmɒrəʊ?],A2_L120_S60.mp3
+61,Снег будет идти завтра весь день?,Will it be snowing all day tomorrow?,[wɪl ɪt bi: ˈsnəʊɪŋ ɔ:l deɪ təˈmɒrəʊ?],A2_L120_S61.mp3
+62,"Я нажму на ссылку, которая находится слева",I will click on the link which is on the left,[aɪ wɪl klɪk ɒn ðə lɪŋk wɪʧ ɪz ɒn ðə left],A2_L120_S62.mp3
+63,"Когда его отец придет домой, он будет играть на гитаре","When his father comes home, he will be playing the guitar","[wen hɪz ˈfɑ:ðə kʌmz həʊm, hi: wɪl bi: ˈpleɪɪŋ ðə gɪˈtɑ:]",A2_L120_S63.mp3
+64,Ты увидишь это внизу страницы,You will see it at the bottom of the page,[ju: wɪl si: ɪt æt ðə ˈbɒtəm ɒv ðə peɪʤ],A2_L120_S64.mp3
+65,"Пока они будут лежат на пляже, мы будем плавать","While they are lying on the beach, we will be swimming","[waɪl ðeɪ ɑ: ˈlaɪɪŋ ɒn ðə bi:ʧ, wi: wɪl bi: ˈswɪmɪŋ]",A2_L120_S65.mp3
+66,"Пока я плаваю, она будет лежать на пляже","While I am swimming, she will be lying on the beach","[waɪl aɪ æm ˈswɪmɪŋ, ʃi: wɪl bi: ˈlaɪɪŋ ɒn ðə bi:ʧ]",A2_L120_S66.mp3
+67,"Пока я лежу на пляже, она будет плавать","While I am lying on the beach, she will be swimming","[waɪl aɪ æm ˈlaɪɪŋ ɒn ðə bi:ʧ, ʃi: wɪl bi: ˈswɪmɪŋ]",A2_L120_S67.mp3
+68,"Пока я плаваю в море, она будет лежать на пляже","While I am swimming in the sea, she will be lying on the beach","[waɪl aɪ æm ˈswɪmɪŋ ɪn ðə si:, ʃi: wɪl bi: ˈlaɪɪŋ ɒn ðə bi:ʧ]",A2_L120_S68.mp3
+69,Ты увидишь это вверху страницы,You will see it at the top of the page,[ju: wɪl si: ɪt æt ðə tɒp ɒv ðə peɪʤ],A2_L120_S69.mp3
+70,Ты увидишь это вверху этой страницы,You will see it at the top of this page,[ju: wɪl si: ɪt æt ðə tɒp ɒv ðɪs peɪʤ],A2_L120_S70.mp3
+71,Я подумаю об этом еще раз,I will think about it one more time,[aɪ wɪl θɪŋk əˈbaʊt ɪt wʌn mɔ: taɪm],A2_L120_S71.mp3
+72,"Я сделаю это еще раз …………….…................................................... 73. Я спрошу тебя еще раз …………….…................................................... 74. Что ты будешь делать завтра в три часа дня? …………….…................................................... 75. Что ты будешь делать завтра в шесть часов вечера? …………….…................................................... 76. Что ты будешь делать послезавтра в три часа дня? …………….…................................................... 77. Он говорит, что постарается опубликовать свою книгу в следующем году …………….…................................................... 78. Он говорит, что постарается написать книгу в следующем году …………….…................................................... 79. Он говорит, что постарается опубликовать свою книгу в следующем месяце …………….…................................................... 80. Что ты будешь делать завтра в десять часов утра? …………….…................................................... 81. Что ты делаешь в данный момент? …………….…................................................... 82. Я буду думать о твоем предложении …………….…................................................... 83. Я буду думать об этой проблеме …………….…................................................... 84. Я буду думать о твоей ситуации …………….…................................................... 8 85. Дождь будет идти завтра весь день …………….…................................................... 86. Сейчас идет дождь …………….…................................................... 87. Когда она вернется, я буду смотреть фильм …………….…................................................... 88. Когда она придет, я буду смотреть этот фильм …………….…................................................... 89. Когда она вернется, я буду читать книгу …………….…................................................... 90. Я уменьшу громкость, если ты не возражаешь …………….…................................................... 91. Я уменьшу громкость, если он не возражает …………….…................................................... 92. Я скоро посещу столицу этой страны …………….…................................................... 93. Я расскажу тебе эту вещь вкратце …………….…................................................... 94. Я нажму на ссылку, которая находится справа …………….…................................................... 95. Я остановлюсь на следующей заправке …………….…................................................... 96. Прогноз погоды говорит, что дождь будет идти завтра целый день …………….…................................................... 97. Я посещу столицу Англии в следующем месяце …………….…................................................... 9 98. Они говорят, что будет идти сильный дождь завтра весь день …………….…................................................... 99. Я думаю, я подам заявление на новую работу на этой неделе …………….…................................................... 100. Я постараюсь водить более осторожно …………….…................................................... 101. Я буду отсутствовать на следующей неделе …………….…................................................... 102. Я нажму на ссылку …………….…................................................... 103. Он поедет кататься на лыжах завтра …………….…................................................... 104. Я скажу это вкратце …………….…................................................... 105. Никто не поймет это …………….…................................................... 10 Ответы 1. Мы будем ждать их ответа",We will be waiting for their answer,[wi: wɪl bi: ˈweɪtɪŋ fɔ: ðeər ˈɑ:nsə],A2_L120_S72.mp3
+73,Я спрошу тебя еще раз,I will ask you one more time,[aɪ wɪl ɑ:sk ju: wʌn mɔ: taɪm],A2_L120_S73.mp3
+74,Что ты будешь делать завтра в три часа дня?,What will you be doing tomorrow at three o'clock in the afternoon?,[wɒt wɪl ju: bi: ˈdu:ɪŋ təˈmɒrəʊ æt θri: əˈklɒk ɪn ði ˈɑ:ftəˈnu:n?],A2_L120_S74.mp3
+75,Что ты будешь делать завтра в шесть часов вечера?,What will you be doing tomorrow at six o'clock in the evening?,[wɒt wɪl ju: bi: ˈdu:ɪŋ təˈmɒrəʊ æt sɪks əˈklɒk ɪn ði ˈi:vnɪŋ?],A2_L120_S75.mp3
+76,Что ты будешь делать послезавтра в три часа дня?,What will you be doing the day after tomorrow at three o'clock in the afternoon?,[wɒt wɪl ju: bi: ˈdu:ɪŋ ðə deɪ ˈɑ:ftə təˈmɒrəʊ æt θri: əˈklɒk ɪn ði ˈɑ:ftəˈnu:n?],A2_L120_S76.mp3
+77,"Он говорит, что постарается опубликовать свою книгу в следующем году",He says that he will try to publish his book next year,[hi: sez ðæt hi: wɪl traɪ tu: ˈpʌblɪʃ hɪz bʊk nekst jɪə],A2_L120_S77.mp3
+78,"Он говорит, что постарается написать книгу в следующем году",He says that he will try to write a book next year,[hi: sez ðæt hi: wɪl traɪ tu: raɪt ə bʊk nekst jɪə],A2_L120_S78.mp3
+79,"Он говорит, что постарается опубликовать свою книгу в следующем месяце",He says that he will try to publish his book next month,[hi: sez ðæt hi: wɪl traɪ tu: ˈpʌblɪʃ hɪz bʊk nekst mʌnθ],A2_L120_S79.mp3
+80,Что ты будешь делать завтра в десять часов утра?,What will you be doing tomorrow at ten o'clock in the morning?,[wɒt wɪl ju: bi: ˈdu:ɪŋ təˈmɒrəʊ æt ten əˈklɒk ɪn ðə ˈmɔ:nɪŋ?],A2_L120_S80.mp3
+81,Что ты делаешь в данный момент?,What are you doing at the moment?,[wɒt ɑ: ju: ˈdu:ɪŋ æt ðə ˈməʊmənt?],A2_L120_S81.mp3
+82,Я буду думать о твоем предложении,I will be thinking about your offer,[aɪ wɪl bi: ˈθɪŋkɪŋ əˈbaʊt jɔ: ˈɒfə],A2_L120_S82.mp3
+83,Я буду думать об этой проблеме,I will be thinking about this problem,[aɪ wɪl bi: ˈθɪŋkɪŋ əˈbaʊt ðɪs ˈprɒbləm],A2_L120_S83.mp3
+84,Я буду думать о твоей ситуации,I will be thinking about your situation,[aɪ wɪl bi: ˈθɪŋkɪŋ əˈbaʊt jɔ: ˌsɪtjʊˈeɪʃən],A2_L120_S84.mp3
+85,Дождь будет идти завтра весь день,It will be raining all day tomorrow,[ɪt wɪl bi: ˈreɪnɪŋ ɔ:l deɪ təˈmɒrəʊ],A2_L120_S85.mp3
+86,Сейчас идет дождь,It is raining now,[ɪt ɪz ˈreɪnɪŋ naʊ],A2_L120_S86.mp3
+87,"Когда она вернется, я буду смотреть фильм","When she returns, I will be watching a movie","[wen ʃi: rɪˈtɜ:nz, aɪ wɪl bi: ˈwɒʧɪŋ ə ˈmu:vi]",A2_L120_S87.mp3
+88,"Когда она придет, я буду смотреть этот фильм","When she comes, I will be watching this movie","[wen ʃi: kʌmz, aɪ wɪl bi: ˈwɒʧɪŋ ðɪs ˈmu:vi]",A2_L120_S88.mp3
+89,"Когда она вернется, я буду читать книгу","When she returns, I will be reading a book","[wen ʃi: rɪˈtɜ:nz, aɪ wɪl bi: ˈri:dɪŋ ə bʊk]",A2_L120_S89.mp3
+90,"Я уменьшу громкость, если ты не возражаешь",I will turn down the volume if you don't mind,[aɪ wɪl tɜ:n daʊn ðə ˈvɒljʊm ɪf ju: dəʊnt maɪnd],A2_L120_S90.mp3
+91,"Я уменьшу громкость, если он не возражает",I will turn down the volume if he doesn't mind,[aɪ wɪl tɜ:n daʊn ðə ˈvɒljʊm ɪf hi: dʌznt maɪnd],A2_L120_S91.mp3
+92,Я скоро посещу столицу этой страны,I will visit the capital of this country soon,[aɪ wɪl ˈvɪzɪt ðə ˈkæpɪtl ɒv ðɪs ˈkʌntri su:n],A2_L120_S92.mp3
+93,Я расскажу тебе эту вещь вкратце,I will tell you this thing briefly,[aɪ wɪl tel ju: ðɪs θɪŋ ˈbri:fli],A2_L120_S93.mp3
+94,"Я нажму на ссылку, которая находится справа",I will click on the link which is on the right,[aɪ wɪl klɪk ɒn ðə lɪŋk wɪʧ ɪz ɒn ðə raɪt],A2_L120_S94.mp3
+95,Я остановлюсь на следующей заправке,I will stop at the next petrol station,[aɪ wɪl stɒp æt ðə nekst ˈpetrəl ˈsteɪʃən],A2_L120_S95.mp3
+96,"Прогноз погоды говорит, что дождь будет идти завтра целый день",The weather forecast says that it will be raining all day tomorrow,[ðə ˈweðə ˈfɔ:kɑ:st sez ðæt ɪt wɪl bi: ˈreɪnɪŋ ɔ:l deɪ təˈmɒrəʊ],A2_L120_S96.mp3
+97,Я посещу столицу Англии в следующем месяце,I will visit the capital of England next month,[aɪ wɪl ˈvɪzɪt ðə ˈkæpɪtl ɒv ˈɪŋglənd nekst mʌnθ],A2_L120_S97.mp3
+98,"Они говорят, что будет идти сильный дождь завтра весь день",They say that it will be raining heavily tomorrow all day,[ðeɪ seɪ ðæt ɪt wɪl bi: ˈreɪnɪŋ ˈhevɪli təˈmɒrəʊ ɔ:l deɪ],A2_L120_S98.mp3
+99,"Я думаю, я подам заявление на новую работу на этой неделе",I think I will apply for a new job this week,[aɪ θɪŋk aɪ wɪl əˈplaɪ fɔ: ə nju: ʤɒb ðɪs wi:k],A2_L120_S99.mp3
+100,Я постараюсь водить более осторожно,I will try to drive more carefully,[aɪ wɪl traɪ tu: draɪv mɔ: ˈkeəfli],A2_L120_S100.mp3
+101,Я буду отсутствовать на следующей неделе,I will be away next week,[aɪ wɪl bi: əˈweɪ nekst wi:k],A2_L120_S101.mp3
+102,Я нажму на ссылку,I will click on the link,[aɪ wɪl klɪk ɒn ðə lɪŋk],A2_L120_S102.mp3
+103,Он поедет кататься на лыжах завтра,He will go skiing tomorrow,[hi: wɪl gəʊ ˈski:ɪŋ təˈmɒrəʊ],A2_L120_S103.mp3
+104,Я скажу это вкратце,I will say it briefly,[aɪ wɪl seɪ ɪt ˈbri:fli],A2_L120_S104.mp3
+105,Никто не поймет это,No one will understand it,[nəʊ wʌn wɪl ˌʌndəˈstænd ɪt],A2_L120_S105.mp3

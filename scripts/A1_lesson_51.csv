@@ -1,0 +1,106 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он действительно хочет говорить по-русски,He really wants to speak Russian,[hi: ˈrɪəli wɒnts tu: spi:k ˈrʌʃn],A1_L51_S2.mp3
+3,Я обожаю читать книги вечером,I enjoy reading books in the evening,[aɪ ɪnˈʤɔɪ ˈri:dɪŋ bʊks ɪn ði ˈi:vnɪŋ],A1_L51_S3.mp3
+4,Она обожает играть в теннис,She enjoys playing tennis,[ʃi: ɪnˈʤɔɪz ˈpleɪɪŋ ˈtenɪs],A1_L51_S4.mp3
+5,Мне нравится есть здоровую пищу,I like eating healthy food,[aɪ laɪk ˈi:tɪŋ ˈhelθi fu:d],A1_L51_S5.mp3
+6,Ему нравится читать книги на английском,He likes to read books in English,[hi: laɪks tu: ri:d bʊks ɪn ˈɪŋglɪʃ],A1_L51_S6.mp3
+7,Мне действительно нравится кататься на велосипеде,I really like cycling,[aɪ ˈrɪəli laɪk ˈsaɪklɪŋ],A1_L51_S7.mp3
+8,Ты говоришь по-английски прекрасно,You speak English perfectly,[ju: spi:k ˈɪŋglɪʃ ˈpɜ:fɪktli],A1_L51_S8.mp3
+9,Это звучит отлично,It sounds great,[ɪt saʊndz greɪt],A1_L51_S9.mp3
+10,Он платит за это,He pays for it,[hi: peɪz fɔ: ɪt],A1_L51_S10.mp3
+11,Это стоит два миллиона фунтов,It costs two million pounds,[ɪt kɒsts tu: ˈmɪljən paʊndz],A1_L51_S11.mp3
+12,Я могу сделать это в начале,I can do it in the beginning,[aɪ kæn du: ɪt ɪn ðə bɪˈgɪnɪŋ],A1_L51_S12.mp3
+13,Ты слишком много работаешь,You work too much,[ju: wɜ:k tu: mʌʧ],A1_L51_S13.mp3
+14,Она тоже так думает,"She thinks so, too","[ʃi: θɪŋks səʊ, tu:]",A1_L51_S14.mp3
+15,Он тоже так думает,He also thinks so,[hi: ˈɔ:lsəʊ θɪŋks səʊ],A1_L51_S15.mp3
+16,Я предпочитаю делать это в свое свободное время,I prefer to do it in my free time,[aɪ priˈfɜ: tu: du: ɪt ɪn maɪ fri: taɪm],A1_L51_S16.mp3
+17,Ты показываешь отличные результаты,You show excellent results,[ju: ʃəʊ ˈeksələnt rɪˈzʌlts],A1_L51_S17.mp3
+18,Ей нравятся иностранные языки,She likes foreign languages,[ʃi: laɪks ˈfɒrɪn ˈlæŋgwɪʤɪz],A1_L51_S18.mp3
+19,Он прекрасно понимает это,He perfectly understands it,[hi: ˈpɜ:fɪktli ˌʌndəˈstændz ɪt],A1_L51_S19.mp3
+20,У меня отличные результаты,I have excellent results,[aɪ hæv ˈeksələnt rɪˈzʌlts],A1_L51_S20.mp3
+21,Он много знает,He knows a lot,[hi: nəʊz ə lɒt],A1_L51_S21.mp3
+22,Это стоит пять тысяч евро,It costs five thousand euros,[ɪt kɒsts faɪv ˈθaʊzənd ˈjʊərəʊz],A1_L51_S22.mp3
+23,Мы учимся в одной группе,We study in one group,[wi: ˈstʌdi ɪn wʌn gru:p],A1_L51_S23.mp3
+24,Мы действительно ценим твою помощь,We really appreciate your help,[wi: ˈrɪəli əˈpri:ʃɪeɪt jɔ: help],A1_L51_S24.mp3
+25,Это нам очень помогает,It helps us a lot,[ɪt helps ʌs ə lɒt],A1_L51_S25.mp3
+26,Я тебя прекрасно понимаю,I perfectly understand you,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd ju:],A1_L51_S26.mp3
+27,У нее блестящие результаты,She has brilliant results,[ʃi: hæz ˈbrɪljənt rɪˈzʌlts],A1_L51_S27.mp3
+28,Он часто говорит эти вещи,He often says these things,[hi: ˈɒfn sez ði:z θɪŋz],A1_L51_S28.mp3
+29,Ей действительно нравится кататься на велосипеде,She really likes cycling,[ʃi: ˈrɪəli laɪks ˈsaɪklɪŋ],A1_L51_S29.mp3
+30,Я обожаю английский,I enjoy English,[aɪ ɪnˈʤɔɪ ˈɪŋglɪʃ],A1_L51_S30.mp3
+31,Она предпочитает горячий чай,She prefers hot tea,[ʃi: priˈfɜ:z hɒt ti:],A1_L51_S31.mp3
+32,Ему действительно нравится плавать,He really likes swimming,[hi: ˈrɪəli laɪks ˈswɪmɪŋ],A1_L51_S32.mp3
+33,Она живет в другой области,She lives in another area,[ʃi: lɪvz ɪn əˈnʌðər ˈeərɪə],A1_L51_S33.mp3
+34,Мы видим музей,We see a museum,[wi: si: ə mju:ˈzɪəm],A1_L51_S34.mp3
+35,Я хочу свободно говорить по-английски,I want to speak English fluently,[aɪ wɒnt tu: spi:k ˈɪŋglɪʃ ˈflu:əntli],A1_L51_S35.mp3
+36,Он учится и работает,He studies and works,[hi: ˈstʌdiz ænd wɜ:ks],A1_L51_S36.mp3
+37,Эта вещь стоит двести долларов,This thing costs two hundred dollars,[ðɪs θɪŋ kɒsts tu: ˈhʌndrəd ˈdɒləz],A1_L51_S37.mp3
+38,Мне действительно нравится этот язык,I really like this language,[aɪ ˈrɪəli laɪk ðɪs ˈlæŋgwɪʤ],A1_L51_S38.mp3
+39,Я действительно обожаю спорт,I really enjoy sport,[aɪ ˈrɪəli ɪnˈʤɔɪ spɔ:t],A1_L51_S39.mp3
+40,Мне нужно больше опыта,I need more experience,[aɪ ni:d mɔ: ɪksˈpɪərɪəns],A1_L51_S40.mp3
+41,Он показывает блестящие результаты,He shows brilliant results,[hi: ʃəʊz ˈbrɪljənt rɪˈzʌlts],A1_L51_S41.mp3
+42,Я действительно ценю твою помощь,I really appreciate your help,[aɪ ˈrɪəli əˈpri:ʃɪeɪt jɔ: help],A1_L51_S42.mp3
+43,Я стараюсь делать это каждый день,I try to do it every day,[aɪ traɪ tu: du: ɪt ˈevri deɪ],A1_L51_S43.mp3
+44,Она живет в квартире,She lives in an apartment,[ʃi: lɪvz ɪn ən əˈpɑ:tmənt],A1_L51_S44.mp3
+45,Мы живем в доме,We live in a house,[wi: lɪv ɪn ə haʊs],A1_L51_S45.mp3
+46,Она профессионально преподает английский,She teaches English professionally,[ʃi: ˈti:ʧɪz ˈɪŋglɪʃ prəˈfeʃnəli],A1_L51_S46.mp3
+47,"Я прекрасно понимаю, как это работает",I perfectly understand how it works,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd haʊ ɪt wɜ:ks],A1_L51_S47.mp3
+48,"Она часто слушает музыку, когда занимается другими делами",She often listens to music when she does other things,[ʃi: ˈɒfn ˈlɪsnz tu: ˈmju:zɪk wen ʃi: dʌz ˈʌðə θɪŋz],A1_L51_S48.mp3
+49,Мне нужен опыт работы вначале,I need work experience in the beginning,[aɪ ni:d wɜ:k ɪksˈpɪərɪəns ɪn ðə bɪˈgɪnɪŋ],A1_L51_S49.mp3
+50,"Я чувствую, что мне прежде всего нужно улучшить свое аудирование и речь",I feel that I need to improve my listening and speaking first of all,[aɪ fi:l ðæt aɪ ni:d tu: ɪmˈpru:v maɪ ˈlɪsnɪŋ ænd ˈspi:kɪŋ fɜ:st ɒv ɔ:l],A1_L51_S50.mp3
+51,Я действительно хочу понимать носителей языка,I really want to understand native speakers,[aɪ ˈrɪəli wɒnt tu: ˌʌndəˈstænd ˈneɪtɪv ˈspi:kəz],A1_L51_S51.mp3
+52,Я прекрасно понимаю твою точку зрения,I perfectly understand your point of view,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd jɔ: pɔɪnt ɒv vju:],A1_L51_S52.mp3
+53,"Мне кажется, у тебя отличные результаты",It seems to me you have excellent results,[ɪt si:mz tu: mi: ju: hæv ˈeksələnt rɪˈzʌlts],A1_L51_S53.mp3
+54,Я действительно хочу говорить по-английски как носитель языка,I really want to speak English like a native speaker,[aɪ ˈrɪəli wɒnt tu: spi:k ˈɪŋglɪʃ laɪk ə ˈneɪtɪv ˈspi:kə],A1_L51_S54.mp3
+55,Она работает врачом,She works as a doctor,[ʃi: wɜ:ks æz ə ˈdɒktə],A1_L51_S55.mp3
+56,Она хочет улучшить свой словарный запас в первую очередь,She wants to improve her vocabulary first of all,[ʃi: wɒnts tu: ɪmˈpru:v hɜ: vəʊˈkæbjʊləri fɜ:st ɒv ɔ:l],A1_L51_S56.mp3
+57,Ей очень нравится бегать трусцой,She really likes jogging,[ʃi: ˈrɪəli laɪks ˈʤɒgɪŋ],A1_L51_S57.mp3
+58,Я работаю менеджером,I work as a manager,[aɪ wɜ:k æz ə ˈmænɪʤə],A1_L51_S58.mp3
+59,"Я вижу, ты часто ездишь за границу",I see you often go abroad,[aɪ si: ju: ˈɒfn gəʊ əˈbrɔ:d],A1_L51_S59.mp3
+60,Я хочу поехать в Соединенные Штаты в следующем году,I want to go to the United States next year,[aɪ wɒnt tu: gəʊ tu: ðə jʊˈnaɪtɪd steɪts nekst jɪə],A1_L51_S60.mp3
+61,Он работает учителем,He works as a teacher,[hi: wɜ:ks æz ə ˈti:ʧə],A1_L51_S61.mp3
+62,Она обожает плавать,She enjoys swimming,[ʃi: ɪnˈʤɔɪz ˈswɪmɪŋ],A1_L51_S62.mp3
+63,Я люблю бегать трусцой,I like jogging,[aɪ laɪk ˈʤɒgɪŋ],A1_L51_S63.mp3
+64,Я действительно обожаю плавать,I really enjoy swimming,[aɪ ˈrɪəli ɪnˈʤɔɪ ˈswɪmɪŋ],A1_L51_S64.mp3
+65,Он говорит по-английски без акцента,He speaks English without an accent,[hi: spi:ks ˈɪŋglɪʃ wɪˈðaʊt ən ˈæksənt],A1_L51_S65.mp3
+66,Я говорю по-немецки без акцента,I speak German without an accent,[aɪ spi:k ˈʤɜ:mən wɪˈðaʊt ən ˈæksənt],A1_L51_S66.mp3
+67,Она говорит по-русски с акцентом,She speaks Russian with an accent,[ʃi: spi:ks ˈrʌʃn wɪð ən ˈæksənt],A1_L51_S67.mp3
+68,"Мне кажется, это действительно стоит много",It seems to me it really costs a lot,[ɪt si:mz tu: mi: ɪt ˈrɪəli kɒsts ə lɒt],A1_L51_S68.mp3
+69,"Ей кажется, это действительно стоит много",It seems to her it really costs a lot,[ɪt si:mz tu: hɜ: ɪt ˈrɪəli kɒsts ə lɒt],A1_L51_S69.mp3
+70,"Мне кажется, что это действительно стоит много",It seems to me that it really costs a lot,[ɪt si:mz tu: mi: ðæt ɪt ˈrɪəli kɒsts ə lɒt],A1_L51_S70.mp3
+71,Она понимает носителей языка лишь немного,She understands native speakers only a little,[ʃi: ˌʌndəˈstændz ˈneɪtɪv ˈspi:kəz ˈəʊnli ə ˈlɪtl],A1_L51_S71.mp3
+72,Он понимает носителей языка лишь немного,He understands native speakers only a little,[hi: ˌʌndəˈstændz ˈneɪtɪv ˈspi:kəz ˈəʊnli ə ˈlɪtl],A1_L51_S72.mp3
+73,"Они понимают носителей языка лишь немного …………….…................................................... 74. Мне нужен опыт работы в первую очередь …………….…................................................... 75. Ей нужен опыт работы в первую очередь …………….…................................................... 76. Тебе нужен опыт работы в первую очередь …………….…................................................... 77. Он работает секретарем …………….…................................................... 78. Я работаю учителем …………….…................................................... 79. Она работает менеджером …………….…................................................... 80. Я вижу, у тебя есть идея …………….…................................................... 81. Я вижу, у нее есть идея …………….…................................................... 82. Я вижу, у них есть идея …………….…................................................... 83. Я думаю, что это звучит великолепно …………….…................................................... 84. Она думает, что это звучит великолепно …………….…................................................... 85. Я думаю, что это выглядит великолепно …………….…................................................... 8 86. Он много путешествует …………….…................................................... 87. Она много путешествует …………….…................................................... 88. Я много путешествую …………….…................................................... 89. Это случается время от времени …………….…................................................... 90. Эта вещь случается время от времени …………….…................................................... 91. Это иногда случается …………….…................................................... 92. Он ходит в бассейн …………….…................................................... 93. Я вижу, что она говорит по-английски без акцента …………….…................................................... 94. Я действительно хочу говорить по-английски как носитель …………….…................................................... 95. Он работает в другом отделе …………….…................................................... 96. Ей очень нравится классическая музыка …………….…................................................... 97. Я вижу, ему действительно нравится эта идея …………….…................................................... 98. Я занимаюсь плаванием дважды в неделю 9 99. Она работает продавщицей магазина …………….…................................................... 100. Он часто летает в Англию …………….…................................................... 101. Я только немного понимаю носителей языка, но я работаю над этим …………….…................................................... 102. Я хочу улучшить свою грамматику …………….…................................................... 103. Я занимаюсь плаванием два или три раза в неделю …………….…................................................... 104. Она часто летает в Соединенные Штаты …………….…................................................... 105. Она прекрасно понимает нашу точку зрения …………….…................................................... 106. Он часто бегает трусцой …………….…................................................... 10 Ответы 1. Я живу в другом городе",I live in another city,[aɪ lɪv ɪn əˈnʌðə ˈsɪti],A1_L51_S73.mp3
+74,Мне нужен опыт работы в первую очередь,I need some work experience first of all,[aɪ ni:d sʌm wɜ:k ɪksˈpɪərɪəns fɜ:st ɒv ɔ:l],A1_L51_S74.mp3
+75,Ей нужен опыт работы в первую очередь,She needs some work experience first of all,[ʃi: ni:dz sʌm wɜ:k ɪksˈpɪərɪəns fɜ:st ɒv ɔ:l],A1_L51_S75.mp3
+76,Тебе нужен опыт работы в первую очередь,You need some work experience first of all,[ju: ni:d sʌm wɜ:k ɪksˈpɪərɪəns fɜ:st ɒv ɔ:l],A1_L51_S76.mp3
+77,Он работает секретарем,He works as a secretary,[hi: wɜ:ks æz ə ˈsekrətri],A1_L51_S77.mp3
+78,Я работаю учителем,I work as a teacher,[aɪ wɜ:k æz ə ˈti:ʧə],A1_L51_S78.mp3
+79,Она работает менеджером,She works as a manager,[ʃi: wɜ:ks æz ə ˈmænɪʤə],A1_L51_S79.mp3
+80,"Я вижу, у тебя есть идея",I see you have an idea,[aɪ si: ju: hæv ən aɪˈdɪə],A1_L51_S80.mp3
+81,"Я вижу, у нее есть идея",I see she has an idea,[aɪ si: ʃi: hæz ən aɪˈdɪə],A1_L51_S81.mp3
+82,"Я вижу, у них есть идея",I see they have an idea,[aɪ si: ðeɪ hæv ən aɪˈdɪə],A1_L51_S82.mp3
+83,"Я думаю, что это звучит великолепно",I think that it sounds great,[aɪ θɪŋk ðæt ɪt saʊndz greɪt],A1_L51_S83.mp3
+84,"Она думает, что это звучит великолепно",She thinks that it sounds great,[ʃi: θɪŋks ðæt ɪt saʊndz greɪt],A1_L51_S84.mp3
+85,"Я думаю, что это выглядит великолепно",I think that it looks great,[aɪ θɪŋk ðæt ɪt lʊks greɪt],A1_L51_S85.mp3
+86,Он много путешествует,He travels a lot,[hi: ˈtrævlz ə lɒt],A1_L51_S86.mp3
+87,Она много путешествует,She travels a lot,[ʃi: ˈtrævlz ə lɒt],A1_L51_S87.mp3
+88,Я много путешествую,I travel a lot,[aɪ ˈtrævl ə lɒt],A1_L51_S88.mp3
+89,Это случается время от времени,It happens from time to time,[ɪt ˈhæpənz frɒm taɪm tu: taɪm],A1_L51_S89.mp3
+90,Эта вещь случается время от времени,This thing happens from time to time,[ðɪs θɪŋ ˈhæpənz frɒm taɪm tu: taɪm],A1_L51_S90.mp3
+91,Это иногда случается,It sometimes happens,[ɪt ˈsʌmtaɪmz ˈhæpənz],A1_L51_S91.mp3
+92,Он ходит в бассейн,He goes to the swimming pool,[hi: gəʊz tu: ðə ˈswɪmɪŋ pu:l],A1_L51_S92.mp3
+93,"Я вижу, что она говорит по-английски без акцента",I see that she speaks English without an accent,[aɪ si: ðæt ʃi: spi:ks ˈɪŋglɪʃ wɪˈðaʊt ən ˈæksənt],A1_L51_S93.mp3
+94,Я действительно хочу говорить по-английски как носитель,I really want to speak English like a native,[aɪ ˈrɪəli wɒnt tu: spi:k ˈɪŋglɪʃ laɪk ə ˈneɪtɪv],A1_L51_S94.mp3
+95,Он работает в другом отделе,He works in another department,[hi: wɜ:ks ɪn əˈnʌðə dɪˈpɑ:tmənt],A1_L51_S95.mp3
+96,Ей очень нравится классическая музыка,She really likes classical music,[ʃi: ˈrɪəli laɪks ˈklæsɪkəl ˈmju:zɪk],A1_L51_S96.mp3
+97,"Я вижу, ему действительно нравится эта идея",I see he really likes this idea,[aɪ si: hi: ˈrɪəli laɪks ðɪs aɪˈdɪə],A1_L51_S97.mp3
+98,Я занимаюсь плаванием дважды в неделю,I go - swimming twice a week,[aɪ gəʊ - ˈswɪmɪŋ twaɪs ə wi:k],A1_L51_S98.mp3
+99,Она работает продавщицей магазина,She works as a shop assistant,[ʃi: wɜ:ks æz ə ʃɒp əˈsɪstənt],A1_L51_S99.mp3
+100,Он часто летает в Англию,He often flies to England,[hi: ˈɒfn flaɪz tu: ˈɪŋglənd],A1_L51_S100.mp3
+101,"Я только немного понимаю носителей языка, но я работаю над этим",I understand native speakers only a bit but I work on it,[aɪ ˌʌndəˈstænd ˈneɪtɪv ˈspi:kəz ˈəʊnli ə bɪt bʌt aɪ wɜ:k ɒn ɪt],A1_L51_S101.mp3
+102,Я хочу улучшить свою грамматику,I want to improve my grammar,[aɪ wɒnt tu: ɪmˈpru:v maɪ ˈgræmə],A1_L51_S102.mp3
+103,Я занимаюсь плаванием два или три раза в неделю,I go swimming two or three times a week,[aɪ gəʊ ˈswɪmɪŋ tu: ɔ: θri: taɪmz ə wi:k],A1_L51_S103.mp3
+104,Она часто летает в Соединенные Штаты,She often flies to the United States,[ʃi: ˈɒfn flaɪz tu: ðə jʊˈnaɪtɪd steɪts],A1_L51_S104.mp3
+105,Она прекрасно понимает нашу точку зрения,She perfectly understands our point of view,[ʃi: ˈpɜ:fɪktli ˌʌndəˈstændz ˈaʊə pɔɪnt ɒv vju:],A1_L51_S105.mp3
+106,Он часто бегает трусцой,He often goes jogging,[hi: ˈɒfn gəʊz ˈʤɒgɪŋ],A1_L51_S106.mp3

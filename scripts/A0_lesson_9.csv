@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Ты понимаешь меня?,Do you understand me?,[du: ju: ˌʌndəˈstænd mi:?],A0_L9_S1.mp3
+2,Они покупают это онлайн?,Do they buy it online?,[du: ðeɪ baɪ ɪt ˈɒnˌlaɪn?],A0_L9_S2.mp3
+3,"Ты знаешь, как это работает?",Do you know how it works?,[du: ju: nəʊ haʊ ɪt wɜ:ks?],A0_L9_S3.mp3
+4,"Ты знаешь, почему это происходит?",Do you know why it happens?,[du: ju: nəʊ waɪ ɪt ˈhæpənz?],A0_L9_S4.mp3
+5,Ты любишь читать?,Do you like reading?,[du: ju: laɪk ˈri:dɪŋ?],A0_L9_S5.mp3
+6,Ей нравится учиться?,Does she like studying?,[dʌz ʃi: laɪk ˈstʌdiɪŋ?],A0_L9_S6.mp3
+7,У тебя много друзей?,Do you have many friends?,[du: ju: hæv ˈmeni frendz?],A0_L9_S7.mp3
+8,Тебе нравится этот курс?,Do you like this course?,[du: ju: laɪk ðɪs kɔ:s?],A0_L9_S8.mp3
+9,Ты слышишь меня?,Do you hear me?,[du: ju: hɪə mi:?],A0_L9_S9.mp3
+10,Ты чувствуешь свой прогресс?,Do you feel your progress?,[du: ju: fi:l jɔ: ˈprəʊgrəs?],A0_L9_S10.mp3
+11,Ты учишься?,Do you study?,[du: ju: ˈstʌdi?],A0_L9_S11.mp3
+12,Ты понимаешь меня?,Do you understand me?,[du: ju: ˌʌndəˈstænd mi:?],A0_L9_S12.mp3
+13,Ты часто ходишь в то место?,Do you often go to that place?,[du: ju: ˈɒfn gəʊ tu: ðæt pleɪs?],A0_L9_S13.mp3
+14,Тебе нравится петь?,Do you like singing?,[du: ju: laɪk ˈsɪŋɪŋ?],A0_L9_S14.mp3
+15,У тебя хорошие результаты?,Do you have good results?,[du: ju: hæv gʊd rɪˈzʌlts?],A0_L9_S15.mp3
+16,Они поддерживают это?,Do they support it?,[du: ðeɪ səˈpɔ:t ɪt?],A0_L9_S16.mp3
+17,Они поддерживают эту идею?,Do they support this idea?,[du: ðeɪ səˈpɔ:t ðɪs aɪˈdɪə?],A0_L9_S17.mp3
+18,У тебя есть свободное время сейчас?,Do you have free time now?,[du: ju: hæv fri: taɪm naʊ?],A0_L9_S18.mp3
+19,Тебе нравится эта погода?,Do you like this weather?,[du: ju: laɪk ðɪs ˈweðə?],A0_L9_S19.mp3
+20,Ты тренируешься очень интенсивно?,Do you train very intensively?,[du: ju: treɪn ˈveri ɪnˈtensɪvli?],A0_L9_S20.mp3
+21,Ты видишь это?,Do you see it?,[du: ju: si: ɪt?],A0_L9_S21.mp3
+22,Мы тренируемся интенсивно?,Do we train intensively?,[du: wi: treɪn ɪnˈtensɪvli?],A0_L9_S22.mp3
+23,Ты хочешь этого?,Do you want it?,[du: ju: wɒnt ɪt?],A0_L9_S23.mp3
+24,У тебя есть какие-либо планы?,Do you have any plans?,[du: ju: hæv ˈeni plænz?],A0_L9_S24.mp3
+25,Ты часто ходишь туда?,Do you often go there?,[du: ju: ˈɒfn gəʊ ðeə?],A0_L9_S25.mp3
+26,Ты согласен?,Do you agree?,[du: ju: əˈgri:?],A0_L9_S26.mp3
+27,Ты часто видишь это?,Do you often see it?,[du: ju: ˈɒfn si: ɪt?],A0_L9_S27.mp3
+28,Ты работаешь?,Do you work?,[du: ju: wɜ:k?],A0_L9_S28.mp3
+29,Ты поддерживаешь ее?,Do you support her?,[du: ju: səˈpɔ:t hɜ:?],A0_L9_S29.mp3
+30,Ты согласен с этим?,Do you agree with it?,[du: ju: əˈgri: wɪð ɪt?],A0_L9_S30.mp3
+31,Ты понимаешь это?,Do you understand it?,[du: ju: ˌʌndəˈstænd ɪt?],A0_L9_S31.mp3
+32,Тебе нравится этот фильм?,Do you like this movie?,[du: ju: laɪk ðɪs ˈmu:vi?],A0_L9_S32.mp3
+33,Ты играешь в теннис?,Do you play tennis?,[du: ju: pleɪ ˈtenɪs?],A0_L9_S33.mp3
+34,Ты смотришь телевизор?,Do you watch TV?,[du: ju: wɒʧ ˌti:ˈvi:?],A0_L9_S34.mp3
+35,Я говорю это правильно?,Do I say it correctly?,[du: aɪ seɪ ɪt kəˈrektli?],A0_L9_S35.mp3
+36,Ты действительно хочешь это?,Do you really want it?,[du: ju: ˈrɪəli wɒnt ɪt?],A0_L9_S36.mp3
+37,Ты читаешь по-английски?,Do you read in English?,[du: ju: ri:d ɪn ˈɪŋglɪʃ?],A0_L9_S37.mp3
+38,Ты чувствуешь себя лучше?,Do you feel better?,[du: ju: fi:l ˈbetə?],A0_L9_S38.mp3
+39,Ты говоришь по-английски?,Do you speak English?,[du: ju: spi:k ˈɪŋglɪʃ?],A0_L9_S39.mp3
+40,У тебя есть какие-либо идеи?,Do you have any ideas?,[du: ju: hæv ˈeni aɪˈdɪəz?],A0_L9_S40.mp3
+41,Я говорю по-английски правильно?,Do I speak English correctly?,[du: aɪ spi:k ˈɪŋglɪʃ kəˈrektli?],A0_L9_S41.mp3
+42,Тебе нравится читать?,Do you like reading?,[du: ju: laɪk ˈri:dɪŋ?],A0_L9_S42.mp3
+43,Ты понимаешь?,Do you understand?,[du: ju: ˌʌndəˈstænd?],A0_L9_S43.mp3
+44,Им нравится танцевать?,Do they like dancing?,[du: ðeɪ laɪk ˈdɑ:nsɪŋ?],A0_L9_S44.mp3
+45,Тебе нравится эта идея?,Do you like this idea?,[du: ju: laɪk ðɪs aɪˈdɪə?],A0_L9_S45.mp3
+46,Тебе нужна моя помощь?,Do you need my help?,[du: ju: ni:d maɪ help?],A0_L9_S46.mp3
+47,Ты работаешь или учишься?,Do you work or study?,[du: ju: wɜ:k ɔ: ˈstʌdi?],A0_L9_S47.mp3
+48,Они часто ходят в парк?,Do they often go to the park?,[du: ðeɪ ˈɒfn gəʊ tu: ðə pɑ:k?],A0_L9_S48.mp3
+49,"Ты понимаешь, почему они это делают?",Do you understand why they do it?,[du: ju: ˌʌndəˈstænd waɪ ðeɪ du: ɪt?],A0_L9_S49.mp3
+50,Они покупают это онлайн?,Do they buy it online?,[du: ðeɪ baɪ ɪt ˈɒnˌlaɪn?],A0_L9_S50.mp3
+51,Ты ходишь в кинотеатр?,Do you go to the cinema?,[du: ju: gəʊ tu: ðə ˈsɪnəmə?],A0_L9_S51.mp3
+52,Ты часто делаешь это?,Do you often do it?,[du: ju: ˈɒfn du: ɪt?],A0_L9_S52.mp3
+53,Ты платишь за это?,Do you pay for it?,[du: ju: peɪ fɔ: ɪt?],A0_L9_S53.mp3
+54,Ты любишь его?,Do you love him?,[du: ju: lʌv hɪm?],A0_L9_S54.mp3
+55,Ты часто думаешь об этом?,Do you often think about it?,[du: ju: ˈɒfn θɪŋk əˈbaʊt ɪt?],A0_L9_S55.mp3
+56,Ты находишь эту идею очень интересной?,Do you find this idea very interesting?,[du: ju: faɪnd ðɪs aɪˈdɪə ˈveri ˈɪntrɪstɪŋ?],A0_L9_S56.mp3
+57,"Ты знаешь, как это работает?",Do you know how it works?,[du: ju: nəʊ haʊ ɪt wɜ:ks?],A0_L9_S57.mp3
+58,Ты часто звонишь ей?,Do you often call her?,[du: ju: ˈɒfn kɔ:l hɜ:?],A0_L9_S58.mp3
+59,Ты находишь эту книгу очень скучной?,Do you find this book very boring?,[du: ju: faɪnd ðɪs bʊk ˈveri ˈbɔ:rɪŋ?],A0_L9_S59.mp3
+60,"Ты знаешь, почему это происходит?",Do you know why it happens?,[du: ju: nəʊ waɪ ɪt ˈhæpənz?],A0_L9_S60.mp3
+61,Они платят за эту услугу?,Do they pay for this service?,[du: ðeɪ peɪ fɔ: ðɪs ˈsɜ:vɪs?],A0_L9_S61.mp3
+62,Ты говоришь по-китайски?,Do you speak Chinese?,[du: ju: spi:k ˌʧaɪˈni:z?],A0_L9_S62.mp3
+63,Ты читаешь по-китайски?,Do you read in Chinese?,[du: ju: ri:d ɪn ˌʧaɪˈni:z?],A0_L9_S63.mp3
+64,Они говорят по-английски?,Do they speak English?,[du: ðeɪ spi:k ˈɪŋglɪʃ?],A0_L9_S64.mp3
+65,Ты часто говоришь об этом?,Do you often talk about it?,[du: ju: ˈɒfn tɔ:k əˈbaʊt ɪt?],A0_L9_S65.mp3
+66,Они часто говорят о тебе?,Do they often talk about you?,[du: ðeɪ ˈɒfn tɔ:k əˈbaʊt ju:?],A0_L9_S66.mp3
+67,Ты часто говоришь об этих вещах?,Do you often talk about these things?,[du: ju: ˈɒfn tɔ:k əˈbaʊt ði:z θɪŋz?],A0_L9_S67.mp3
+68,Ты хочешь учиться за границей?,Do you want to study abroad?,[du: ju: wɒnt tu: ˈstʌdi əˈbrɔ:d?],A0_L9_S68.mp3
+69,Ты хочешь учиться в другой стране?,Do you want to study in another country?,[du: ju: wɒnt tu: ˈstʌdi ɪn əˈnʌðə ˈkʌntri?],A0_L9_S69.mp3
+70,Ты хочешь путешествовать за границей?,Do you want to travel abroad?,[du: ju: wɒnt tu: ˈtrævl əˈbrɔ:d?],A0_L9_S70.mp3
+71,Я показываю лучшие результаты?,Do I show better results?,[du: aɪ ʃəʊ ˈbetə rɪˈzʌlts?],A0_L9_S71.mp3
+72,Ты показываешь лучшие результаты?,Do you show better results?,[du: ju: ʃəʊ ˈbetə rɪˈzʌlts?],A0_L9_S72.mp3
+73,Ты хочешь поехать в Англию?,Do you want to go to England?,[du: ju: wɒnt tu: gəʊ tu: ˈɪŋglənd?],A0_L9_S73.mp3
+74,Ты хочешь поехать в Соединённые Штаты?,Do you want to go to the United States?,[du: ju: wɒnt tu: gəʊ tu: ðə jʊˈnaɪtɪd steɪts?],A0_L9_S74.mp3
+75,Ты часто ходишь в кино?,Do you often go to the cinema?,[du: ju: ˈɒfn gəʊ tu: ðə ˈsɪnəmə?],A0_L9_S75.mp3
+76,Ты обычно ходишь в кино?,Do you usually go to the cinema?,[du: ju: ˈju:ʒʊəli gəʊ tu: ðə ˈsɪnəmə?],A0_L9_S76.mp3
+77,Ты часто ходишь в парк?,Do you often go to the park?,[du: ju: ˈɒfn gəʊ tu: ðə pɑ:k?],A0_L9_S77.mp3
+78,Они хотят работать за границей?,Do they want to work abroad?,[du: ðeɪ wɒnt tu: wɜ:k əˈbrɔ:d?],A0_L9_S78.mp3
+79,Они хотят учиться за границей?,Do they want to study abroad?,[du: ðeɪ wɒnt tu: ˈstʌdi əˈbrɔ:d?],A0_L9_S79.mp3
+80,Ты учишься или работаешь?,Do you study or work?,[du: ju: ˈstʌdi ɔ: wɜ:k?],A0_L9_S80.mp3
+81,Они учатся или работают?,Do they study or work?,[du: ðeɪ ˈstʌdi ɔ: wɜ:k?],A0_L9_S81.mp3
+82,Я показываю хорошие результаты?,Do I show good results?,[du: aɪ ʃəʊ gʊd rɪˈzʌlts?],A0_L9_S82.mp3
+83,Я показываю плохие результаты?,Do I show bad results?,[du: aɪ ʃəʊ bæd rɪˈzʌlts?],A0_L9_S83.mp3
+84,Ты хочешь жить в Соединённых Штатах?,Do you want to live in the United States?,[du: ju: wɒnt tu: lɪv ɪn ðə jʊˈnaɪtɪd steɪts?],A0_L9_S84.mp3
+85,Ты хочешь жить в Соединённом Королевстве?,Do you want to live in the United Kingdom?,[du: ju: wɒnt tu: lɪv ɪn ðə jʊˈnaɪtɪd ˈkɪŋdəm?],A0_L9_S85.mp3
+86,Ты хочешь жить в Англии?,Do you want to live in England?,[du: ju: wɒnt tu: lɪv ɪn ˈɪŋglənd?],A0_L9_S86.mp3
+87,Ты обычно покупаешь это онлайн?,Do you usually buy it online?,[du: ju: ˈju:ʒʊəli baɪ ɪt ˈɒnˌlaɪn?],A0_L9_S87.mp3
+88,Ты часто читаешь по-английски?,Do you often read in English?,[du: ju: ˈɒfn ri:d ɪn ˈɪŋglɪʃ?],A0_L9_S88.mp3
+89,Тебе действительно нравится эта игра?,Do you really like this game?,[du: ju: ˈrɪəli laɪk ðɪs geɪm?],A0_L9_S89.mp3
+90,Они показывают очень хорошие результаты?,Do they show very good results?,[du: ðeɪ ʃəʊ ˈveri gʊd rɪˈzʌlts?],A0_L9_S90.mp3
+91,Ты часто путешествуешь?,Do you often travel?,[du: ju: ˈɒfn ˈtrævl?],A0_L9_S91.mp3
+92,Ты чувствуешь реальный прогресс?,Do you feel real progress?,[du: ju: fi:l rɪəl ˈprəʊgrəs?],A0_L9_S92.mp3
+93,Ты любишь ее?,Do you love her?,[du: ju: lʌv hɜ:?],A0_L9_S93.mp3
+94,Ты действительно знаешь китайский?,Do you really know Chinese?,[du: ju: ˈrɪəli nəʊ ˌʧaɪˈni:z?],A0_L9_S94.mp3
+95,"Ты думаешь, у тебя хорошие результаты?",Do you think you have good results?,[du: ju: θɪŋk ju: hæv gʊd rɪˈzʌlts?],A0_L9_S95.mp3
+96,Ты хочешь изучать английский здесь?,Do you want to learn English here?,[du: ju: wɒnt tu: lɜ:n ˈɪŋglɪʃ hɪə?],A0_L9_S96.mp3
+97,Ты чувствуешь прогресс?,Do you feel progress?,[du: ju: fi:l ˈprəʊgrəs?],A0_L9_S97.mp3
+98,Они хотят купить компьютер?,Do they want to buy a computer?,[du: ðeɪ wɒnt tu: baɪ ə kəmˈpju:tə?],A0_L9_S98.mp3
+99,Ты часто пишешь на английском?,Do you often write in English?,[du: ju: ˈɒfn raɪt ɪn ˈɪŋglɪʃ?],A0_L9_S99.mp3

@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,В чем причина такого действия?,What's the reason for such an action?,[wɒts ðə ˈri:zn fɔ: sʌʧ ən ˈækʃn?],B2_L217_S2.mp3
+3,Я бы хотел избавиться от этих ошибок,I'd like to get rid of these mistakes,[aɪd laɪk tu: get rɪd ɒv ði:z mɪsˈteɪks],B2_L217_S3.mp3
+4,Я преуспел в решении этой проблемы без всяких усилий,I succeeded in solving this problem without any effort,[aɪ səkˈsi:dɪd ɪn ˈsɒlvɪŋ ðɪs ˈprɒbləm wɪˈðaʊt ˈeni ˈefət],B2_L217_S4.mp3
+5,Ты прокомментируешь этот вопрос?,Will you comment on this issue?,[wɪl ju: ˈkɒment ɒn ðɪs ˈɪʃu:?],B2_L217_S5.mp3
+6,"Это зависит от того, чего он хочет",It depends on what he wants,[ɪt dɪˈpendz ɒn wɒt hi: wɒnts],B2_L217_S6.mp3
+7,Я хотел бы сосредоточиться на главных проблемах,I'd like to concentrate on the main problems,[aɪd laɪk tu: ˈkɒnsəntreɪt ɒn ðə meɪn ˈprɒbləmz],B2_L217_S7.mp3
+8,У него аллергия на кошачью шерсть,He is allergic to cat hair,[hi: ɪz əˈlɜ:ʤɪk tu: kæt heə],B2_L217_S8.mp3
+9,Она предрасположена к головным болям,She's prone to headaches,[ʃi:z prəʊn tu: ˈhedeɪks],B2_L217_S9.mp3
+10,Я успешно сдал этот тест,I succeeded in passing this test,[aɪ səkˈsi:dɪd ɪn ˈpɑ:sɪŋ ðɪs test],B2_L217_S10.mp3
+11,"Это зависит от того, чего ты хочешь",It depends on what you want,[ɪt dɪˈpendz ɒn wɒt ju: wɒnt],B2_L217_S11.mp3
+12,Подготовка к этому может занять время,Preparation for it can take time,[ˌprepəˈreɪʃən fɔ: ɪt kæn teɪk taɪm],B2_L217_S12.mp3
+13,Она действительно очень зла на него,She is really furious with him,[ʃi: ɪz ˈrɪəli ˈfjʊərɪəs wɪð hɪm],B2_L217_S13.mp3
+14,Люди склонны совершать ошибки,People are prone to make mistakes,[ˈpi:pl ɑ: prəʊn tu: meɪk mɪsˈteɪks],B2_L217_S14.mp3
+15,Я хотел бы поздравить тебя с этим,I'd like to congratulate you on it,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ɪt],B2_L217_S15.mp3
+16,Я вполне удовлетворен результатами,I am quite satisfied with the results,[aɪ æm kwaɪt ˈsætɪsfaɪd wɪð ðə rɪˈzʌlts],B2_L217_S16.mp3
+17,Он ушел из компании в прошлом году,He retired from the company last year,[hi: rɪˈtaɪəd frɒm ðə ˈkʌmpəni lɑ:st jɪə],B2_L217_S17.mp3
+18,Она осталась верна своим принципам и убеждениям,She remained faithful to her principles and beliefs,[ʃi: rɪˈmeɪnd ˈfeɪθfəl tu: hɜ: ˈprɪnsəplz ænd bɪˈli:fs],B2_L217_S18.mp3
+19,Это очень характерно для нее,It's very characteristic of her,[ɪts ˈveri ˌkærɪktəˈrɪstɪk ɒv hɜ:],B2_L217_S19.mp3
+20,Я могу прокомментировать это решение,I can comment on this decision,[aɪ kæn ˈkɒment ɒn ðɪs dɪˈsɪʒən],B2_L217_S20.mp3
+21,Это очень характерно для него,It's very characteristic of him,[ɪts ˈveri ˌkærɪktəˈrɪstɪk ɒv hɪm],B2_L217_S21.mp3
+22,Какая причина его визита?,What's the reason for his visit?,[wɒts ðə ˈri:zn fɔ: hɪz ˈvɪzɪt?],B2_L217_S22.mp3
+23,Он оправился от долгой болезни,He recovered from a long illness,[hi: rɪˈkʌvəd frɒm ə lɒŋ ˈɪlnɪs],B2_L217_S23.mp3
+24,Он ушел из бизнеса,He retired from business,[hi: rɪˈtaɪəd frɒm ˈbɪznɪs],B2_L217_S24.mp3
+25,Она преуспела в потере веса,She succeeded in losing weight,[ʃi: səkˈsi:dɪd ɪn ˈlu:zɪŋ weɪt],B2_L217_S25.mp3
+26,Я хотел бы поздравить тебя с этим достижением,I'd like to congratulate you on this achievement,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ðɪs əˈʧi:vmənt],B2_L217_S26.mp3
+27,Она очень сомневается в этой идее,She is very doubtful about this idea,[ʃi: ɪz ˈveri ˈdaʊtfəl əˈbaʊt ðɪs aɪˈdɪə],B2_L217_S27.mp3
+28,Она избавилась от своей старой мебели,She got rid of her old furniture,[ʃi: gɒt rɪd ɒv hɜ: əʊld ˈfɜ:nɪʧə],B2_L217_S28.mp3
+29,Он предрасположен к этому заболеванию,He is prone to this disease,[hi: ɪz prəʊn tu: ðɪs dɪˈzi:z],B2_L217_S29.mp3
+30,Я полностью удовлетворен результатами этой работы,I'm fully satisfied with the results of this work,[aɪm ˈfʊli ˈsætɪsfaɪd wɪð ðə rɪˈzʌlts ɒv ðɪs wɜ:k],B2_L217_S30.mp3
+31,Мы не можем полностью избавиться от этой проблемы,We can't get rid of this problem completely,[wi: kɑ:nt get rɪd ɒv ðɪs ˈprɒbləm kəmˈpli:tli],B2_L217_S31.mp3
+32,Некоторые люди предрасположены к этим заболеваниям,Some people are prone to these diseases,[sʌm ˈpi:pl ɑ: prəʊn tu: ði:z dɪˈzi:zɪz],B2_L217_S32.mp3
+33,Ты доволен результатом?,Are you satisfied with the result?,[ɑ: ju: ˈsætɪsfaɪd wɪð ðə rɪˈzʌlt?],B2_L217_S33.mp3
+34,Я хотел бы поздравить тебя с сдачей этого экзамена,I'd like to congratulate you on passing this exam,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ ðɪs ɪgˈzæm],B2_L217_S34.mp3
+35,Я действительно рад за тебя,I am really glad for you,[aɪ æm ˈrɪəli glæd fɔ: ju:],B2_L217_S35.mp3
+36,Он собирается избавиться от этих старых книг,He is going to get rid of these old books,[hi: ɪz ˈgəʊɪŋ tu: get rɪd ɒv ði:z əʊld bʊks],B2_L217_S36.mp3
+37,Почему ты так ревнуешь ее?,Why are you so jealous of her?,[waɪ ɑ: ju: səʊ ˈʤeləs ɒv hɜ:?],B2_L217_S37.mp3
+38,Я так рад этому,I'm so glad about it,[aɪm səʊ glæd əˈbaʊt ɪt],B2_L217_S38.mp3
+39,У нее аллергия на орехи,She is allergic to nuts,[ʃi: ɪz əˈlɜ:ʤɪk tu: nʌts],B2_L217_S39.mp3
+40,Ты поздравил его с днем рождения?,Did you congratulate him on his birthday?,[dɪd ju: kənˈgrætjʊleɪt hɪm ɒn hɪz ˈbɜ:θdeɪ?],B2_L217_S40.mp3
+41,Мне удалось избавиться от тех ошибок благодаря этим регулярным тренировкам,I succeeded in getting rid of those mistakes thanks to these regular trainings,[aɪ səkˈsi:dɪd ɪn ˈgetɪŋ rɪd ɒv ðəʊz mɪsˈteɪks θæŋks tu: ði:z ˈregjʊlə ˈtreɪnɪŋz],B2_L217_S41.mp3
+42,Он начал говорить во весь голос совсем без причины,He started speaking at the top of his voice for no reason at all,[hi: ˈstɑ:tɪd ˈspi:kɪŋ æt ðə tɒp ɒv hɪz vɔɪs fɔ: nəʊ ˈri:zn æt ɔ:l],B2_L217_S42.mp3
+43,"Я так рада за нее, потому что она действительно этого заслуживает",I'm so glad for her because she really deserves it,[aɪm səʊ glæd fɔ: hɜ: bɪˈkɒz ʃi: ˈrɪəli dɪˈzɜ:vz ɪt],B2_L217_S43.mp3
+44,Она начала без причины кричать на него,She started shouting at him for no reason,[ʃi: ˈstɑ:tɪd ˈʃaʊtɪŋ æt hɪm fɔ: nəʊ ˈri:zn],B2_L217_S44.mp3
+45,Ему было очень трудно оправиться после смерти жены,It was very difficult for him to recover from the death of his wife,[ɪt wɒz ˈveri ˈdɪfɪkəlt fɔ: hɪm tu: rɪˈkʌvə frɒm ðə deθ ɒv hɪz waɪf],B2_L217_S45.mp3
+46,Одно из моих самых больших мечтаний - полностью избавиться от этих ошибок,One of my biggest dreams is to get rid of these mistakes completely,[wʌn ɒv maɪ ˈbɪgɪst dri:mz ɪz tu: get rɪd ɒv ði:z mɪsˈteɪks kəmˈpli:tli],B2_L217_S46.mp3
+47,Он хотел бы поздравить тебя с твоим днем рождения,He'd like to congratulate you on your birthday,[hi:d laɪk tu: kənˈgrætjʊleɪt ju: ɒn jɔ: ˈbɜ:θdeɪ],B2_L217_S47.mp3
+48,"Тебе нужно сосредоточиться на учебе, если ты действительно хочешь получить хороший результат",You need to concentrate on your studies if you really want to get a good result,[ju: ni:d tu: ˈkɒnsəntreɪt ɒn jɔ: ˈstʌdiz ɪf ju: ˈrɪəli wɒnt tu: get ə gʊd rɪˈzʌlt],B2_L217_S48.mp3
+49,Это одно из моих величайших мечтаний - избавиться от этих ненужных ошибок,It's one of my greatest dreams to get rid of these unnecessary mistakes,[ɪts wʌn ɒv maɪ ˈgreɪtɪst dri:mz tu: get rɪd ɒv ði:z ʌnˈnesɪsəri mɪsˈteɪks],B2_L217_S49.mp3
+50,"Ей потребовалось много времени, чтобы оправиться после этой операции",It took her a long time to recover from this operation,[ɪt tʊk hɜ: ə lɒŋ taɪm tu: rɪˈkʌvə frɒm ðɪs ˌɒpəˈreɪʃən],B2_L217_S50.mp3
+51,Они решили не комментировать этот скандал,They decided not to comment on this scandal,[ðeɪ dɪˈsaɪdɪd nɒt tu: ˈkɒment ɒn ðɪs ˈskændl],B2_L217_S51.mp3
+52,"Мне удалось получить то, что я хотел",I succeeded in getting what I wanted,[aɪ səkˈsi:dɪd ɪn ˈgetɪŋ wɒt aɪ ˈwɒntɪd],B2_L217_S52.mp3
+53,Это было главной причиной его увольнения,It was the main reason for his dismissal,[ɪt wɒz ðə meɪn ˈri:zn fɔ: hɪz dɪsˈmɪsəl],B2_L217_S53.mp3
+54,Она абсолютно взбешена его отказом,She is absolutely furious about his refusal,[ʃi: ɪz ˈæbsəlu:tli ˈfjʊərɪəs əˈbaʊt hɪz rɪˈfju:zəl],B2_L217_S54.mp3
+55,Он всегда был ей верен,He has always been faithful to her,[hi: hæz ˈɔ:lweɪz bi:n ˈfeɪθfəl tu: hɜ:],B2_L217_S55.mp3
+56,Это отличительная черта его работы,It's a distinguishing feature of his work,[ɪts ə dɪsˈtɪŋgwɪʃɪŋ ˈfi:ʧər ɒv hɪz wɜ:k],B2_L217_S56.mp3
+57,Это была отличительная характеристика его работы,It was a distinguishing characteristic of his work,[ɪt wɒz ə dɪsˈtɪŋgwɪʃɪŋ ˌkærɪktəˈrɪstɪk ɒv hɪz wɜ:k],B2_L217_S57.mp3
+58,Какая отличительная черта его работы?,What is a distinguishing feature of his work?,[wɒt ɪz ə dɪsˈtɪŋgwɪʃɪŋ ˈfi:ʧər ɒv hɪz wɜ:k?],B2_L217_S58.mp3
+59,От чего зависит его окончательное решение?,What does his final decision depend on?,[wɒt dʌz hɪz ˈfaɪnl dɪˈsɪʒən dɪˈpend ɒn?],B2_L217_S59.mp3
+60,"Это зависит от того, что они хотят",It depends on what they want,[ɪt dɪˈpendz ɒn wɒt ðeɪ wɒnt],B2_L217_S60.mp3
+61,Он все еще зависит от своих родителей,He still depends on his parents,[hi: stɪl dɪˈpendz ɒn hɪz ˈpeərənts],B2_L217_S61.mp3
+62,Он еще не полностью оправился от этого,He hasn't fully recovered from it yet,[hi: ˈhæznt ˈfʊli rɪˈkʌvəd frɒm ɪt jet],B2_L217_S62.mp3
+63,Он уже оправился от этого,He has already recovered from it,[hi: hæz ɔ:lˈredi rɪˈkʌvəd frɒm ɪt],B2_L217_S63.mp3
+64,"Сколько времени ему потребуется, чтобы оправиться от этого?",How long will it take him to recover from it?,[haʊ lɒŋ wɪl ɪt teɪk hɪm tu: rɪˈkʌvə frɒm ɪt?],B2_L217_S64.mp3
+65,Я поздравляю тебя с твоим днем рождения,I congratulate you on your birthday,[aɪ kənˈgrætjʊleɪt ju: ɒn jɔ: ˈbɜ:θdeɪ],B2_L217_S65.mp3
+66,Он поздравил меня со сдачей этого экзамена,He congratulated me on passing this exam,[hi: kənˈgrætjʊleɪtɪd mi: ɒn ˈpɑ:sɪŋ ðɪs ɪgˈzæm],B2_L217_S66.mp3
+67,Он хотел бы поздравить ее с днем рождения,He'd like to congratulate her on her birthday,[hi:d laɪk tu: kənˈgrætjʊleɪt hɜ: ɒn hɜ: ˈbɜ:θdeɪ],B2_L217_S67.mp3
+68,"Ему потребовались годы, чтобы оправиться от этого",It took him years to recover from it,[ɪt tʊk hɪm jɪəz tu: rɪˈkʌvə frɒm ɪt],B2_L217_S68.mp3
+69,"Как тебе удалось оправиться от этого? …………….…................................................... 70. Я еще не оправился от этого …………….…................................................... 71. У него аллергическая реакция на эту еду …………….…................................................... 72. У меня аллергия на эту еду …………….…................................................... 73. У тебя есть аллергия на что-то? …………….…................................................... 74. Какая главная причина его отказа? …………….…................................................... 75. Какая главная причина для того, чтобы сделать это? …………….…................................................... 76. Было много причин для того, чтобы сделать это …………….…................................................... 77. Он отказался сделать это без видимой причины …………….…................................................... 78. Они начали кричать на меня совсем без причины …………….…................................................... 79. Она начала плакать совсем без причины …………….…................................................... 80. Мне удалось избавиться от этих ошибок …………….…................................................... 81. Мне удалось избавиться от этих ошибок …………….…................................................... 8 82. Моя главная цель - избавиться от этих ошибок …………….…................................................... 83. Он был зол на себя …………….…................................................... 84. Она действительно взбешена твоим отказом …………….…................................................... 85. Чем ты так взбешен? …………….…................................................... 86. Ты можешь выучить любой язык, но избавиться от акцента не так легко …………….…................................................... 87. Ей понадобилось очень много времени, чтобы оправиться от этого шока …………….…................................................... 88. Она ушла от преподавания, когда ей было шестьдесят …………….…................................................... 89. Если честно, я очень сомневаюсь насчет этого …………….…................................................... 90. Это отличительная черта ее работы …………….…................................................... 91. Она осталась верна этим убеждениям …………….…................................................... 92. Что он хочет прокомментировать? …………….…................................................... 93. Подготовка к этому может занять гораздо больше времени, …………….…................................................... чем ты можешь подумать …………….…................................................... 9 94. Было несколько причин сделать это …………….…................................................... 95. Как ему удалось оправиться от этого? …………….…................................................... 96. Какая причина для того, чтобы делать это? …………….…................................................... 97. Он ушел из этой компании в возрасте семидесяти лет …………….…................................................... 98. Что ты хочешь прокомментировать? …………….…................................................... 99. На что она так злится? …………….…................................................... 100. Он еще не прокомментировал этот вопрос …………….…................................................... 10 Ответы 1. Я хотел бы поздравить тебя со сдачей такого сложного теста",I'd like to congratulate you on passing such a difficult test,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ sʌʧ ə ˈdɪfɪkəlt test],B2_L217_S69.mp3
+70,Я еще не оправился от этого,I haven't recovered from it yet,[aɪ hævnt rɪˈkʌvəd frɒm ɪt jet],B2_L217_S70.mp3
+71,У него аллергическая реакция на эту еду,He has an allergic reaction to this food,[hi: hæz ən əˈlɜ:ʤɪk ri:ˈækʃən tu: ðɪs fu:d],B2_L217_S71.mp3
+72,У меня аллергия на эту еду,I am allergic to this food,[aɪ æm əˈlɜ:ʤɪk tu: ðɪs fu:d],B2_L217_S72.mp3
+73,У тебя есть аллергия на что-то?,Are you allergic to anything?,[ɑ: ju: əˈlɜ:ʤɪk tu: ˈenɪθɪŋ?],B2_L217_S73.mp3
+74,Какая главная причина его отказа?,What's the main reason for his refusal?,[wɒts ðə meɪn ˈri:zn fɔ: hɪz rɪˈfju:zəl?],B2_L217_S74.mp3
+75,"Какая главная причина для того, чтобы сделать это?",What's the main reason for doing it?,[wɒts ðə meɪn ˈri:zn fɔ: ˈdu:ɪŋ ɪt?],B2_L217_S75.mp3
+76,"Было много причин для того, чтобы сделать это",There were many reasons for doing it,[ðeə wɜ: ˈmeni ˈri:znz fɔ: ˈdu:ɪŋ ɪt],B2_L217_S76.mp3
+77,Он отказался сделать это без видимой причины,He refused to do it for no apparent reason,[hi: ˌri:ˈfju:zd tu: du: ɪt fɔ: nəʊ əˈpærənt ˈri:zn],B2_L217_S77.mp3
+78,Они начали кричать на меня совсем без причины,They started shouting at me for no reason at all,[ðeɪ ˈstɑ:tɪd ˈʃaʊtɪŋ æt mi: fɔ: nəʊ ˈri:zn æt ɔ:l],B2_L217_S78.mp3
+79,Она начала плакать совсем без причины,She started crying for no reason at all,[ʃi: ˈstɑ:tɪd ˈkraɪɪŋ fɔ: nəʊ ˈri:zn æt ɔ:l],B2_L217_S79.mp3
+80,Мне удалось избавиться от этих ошибок,I managed to get rid of these mistakes,[aɪ ˈmænɪʤd tu: get rɪd ɒv ði:z mɪsˈteɪks],B2_L217_S80.mp3
+81,Мне удалось избавиться от этих ошибок,I succeeded in getting rid of these mistakes,[aɪ səkˈsi:dɪd ɪn ˈgetɪŋ rɪd ɒv ði:z mɪsˈteɪks],B2_L217_S81.mp3
+82,Моя главная цель - избавиться от этих ошибок,My main aim is to get rid of these mistakes,[maɪ meɪn eɪm ɪz tu: get rɪd ɒv ði:z mɪsˈteɪks],B2_L217_S82.mp3
+83,Он был зол на себя,He was furious with himself,[hi: wɒz ˈfjʊərɪəs wɪð hɪmˈself],B2_L217_S83.mp3
+84,Она действительно взбешена твоим отказом,She is really furious about your refusal,[ʃi: ɪz ˈrɪəli ˈfjʊərɪəs əˈbaʊt jɔ: rɪˈfju:zəl],B2_L217_S84.mp3
+85,Чем ты так взбешен?,What are you so furious about?,[wɒt ɑ: ju: səʊ ˈfjʊərɪəs əˈbaʊt?],B2_L217_S85.mp3
+86,"Ты можешь выучить любой язык, но избавиться от акцента не так легко",You can learn any language but it isn't so easy to get rid of an accent,[ju: kæn lɜ:n ˈeni ˈlæŋgwɪʤ bʌt ɪt ˈɪznt səʊ ˈi:zi tu: get rɪd ɒv ən ˈæksənt],B2_L217_S86.mp3
+87,"Ей понадобилось очень много времени, чтобы оправиться от этого шока",It took her a very long time to recover from this shock,[ɪt tʊk hɜ: ə ˈveri lɒŋ taɪm tu: rɪˈkʌvə frɒm ðɪs ʃɒk],B2_L217_S87.mp3
+88,"Она ушла от преподавания, когда ей было шестьдесят",She retired from teaching when she was sixty,[ʃi: rɪˈtaɪəd frɒm ˈti:ʧɪŋ wen ʃi: wɒz ˈsɪksti],B2_L217_S88.mp3
+89,"Если честно, я очень сомневаюсь насчет этого","To be honest, I'm very doubtful about it","[tu: bi: ˈɒnɪst, aɪm ˈveri ˈdaʊtfəl əˈbaʊt ɪt]",B2_L217_S89.mp3
+90,Это отличительная черта ее работы,It's a distinguishing characteristic of her work,[ɪts ə dɪsˈtɪŋgwɪʃɪŋ ˌkærɪktəˈrɪstɪk ɒv hɜ: wɜ:k],B2_L217_S90.mp3
+91,Она осталась верна этим убеждениям,She remained faithful to these beliefs,[ʃi: rɪˈmeɪnd ˈfeɪθfəl tu: ði:z bɪˈli:fs],B2_L217_S91.mp3
+92,Что он хочет прокомментировать?,What does he want to comment on?,[wɒt dʌz hi: wɒnt tu: ˈkɒment ɒn?],B2_L217_S92.mp3
+93,"Подготовка к этому может занять гораздо больше времени, чем ты можешь подумать",Preparation for it can take much longer than you might think,[ˌprepəˈreɪʃən fɔ: ɪt kæn teɪk mʌʧ ˈlɒŋgə ðæn ju: maɪt θɪŋk],B2_L217_S93.mp3
+94,Было несколько причин сделать это,There were several reasons for doing it,[ðeə wɜ: ˈsevrəl ˈri:znz fɔ: ˈdu:ɪŋ ɪt],B2_L217_S94.mp3
+95,Как ему удалось оправиться от этого?,How did he manage to recover from it?,[haʊ dɪd hi: ˈmænɪʤ tu: rɪˈkʌvə frɒm ɪt?],B2_L217_S95.mp3
+96,"Какая причина для того, чтобы делать это?",What's the reason for doing it?,[wɒts ðə ˈri:zn fɔ: ˈdu:ɪŋ ɪt?],B2_L217_S96.mp3
+97,Он ушел из этой компании в возрасте семидесяти лет,He retired from this company at the age of seventy,[hi: rɪˈtaɪəd frɒm ðɪs ˈkʌmpəni æt ði eɪʤ ɒv ˈsevnti],B2_L217_S97.mp3
+98,Что ты хочешь прокомментировать?,What do you want to comment on?,[wɒt du: ju: wɒnt tu: ˈkɒment ɒn?],B2_L217_S98.mp3
+99,На что она так злится?,What is she so furious about?,[wɒt ɪz ʃi: səʊ ˈfjʊərɪəs əˈbaʊt?],B2_L217_S99.mp3
+100,Он еще не прокомментировал этот вопрос,He hasn't commented on this issue yet,[hi: ˈhæznt ˈkɒmentɪd ɒn ðɪs ˈɪʃu: jet],B2_L217_S100.mp3

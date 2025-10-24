@@ -1,0 +1,102 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она ответила на твое письмо?,Did she reply to your letter?,[dɪd ʃi: rɪˈplaɪ tu: jɔ: ˈletə?],B1_L154_S2.mp3
+3,Ты мог бы мне объяснить эту вещь?,Could you explain this thing to me?,[kʊd ju: ɪksˈpleɪn ðɪs θɪŋ tu: mi:?],B1_L154_S3.mp3
+4,Я участвовал в этом чемпионате,I participated in this championship,[aɪ pɑ:ˈtɪsɪpeɪtɪd ɪn ðɪs ˈʧæmpiənʃɪp],B1_L154_S4.mp3
+5,Как ты на это ответил?,How did you answer it?,[haʊ dɪd ju: ˈɑ:nsər ɪt?],B1_L154_S5.mp3
+6,Он уехал в другую страну,He left for another country,[hi: left fɔ: əˈnʌðə ˈkʌntri],B1_L154_S6.mp3
+7,Как ты ответил на такой сложный вопрос?,How did you answer such a difficult question?,[haʊ dɪd ju: ˈɑ:nsə sʌʧ ə ˈdɪfɪkəlt ˈkwesʧən?],B1_L154_S7.mp3
+8,Он прибыл на конференцию час спустя,He arrived at the conference an hour later,[hi: əˈraɪvd æt ðə ˈkɒnfərəns ən ˈaʊə ˈleɪtə],B1_L154_S8.mp3
+9,Это сильно повлияло на меня,It influenced me a lot,[ɪt ˈɪnflʊənst mi: ə lɒt],B1_L154_S9.mp3
+10,Эти события повлияли на мое решение,These events influenced my decision,[ði:z ɪˈvents ˈɪnflʊənst maɪ dɪˈsɪʒən],B1_L154_S10.mp3
+11,На прошлой неделе он уехал в Англию,He left for England last week,[hi: left fɔ: ˈɪŋglənd lɑ:st wi:k],B1_L154_S11.mp3
+12,Это сильно повлияло на мою жизнь,It influenced my life greatly,[ɪt ˈɪnflʊənst maɪ laɪf ˈgreɪtli],B1_L154_S12.mp3
+13,Она покинула это место,She left this place,[ʃi: left ðɪs pleɪs],B1_L154_S13.mp3
+14,Как ты ответил на этот вопрос?,How did you answer this question?,[haʊ dɪd ju: ˈɑ:nsə ðɪs ˈkwesʧən?],B1_L154_S14.mp3
+15,Я могу объяснить тебе эту вещь,I can explain this thing to you,[aɪ kæn ɪksˈpleɪn ðɪs θɪŋ tu: ju:],B1_L154_S15.mp3
+16,Он уделяет этому слишком много времени,He devotes too much time to it,[hi: dɪˈvəʊts tu: mʌʧ taɪm tu: ɪt],B1_L154_S16.mp3
+17,Мне нужно подготовиться к этому тесту,I need to prepare for this test,[aɪ ni:d tu: prɪˈpeə fɔ: ðɪs test],B1_L154_S17.mp3
+18,Я подписан на эти каналы,I'm subscribed to these channels,[aɪm səbˈskraɪbd tu: ði:z ˈʧænlz],B1_L154_S18.mp3
+19,Он хочет подать заявку на эту работу,He wants to apply for this job,[hi: wɒnts tu: əˈplaɪ fɔ: ðɪs ʤɒb],B1_L154_S19.mp3
+20,Ты можешь положиться на меня,You can rely on me,[ju: kæn rɪˈlaɪ ɒn mi:],B1_L154_S20.mp3
+21,Почему ты смеешься над этим?,Why are you laughing at it?,[waɪ ɑ: ju: ˈlɑ:fɪŋ æt ɪt?],B1_L154_S21.mp3
+22,Кто указал на твои ошибки?,Who pointed at your mistakes?,[hu: ˈpɔɪntɪd æt jɔ: mɪsˈteɪks?],B1_L154_S22.mp3
+23,Они обвиняют его в убийстве,They accuse him of murder,[ðeɪ əˈkju:z hɪm ɒv ˈmɜ:də],B1_L154_S23.mp3
+24,Что он ищет?,What is he looking for?,[wɒt ɪz hi: ˈlʊkɪŋ fɔ:?],B1_L154_S24.mp3
+25,Он попросил ее о помощи,He asked her for help,[hi: ɑ:skt hɜ: fɔ: help],B1_L154_S25.mp3
+26,Он слишком много времени уделяет этому хобби,He devotes too much time to this hobby,[hi: dɪˈvəʊts tu: mʌʧ taɪm tu: ðɪs ˈhɒbi],B1_L154_S26.mp3
+27,Я хочу поговорить с тобой,I want to talk to you,[aɪ wɒnt tu: tɔ:k tu: ju:],B1_L154_S27.mp3
+28,Она ответила на твое письмо?,Did she reply to your letter?,[dɪd ʃi: rɪˈplaɪ tu: jɔ: ˈletə?],B1_L154_S28.mp3
+29,Что ты ищешь?,What are you searching for?,[wɒt ɑ: ju: ˈsɜ:ʧɪŋ fɔ:?],B1_L154_S29.mp3
+30,Она подала заявление на визу,She applied for a visa,[ʃi: əˈplaɪd fɔ: ə ˈvi:zə],B1_L154_S30.mp3
+31,Он хотел бы поговорить с тобой,He'd like to talk to you,[hi:d laɪk tu: tɔ:k tu: ju:],B1_L154_S31.mp3
+32,Когда он окончил университет?,When did he graduate from university?,[wen dɪd hi: ˈgrædjʊət frɒm ˌju:nɪˈvɜ:sɪti?],B1_L154_S32.mp3
+33,Он участвовал в этом турнире,He participated in this tournament,[hi: pɑ:ˈtɪsɪpeɪtɪd ɪn ðɪs ˈtʊənəmənt],B1_L154_S33.mp3
+34,Он еще не заплатил за это,He hasn't paid for it yet,[hi: ˈhæznt peɪd fɔ: ɪt jet],B1_L154_S34.mp3
+35,Как она отреагировала на твои слова?,How did she react to your words?,[haʊ dɪd ʃi: ri:ˈækt tu: jɔ: wɜ:dz?],B1_L154_S35.mp3
+36,Он прибыл в конце вечеринки,He arrived at the end of the party,[hi: əˈraɪvd æt ði end ɒv ðə ˈpɑ:ti],B1_L154_S36.mp3
+37,Он внезапно улыбнулся ей,He smiled at her suddenly,[hi: smaɪld æt hɜ: ˈsʌdnli],B1_L154_S37.mp3
+38,Я работаю над новым проектом,I'm working on a new project,[aɪm ˈwɜ:kɪŋ ɒn ə nju: ˈprɒʤekt],B1_L154_S38.mp3
+39,Он страдает от этой болезни,He suffers from this disease,[hi: ˈsʌfəz frɒm ðɪs dɪˈzi:z],B1_L154_S39.mp3
+40,Она никогда не жалуется на это,She never complains about it,[ʃi: ˈnevə kəmˈpleɪnz əˈbaʊt ɪt],B1_L154_S40.mp3
+41,Как он на это отреагировал?,How did he react to it?,[haʊ dɪd hi: ri:ˈækt tu: ɪt?],B1_L154_S41.mp3
+42,Он всегда заботится о ней,He always cares about her,[hi: ˈɔ:lweɪz keəz əˈbaʊt hɜ:],B1_L154_S42.mp3
+43,Его обвинили в совершении преступления,He was accused of committing a crime,[hi: wɒz əˈkju:zd ɒv kəˈmɪtɪŋ ə kraɪm],B1_L154_S43.mp3
+44,Хочу поздравить тебя со сдачей такого сложного экзамена,I want to congratulate you on passing such a difficult exam,[aɪ wɒnt tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ sʌʧ ə ˈdɪfɪkəlt ɪgˈzæm],B1_L154_S44.mp3
+45,"Он живет, надеясь на лучшее, но ожидая худшего",He lives hoping for the best but expecting the worst,[hi: lɪvz ˈhəʊpɪŋ fɔ: ðə best bʌt ɪksˈpektɪŋ ðə wɜ:st],B1_L154_S45.mp3
+46,О чем говорят те женщины?,What are those women talking about?,[wɒt ɑ: ðəʊz ˈwɪmɪn ˈtɔ:kɪŋ əˈbaʊt?],B1_L154_S46.mp3
+47,Им не удалось сбежать от полиции,They didn't manage to escape from the police,[ðeɪ dɪdnt ˈmænɪʤ tu: ɪsˈkeɪp frɒm ðə pəˈli:s],B1_L154_S47.mp3
+48,"Я твердо верю, что усердная работа может привести нас к успеху",I firmly believe that hard work can lead us to success,[aɪ ˈfɜ:mli bɪˈli:v ðæt hɑ:d wɜ:k kæn li:d ʌs tu: səkˈses],B1_L154_S48.mp3
+49,Его обвинили в краже этих денег,He was accused of stealing this money,[hi: wɒz əˈkju:zd ɒv ˈsti:lɪŋ ðɪs ˈmʌni],B1_L154_S49.mp3
+50,Я хотел бы поздравить тебя со сдачей такого сложного теста,I'd like to congratulate you on passing such a difficult test,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ sʌʧ ə ˈdɪfɪkəlt test],B1_L154_S50.mp3
+51,"Я хочу сказать, что ты всегда можешь рассчитывать на мою помощь",I want to say that you can always count on my help,[aɪ wɒnt tu: seɪ ðæt ju: kæn ˈɔ:lweɪz kaʊnt ɒn maɪ help],B1_L154_S51.mp3
+52,"О чем вы говорили, когда он тебе позвонил?",What were you talking about when he called you?,[wɒt wɜ: ju: ˈtɔ:kɪŋ əˈbaʊt wen hi: kɔ:ld ju:?],B1_L154_S52.mp3
+53,Мы хотели бы поздравить тебя с днем рождения,We'd like to congratulate you on your birthday,[wi:d laɪk tu: kənˈgrætjʊleɪt ju: ɒn jɔ: ˈbɜ:θdeɪ],B1_L154_S53.mp3
+54,Почему он покинул город?,Why did he leave the city?,[waɪ dɪd hi: li:v ðə ˈsɪti?],B1_L154_S54.mp3
+55,Он винит во всем ее,He blames everything on her,[hi: bleɪmz ˈevrɪθɪŋ ɒn hɜ:],B1_L154_S55.mp3
+56,Ты всегда можешь рассчитывать на нашу поддержку,You can always count on our support,[ju: kæn ˈɔ:lweɪz kaʊnt ɒn ˈaʊə səˈpɔ:t],B1_L154_S56.mp3
+57,Их обвинили в преступлении,They were accused of a crime,[ðeɪ wɜ: əˈkju:zd ɒv ə kraɪm],B1_L154_S57.mp3
+58,Они часто спорят о неважных вещах,They often argue about unimportant things,[ðeɪ ˈɒfn ˈɑ:gju: əˈbaʊt ˌʌnɪmˈpɒtənt θɪŋz],B1_L154_S58.mp3
+59,Они всегда спорят только о важных вещах,They always argue only about important things,[ðeɪ ˈɔ:lweɪz ˈɑ:gju: ˈəʊnli əˈbaʊt ɪmˈpɔ:tənt θɪŋz],B1_L154_S59.mp3
+60,Они иногда спорят об этих вещах,They sometimes argue about these things,[ðeɪ ˈsʌmtaɪmz ˈɑ:gju: əˈbaʊt ði:z θɪŋz],B1_L154_S60.mp3
+61,Почему ты не слушаешь его?,Why don't you listen to him?,[waɪ dəʊnt ju: ˈlɪsn tu: hɪm?],B1_L154_S61.mp3
+62,Я не слушаю ее,I don't listen to her,[aɪ dəʊnt ˈlɪsn tu: hɜ:],B1_L154_S62.mp3
+63,Почему ты не слушаешь меня?,Why don't you listen to me?,[waɪ dəʊnt ju: ˈlɪsn tu: mi:?],B1_L154_S63.mp3
+64,О чем ты думаешь?,What are you thinking about?,[wɒt ɑ: ju: ˈθɪŋkɪŋ əˈbaʊt?],B1_L154_S64.mp3
+65,Я думаю об этом прямо сейчас,I am thinking about it right now,[aɪ æm ˈθɪŋkɪŋ əˈbaʊt ɪt raɪt naʊ],B1_L154_S65.mp3
+66,Я никогда не думал об этом,I have never thought about it,[aɪ hæv ˈnevə θɔ:t əˈbaʊt ɪt],B1_L154_S66.mp3
+67,Он решил подать заявку на эту работу,He decided to apply for this job,[hi: dɪˈsaɪdɪd tu: əˈplaɪ fɔ: ðɪs ʤɒb],B1_L154_S67.mp3
+68,Он подал заявку на визу,He applied for a visa,[hi: əˈplaɪd fɔ: ə ˈvi:zə],B1_L154_S68.mp3
+69,Он подал заявку на ту работу?,Did he apply for that job?,[dɪd hi: əˈplaɪ fɔ: ðæt ʤɒb?],B1_L154_S69.mp3
+70,Она покинула эту страну по многим причинам,She left this country for many reasons,[ʃi: left ðɪs ˈkʌntri fɔ: ˈmeni ˈri:znz],B1_L154_S70.mp3
+71,Она оставила эту работу без причины,She left this job for no reason,[ʃi: left ðɪs ʤɒb fɔ: nəʊ ˈri:zn],B1_L154_S71.mp3
+72,Она уехала в эту страну по многим причинам,She left for this country for many reasons,[ʃi: left fɔ: ðɪs ˈkʌntri fɔ: ˈmeni ˈri:znz],B1_L154_S72.mp3
+73,"Мне пришлось адаптироваться к тем условиям …………….…................................................... 74. Я уже адаптировался к этим условиям …………….…................................................... 75. Мне нужно некоторое время, чтобы адаптироваться к этим условиям …………….…................................................... 76. О чем говорят эти мужчины? …………….…................................................... 77. С кем разговаривает этот мужчина? …………….…................................................... 78. Эти люди говорят о погоде …………….…................................................... 79. Какого рода музыку ты слушаешь? …………….…................................................... 80. Я предпочитаю слушать поп-музыку …………….…................................................... 81. Ты слушаешь такого рода музыку? …………….…................................................... 82. Он обвиняет его во всем …………….…................................................... 83. Она винит во всем его …………….…................................................... 84. Не вини его за все! …………….…................................................... 85. О чем они спорят? …………….…................................................... 8 86. Они спорят об этой проблеме …………….…................................................... 87. Они все еще спорят об этом? …………….…................................................... 88. Я хочу сказать, что я не одобряю эту идею …………….…................................................... 89. Какого рода музыку ты предпочитаешь слушать? …………….…................................................... 90. Кому принадлежит эта вещь? …………….…................................................... 91. Почему ты покинул страну? …………….…................................................... 92. Это может случиться с каждым …………….…................................................... 93. Не вини в этом его …………….…................................................... 94. Чего он ждет? …………….…................................................... 95. Ему удалось получить эту работу …………….…................................................... 96. От чего это зависит? …………….…................................................... 97. Я уже подписался на этот канал …………….…................................................... 98. Это уже случилось? …………….…................................................... 9 99. Не вините его за это! …………….…................................................... 100. Он был приглашен на эту вечеринку …………….…................................................... 101. Кому это принадлежит? …………….…................................................... 102. От чего это будет зависеть? …………….…................................................... 10 Ответы 1. Это будет зависеть от него",It will depend on him,[ɪt wɪl dɪˈpend ɒn hɪm],B1_L154_S73.mp3
+74,Я уже адаптировался к этим условиям,I have already adapted to these conditions,[aɪ hæv ɔ:lˈredi əˈdæptɪd tu: ði:z kənˈdɪʃənz],B1_L154_S74.mp3
+75,"Мне нужно некоторое время, чтобы адаптироваться к этим условиям",I need some time to adapt to these conditions,[aɪ ni:d sʌm taɪm tu: əˈdæpt tu: ði:z kənˈdɪʃənz],B1_L154_S75.mp3
+76,О чем говорят эти мужчины?,What are these men talking about?,[wɒt ɑ: ði:z men ˈtɔ:kɪŋ əˈbaʊt?],B1_L154_S76.mp3
+77,С кем разговаривает этот мужчина?,Who is this man talking to?,[hu: ɪz ðɪs mæn ˈtɔ:kɪŋ tu:?],B1_L154_S77.mp3
+78,Эти люди говорят о погоде,These people are talking about the weather,[ði:z ˈpi:pl ɑ: ˈtɔ:kɪŋ əˈbaʊt ðə ˈweðə],B1_L154_S78.mp3
+79,Какого рода музыку ты слушаешь?,What kind of music do you listen to?,[wɒt kaɪnd ɒv ˈmju:zɪk du: ju: ˈlɪsn tu:?],B1_L154_S79.mp3
+80,Я предпочитаю слушать поп-музыку,I prefer to listen to pop music,[aɪ priˈfɜ: tu: ˈlɪsn tu: pɒp ˈmju:zɪk],B1_L154_S80.mp3
+81,Ты слушаешь такого рода музыку?,Do you listen to this kind of music?,[du: ju: ˈlɪsn tu: ðɪs kaɪnd ɒv ˈmju:zɪk?],B1_L154_S81.mp3
+82,Он обвиняет его во всем,He blames him for everything,[hi: bleɪmz hɪm fɔ: ˈevrɪθɪŋ],B1_L154_S82.mp3
+83,Она винит во всем его,She blames everything on him,[ʃi: bleɪmz ˈevrɪθɪŋ ɒn hɪm],B1_L154_S83.mp3
+84,Не вини его за все!,Don't blame him for everything!,[dəʊnt bleɪm hɪm fɔ: ˈevrɪθɪŋ!],B1_L154_S84.mp3
+85,О чем они спорят?,What are they arguing about?,[wɒt ɑ: ðeɪ ˈɑ:gju:ɪŋ əˈbaʊt?],B1_L154_S85.mp3
+86,Они спорят об этой проблеме,They are arguing about this problem,[ðeɪ ɑ:r ˈɑ:gju:ɪŋ əˈbaʊt ðɪs ˈprɒbləm],B1_L154_S86.mp3
+87,Они все еще спорят об этом?,Are they still arguing about it?,[ɑ: ðeɪ stɪl ˈɑ:gju:ɪŋ əˈbaʊt ɪt?],B1_L154_S87.mp3
+88,"Я хочу сказать, что я не одобряю эту идею",I want to say that I don't approve of this idea,[aɪ wɒnt tu: seɪ ðæt aɪ dəʊnt əˈpru:v ɒv ðɪs aɪˈdɪə],B1_L154_S88.mp3
+89,Какого рода музыку ты предпочитаешь слушать?,What sort of music do you prefer to listen to?,[wɒt sɔ:t ɒv ˈmju:zɪk du: ju: priˈfɜ: tu: ˈlɪsn tu:?],B1_L154_S89.mp3
+90,Кому принадлежит эта вещь?,Who does this thing belong to?,[hu: dʌz ðɪs θɪŋ bɪˈlɒŋ tu:?],B1_L154_S90.mp3
+91,Почему ты покинул страну?,Why did you leave - the country?,[waɪ dɪd ju: li:v - ðə ˈkʌntri?],B1_L154_S91.mp3
+92,Это может случиться с каждым,It can happen to anyone,[ɪt kæn ˈhæpən tu: ˈenɪwʌn],B1_L154_S92.mp3
+93,Не вини в этом его,Don't blame it on him,[dəʊnt bleɪm ɪt ɒn hɪm],B1_L154_S93.mp3
+94,Чего он ждет?,What is he waiting for?,[wɒt ɪz hi: ˈweɪtɪŋ fɔ:?],B1_L154_S94.mp3
+95,Ему удалось получить эту работу,He succeeded in getting this job,[hi: səkˈsi:dɪd ɪn ˈgetɪŋ ðɪs ʤɒb],B1_L154_S95.mp3
+96,От чего это зависит?,What does it depend on?,[wɒt dʌz ɪt dɪˈpend ɒn?],B1_L154_S96.mp3
+97,Я уже подписался на этот канал,I have already subscribed to this channel,[aɪ hæv ɔ:lˈredi səbˈskraɪbd tu: ðɪs ˈʧænl],B1_L154_S97.mp3
+98,Это уже случилось?,Has it already happened?,[hæz ɪt ɔ:lˈredi ˈhæpənd?],B1_L154_S98.mp3
+99,Не вините его за это!,Don't blame him for it!,[dəʊnt bleɪm hɪm fɔ: ɪt!],B1_L154_S99.mp3
+100,Он был приглашен на эту вечеринку,He was invited to this party,[hi: wɒz ɪnˈvaɪtɪd tu: ðɪs ˈpɑ:ti],B1_L154_S100.mp3
+101,Кому это принадлежит?,Who does it belong to?,[hu: dʌz ɪt bɪˈlɒŋ tu:?],B1_L154_S101.mp3
+102,От чего это будет зависеть?,What will it depend on?,[wɒt wɪl ɪt dɪˈpend ɒn?],B1_L154_S102.mp3

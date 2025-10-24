@@ -1,0 +1,102 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она замужем за моим другом,She’s married to my friend,[ʃi:z ˈmærɪd tu: maɪ frend],B1_L152_S2.mp3
+3,Он был виновен в убийстве,He was guilty of murder,[hi: wɒz ˈgɪlti ɒv ˈmɜ:də],B1_L152_S3.mp3
+4,Руководство осведомлено об этих проблемах,The management are aware of these problems,[ðə ˈmænɪʤmənt ɑ: əˈweər ɒv ði:z ˈprɒbləmz],B1_L152_S4.mp3
+5,Ему не было стыдно за такое поведение,He wasn't ashamed of such behaviour,[hi: wɒznt əˈʃeɪmd ɒv sʌʧ bɪˈheɪvjə],B1_L152_S5.mp3
+6,Он был виновен в этом преступлении,He was guilty of this crime,[hi: wɒz ˈgɪlti ɒv ðɪs kraɪm],B1_L152_S6.mp3
+7,Это очень вредно для твоего здоровья,It's very harmful to your health,[ɪts ˈveri ˈhɑ:mfəl tu: jɔ: helθ],B1_L152_S7.mp3
+8,Руководство было осведомлено об этих трудностях,The management were aware of these difficulties,[ðə ˈmænɪʤmənt wɜ: əˈweər ɒv ði:z ˈdɪfɪkəltiz],B1_L152_S8.mp3
+9,Это может быть очень вредно для твоего здоровья,It can be very harmful to your health,[ɪt kæn bi: ˈveri ˈhɑ:mfəl tu: jɔ: helθ],B1_L152_S9.mp3
+10,Ему должно быть стыдно за это,He should be ashamed of it,[hi: ʃʊd bi: əˈʃeɪmd ɒv ɪt],B1_L152_S10.mp3
+11,Он не был виновен в преступлении,He wasn't guilty of the crime,[hi: wɒznt ˈgɪlti ɒv ðə kraɪm],B1_L152_S11.mp3
+12,Я еще не готов к этому,I'm not ready for it yet,[aɪm nɒt ˈredi fɔ: ɪt jet],B1_L152_S12.mp3
+13,Это очень эгоистично с его стороны,It's very selfish of him,[ɪts ˈveri ˈselfɪʃ ɒv hɪm],B1_L152_S13.mp3
+14,Он занят своим домашним заданием,He is busy with his homework,[hi: ɪz ˈbɪzi wɪð hɪz ˈhəʊmˌwɜ:k],B1_L152_S14.mp3
+15,Это очень жестоко с его стороны,It's very cruel of him,[ɪts ˈveri krʊəl ɒv hɪm],B1_L152_S15.mp3
+16,Она знает об этих рисках,She's aware of these risks,[ʃi:z əˈweər ɒv ði:z rɪsks],B1_L152_S16.mp3
+17,Я не рад этим результатам,I'm not happy about these results,[aɪm nɒt ˈhæpi əˈbaʊt ði:z rɪˈzʌlts],B1_L152_S17.mp3
+18,Я был поражен красотой этого места,I was amazed by the beauty of this place,[aɪ wɒz əˈmeɪzd baɪ ðə ˈbju:ti ɒv ðɪs pleɪs],B1_L152_S18.mp3
+19,Он действительно рад этому,He's really happy about it,[hi:z ˈrɪəli ˈhæpi əˈbaʊt ɪt],B1_L152_S19.mp3
+20,Ей действительно стыдно за это,She is really ashamed of it,[ʃi: ɪz ˈrɪəli əˈʃeɪmd ɒv ɪt],B1_L152_S20.mp3
+21,Тебе нужно быть более осторожным с этим,You need to be more careful with it,[ju: ni:d tu: bi: mɔ: ˈkeəfəl wɪð ɪt],B1_L152_S21.mp3
+22,Они действительно были вдохновлены его словами,They were really inspired by his words,[ðeɪ wɜ: ˈrɪəli ɪnˈspaɪəd baɪ hɪz wɜ:dz],B1_L152_S22.mp3
+23,Это очень вредно для детей,It's very harmful to children,[ɪts ˈveri ˈhɑ:mfəl tu: ˈʧɪldrən],B1_L152_S23.mp3
+24,Эти две вещи тесно связаны друг с другом,These two things are closely connected with each other,[ði:z tu: θɪŋz ɑ: ˈkləʊsli kəˈnektɪd wɪð i:ʧ ˈʌðə],B1_L152_S24.mp3
+25,Он очень занят этой работой,He is very busy with this work,[hi: ɪz ˈveri ˈbɪzi wɪð ðɪs wɜ:k],B1_L152_S25.mp3
+26,Он очень увлечен этой идеей,He is very enthusiastic about this idea,[hi: ɪz ˈveri ɪnˌθju:zɪˈæstɪk əˈbaʊt ðɪs aɪˈdɪə],B1_L152_S26.mp3
+27,Я был поражен результатами,I was amazed by the results,[aɪ wɒz əˈmeɪzd baɪ ðə rɪˈzʌlts],B1_L152_S27.mp3
+28,Что с этим не так?,What's wrong with it?,[wɒts rɒŋ wɪð ɪt?],B1_L152_S28.mp3
+29,Что-то не так с двигателем,Something is wrong with the engine,[ˈsʌmθɪŋ ɪz rɒŋ wɪð ði ˈenʤɪn],B1_L152_S29.mp3
+30,Он очень успешен в бизнесе,He is very successful in business,[hi: ɪz ˈveri səkˈsesfəl ɪn ˈbɪznɪs],B1_L152_S30.mp3
+31,Город всегда переполнен туристами,The city is always crowded with tourists,[ðə ˈsɪti ɪz ˈɔ:lweɪz ˈkraʊdɪd wɪð ˈtʊərɪsts],B1_L152_S31.mp3
+32,Я полностью удовлетворен этими результатами,I'm fully satisfied with these results,[aɪm ˈfʊli ˈsætɪsfaɪd wɪð ði:z rɪˈzʌlts],B1_L152_S32.mp3
+33,Наш босс очень дружелюбен со своими сотрудниками,Our boss is very friendly with his employees,[ˈaʊə bɒs ɪz ˈveri ˈfrendli wɪð hɪz ˌemplɔɪˈi:z],B1_L152_S33.mp3
+34,Я знаю об этих изменениях,I'm aware of these changes,[aɪm əˈweər ɒv ði:z ˈʧeɪnʤɪz],B1_L152_S34.mp3
+35,Эта книга подходит для начинающих,This book is suitable for beginners,[ðɪs bʊk ɪz ˈsju:təbl fɔ: bɪˈgɪnəz],B1_L152_S35.mp3
+36,Кто ответственный за все это?,Who is responsible for all this?,[hu: ɪz rɪsˈpɒnsəbl fɔ: ɔ:l ðɪs?],B1_L152_S36.mp3
+37,Я был действительно вдохновлен этой речью,I was really inspired by this speech,[aɪ wɒz ˈrɪəli ɪnˈspaɪəd baɪ ðɪs spi:ʧ],B1_L152_S37.mp3
+38,Эта программа не подходит для детей,This program isn't suitable for children,[ðɪs ˈprəʊgræm ˈɪznt ˈsju:təbl fɔ: ˈʧɪldrən],B1_L152_S38.mp3
+39,Это место переполнено туристами,This place is crowded with tourists,[ðɪs pleɪs ɪz ˈkraʊdɪd wɪð ˈtʊərɪsts],B1_L152_S39.mp3
+40,Он очень жесток с этим беднягой,He is very cruel to this poor man,[hi: ɪz ˈveri krʊəl tu: ðɪs pʊə mæn],B1_L152_S40.mp3
+41,Что-то не так с лифтом,Something is wrong with the elevator,[ˈsʌmθɪŋ ɪz rɒŋ wɪð ði ˈelɪveɪtə],B1_L152_S41.mp3
+42,Я был поражен моими результатами,I was amazed by my results,[aɪ wɒz əˈmeɪzd baɪ maɪ rɪˈzʌlts],B1_L152_S42.mp3
+43,Я был действительно вдохновлен достижениями моего друга,I was really inspired by my friend's achievements,[aɪ wɒz ˈrɪəli ɪnˈspaɪəd baɪ maɪ frendz əˈʧi:vmənts],B1_L152_S43.mp3
+44,Он боится неизвестности,He's scared of the unknown,[hi:z skeəd ɒv ði ʌnˈnəʊn],B1_L152_S44.mp3
+45,Он женат на ней пять лет,He has been married to her for five years,[hi: hæz bi:n ˈmærɪd tu: hɜ: fɔ: faɪv jɪəz],B1_L152_S45.mp3
+46,"Эти материалы подходят для начинающих, а также для более высоких уровней",These materials are suitable for beginners and higher levels as well,[ði:z məˈtɪərɪəlz ɑ: ˈsju:təbl fɔ: bɪˈgɪnəz ænd ˈhaɪə ˈlevlz æz wel],B1_L152_S46.mp3
+47,"Часто говорится, что курение очень вредно для здоровья людей",It is often said that smoking is very harmful to people's health,[ɪt ɪz ˈɒfn sed ðæt ˈsməʊkɪŋ ɪz ˈveri ˈhɑ:mfəl tu: ˈpi:plz helθ],B1_L152_S47.mp3
+48,Он недоволен результатами теста,He is dissatisfied with the results of the test,[hi: ɪz ˌdɪsˈsætɪsfaɪd wɪð ðə rɪˈzʌlts ɒv ðə test],B1_L152_S48.mp3
+49,Она замужем за ним более тридцати лет,She has been married to him for over thirty years,[ʃi: hæz bi:n ˈmærɪd tu: hɪm fɔ: ˈəʊvə ˈθɜ:ti jɪəz],B1_L152_S49.mp3
+50,Он был действительно вдохновлен достижениями своих друзей,He was really inspired by his friends' achievements,[hi: wɒz ˈrɪəli ɪnˈspaɪəd baɪ hɪz frendz əˈʧi:vmənts],B1_L152_S50.mp3
+51,Я недоволен качеством этого сервиса,I'm dissatisfied with the quality of this service,[aɪm ˌdɪsˈsætɪsfaɪd wɪð ðə ˈkwɒlɪti ɒv ðɪs ˈsɜ:vɪs],B1_L152_S51.mp3
+52,Она очень подозрительна к нему,She is very suspicious of him,[ʃi: ɪz ˈveri səsˈpɪʃəs ɒv hɪm],B1_L152_S52.mp3
+53,Это близко к этому месту,It is close to this place,[ɪt ɪz kləʊs tu: ðɪs pleɪs],B1_L152_S53.mp3
+54,Чем ты обожаешь заниматься?,What are you fond of doing?,[wɒt ɑ: ju: fɒnd ɒv ˈdu:ɪŋ?],B1_L152_S54.mp3
+55,Он очень вежлив с ней,He is very polite to her,[hi: ɪz ˈveri pəˈlaɪt tu: hɜ:],B1_L152_S55.mp3
+56,В чем ты заинтересован?,What are you interested in?,[wɒt ɑ: ju: ˈɪntrɪstɪd ɪn?],B1_L152_S56.mp3
+57,Она очень подозрительно относится к другим людям,She is very suspicious of other people,[ʃi: ɪz ˈveri səsˈpɪʃəs ɒv ˈʌðə ˈpi:pl],B1_L152_S57.mp3
+58,"Я думаю, что-то с ним не так",I think something is wrong with him,[aɪ θɪŋk ˈsʌmθɪŋ ɪz rɒŋ wɪð hɪm],B1_L152_S58.mp3
+59,"Я думаю, что-то не так с этой вещью",I think something is wrong with this thing,[aɪ θɪŋk ˈsʌmθɪŋ ɪz rɒŋ wɪð ðɪs θɪŋ],B1_L152_S59.mp3
+60,С ней что-то не так?,Is something wrong with her?,[ɪz ˈsʌmθɪŋ rɒŋ wɪð hɜ:?],B1_L152_S60.mp3
+61,Она живет близко к нему,She lives close to him,[ʃi: lɪvz kləʊs tu: hɪm],B1_L152_S61.mp3
+62,Она живет ближе к тому парку,She lives closer to that park,[ʃi: lɪvz ˈkləʊsə tu: ðæt pɑ:k],B1_L152_S62.mp3
+63,Они живут близко ко мне,They live close to me,[ðeɪ lɪv kləʊs tu: mi:],B1_L152_S63.mp3
+64,Чем ты обеспокоен?,What are you worried about?,[wɒt ɑ: ju: ˈwʌrid əˈbaʊt?],B1_L152_S64.mp3
+65,Я не беспокоюсь о своих результатах,I don't worry about my results,[aɪ dəʊnt ˈwʌri əˈbaʊt maɪ rɪˈzʌlts],B1_L152_S65.mp3
+66,Ты обеспокоен результатом этого теста?,Are you worried about the result of this test?,[ɑ: ju: ˈwʌrid əˈbaʊt ðə rɪˈzʌlt ɒv ðɪs test?],B1_L152_S66.mp3
+67,"Чем ты увлекаешься? …………….…................................................... 68. Я увлекаюсь чтением на английском …………….…................................................... 69. Ты увлекаешься музыкой? …………….…................................................... 70. Он ничего не боится …………….…................................................... 71. Я боюсь темноты …………….…................................................... 72. Она боится неизвестности …………….…................................................... 73. Чего ты боишься? …………….…................................................... 74. Я действительно боюсь пауков …………….…................................................... 75. Ты боишься пауков? …………….…................................................... 76. За что ей стыдно? …………….…................................................... 77. Ей стыдно за свое поведение …………….…................................................... 78. Ей стыдно за это? …………….…................................................... 8 79. За кем она замужем? …………….…................................................... 80. Она замужем за моим братом …………….…................................................... 81. На ком он женат? …………….…................................................... 82. Чего он боялся? …………….…................................................... 83. Чего он боится? …………….…................................................... 84. Он боялся этого? …………….…................................................... 85. На что она злится? …………….…................................................... 86. Она злится на меня? …………….…................................................... 87. Я больше не злюсь на тебя …………….…................................................... 88. Тебе нужно быть более вежливы с ним …………….…................................................... 89. Она действительно боится неизвестности …………….…................................................... 90. Я был полностью удовлетворен результатами того теста …………….…................................................... 9 91. Это очень эгоистично с его стороны вести себя так …………….…................................................... 92. Он очень подозрителен к другим …………….…................................................... 93. Это очень эгоистично с его стороны …………….…................................................... игнорировать потребности других людей …………….…................................................... 94. Не принимай это близко к сердцу! …………….…................................................... 95. Я вижу, ты в восторге от этого проекта …………….…................................................... 96. Я не удовлетворен качеством этих продуктов …………….…................................................... 97. Тебе следует быть более вежливым со своими коллегами …………….…................................................... 98. На ком он женат? …………….…................................................... 99. Что с этим не так? …………….…................................................... 100. Чем они удивлены? …………….…................................................... 101. Из-за чего он злится? …………….…................................................... 10 102. Что ты любишь? …………….…................................................... 11 Ответы 1. Я готов к этому",I'm ready for it,[aɪm ˈredi fɔ: ɪt],B1_L152_S67.mp3
+68,Я увлекаюсь чтением на английском,I'm keen on reading in English,[aɪm ki:n ɒn ˈri:dɪŋ ɪn ˈɪŋglɪʃ],B1_L152_S68.mp3
+69,Ты увлекаешься музыкой?,Are you keen on music?,[ɑ: ju: ki:n ɒn ˈmju:zɪk?],B1_L152_S69.mp3
+70,Он ничего не боится,He isn't scared of anything,[hi: ˈɪznt skeəd ɒv ˈenɪθɪŋ],B1_L152_S70.mp3
+71,Я боюсь темноты,I'm scared of darkness,[aɪm skeəd ɒv ˈdɑ:knɪs],B1_L152_S71.mp3
+72,Она боится неизвестности,She is scared of the unknown,[ʃi: ɪz skeəd ɒv ði ʌnˈnəʊn],B1_L152_S72.mp3
+73,Чего ты боишься?,What are you afraid of?,[wɒt ɑ: ju: əˈfreɪd ɒv?],B1_L152_S73.mp3
+74,Я действительно боюсь пауков,I'm really afraid of spiders,[aɪm ˈrɪəli əˈfreɪd ɒv ˈspaɪdəz],B1_L152_S74.mp3
+75,Ты боишься пауков?,Are you afraid of spiders?,[ɑ: ju: əˈfreɪd ɒv ˈspaɪdəz?],B1_L152_S75.mp3
+76,За что ей стыдно?,What is she ashamed of?,[wɒt ɪz ʃi: əˈʃeɪmd ɒv?],B1_L152_S76.mp3
+77,Ей стыдно за свое поведение,She is ashamed of her behaviour,[ʃi: ɪz əˈʃeɪmd ɒv hɜ: bɪˈheɪvjə],B1_L152_S77.mp3
+78,Ей стыдно за это?,Is she ashamed of it?,[ɪz ʃi: əˈʃeɪmd ɒv ɪt?],B1_L152_S78.mp3
+79,За кем она замужем?,Who is she married to?,[hu: ɪz ʃi: ˈmærɪd tu:?],B1_L152_S79.mp3
+80,Она замужем за моим братом,She is married to my brother,[ʃi: ɪz ˈmærɪd tu: maɪ ˈbrʌðə],B1_L152_S80.mp3
+81,На ком он женат?,Who is he married to?,[hu: ɪz hi: ˈmærɪd tu:?],B1_L152_S81.mp3
+82,Чего он боялся?,What was he frightened of?,[wɒt wɒz hi: ˈfraɪtnd ɒv?],B1_L152_S82.mp3
+83,Чего он боится?,What is he frightened of?,[wɒt ɪz hi: ˈfraɪtnd ɒv?],B1_L152_S83.mp3
+84,Он боялся этого?,Was he frightened of it?,[wɒz hi: ˈfraɪtnd ɒv ɪt?],B1_L152_S84.mp3
+85,На что она злится?,What is she angry with?,[wɒt ɪz ʃi: ˈæŋgri wɪð?],B1_L152_S85.mp3
+86,Она злится на меня?,Is she angry with me?,[ɪz ʃi: ˈæŋgri wɪð mi:?],B1_L152_S86.mp3
+87,Я больше не злюсь на тебя,I'm not angry with you anymore,[aɪm nɒt ˈæŋgri wɪð ju: ˌeniˈmɔ:],B1_L152_S87.mp3
+88,Тебе нужно быть более вежливы с ним,You need to be more polite to him,[ju: ni:d tu: bi: mɔ: pəˈlaɪt tu: hɪm],B1_L152_S88.mp3
+89,Она действительно боится неизвестности,She's really scared of the unknown,[ʃi:z ˈrɪəli skeəd ɒv ði ʌnˈnəʊn],B1_L152_S89.mp3
+90,Я был полностью удовлетворен результатами того теста,I was fully satisfied with the results of that test,[aɪ wɒz ˈfʊli ˈsætɪsfaɪd wɪð ðə rɪˈzʌlts ɒv ðæt test],B1_L152_S90.mp3
+91,Это очень эгоистично с его стороны вести себя так,It's very selfish of him to behave so,[ɪts ˈveri ˈselfɪʃ ɒv hɪm tu: bɪˈheɪv səʊ],B1_L152_S91.mp3
+92,Он очень подозрителен к другим,He is very suspicious of others,[hi: ɪz ˈveri səsˈpɪʃəs ɒv ˈʌðəz],B1_L152_S92.mp3
+93,Это очень эгоистично с его стороны игнорировать потребности других людей,It's very selfish of him to ignore other people's needs,[ɪts ˈveri ˈselfɪʃ ɒv hɪm tu: ɪgˈnɔ:r ˈʌðə ˈpi:plz ni:dz],B1_L152_S93.mp3
+94,Не принимай это близко к сердцу!,Don't take it to your heart!,[dəʊnt teɪk ɪt tu: jɔ: hɑ:t!],B1_L152_S94.mp3
+95,"Я вижу, ты в восторге от этого проекта",I see you are very enthusiastic about this project,[aɪ si: ju: ɑ: ˈveri ɪnˌθju:zɪˈæstɪk əˈbaʊt ðɪs ˈprɒʤekt],B1_L152_S95.mp3
+96,Я не удовлетворен качеством этих продуктов,I'm not satisfied with the quality of these products,[aɪm nɒt ˈsætɪsfaɪd wɪð ðə ˈkwɒlɪti ɒv ði:z ˈprɒdʌkts],B1_L152_S96.mp3
+97,Тебе следует быть более вежливым со своими коллегами,You should be more polite to your colleagues,[ju: ʃʊd bi: mɔ: pəˈlaɪt tu: jɔ: ˈkɒli:gz],B1_L152_S97.mp3
+98,На ком он женат?,Who is he married to?,[hu: ɪz hi: ˈmærɪd tu:?],B1_L152_S98.mp3
+99,Что с этим не так?,What's wrong with it?,[wɒts rɒŋ wɪð ɪt?],B1_L152_S99.mp3
+100,Чем они удивлены?,What are they surprised by?,[wɒt ɑ: ðeɪ səˈpraɪzd baɪ?],B1_L152_S100.mp3
+101,Из-за чего он злится?,What is he angry about?,[wɒt ɪz hi: ˈæŋgri əˈbaʊt?],B1_L152_S101.mp3
+102,Что ты любишь?,What are you fond of?,[wɒt ɑ: ju: fɒnd ɒv?],B1_L152_S102.mp3

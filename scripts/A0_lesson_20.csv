@@ -1,0 +1,94 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Это намного дороже?,Is it much more expensive?,[ɪz ɪt mʌʧ mɔ: ɪksˈpensɪv?],A0_L20_S1.mp3
+2,Они очень профессиональные работники?,Are they very professional workers?,[ɑ: ðeɪ ˈveri prəˈfeʃənl ˈwɜ:kəz?],A0_L20_S2.mp3
+3,Ты в порядке?,Are you OK?,[ɑ: ju: ˈəʊˈkeɪ?],A0_L20_S3.mp3
+4,Что в той сумке?,What's in that bag?,[wɒts ɪn ðæt bæg?],A0_L20_S4.mp3
+5,Ты сейчас в парке?,Are you in the park now?,[ɑ: ju: ɪn ðə pɑ:k naʊ?],A0_L20_S5.mp3
+6,Она очень бедная?,Is she very poor?,[ɪz ʃi: ˈveri pʊə?],A0_L20_S6.mp3
+7,Ты там работаешь?,Do you work there?,[du: ju: wɜ:k ðeə?],A0_L20_S7.mp3
+8,Это опасно?,Is it dangerous?,[ɪz ɪt ˈdeɪnʤrəs?],A0_L20_S8.mp3
+9,Что опасно?,What is dangerous?,[wɒt ɪz ˈdeɪnʤrəs?],A0_L20_S9.mp3
+10,Ты здесь учишься?,Do you study here?,[du: ju: ˈstʌdi hɪə?],A0_L20_S10.mp3
+11,Почему это так странно?,Why is it so strange?,[waɪ ɪz ɪt səʊ streɪnʤ?],A0_L20_S11.mp3
+12,Она бедная?,Is she poor?,[ɪz ʃi: pʊə?],A0_L20_S12.mp3
+13,Это плохо?,Is it bad?,[ɪz ɪt bæd?],A0_L20_S13.mp3
+14,Он студент?,Is he a student?,[ɪz hi: ə ˈstju:dənt?],A0_L20_S14.mp3
+15,Ты действительно сердишься?,Are you really angry?,[ɑ: ju: ˈrɪəli ˈæŋgri?],A0_L20_S15.mp3
+16,Ты сейчас на работе?,Are you at work now?,[ɑ: ju: æt wɜ:k naʊ?],A0_L20_S16.mp3
+17,Что ты думаешь об этом?,What do you think about it?,[wɒt du: ju: θɪŋk əˈbaʊt ɪt?],A0_L20_S17.mp3
+18,Она журналист?,Is she a journalist?,[ɪz ʃi: ə ˈʤɜ:nəlɪst?],A0_L20_S18.mp3
+19,Это хорошо?,Is it good?,[ɪz ɪt gʊd?],A0_L20_S19.mp3
+20,Почему это так опасно?,Why is it so dangerous?,[waɪ ɪz ɪt səʊ ˈdeɪnʤrəs?],A0_L20_S20.mp3
+21,Тебе нравится та профессия?,Do you like that profession?,[du: ju: laɪk ðæt prəˈfeʃən?],A0_L20_S21.mp3
+22,Он журналист?,Is he a journalist?,[ɪz hi: ə ˈʤɜ:nəlɪst?],A0_L20_S22.mp3
+23,Почему это плохо?,Why is it bad?,[waɪ ɪz ɪt bæd?],A0_L20_S23.mp3
+24,Он богат?,Is he rich?,[ɪz hi: rɪʧ?],A0_L20_S24.mp3
+25,Они очень хорошие работники?,Are they very good workers?,[ɑ: ðeɪ ˈveri gʊd ˈwɜ:kəz?],A0_L20_S25.mp3
+26,Он очень богат?,Is he very rich?,[ɪz hi: ˈveri rɪʧ?],A0_L20_S26.mp3
+27,Он в порядке?,Is he OK?,[ɪz hi: ˈəʊˈkeɪ?],A0_L20_S27.mp3
+28,Как она себя чувствует?,How does she feel?,[haʊ dʌz ʃi: fi:l?],A0_L20_S28.mp3
+29,Это очень популярно в наши дни?,Is it very popular nowadays?,[ɪz ɪt ˈveri ˈpɒpjʊlə ˈnaʊədeɪz?],A0_L20_S29.mp3
+30,Кто с тобой?,Who is with you?,[hu: ɪz wɪð ju:?],A0_L20_S30.mp3
+31,Почему это так популярно?,Why is it so popular?,[waɪ ɪz ɪt səʊ ˈpɒpjʊlə?],A0_L20_S31.mp3
+32,Чего он хочет?,What does he want?,[wɒt dʌz hi: wɒnt?],A0_L20_S32.mp3
+33,Что дешевле?,What is cheaper?,[wɒt ɪz ˈʧi:pə?],A0_L20_S33.mp3
+34,Это очень популярно?,Is it very popular?,[ɪz ɪt ˈveri ˈpɒpjʊlə?],A0_L20_S34.mp3
+35,Ты часто гуляешь в парке?,Do you often walk in the park?,[du: ju: ˈɒfn wɔ:k ɪn ðə pɑ:k?],A0_L20_S35.mp3
+36,Что ты думаешь об этих вещах?,What do you think about these things?,[wɒt du: ju: θɪŋk əˈbaʊt ði:z θɪŋz?],A0_L20_S36.mp3
+37,Она студентка?,Is she a student?,[ɪz ʃi: ə ˈstju:dənt?],A0_L20_S37.mp3
+38,Ты поддерживаешь это?,Do you support it?,[du: ju: səˈpɔ:t ɪt?],A0_L20_S38.mp3
+39,Что в этой сумке?,What is in this bag?,[wɒt ɪz ɪn ðɪs bæg?],A0_L20_S39.mp3
+40,Почему это хорошо?,Why is it good?,[waɪ ɪz ɪt gʊd?],A0_L20_S40.mp3
+41,Он поддерживает эту идею?,Does he support this idea?,[dʌz hi: səˈpɔ:t ðɪs aɪˈdɪə?],A0_L20_S41.mp3
+42,Это лучший результат?,Is it the best result?,[ɪz ɪt ðə best rɪˈzʌlt?],A0_L20_S42.mp3
+43,Это полезно?,Is it useful?,[ɪz ɪt ˈju:sfəl?],A0_L20_S43.mp3
+44,Что ты обычно отвечаешь?,What do you usually answer?,[wɒt du: ju: ˈju:ʒʊəli ˈɑ:nsə?],A0_L20_S44.mp3
+45,Ты обеспокоен?,Are you worried?,[ɑ: ju: ˈwʌrid?],A0_L20_S45.mp3
+46,Он носит формальную одежду?,Does he wear formal clothes?,[dʌz hi: weə ˈfɔ:məl kləʊðz?],A0_L20_S46.mp3
+47,Это гораздо дороже?,Is it much more expensive?,[ɪz ɪt mʌʧ mɔ: ɪksˈpensɪv?],A0_L20_S47.mp3
+48,Это действительно так интересно?,Is it really so interesting?,[ɪz ɪt ˈrɪəli səʊ ˈɪntrɪstɪŋ?],A0_L20_S48.mp3
+49,Ты носишь повседневную одежду?,Do you wear casual clothes?,[du: ju: weə ˈkæʒjʊəl kləʊðz?],A0_L20_S49.mp3
+50,Ты действительно обеспокоен?,Are you really worried?,[ɑ: ju: ˈrɪəli ˈwʌrid?],A0_L20_S50.mp3
+51,Что ты обычно покупаешь там?,What do you usually buy there?,[wɒt du: ju: ˈju:ʒʊəli baɪ ðeə?],A0_L20_S51.mp3
+52,Она носит бедную одежду?,Does she wear poor clothes?,[dʌz ʃi: weə pʊə kləʊðz?],A0_L20_S52.mp3
+53,Этого достаточно для тебя?,Is it enough for you?,[ɪz ɪt ɪˈnʌf fɔ: ju:?],A0_L20_S53.mp3
+54,Ты предпочитаешь повседневную одежду?,Do you prefer casual clothes?,[du: ju: priˈfɜ: ˈkæʒjʊəl kləʊðz?],A0_L20_S54.mp3
+55,Это действительно так важно?,Is it really so important?,[ɪz ɪt ˈrɪəli səʊ ɪmˈpɔ:tənt?],A0_L20_S55.mp3
+56,Это намного дешевле?,Is it much cheaper?,[ɪz ɪt mʌʧ ˈʧi:pə?],A0_L20_S56.mp3
+57,Он хороший или нет?,Is he good or not?,[ɪz hi: gʊd ɔ: nɒt?],A0_L20_S57.mp3
+58,Это хорошо или плохо?,Is it good or bad?,[ɪz ɪt gʊd ɔ: bæd?],A0_L20_S58.mp3
+59,Это действительно полезно?,Is it really useful?,[ɪz ɪt ˈrɪəli ˈju:sfəl?],A0_L20_S59.mp3
+60,Он действительно обеспокоен?,Is he really worried?,[ɪz hi: ˈrɪəli ˈwʌrid?],A0_L20_S60.mp3
+61,Ей нравится ее работа?,Does she like her job?,[dʌz ʃi: laɪk hɜ: ʤɒb?],A0_L20_S61.mp3
+62,Ей нравится ее одежда?,Does she like her clothes?,[dʌz ʃi: laɪk hɜ: kləʊðz?],A0_L20_S62.mp3
+63,Тебе нравится твоя работа?,Do you like your job?,[du: ju: laɪk jɔ: ʤɒb?],A0_L20_S63.mp3
+64,Кто против этого решения?,Who is against this decision?,[hu: ɪz əˈgenst ðɪs dɪˈsɪʒən?],A0_L20_S64.mp3
+65,Кто против этой вещи?,Who is against this thing?,[hu: ɪz əˈgenst ðɪs θɪŋ?],A0_L20_S65.mp3
+66,Кто против того решения?,Who is against that decision?,[hu: ɪz əˈgenst ðæt dɪˈsɪʒən?],A0_L20_S66.mp3
+67,Это действительно выглядит так полезно?,Does it really look so useful?,[dʌz ɪt ˈrɪəli lʊk səʊ ˈju:sfəl?],A0_L20_S67.mp3
+68,Это действительно выглядит так интересно?,Does it really look so interesting?,[dʌz ɪt ˈrɪəli lʊk səʊ ˈɪntrɪstɪŋ?],A0_L20_S68.mp3
+69,Это дешевле?,Is it cheaper?,[ɪz ɪt ˈʧi:pə?],A0_L20_S69.mp3
+70,Это стоит намного меньше?,Does it cost much less?,[dʌz ɪt kɒst mʌʧ les?],A0_L20_S70.mp3
+71,Это стоит намного больше?,Does it cost much more?,[dʌz ɪt kɒst mʌʧ mɔ:?],A0_L20_S71.mp3
+72,Почему ты так занят в данный момент?,Why are you so busy at the moment?,[waɪ ɑ: ju: səʊ ˈbɪzi æt ðə ˈməʊmənt?],A0_L20_S72.mp3
+73,Почему ты так занят сейчас?,Why are you so busy now?,[waɪ ɑ: ju: səʊ ˈbɪzi naʊ?],A0_L20_S73.mp3
+74,Почему он так занят в данный момент?,Why is he so busy at the moment?,[waɪ ɪz hi: səʊ ˈbɪzi æt ðə ˈməʊmənt?],A0_L20_S74.mp3
+75,Это плохо или нет?,Is it bad or not?,[ɪz ɪt bæd ɔ: nɒt?],A0_L20_S75.mp3
+76,Это действительно кажется таким повседневным?,Does it really seem so casual?,[dʌz ɪt ˈrɪəli si:m səʊ ˈkæʒjʊəl?],A0_L20_S76.mp3
+77,Это действительно кажется таким интересным?,Does it really seem so interesting?,[dʌz ɪt ˈrɪəli si:m səʊ ˈɪntrɪstɪŋ?],A0_L20_S77.mp3
+78,Ты носишь неформальную одежду?,Do you wear informal clothes?,[du: ju: weər ɪnˈfɔ:ml kləʊðz?],A0_L20_S78.mp3
+79,Она носит формальную одежду?,Does she wear formal clothes?,[dʌz ʃi: weə ˈfɔ:məl kləʊðz?],A0_L20_S79.mp3
+80,Этого достаточно?,Is it enough?,[ɪz ɪt ɪˈnʌf?],A0_L20_S80.mp3
+81,Кто против этого?,Who is against it?,[hu: ɪz əˈgenst ɪt?],A0_L20_S81.mp3
+82,Это действительно так сложно?,Is it really so difficult?,[ɪz ɪt ˈrɪəli səʊ ˈdɪfɪkəlt?],A0_L20_S82.mp3
+83,Это слишком формально?,Is it too formal?,[ɪz ɪt tu: ˈfɔ:məl?],A0_L20_S83.mp3
+84,Почему ты так беспокоишься?,Why are you so worried?,[waɪ ɑ: ju: səʊ ˈwʌrid?],A0_L20_S84.mp3
+85,Это твой выбор?,Is it your choice?,[ɪz ɪt jɔ: ʧɔɪs?],A0_L20_S85.mp3
+86,Ты беспокоишься?,Do you worry?,[du: ju: ˈwʌri?],A0_L20_S86.mp3
+87,Это под контролем?,Is it under control?,[ɪz ɪt ˈʌndə kənˈtrəʊl?],A0_L20_S87.mp3
+88,Что ты обычно выбираешь?,What do you usually choose?,[wɒt du: ju: ˈju:ʒʊəli ʧu:z?],A0_L20_S88.mp3
+89,Это дорого или нет?,Is it expensive or not?,[ɪz ɪt ɪksˈpensɪv ɔ: nɒt?],A0_L20_S89.mp3
+90,Она учитель или нет?,Is she a teacher or not?,[ɪz ʃi: ə ˈti:ʧər ɔ: nɒt?],A0_L20_S90.mp3
+91,Почему ты так сильно волнуешься?,Why do you worry so much?,[waɪ du: ju: ˈwʌri səʊ mʌʧ?],A0_L20_S91.mp3
+92,Это дешево или нет?,Is it cheap or not?,[ɪz ɪt ʧi:p ɔ: nɒt?],A0_L20_S92.mp3
+93,Они богаты или нет?,Are they rich or not?,[ɑ: ðeɪ rɪʧ ɔ: nɒt?],A0_L20_S93.mp3

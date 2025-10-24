@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она ревнует своего мужа,She is jealous of her husband,[ʃi: ɪz ˈʤeləs ɒv hɜ: ˈhʌzbənd],B1_L151_S2.mp3
+3,Он очень хорош в игре на гитаре,He is very good at playing the guitar,[hi: ɪz ˈveri gʊd æt ˈpleɪɪŋ ðə gɪˈtɑ:],B1_L151_S3.mp3
+4,Кто ответственный за это?,Who is responsible for it?,[hu: ɪz rɪsˈpɒnsəbl fɔ: ɪt?],B1_L151_S4.mp3
+5,Я особенно увлекаюсь иностранными языками,I am particularly keen on foreign languages,[aɪ æm pəˈtɪkjʊləli ki:n ɒn ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L151_S5.mp3
+6,Он готов к худшему,He is prepared for the worst,[hi: ɪz prɪˈpeəd fɔ: ðə wɜ:st],B1_L151_S6.mp3
+7,Это очень типично для него,It is very typical of him,[ɪt ɪz ˈveri ˈtɪpɪkl ɒv hɪm],B1_L151_S7.mp3
+8,Он ответственный за все,He is responsible for everything,[hi: ɪz rɪsˈpɒnsəbl fɔ: ˈevrɪθɪŋ],B1_L151_S8.mp3
+9,"Давай обсудим некоторые вещи, связанные с этой проблемой",Let's discuss some things related to this problem,[lets dɪsˈkʌs sʌm θɪŋz rɪˈleɪtɪd tu: ðɪs ˈprɒbləm],B1_L151_S9.mp3
+10,Он ужасно говорит по-французски,He is terrible at speaking French,[hi: ɪz ˈterəbl æt ˈspi:kɪŋ frenʧ],B1_L151_S10.mp3
+11,Эта вещь мне знакома,This thing is familiar to me,[ðɪs θɪŋ ɪz fəˈmɪliə tu: mi:],B1_L151_S11.mp3
+12,Я был шокирован новостью,I was shocked by the news,[aɪ wɒz ʃɒkt baɪ ðə nju:z],B1_L151_S12.mp3
+13,Она очень зла на него,She is very angry with him,[ʃi: ɪz ˈveri ˈæŋgri wɪð hɪm],B1_L151_S13.mp3
+14,Она очень озабочена своим будущим,She feels very anxious about her future,[ʃi: fi:lz ˈveri ˈæŋkʃəs əˈbaʊt hɜ: ˈfju:ʧə],B1_L151_S14.mp3
+15,Я знаком с его другом,I'm familiar with his friend,[aɪm fəˈmɪliə wɪð hɪz frend],B1_L151_S15.mp3
+16,Он отлично владеет языками,He is excellent at languages,[hi: ɪz ˈeksələnt æt ˈlæŋgwɪʤɪz],B1_L151_S16.mp3
+17,Она очень хороша в игре на скрипке,She is very good at playing the violin,[ʃi: ɪz ˈveri gʊd æt ˈpleɪɪŋ ðə ˌvaɪəˈlɪn],B1_L151_S17.mp3
+18,Я к этому привык,I'm used to it,[aɪm ju:zd tu: ɪt],B1_L151_S18.mp3
+19,Она ужасно играет в теннис,She is terrible at tennis,[ʃi: ɪz ˈterəbl æt ˈtenɪs],B1_L151_S19.mp3
+20,Его обвинили в преступлении,He was accused of a crime,[hi: wɒz əˈkju:zd ɒv ə kraɪm],B1_L151_S20.mp3
+21,Он отлично разбирается в математике,He is excellent at maths,[hi: ɪz ˈeksələnt æt mæθs],B1_L151_S21.mp3
+22,Его лицо кажется мне знакомым,His face seems familiar to me,[hɪz feɪs si:mz fəˈmɪliə tu: mi:],B1_L151_S22.mp3
+23,Он очень зол из-за этой ситуации,He is very angry about this situation,[hi: ɪz ˈveri ˈæŋgri əˈbaʊt ðɪs ˌsɪtjʊˈeɪʃən],B1_L151_S23.mp3
+24,Ее обвинили во лжи,She was accused of lying,[ʃi: wɒz əˈkju:zd ɒv ˈlaɪɪŋ],B1_L151_S24.mp3
+25,Я знаком с ней,I'm familiar with her,[aɪm fəˈmɪliə wɪð hɜ:],B1_L151_S25.mp3
+26,Его лицо мне очень знакомо,His face is very familiar to me,[hɪz feɪs ɪz ˈveri fəˈmɪliə tu: mi:],B1_L151_S26.mp3
+27,Она ревнует своего мужа,She is jealous of her husband,[ʃi: ɪz ˈʤeləs ɒv hɜ: ˈhʌzbənd],B1_L151_S27.mp3
+28,Я был действительно удивлен ее словами,I was really surprised by her words,[aɪ wɒz ˈrɪəli səˈpraɪzd baɪ hɜ: wɜ:dz],B1_L151_S28.mp3
+29,Это довольно типично для него,It is quite typical of him,[ɪt ɪz kwaɪt ˈtɪpɪkl ɒv hɪm],B1_L151_S29.mp3
+30,Он ужасно играет в теннис,He is terrible at playing tennis,[hi: ɪz ˈterəbl æt ˈpleɪɪŋ ˈtenɪs],B1_L151_S30.mp3
+31,Он был впечатлен ее красотой,He was impressed by her beauty,[hi: wɒz ɪmˈprest baɪ hɜ: ˈbju:ti],B1_L151_S31.mp3
+32,Я действительно устал делать это снова и снова,I am really tired of doing it again and again,[aɪ æm ˈrɪəli ˈtaɪəd ɒv ˈdu:ɪŋ ɪt əˈgen ænd əˈgen],B1_L151_S32.mp3
+33,Он устал делать те же самые вещи снова и снова,He is tired of doing the same things again and again,[hi: ɪz ˈtaɪəd ɒv ˈdu:ɪŋ ðə seɪm θɪŋz əˈgen ænd əˈgen],B1_L151_S33.mp3
+34,Он ответственный за это,He is responsible for it,[hi: ɪz rɪsˈpɒnsəbl fɔ: ɪt],B1_L151_S34.mp3
+35,Я не готов к этому,I'm not prepared for it,[aɪm nɒt prɪˈpeəd fɔ: ɪt],B1_L151_S35.mp3
+36,Мы все были шокированы новостями,We were all shocked by the news,[wi: wɜ: ɔ:l ʃɒkt baɪ ðə nju:z],B1_L151_S36.mp3
+37,Она очень обеспокоена этой ситуацией,She is very worried about this situation,[ʃi: ɪz ˈveri ˈwʌrid əˈbaʊt ðɪs ˌsɪtjʊˈeɪʃən],B1_L151_S37.mp3
+38,Я знаком с ним,I am familiar with him,[aɪ æm fəˈmɪliə wɪð hɪm],B1_L151_S38.mp3
+39,Он плохо играет в футбол,He is bad at playing football,[hi: ɪz bæd æt ˈpleɪɪŋ ˈfʊtbɔ:l],B1_L151_S39.mp3
+40,Он очень беспокоится о своем будущем,He is very anxious about his future,[hi: ɪz ˈveri ˈæŋkʃəs əˈbaʊt hɪz ˈfju:ʧə],B1_L151_S40.mp3
+41,Я был очень удивлен этим решением,I was really surprised by this decision,[aɪ wɒz ˈrɪəli səˈpraɪzd baɪ ðɪs dɪˈsɪʒən],B1_L151_S41.mp3
+42,Мои идеи похожи на ее,My ideas are similar to hers,[maɪ aɪˈdɪəz ɑ: ˈsɪmɪlə tu: hɜ:z],B1_L151_S42.mp3
+43,Некоторые из моих коллег очень чувствительны к критике,Some of my colleagues are very sensitive to criticism,[sʌm ɒv maɪ ˈkɒli:gz ɑ: ˈveri ˈsensɪtɪv tu: ˈkrɪtɪsɪzm],B1_L151_S43.mp3
+44,Все были шокированы его внезапной смертью,Everyone was shocked by his sudden death,[ˈevrɪwʌn wɒz ʃɒkt baɪ hɪz ˈsʌdn deθ],B1_L151_S44.mp3
+45,Он не способен сделать такую вещь,He is incapable of doing such a thing,[hi: ɪz ɪnˈkeɪpəbl ɒv ˈdu:ɪŋ sʌʧ ə θɪŋ],B1_L151_S45.mp3
+46,Он очень чувствителен к критике других людей,He is very sensitive to other people's criticism,[hi: ɪz ˈveri ˈsensɪtɪv tu: ˈʌðə ˈpi:plz ˈkrɪtɪsɪzm],B1_L151_S46.mp3
+47,"Я уверен, что он не способен говорить неправду",I'm sure that he is incapable of telling a lie,[aɪm ʃʊə ðæt hi: ɪz ɪnˈkeɪpəbl ɒv ˈtelɪŋ ə laɪ],B1_L151_S47.mp3
+48,Она очень чувствительна к критике своих коллег,She is very sensitive to her colleagues' criticism,[ʃi: ɪz ˈveri ˈsensɪtɪv tu: hɜ: ˈkɒli:gz ˈkrɪtɪsɪzm],B1_L151_S48.mp3
+49,Тебе не нужно бояться делать это,You don't need to be afraid of doing it,[ju: dəʊnt ni:d tu: bi: əˈfreɪd ɒv ˈdu:ɪŋ ɪt],B1_L151_S49.mp3
+50,Эта вещь всегда ассоциируется с богатством и успехом,This thing is always associated with wealth and success,[ðɪs θɪŋ ɪz ˈɔ:lweɪz əˈsəʊʃɪeɪtɪd wɪð welθ ænd səkˈses],B1_L151_S50.mp3
+51,Я всегда был хорош в математике,I have always been good at maths,[aɪ hæv ˈɔ:lweɪz bi:n gʊd æt mæθs],B1_L151_S51.mp3
+52,Она не способна говорить неправду,She is incapable of telling a lie,[ʃi: ɪz ɪnˈkeɪpəbl ɒv ˈtelɪŋ ə laɪ],B1_L151_S52.mp3
+53,Он привык ложиться поздно,He is accustomed to going to bed late,[hi: ɪz əˈkʌstəmd tu: ˈgəʊɪŋ tu: bed leɪt],B1_L151_S53.mp3
+54,Я не привык выступать на публике,I am not used to speaking in public,[aɪ æm nɒt ju:zd tu: ˈspi:kɪŋ ɪn ˈpʌblɪk],B1_L151_S54.mp3
+55,Наши идеи схожи с их,Our ideas are similar to theirs,[ˈaʊər aɪˈdɪəz ɑ: ˈsɪmɪlə tu: ðeəz],B1_L151_S55.mp3
+56,Она часто ревнует своего мужа,She is often jealous of her husband,[ʃi: ɪz ˈɒfn ˈʤeləs ɒv hɜ: ˈhʌzbənd],B1_L151_S56.mp3
+57,Она сыта по горло этой рутиной,She is fed up with this routine,[ʃi: ɪz fed ʌp wɪð ðɪs ru:ˈti:n],B1_L151_S57.mp3
+58,Он не боится делать это,He isn't afraid of doing it,[hi: ˈɪznt əˈfreɪd ɒv ˈdu:ɪŋ ɪt],B1_L151_S58.mp3
+59,Я действительно боюсь это делать,I am really afraid of doing it,[aɪ æm ˈrɪəli əˈfreɪd ɒv ˈdu:ɪŋ ɪt],B1_L151_S59.mp3
+60,Она боится искать новую работу,She is afraid of looking for a new job,[ʃi: ɪz əˈfreɪd ɒv ˈlʊkɪŋ fɔ: ə nju: ʤɒb],B1_L151_S60.mp3
+62,Он действительно хорош в математике,He is really good at maths,[hi: ɪz ˈrɪəli gʊd æt mæθs],B1_L151_S62.mp3
+63,Он никогда не был хорош в футболе,He has never been good at playing football,[hi: hæz ˈnevə bi:n gʊd æt ˈpleɪɪŋ ˈfʊtbɔ:l],B1_L151_S63.mp3
+64,Эти вещи тесно связаны друг с другом,These things are closely related to each other,[ði:z θɪŋz ɑ: ˈkləʊsli rɪˈleɪtɪd tu: i:ʧ ˈʌðə],B1_L151_S64.mp3
+65,Эти серии связаны друг с другом,These series are related to each other,[ði:z ˈsɪəri:z ɑ: rɪˈleɪtɪd tu: i:ʧ ˈʌðə],B1_L151_S65.mp3
+66,Эти вещи совсем не связаны друг с другом,These things aren't related to each other at all,[ði:z θɪŋz ɑ:nt rɪˈleɪtɪd tu: i:ʧ ˈʌðər æt ɔ:l],B1_L151_S66.mp3
+67,"Я вижу, что твоя точка зрения похожа на мою",I see that your point of view is similar to mine,[aɪ si: ðæt jɔ: pɔɪnt ɒv vju: ɪz ˈsɪmɪlə tu: maɪn],B1_L151_S67.mp3
+68,"Я вижу, что твоя идея похожа на ее",I see that your idea is similar to hers,[aɪ si: ðæt jɔ: aɪˈdɪə ɪz ˈsɪmɪlə tu: hɜ:z],B1_L151_S68.mp3
+69,Эти две вещи очень похожи,These two things are very similar,[ði:z tu: θɪŋz ɑ: ˈveri ˈsɪmɪlə],B1_L151_S69.mp3
+70,Его обвинили в совершении того преступления,He was accused of committing that crime,[hi: wɒz əˈkju:zd ɒv kəˈmɪtɪŋ ðæt kraɪm],B1_L151_S70.mp3
+71,Ее обвинили в убийствах,She was accused of murders,[ʃi: wɒz əˈkju:zd ɒv ˈmɜ:dəz],B1_L151_S71.mp3
+72,Его обвинили во лжи,He was accused of telling a lie,[hi: wɒz əˈkju:zd ɒv ˈtelɪŋ ə laɪ],B1_L151_S72.mp3
+73,"Я не привык делать это …………….…................................................... 74. Я не привык вставать рано …………….…................................................... 75. Он привык убирать в своей комнате два раза в неделю …………….…................................................... 76. Она увлекается чтением иностранной литературы …………….…................................................... 77. Он увлекается спортом …………….…................................................... 78. Она увлекается просмотром фильмов …………….…................................................... 79. Я привык вставать рано …………….…................................................... 80. Я не привык просыпаться так рано …………….…................................................... 81. Он не привык делать это …………….…................................................... 82. Я очень быстро привык к такой погоде …………….…................................................... 83. Я привык вставать рано …………….…................................................... 84. Я не привык опаздывать на работу …………….…................................................... 85. Мой коллега очень чувствителен к критике …………….…................................................... 8 86. Я очень чувствителен к холоду …………….…................................................... 87. Некоторые люди очень чувствительны к критике …………….…................................................... 88. Все мы знаем, что деньги часто ассоциируются со счастьем …………….…................................................... 89. Мне нужно сказать кое-что, связанное с нашей последней встречей …………….…................................................... 90. Я особенно увлекаюсь изучением иностранных языков …………….…................................................... 91. Их обвинили в совершении преступления …………….…................................................... 92. Я не думаю, что он способен сделать это …………….…................................................... 93. Это поведение довольно типично для большинства подростков …………….…................................................... 94. Я был действительно впечатлен красотой этого места …………….…................................................... 95. Я не думаю, что он способен сделать это …………….…................................................... 96. Он ужасно владеет иностранными языками …………….…................................................... 97. Я привык работать под давлением …………….…................................................... 98. Его обвинили в убийстве …………….…................................................... 9 99. Я думаю, он не способен сделать это …………….…................................................... 100. Я скоро привык к этому …………….…................................................... 101. Я не привык делать это …………….…................................................... 102. Я привык к этому …………….…................................................... 10 Ответы 1. Это типично для него",It is typical of him,[ɪt ɪz ˈtɪpɪkl ɒv hɪm],B1_L151_S73.mp3
+74,Я не привык вставать рано,I am not accustomed to getting up early,[aɪ æm nɒt əˈkʌstəmd tu: ˈgetɪŋ ʌp ˈɜ:li],B1_L151_S74.mp3
+75,Он привык убирать в своей комнате два раза в неделю,He is accustomed to cleaning his room twice a week,[hi: ɪz əˈkʌstəmd tu: ˈkli:nɪŋ hɪz ru:m twaɪs ə wi:k],B1_L151_S75.mp3
+76,Она увлекается чтением иностранной литературы,She is keen on reading foreign literature,[ʃi: ɪz ki:n ɒn ˈri:dɪŋ ˈfɒrɪn ˈlɪtərɪʧə],B1_L151_S76.mp3
+77,Он увлекается спортом,He is keen on sport,[hi: ɪz ki:n ɒn spɔ:t],B1_L151_S77.mp3
+78,Она увлекается просмотром фильмов,She is keen on watching movies,[ʃi: ɪz ki:n ɒn ˈwɒʧɪŋ ˈmu:viz],B1_L151_S78.mp3
+79,Я привык вставать рано,I am accustomed to getting up early,[aɪ æm əˈkʌstəmd tu: ˈgetɪŋ ʌp ˈɜ:li],B1_L151_S79.mp3
+80,Я не привык просыпаться так рано,I am not accustomed to waking up so early,[aɪ æm nɒt əˈkʌstəmd tu: ˈweɪkɪŋ ʌp səʊ ˈɜ:li],B1_L151_S80.mp3
+81,Он не привык делать это,He is not accustomed to doing it,[hi: ɪz nɒt əˈkʌstəmd tu: ˈdu:ɪŋ ɪt],B1_L151_S81.mp3
+82,Я очень быстро привык к такой погоде,I got used to this weather very quickly,[aɪ gɒt ju:zd tu: ðɪs ˈweðə ˈveri ˈkwɪkli],B1_L151_S82.mp3
+83,Я привык вставать рано,I got used to getting up early,[aɪ gɒt ju:zd tu: ˈgetɪŋ ʌp ˈɜ:li],B1_L151_S83.mp3
+84,Я не привык опаздывать на работу,I'm not used to being late for work,[aɪm nɒt ju:zd tu: ˈbi:ɪŋ leɪt fɔ: wɜ:k],B1_L151_S84.mp3
+85,Мой коллега очень чувствителен к критике,My colleague is very sensitive to criticism,[maɪ ˈkɒli:g ɪz ˈveri ˈsensɪtɪv tu: ˈkrɪtɪsɪzm],B1_L151_S85.mp3
+86,Я очень чувствителен к холоду,I am very sensitive to cold,[aɪ æm ˈveri ˈsensɪtɪv tu: kəʊld],B1_L151_S86.mp3
+87,Некоторые люди очень чувствительны к критике,Some people are very sensitive to criticism,[sʌm ˈpi:pl ɑ: ˈveri ˈsensɪtɪv tu: ˈkrɪtɪsɪzm],B1_L151_S87.mp3
+88,"Все мы знаем, что деньги часто ассоциируются со счастьем",We all know that money is often associated with happiness,[wi: ɔ:l nəʊ ðæt ˈmʌni ɪz ˈɒfn əˈsəʊʃɪeɪtɪd wɪð ˈhæpɪnɪs],B1_L151_S88.mp3
+89,"Мне нужно сказать кое-что, связанное с нашей последней встречей",I need to say something related to our last meeting,[aɪ ni:d tu: seɪ ˈsʌmθɪŋ rɪˈleɪtɪd tu: ˈaʊə lɑ:st ˈmi:tɪŋ],B1_L151_S89.mp3
+90,Я особенно увлекаюсь изучением иностранных языков,I am particularly keen on learning foreign languages,[aɪ æm pəˈtɪkjʊləli ki:n ɒn ˈlɜ:nɪŋ ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L151_S90.mp3
+91,Их обвинили в совершении преступления,They were accused of committing a crime,[ðeɪ wɜ: əˈkju:zd ɒv kəˈmɪtɪŋ ə kraɪm],B1_L151_S91.mp3
+92,"Я не думаю, что он способен сделать это",I don't think he is capable of doing it,[aɪ dəʊnt θɪŋk hi: ɪz ˈkeɪpəbl ɒv ˈdu:ɪŋ ɪt],B1_L151_S92.mp3
+93,Это поведение довольно типично для большинства подростков,This behaviour is quite typical of most teenagers,[ðɪs bɪˈheɪvjər ɪz kwaɪt ˈtɪpɪkl ɒv məʊst ˈti:nˌeɪʤəz],B1_L151_S93.mp3
+94,Я был действительно впечатлен красотой этого места,I was really impressed by the beauty of this place,[aɪ wɒz ˈrɪəli ɪmˈprest baɪ ðə ˈbju:ti ɒv ðɪs pleɪs],B1_L151_S94.mp3
+95,"Я не думаю, что он способен сделать это",I don't think that he is capable of doing it,[aɪ dəʊnt θɪŋk ðæt hi: ɪz ˈkeɪpəbl ɒv ˈdu:ɪŋ ɪt],B1_L151_S95.mp3
+96,Он ужасно владеет иностранными языками,He's terrible at foreign languages,[hi:z ˈterəbl æt ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L151_S96.mp3
+97,Я привык работать под давлением,I am accustomed to working under pressure,[aɪ æm əˈkʌstəmd tu: ˈwɜ:kɪŋ ˈʌndə ˈpreʃə],B1_L151_S97.mp3
+98,Его обвинили в убийстве,He was accused of murder,[hi: wɒz əˈkju:zd ɒv ˈmɜ:də],B1_L151_S98.mp3
+99,"Я думаю, он не способен сделать это",I think he is incapable of doing it,[aɪ θɪŋk hi: ɪz ɪnˈkeɪpəbl ɒv ˈdu:ɪŋ ɪt],B1_L151_S99.mp3
+100,Я скоро привык к этому,I got accustomed to it soon,[aɪ gɒt əˈkʌstəmd tu: ɪt su:n],B1_L151_S100.mp3
+101,Я не привык делать это,I am not used to doing it,[aɪ æm nɒt ju:zd tu: ˈdu:ɪŋ ɪt],B1_L151_S101.mp3
+102,Я привык к этому,I'm accustomed to it,[aɪm əˈkʌstəmd tu: ɪt],B1_L151_S102.mp3

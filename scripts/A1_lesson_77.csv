@@ -1,0 +1,104 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Это произойдет скоро,It will happen soon,[ɪt wɪl ˈhæpən su:n],A1_L77_S2.mp3
+3,Он придет на вечеринку,He’ll come to the party,[hi:l kʌm tu: ðə ˈpɑ:ti],A1_L77_S3.mp3
+4,Они купят мою машину,They’ll buy my car,[ðeɪl baɪ maɪ kɑ:],A1_L77_S4.mp3
+5,Я всегда буду любить тебя,I will always love you,[aɪ wɪl ˈɔ:lweɪz lʌv ju:],A1_L77_S5.mp3
+6,Будет очень скучно в конце,It will be very boring in the end,[ɪt wɪl bi: ˈveri ˈbɔ:rɪŋ ɪn ði end],A1_L77_S6.mp3
+7,Я встречу его в офисе завтра,I'll meet him in the office tomorrow,[aɪl mi:t hɪm ɪn ði ˈɒfɪs təˈmɒrəʊ],A1_L77_S7.mp3
+8,Она пойдет за покупками сегодня,She'll go shopping today,[ʃi:l gəʊ ˈʃɒpɪŋ təˈdeɪ],A1_L77_S8.mp3
+9,Будет интересно только в начале,It will be interesting only in the beginning,[ɪt wɪl bi: ˈɪntrɪstɪŋ ˈəʊnli ɪn ðə bɪˈgɪnɪŋ],A1_L77_S9.mp3
+10,Скоро придет зима,Winter will come soon,[ˈwɪntə wɪl kʌm su:n],A1_L77_S10.mp3
+11,"Я думаю, он купит другую машину",I think he'll buy another car,[aɪ θɪŋk hi:l baɪ əˈnʌðə kɑ:],A1_L77_S11.mp3
+12,Она прочтет несколько статей по медицине,She'll read some articles on medicine,[ʃi:l ri:d sʌm ˈɑ:tɪklz ɒn ˈmedsɪn],A1_L77_S12.mp3
+13,"Я думаю, что это будет очень интересно для тебя",I think it will be very interesting for you,[aɪ θɪŋk ɪt wɪl bi: ˈveri ˈɪntrɪstɪŋ fɔ: ju:],A1_L77_S13.mp3
+14,Я позвоню тебе чуть позже,I'll call you a bit later,[aɪl kɔ:l ju: ə bɪt ˈleɪtə],A1_L77_S14.mp3
+15,Твой отец придет домой через час,Your father will come home in an hour,[jɔ: ˈfɑ:ðə wɪl kʌm həʊm ɪn ən ˈaʊə],A1_L77_S15.mp3
+16,Я куплю другую модель,I'll buy another model,[aɪl baɪ əˈnʌðə ˈmɒdl],A1_L77_S16.mp3
+17,Я понесу твою сумку,I'll carry your bag,[aɪl ˈkæri jɔ: bæg],A1_L77_S17.mp3
+18,Я навещу тебя послезавтра,I'll visit you the day after tomorrow,[aɪl ˈvɪzɪt ju: ðə deɪ ˈɑ:ftə təˈmɒrəʊ],A1_L77_S18.mp3
+19,Я увижу моего друга на выходных,I'll see my friend at the weekend,[aɪl si: maɪ frend æt ðə ˈwi:kˈend],A1_L77_S19.mp3
+20,Это случится рано или поздно,It will happen sooner or later,[ɪt wɪl ˈhæpən ˈsu:nər ɔ: ˈleɪtə],A1_L77_S20.mp3
+21,Она пойдет с ним в театр,She'll go to the theatre with him,[ʃi:l gəʊ tu: ðə ˈθɪətə wɪð hɪm],A1_L77_S21.mp3
+22,Он скоро будет готов,He will be ready soon,[hi: wɪl bi: ˈredi su:n],A1_L77_S22.mp3
+23,Он пойдет на концерт вместе с ней,He will go to the concert with her,[hi: wɪl gəʊ tu: ðə ˈkɒnsə:t wɪð hɜ:],A1_L77_S23.mp3
+24,Он придет на вечеринку,He will come to the party,[hi: wɪl kʌm tu: ðə ˈpɑ:ti],A1_L77_S24.mp3
+25,Я буду слушать запись дважды,I'll listen to the recording twice,[aɪl ˈlɪsn tu: ðə rɪˈkɔ:dɪŋ twaɪs],A1_L77_S25.mp3
+26,Они будут играть в футбол на стадионе,They will play football at the stadium,[ðeɪ wɪl pleɪ ˈfʊtbɔ:l æt ðə ˈsteɪdiəm],A1_L77_S26.mp3
+27,"Я не думаю, что я куплю эту машину",I don't think I'll buy this car,[aɪ dəʊnt θɪŋk aɪl baɪ ðɪs kɑ:],A1_L77_S27.mp3
+28,Я буду читать статьи на разные темы онлайн,I'll read articles on different topics online,[aɪl ri:d ˈɑ:tɪklz ɒn ˈdɪfrənt ˈtɒpɪks ˈɒnˌlaɪn],A1_L77_S28.mp3
+29,Я выучу новый язык,I will learn a new language,[aɪ wɪl lɜ:n ə nju: ˈlæŋgwɪʤ],A1_L77_S29.mp3
+30,Ты увидишь его через минуту,You will see him in a minute,[ju: wɪl si: hɪm ɪn ə ˈmɪnɪt],A1_L77_S30.mp3
+31,Я куплю ей маленький подарок,I'll buy her a small present,[aɪl baɪ hɜ: ə smɔ:l ˈpreznt],A1_L77_S31.mp3
+32,Он пропустит матч,He will miss the match,[hi: wɪl mɪs ðə mæʧ],A1_L77_S32.mp3
+33,Это произойдет через десять минут,It'll happen in ten minutes,[ˈɪtl ˈhæpən ɪn ten ˈmɪnɪts],A1_L77_S33.mp3
+34,Они прибудут вовремя,They will arrive on time,[ðeɪ wɪl əˈraɪv ɒn taɪm],A1_L77_S34.mp3
+35,Я пойду в магазин,I'll go to the store,[aɪl gəʊ tu: ðə stɔ:],A1_L77_S35.mp3
+36,Я позвоню ему немного позже,I'll call him a little later,[aɪl kɔ:l hɪm ə ˈlɪtl ˈleɪtə],A1_L77_S36.mp3
+37,Я останусь дома на выходных,I will stay at home at the weekend,[aɪ wɪl steɪ æt həʊm æt ðə ˈwi:kˈend],A1_L77_S37.mp3
+38,Он будет играть в футбол на том поле,He will play football in that field,[hi: wɪl pleɪ ˈfʊtbɔ:l ɪn ðæt fi:ld],A1_L77_S38.mp3
+39,Я прочитаю несколько статей о бизнесе,I'll read some articles on business,[aɪl ri:d sʌm ˈɑ:tɪklz ɒn ˈbɪznɪs],A1_L77_S39.mp3
+40,У меня будет отпуск на следующей неделе,I'll have a holiday next week,[aɪl hæv ə ˈhɒlədeɪ nekst wi:k],A1_L77_S40.mp3
+41,Лето скоро наступит,Summer will come soon,[ˈsʌmə wɪl kʌm su:n],A1_L77_S41.mp3
+42,Твоя мама вернется домой примерно через полчаса,Your mother will return home in about half an hour,[jɔ: ˈmʌðə wɪl rɪˈtɜ:n həʊm ɪn əˈbaʊt hɑ:f ən ˈaʊə],A1_L77_S42.mp3
+43,Мой друг присоединится к нам с большим удовольствием,My friend will join us with great pleasure,[maɪ frend wɪl ʤɔɪn ʌs wɪð greɪt ˈpleʒə],A1_L77_S43.mp3
+44,Я снова послушаю эту песню,I'll listen to this song again,[aɪl ˈlɪsn tu: ðɪs sɒŋ əˈgen],A1_L77_S44.mp3
+45,"Он ожидает, что купит планшет в конце месяца",He expects that he'll buy a tablet at the end of the month,[hi: ɪksˈpekts ðæt hi:l baɪ ə ˈtæblɪt æt ði end ɒv ðə mʌnθ],A1_L77_S45.mp3
+46,"Может быть, я останусь дома сегодня вечером",Maybe I will stay in tonight,[ˈmeɪbi: aɪ wɪl steɪ ɪn təˈnaɪt],A1_L77_S46.mp3
+47,Я смогу избавиться от этой ошибки,I'll be able to get rid of this mistake,[aɪl bi: ˈeɪbl tu: get rɪd ɒv ðɪs mɪsˈteɪk],A1_L77_S47.mp3
+48,Я смогу это сделать,I will be able to do it,[aɪ wɪl bi: ˈeɪbl tu: du: ɪt],A1_L77_S48.mp3
+49,Я прибуду в Лондон в 6 часов вечера,I will arrive in London at 6 p.m.,[aɪ wɪl əˈraɪv ɪn ˈlʌndən æt 6 pi:.em.],A1_L77_S49.mp3
+50,"Он обещает, что сделает это однажды",He promises that he will do it one day,[hi: ˈprɒmɪsɪz ðæt hi: wɪl du: ɪt wʌn deɪ],A1_L77_S50.mp3
+51,"Может быть, это произойдет однажды",Maybe it will happen one day,[ˈmeɪbi: ɪt wɪl ˈhæpən wʌn deɪ],A1_L77_S51.mp3
+52,Я скоро закончу читать эту книгу,I will finish reading this book soon,[aɪ wɪl ˈfɪnɪʃ ˈri:dɪŋ ðɪs bʊk su:n],A1_L77_S52.mp3
+53,"Я думаю, они выиграют игру",I think they will win the game,[aɪ θɪŋk ðeɪ wɪl wɪn ðə geɪm],A1_L77_S53.mp3
+54,Солнце встанет через час,The sun will go up in an hour,[ðə sʌn wɪl gəʊ ʌp ɪn ən ˈaʊə],A1_L77_S54.mp3
+55,"Может быть, он скоро сделает новое открытие",Maybe he'll make a new discovery soon,[ˈmeɪbi: hi:l meɪk ə nju: dɪsˈkʌvəri su:n],A1_L77_S55.mp3
+56,"Он думает, это будет незабываемая вечеринка",He thinks it will be an unforgettable party,[hi: θɪŋks ɪt wɪl bi: ən ˌʌnfəˈgetəbl ˈpɑ:ti],A1_L77_S56.mp3
+57,Солнце скоро сядет,The sun will go down soon,[ðə sʌn wɪl gəʊ daʊn su:n],A1_L77_S57.mp3
+58,"Я полагаю, что я накоплю немного денег, чтобы купить новый компьютер в этом году",I suppose that I'll save up some money to buy a new computer this year,[aɪ səˈpəʊz ðæt aɪl seɪv ʌp sʌm ˈmʌni tu: baɪ ə nju: kəmˈpju:tə ðɪs jɪə],A1_L77_S58.mp3
+59,"Может быть, они скоро сделают новые открытия",Maybe they'll make new discoveries soon,[ˈmeɪbi: ðeɪl meɪk nju: dɪsˈkʌvəriz su:n],A1_L77_S59.mp3
+60,"Может быть, это будет настоящая революция в образовании",Maybe it will be a real revolution in education,[ˈmeɪbi: ɪt wɪl bi: ə rɪəl ˌrevəˈlu:ʃən ɪn ˌedju:ˈkeɪʃən],A1_L77_S60.mp3
+61,"Я думаю, что это будет настоящая революция в медицине",I think it will be a real revolution in medicine,[aɪ θɪŋk ɪt wɪl bi: ə rɪəl ˌrevəˈlu:ʃən ɪn ˈmedsɪn],A1_L77_S61.mp3
+62,Это будет настоящая революция в образовании?,Will it be a real revolution in education?,[wɪl ɪt bi: ə rɪəl ˌrevəˈlu:ʃən ɪn ˌedju:ˈkeɪʃən?],A1_L77_S62.mp3
+63,"Она не думает, что он сможет купить это",She doesn't think that he'll be able to buy it,[ʃi: dʌznt θɪŋk ðæt hi:l bi: ˈeɪbl tu: baɪ ɪt],A1_L77_S63.mp3
+64,"Он не знает, что она сможет купить ту вещь",He doesn't know that she'll be able to buy that thing,[hi: dʌznt nəʊ ðæt ʃi:l bi: ˈeɪbl tu: baɪ ðæt θɪŋ],A1_L77_S64.mp3
+65,"Я не думаю, что смогу купить эту машину",I don't think that I'll be able to buy this car,[aɪ dəʊnt θɪŋk ðæt aɪl bi: ˈeɪbl tu: baɪ ðɪs kɑ:],A1_L77_S65.mp3
+66,Мы будем отмечать нашу годовщину завтра,We'll celebrate our anniversary tomorrow,[wi:l ˈselɪbreɪt ˈaʊər ˌænɪˈvɜ:səri təˈmɒrəʊ],A1_L77_S66.mp3
+67,Они будут отмечать свой юбилей через неделю,They'll celebrate their anniversary in a week,[ðeɪl ˈselɪbreɪt ðeər ˌænɪˈvɜ:səri ɪn ə wi:k],A1_L77_S67.mp3
+68,Мы не будем отмечать нашу годовщину в этом месяце,We won't celebrate our anniversary this month,[wi: wəʊnt ˈselɪbreɪt ˈaʊər ˌænɪˈvɜ:səri ðɪs mʌnθ],A1_L77_S68.mp3
+69,"Я думаю, ты снова опоздаешь",I think you will be late again,[aɪ θɪŋk ju: wɪl bi: leɪt əˈgen],A1_L77_S69.mp3
+70,"Я не думаю, ты опоздаешь сегодня вечером",I don’t think you will be late tonight,[aɪ dəʊnt θɪŋk ju: wɪl bi: leɪt təˈnaɪt],A1_L77_S70.mp3
+71,"Он думает, он опоздает",He thinks he will be late,[hi: θɪŋks hi: wɪl bi: leɪt],A1_L77_S71.mp3
+72,"Конечно, я смогу избавиться от этих глупых ошибок","Of course, I'll be able to get rid of these silly mistakes","[ɒv kɔ:s, aɪl bi: ˈeɪbl tu: get rɪd ɒv ði:z ˈsɪli mɪsˈteɪks]",A1_L77_S72.mp3
+73,"Конечно, он сможет избавиться от этой глупой ошибки …………….…................................................... 74. Ты думаешь, ты сможешь избавиться от этих глупых ошибок? …………….…................................................... 75. Он думает, что он сможет заработать эти деньги …………….…................................................... 76. Я думаю, что смогу заработать те деньги …………….…................................................... 77. Она уверена, что сможет заработать эти деньги …………….…................................................... 78. Я прибуду в аэропорт в 8 утра …………….…................................................... 79. Он прибудет на станцию в 9 часов утра …………….…................................................... 80. Я не прибуду в аэропорт вовремя …………….…................................................... 81. Она думает, что вечеринка будет чем-то незабываемым …………….…................................................... 82. Я думаю, что вечеринка будет чем-то незабываемым …………….…................................................... 83. Ты думаешь, вечеринка станет чем-то незабываемым? …………….…................................................... 84. Я буду учиться очень усердно, чтобы сдать этот экзамен …………….…................................................... 85. Я буду учиться усердно, чтобы сдать этот тест …………….…................................................... 8 86. Она будет учиться очень усердно, чтобы сдать свой тест …………….…................................................... 87. Я знаю, что я смогу достичь своей цели …………….…................................................... 88. Он знает, что он сможет добраться на работу вовремя …………….…................................................... 89. Я знаю, что я смогу приехать домой рано …………….…................................................... 90. Он скоро закончит делать свою домашнюю работу …………….…................................................... 91. Я думаю, я смогу сделать это …………….…................................................... 92. Я знаю, что я смогу выучить английский …………….…................................................... 93. Я заплачу за билеты наличными …………….…................................................... 94. Я постараюсь избавиться от этих ошибок …………….…................................................... 95. Они будут отмечать их годовщину на следующей неделе …………….…................................................... 96. Я постараюсь решить эту проблему как можно скорее …………….…................................................... 97. Я думаю, я куплю ноутбук в конце недели …………….…................................................... 98. Я полагаю, я накоплю немного денег, чтобы купить это …………….…................................................... 9 99. Я буду действительно счастлив помочь тебе …………….…................................................... 100. Он оплатит билеты кредитной картой …………….…................................................... 101. Я буду стараться работать изо всех сил, чтобы заработать эти деньги …………….…................................................... 102. Это будет очень скучная встреча, как обычно …………….…................................................... 103. Солнце скоро взойдет …………….…................................................... 104. Это будет очень скучная лекция, как всегда …………….…................................................... 10 Ответы 1. Он будет готов скоро",He will be ready soon,[hi: wɪl bi: ˈredi su:n],A1_L77_S73.mp3
+74,"Ты думаешь, ты сможешь избавиться от этих глупых ошибок?",Do you think you'll be able to get rid of these silly mistakes?,[du: ju: θɪŋk ju:l bi: ˈeɪbl tu: get rɪd ɒv ði:z ˈsɪli mɪsˈteɪks?],A1_L77_S74.mp3
+75,"Он думает, что он сможет заработать эти деньги",He thinks that he'll be able to earn this money,[hi: θɪŋks ðæt hi:l bi: ˈeɪbl tu: ɜ:n ðɪs ˈmʌni],A1_L77_S75.mp3
+76,"Я думаю, что смогу заработать те деньги",I think that I'll be able to earn that money,[aɪ θɪŋk ðæt aɪl bi: ˈeɪbl tu: ɜ:n ðæt ˈmʌni],A1_L77_S76.mp3
+77,"Она уверена, что сможет заработать эти деньги",She is sure that she'll be able to earn this money,[ʃi: ɪz ʃʊə ðæt ʃi:l bi: ˈeɪbl tu: ɜ:n ðɪs ˈmʌni],A1_L77_S77.mp3
+78,Я прибуду в аэропорт в 8 утра,I will arrive at the airport at 8 a.m.,[aɪ wɪl əˈraɪv æt ði ˈeəpɔ:t æt 8 eɪ.em.],A1_L77_S78.mp3
+79,Он прибудет на станцию в 9 часов утра,He will arrive at the station at 9 a.m.,[hi: wɪl əˈraɪv æt ðə ˈsteɪʃən æt 9 eɪ.em.],A1_L77_S79.mp3
+80,Я не прибуду в аэропорт вовремя,I won't arrive at the airport on time,[aɪ wəʊnt əˈraɪv æt ði ˈeəpɔ:t ɒn taɪm],A1_L77_S80.mp3
+81,"Она думает, что вечеринка будет чем-то незабываемым",She thinks the party will be something unforgettable,[ʃi: θɪŋks ðə ˈpɑ:ti wɪl bi: ˈsʌmθɪŋ ˌʌnfəˈgetəbl],A1_L77_S81.mp3
+82,"Я думаю, что вечеринка будет чем-то незабываемым",I think the party will be something unforgettable,[aɪ θɪŋk ðə ˈpɑ:ti wɪl bi: ˈsʌmθɪŋ ˌʌnfəˈgetəbl],A1_L77_S82.mp3
+83,"Ты думаешь, вечеринка станет чем-то незабываемым?",Do you think the party will be something unforgettable?,[du: ju: θɪŋk ðə ˈpɑ:ti wɪl bi: ˈsʌmθɪŋ ˌʌnfəˈgetəbl?],A1_L77_S83.mp3
+84,"Я буду учиться очень усердно, чтобы сдать этот экзамен",I'll study very hard to pass this exam,[aɪl ˈstʌdi ˈveri hɑ:d tu: pɑ:s ðɪs ɪgˈzæm],A1_L77_S84.mp3
+85,"Я буду учиться усердно, чтобы сдать этот тест",I'll study hard to pass this test,[aɪl ˈstʌdi hɑ:d tu: pɑ:s ðɪs test],A1_L77_S85.mp3
+86,"Она будет учиться очень усердно, чтобы сдать свой тест",She'll study very hard to pass her test,[ʃi:l ˈstʌdi ˈveri hɑ:d tu: pɑ:s hɜ: test],A1_L77_S86.mp3
+87,"Я знаю, что я смогу достичь своей цели",I know that I'll be able to achieve my aim,[aɪ nəʊ ðæt aɪl bi: ˈeɪbl tu: əˈʧi:v maɪ eɪm],A1_L77_S87.mp3
+88,"Он знает, что он сможет добраться на работу вовремя",He knows that he'll be able to get to work on time,[hi: nəʊz ðæt hi:l bi: ˈeɪbl tu: get tu: wɜ:k ɒn taɪm],A1_L77_S88.mp3
+89,"Я знаю, что я смогу приехать домой рано",I know that I'll be able to come home early,[aɪ nəʊ ðæt aɪl bi: ˈeɪbl tu: kʌm həʊm ˈɜ:li],A1_L77_S89.mp3
+90,Он скоро закончит делать свою домашнюю работу,He'll finish doing his homework soon,[hi:l ˈfɪnɪʃ ˈdu:ɪŋ hɪz ˈhəʊmˌwɜ:k su:n],A1_L77_S90.mp3
+91,"Я думаю, я смогу сделать это",I think I'll be able to do it,[aɪ θɪŋk aɪl bi: ˈeɪbl tu: du: ɪt],A1_L77_S91.mp3
+92,"Я знаю, что я смогу выучить английский",I know that I'll be able to learn English,[aɪ nəʊ ðæt aɪl bi: ˈeɪbl tu: lɜ:n ˈɪŋglɪʃ],A1_L77_S92.mp3
+93,Я заплачу за билеты наличными,I'll pay for the tickets in cash,[aɪl peɪ fɔ: ðə ˈtɪkɪts ɪn kæʃ],A1_L77_S93.mp3
+94,Я постараюсь избавиться от этих ошибок,I'll try to get rid of these mistakes,[aɪl traɪ tu: get rɪd ɒv ði:z mɪsˈteɪks],A1_L77_S94.mp3
+95,Они будут отмечать их годовщину на следующей неделе,They will celebrate their anniversary next week,[ðeɪ wɪl ˈselɪbreɪt ðeər ˌænɪˈvɜ:səri nekst wi:k],A1_L77_S95.mp3
+96,Я постараюсь решить эту проблему как можно скорее,I'll try to solve this problem as soon as possible,[aɪl traɪ tu: sɒlv ðɪs ˈprɒbləm æz su:n æz ˈpɒsəbl],A1_L77_S96.mp3
+97,"Я думаю, я куплю ноутбук в конце недели",I think I'll buy a laptop at the end of the week,[aɪ θɪŋk aɪl baɪ ə ˈlæpˌtɒp æt ði end ɒv ðə wi:k],A1_L77_S97.mp3
+98,"Я полагаю, я накоплю немного денег, чтобы купить это",I suppose I'll save up some money to buy it,[aɪ səˈpəʊz aɪl seɪv ʌp sʌm ˈmʌni tu: baɪ ɪt],A1_L77_S98.mp3
+99,Я буду действительно счастлив помочь тебе,I'll be really happy to help you,[aɪl bi: ˈrɪəli ˈhæpi tu: help ju:],A1_L77_S99.mp3
+100,Он оплатит билеты кредитной картой,He'll pay for the tickets by credit card,[hi:l peɪ fɔ: ðə ˈtɪkɪts baɪ ˈkredɪt kɑ:d],A1_L77_S100.mp3
+101,"Я буду стараться работать изо всех сил, чтобы заработать эти деньги",I'll try to work very hard to earn this money,[aɪl traɪ tu: wɜ:k ˈveri hɑ:d tu: ɜ:n ðɪs ˈmʌni],A1_L77_S101.mp3
+102,"Это будет очень скучная встреча, как обычно",It'll be a very boring meeting as usual,[ˈɪtl bi: ə ˈveri ˈbɔ:rɪŋ ˈmi:tɪŋ æz ˈju:ʒʊəl],A1_L77_S102.mp3
+103,Солнце скоро взойдет,The sun will rise soon,[ðə sʌn wɪl raɪz su:n],A1_L77_S103.mp3
+104,"Это будет очень скучная лекция, как всегда",It'll be a very boring lecture as always,[ˈɪtl bi: ə ˈveri ˈbɔ:rɪŋ ˈlekʧər æz ˈɔ:lweɪz],A1_L77_S104.mp3

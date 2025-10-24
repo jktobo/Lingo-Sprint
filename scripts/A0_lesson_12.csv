@@ -1,0 +1,107 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Когда это происходит?,When does it happen?,[wen dʌz ɪt ˈhæpən?],A0_L12_S2.mp3
+3,Когда ты встаешь?,When do you get up?,[wen du: ju: get ʌp?],A0_L12_S3.mp3
+4,Где она учится?,Where does she study?,[weə dʌz ʃi: ˈstʌdi?],A0_L12_S4.mp3
+5,Что ты предпочитаешь?,What do you prefer?,[wɒt du: ju: priˈfɜ:?],A0_L12_S5.mp3
+6,Почему ты это делаешь?,Why do you do it?,[waɪ du: ju: du: ɪt?],A0_L12_S6.mp3
+7,Как ты себя чувствуешь?,How do you feel?,[haʊ du: ju: fi:l?],A0_L12_S7.mp3
+8,Сколько это стоит?,How much does it cost?,[haʊ mʌʧ dʌz ɪt kɒst?],A0_L12_S8.mp3
+9,Как часто ты говоришь по-английски?,How often do you speak English?,[haʊ ˈɒfn du: ju: spi:k ˈɪŋglɪʃ?],A0_L12_S9.mp3
+10,Во сколько ты приходишь?,What time do you come?,[wɒt taɪm du: ju: kʌm?],A0_L12_S10.mp3
+11,Почему тебе это так сильно нравится?,Why do you like it so much?,[waɪ du: ju: laɪk ɪt səʊ mʌʧ?],A0_L12_S11.mp3
+12,Что ты видишь сейчас?,What do you see now?,[wɒt du: ju: si: naʊ?],A0_L12_S12.mp3
+13,Почему ты это делаешь?,Why do you do it?,[waɪ du: ju: du: ɪt?],A0_L12_S13.mp3
+14,Когда у тебя есть время для всех этих вещей?,When do you have time for all these things?,[wen du: ju: hæv taɪm fɔ: ɔ:l ði:z θɪŋz?],A0_L12_S14.mp3
+15,Как часто ты путешествуешь?,How often do you travel?,[haʊ ˈɒfn du: ju: ˈtrævl?],A0_L12_S15.mp3
+16,Почему он чувствует себя таким несчастным?,Why does he feel so unhappy?,[waɪ dʌz hi: fi:l səʊ ʌnˈhæpi?],A0_L12_S16.mp3
+17,Как ты это скачиваешь?,How do you download it?,[haʊ du: ju: ˌdaʊnˈləʊd ɪt?],A0_L12_S17.mp3
+18,Когда это происходит?,When does it happen?,[wen dʌz ɪt ˈhæpən?],A0_L12_S18.mp3
+19,Как ты себя чувствуешь?,How do you feel?,[haʊ du: ju: fi:l?],A0_L12_S19.mp3
+20,Сколько это стоит?,How much does it cost?,[haʊ mʌʧ dʌz ɪt kɒst?],A0_L12_S20.mp3
+21,Где она учится?,Where does she study?,[weə dʌz ʃi: ˈstʌdi?],A0_L12_S21.mp3
+22,Почему ты это читаешь?,Why do you read it?,[waɪ du: ju: ri:d ɪt?],A0_L12_S22.mp3
+23,Когда это обычно происходит?,When does it usually happen?,[wen dʌz ɪt ˈju:ʒʊəli ˈhæpən?],A0_L12_S23.mp3
+24,Что ему нравится больше?,What does he like more?,[wɒt dʌz hi: laɪk mɔ:?],A0_L12_S24.mp3
+25,Что ты ему обычно рассказываешь?,What do you usually tell him?,[wɒt du: ju: ˈju:ʒʊəli tel hɪm?],A0_L12_S25.mp3
+26,Как это помогает тебе?,How does it help you?,[haʊ dʌz ɪt help ju:?],A0_L12_S26.mp3
+27,Когда ты встаешь?,When do you get up?,[wen du: ju: get ʌp?],A0_L12_S27.mp3
+28,Что ты предпочитаешь?,What do you prefer?,[wɒt du: ju: priˈfɜ:?],A0_L12_S28.mp3
+29,Что она говорит тебе?,What does she tell you?,[wɒt dʌz ʃi: tel ju:?],A0_L12_S29.mp3
+30,Как ты скачиваешь эти документы?,How do you download these documents?,[haʊ du: ju: ˌdaʊnˈləʊd ði:z ˈdɒkjʊmənts?],A0_L12_S30.mp3
+31,Что она обычно говорит?,What does she usually say?,[wɒt dʌz ʃi: ˈju:ʒʊəli seɪ?],A0_L12_S31.mp3
+32,Почему она чувствует себя несчастной?,Why does she feel unhappy?,[waɪ dʌz ʃi: fi:l ʌnˈhæpi?],A0_L12_S32.mp3
+33,Где она работает?,Where does she work?,[weə dʌz ʃi: wɜ:k?],A0_L12_S33.mp3
+34,Где они играют?,Where do they play?,[weə du: ðeɪ pleɪ?],A0_L12_S34.mp3
+35,Как он себя чувствует?,How does he feel?,[haʊ dʌz hi: fi:l?],A0_L12_S35.mp3
+36,Что он говорит?,What does he say?,[wɒt dʌz hi: seɪ?],A0_L12_S36.mp3
+37,Что ты видишь?,What do you see?,[wɒt du: ju: si:?],A0_L12_S37.mp3
+38,Какой напиток ты предпочитаешь?,What drink do you prefer?,[wɒt drɪŋk du: ju: priˈfɜ:?],A0_L12_S38.mp3
+39,Где ты учишься?,Where do you study?,[weə du: ju: ˈstʌdi?],A0_L12_S39.mp3
+40,Как ты скачиваешь эти файлы?,How do you download these files?,[haʊ du: ju: ˌdaʊnˈləʊd ði:z faɪlz?],A0_L12_S40.mp3
+41,Как часто ты говоришь по-английски?,How often do you speak English?,[haʊ ˈɒfn du: ju: spi:k ˈɪŋglɪʃ?],A0_L12_S41.mp3
+42,Почему ей так грустно?,Why does she feel so sad?,[waɪ dʌz ʃi: fi:l səʊ sæd?],A0_L12_S42.mp3
+43,Когда у тебя есть время на это?,When do you have time for it?,[wen du: ju: hæv taɪm fɔ: ɪt?],A0_L12_S43.mp3
+44,Почему тебе так грустно?,Why do you feel so sad?,[waɪ du: ju: fi:l səʊ sæd?],A0_L12_S44.mp3
+45,Как это работает?,How does it work?,[haʊ dʌz ɪt wɜ:k?],A0_L12_S45.mp3
+46,Что ты думаешь об этой вещи?,What do you think about this thing?,[wɒt du: ju: θɪŋk əˈbaʊt ðɪs θɪŋ?],A0_L12_S46.mp3
+47,Что он рекомендует?,What does he recommend?,[wɒt dʌz hi: ˌrekəˈmend?],A0_L12_S47.mp3
+48,Почему ты изучаешь английский?,Why do you learn English?,[waɪ du: ju: lɜ:n ˈɪŋglɪʃ?],A0_L12_S48.mp3
+49,Где ты работаешь?,Where do you work?,[weə du: ju: wɜ:k?],A0_L12_S49.mp3
+50,Почему ему это нравится?,Why does he like it?,[waɪ dʌz hi: laɪk ɪt?],A0_L12_S50.mp3
+51,Как часто ты разговариваешь по телефону?,How often do you talk on the phone?,[haʊ ˈɒfn du: ju: tɔ:k ɒn ðə fəʊn?],A0_L12_S51.mp3
+52,В какое время ты обычно встаешь?,What time do you usually get up?,[wɒt taɪm du: ju: ˈju:ʒʊəli get ʌp?],A0_L12_S52.mp3
+53,Когда ты хочешь поехать на этот остров?,When do you want to go to this island?,[wen du: ju: wɒnt tu: gəʊ tu: ðɪs ˈaɪlənd?],A0_L12_S53.mp3
+54,Какие страны ты хочешь посетить?,What countries do you want to visit?,[wɒt ˈkʌntriz du: ju: wɒnt tu: ˈvɪzɪt?],A0_L12_S54.mp3
+55,Какой у него уровень английского?,What English level does he have?,[wɒt ˈɪŋglɪʃ ˈlevl dʌz hi: hæv?],A0_L12_S55.mp3
+56,Что ты читаешь в свое свободное время?,What do you read in your free time?,[wɒt du: ju: ri:d ɪn jɔ: fri: taɪm?],A0_L12_S56.mp3
+57,В какое время ты идешь на работу?,What time do you go to work?,[wɒt taɪm du: ju: gəʊ tu: wɜ:k?],A0_L12_S57.mp3
+58,Сколько ты платишь за свое образование?,How much do you pay for your education?,[haʊ mʌʧ du: ju: peɪ fɔ: jɔ: ˌedju:ˈkeɪʃən?],A0_L12_S58.mp3
+59,Какие места ты хочешь посетить?,What places do you want to visit?,[wɒt ˈpleɪsɪz du: ju: wɒnt tu: ˈvɪzɪt?],A0_L12_S59.mp3
+60,Сколько у тебя друзей?,How many friends do you have?,[haʊ ˈmeni frendz du: ju: hæv?],A0_L12_S60.mp3
+61,Какую еду он предпочитает?,What food does he prefer?,[wɒt fu:d dʌz hi: priˈfɜ:?],A0_L12_S61.mp3
+62,Когда ты хочешь посетить этот остров?,When do you want to visit this island?,[wen du: ju: wɒnt tu: ˈvɪzɪt ðɪs ˈaɪlənd?],A0_L12_S62.mp3
+63,Как регулярно ты занимаешься спортом?,How regularly do you do sport?,[haʊ ˈregjʊləli du: ju: du: spɔ:t?],A0_L12_S63.mp3
+64,Во сколько ты уходишь с работы?,What time do you leave work?,[wɒt taɪm du: ju: li:v wɜ:k?],A0_L12_S64.mp3
+65,Сколько ты платишь за это?,How much do you pay for it?,[haʊ mʌʧ du: ju: peɪ fɔ: ɪt?],A0_L12_S65.mp3
+66,Сколько она платит?,How much does she pay?,[haʊ mʌʧ dʌz ʃi: peɪ?],A0_L12_S66.mp3
+67,Сколько он платит за эту вещь?,How much does he pay for this thing?,[haʊ mʌʧ dʌz hi: peɪ fɔ: ðɪs θɪŋ?],A0_L12_S67.mp3
+68,Как часто ты это делаешь?,How often do you do it?,[haʊ ˈɒfn du: ju: du: ɪt?],A0_L12_S68.mp3
+69,Как часто он это делает?,How often does he do it?,[haʊ ˈɒfn dʌz hi: du: ɪt?],A0_L12_S69.mp3
+70,Как регулярно она ходит туда?,How regularly does she go there?,[haʊ ˈregjʊləli dʌz ʃi: gəʊ ðeə?],A0_L12_S70.mp3
+71,Какой у тебя уровень?,What level do you have?,[wɒt ˈlevl du: ju: hæv?],A0_L12_S71.mp3
+72,Какой у нее уровень?,What level does she have?,[wɒt ˈlevl dʌz ʃi: hæv?],A0_L12_S72.mp3
+73,Сколько денег у тебя с собой?,How much money do you have with you?,[haʊ mʌʧ ˈmʌni du: ju: hæv wɪð ju:?],A0_L12_S73.mp3
+74,Сколько у него денег?,How much money does he have?,[haʊ mʌʧ ˈmʌni dʌz hi: hæv?],A0_L12_S74.mp3
+75,Сколько денег ты платишь за это?,How much money do you pay for it?,[haʊ mʌʧ ˈmʌni du: ju: peɪ fɔ: ɪt?],A0_L12_S75.mp3
+76,В какое время ты выходишь из дома?,What time do you leave home?,[wɒt taɪm du: ju: li:v həʊm?],A0_L12_S76.mp3
+77,В какое время она выходит из дома?,What time does she leave home?,[wɒt taɪm dʌz ʃi: li:v həʊm?],A0_L12_S77.mp3
+78,Когда он уходит с работы?,When does he leave work?,[wen dʌz hi: li:v wɜ:k?],A0_L12_S78.mp3
+79,Как регулярно он это делает?,How regularly does he do it?,[haʊ ˈregjʊləli dʌz hi: du: ɪt?],A0_L12_S79.mp3
+80,Как регулярно она делает то упражнение?,How regularly does she do that exercise?,[haʊ ˈregjʊləli dʌz ʃi: du: ðæt ˈeksəsaɪz?],A0_L12_S80.mp3
+81,Как часто ты ходишь туда?,How often do you go there?,[haʊ ˈɒfn du: ju: gəʊ ðeə?],A0_L12_S81.mp3
+82,Что ты обычно делаешь в свое свободное время?,What do you usually do in your free time?,[wɒt du: ju: ˈju:ʒʊəli du: ɪn jɔ: fri: taɪm?],A0_L12_S82.mp3
+83,Что она обычно делает в свое свободное время?,What does she usually do in her free time?,[wɒt dʌz ʃi: ˈju:ʒʊəli du: ɪn hɜ: fri: taɪm?],A0_L12_S83.mp3
+84,Как ты обычно проводишь свое свободное время?,How do you usually spend your free time?,[haʊ du: ju: ˈju:ʒʊəli spend jɔ: fri: taɪm?],A0_L12_S84.mp3
+85,Как часто ты занимаешься спортом?,How often do you do sport?,[haʊ ˈɒfn du: ju: du: spɔ:t?],A0_L12_S85.mp3
+86,Как часто она занимается спортом?,How often does she do sport?,[haʊ ˈɒfn dʌz ʃi: du: spɔ:t?],A0_L12_S86.mp3
+87,Как часто ты встаешь так рано?,How often do you get up so early?,[haʊ ˈɒfn du: ju: get ʌp səʊ ˈɜ:li?],A0_L12_S87.mp3
+88,Какой у тебя уровень английского?,What English level do you have?,[wɒt ˈɪŋglɪʃ ˈlevl du: ju: hæv?],A0_L12_S88.mp3
+89,Какой уровень английского она хочет иметь?,What English level does she want to have?,[wɒt ˈɪŋglɪʃ ˈlevl dʌz ʃi: wɒnt tu: hæv?],A0_L12_S89.mp3
+90,Что ты знаешь об этом?,What do you know about it?,[wɒt du: ju: nəʊ əˈbaʊt ɪt?],A0_L12_S90.mp3
+91,Что ты хочешь знать об этом?,What do you want to know about it?,[wɒt du: ju: wɒnt tu: nəʊ əˈbaʊt ɪt?],A0_L12_S91.mp3
+92,Что она знает о нем?,What does she know about him?,[wɒt dʌz ʃi: nəʊ əˈbaʊt hɪm?],A0_L12_S92.mp3
+93,Что ты хочешь делать в свое свободное время?,What do you want to do in your free time?,[wɒt du: ju: wɒnt tu: du: ɪn jɔ: fri: taɪm?],A0_L12_S93.mp3
+94,Какая еда тебе нравится?,What food do you like?,[wɒt fu:d du: ju: laɪk?],A0_L12_S94.mp3
+95,Какой уровень английского ты хочешь иметь?,What English level do you want to have?,[wɒt ˈɪŋglɪʃ ˈlevl du: ju: wɒnt tu: hæv?],A0_L12_S95.mp3
+96,Какую еду ты предпочитаешь?,What food do you prefer?,[wɒt fu:d du: ju: priˈfɜ:?],A0_L12_S96.mp3
+97,В какое время ты обычно просыпаешься?,What time do you usually wake up?,[wɒt taɪm du: ju: ˈju:ʒʊəli weɪk ʌp?],A0_L12_S97.mp3
+98,Какой у него уровень?,What level does he have?,[wɒt ˈlevl dʌz hi: hæv?],A0_L12_S98.mp3
+99,В какое время ты приходишь домой с работы?,What time do you come home from work?,[wɒt taɪm du: ju: kʌm həʊm frɒm wɜ:k?],A0_L12_S99.mp3
+100,Сколько денег у тебя есть?,How much money do you have?,[haʊ mʌʧ ˈmʌni du: ju: hæv?],A0_L12_S100.mp3
+101,Сколько ты платишь?,How much do you pay?,[haʊ mʌʧ du: ju: peɪ?],A0_L12_S101.mp3
+102,В какое время ты приходишь домой?,What time do you come home?,[wɒt taɪm du: ju: kʌm həʊm?],A0_L12_S102.mp3
+103,Что она знает?,What does she know?,[wɒt dʌz ʃi: nəʊ?],A0_L12_S103.mp3
+104,Что ты хочешь поменять?,What do you want to change?,[wɒt du: ju: wɒnt tu: ʧeɪnʤ?],A0_L12_S104.mp3
+105,Как регулярно ты тренируешься?,How regularly do you train?,[haʊ ˈregjʊləli du: ju: treɪn?],A0_L12_S105.mp3
+106,Как регулярно ты это делаешь? …................................................... 107. Какие города он хочет посетить? …................................................... 8 Ответы 1. Почему ты это читаешь?,Why do you read it?,[waɪ du: ju: ri:d ɪt?],A0_L12_S106.mp3
+107,Какие города он хочет посетить?,What cities does he want to visit?,[wɒt ˈsɪtiz dʌz hi: wɒnt tu: ˈvɪzɪt?],A0_L12_S107.mp3

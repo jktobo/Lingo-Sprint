@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Почему он учит английский?,Why does he learn English?,[waɪ dʌz hi: lɜ:n ˈɪŋglɪʃ?],A1_L69_S2.mp3
+3,Почему эти студенты такие счастливые?,Why are these students so happy?,[waɪ ɑ: ði:z ˈstju:dənts səʊ ˈhæpi?],A1_L69_S3.mp3
+4,Какой твой адрес?,What is your address?,[wɒt ɪz jɔ:r əˈdres?],A1_L69_S4.mp3
+5,"Мой английский звучит намного лучше, чем раньше?",Does my English sound much better than before?,[dʌz maɪ ˈɪŋglɪʃ saʊnd mʌʧ ˈbetə ðæn bɪˈfɔ:?],A1_L69_S5.mp3
+6,Сколько вопросов ты обычно задаешь?,How many questions do you usually make?,[haʊ ˈmeni ˈkwesʧənz du: ju: ˈju:ʒʊəli meɪk?],A1_L69_S6.mp3
+7,Как часто ты ходишь на пляж?,How often do you go to the beach?,[haʊ ˈɒfn du: ju: gəʊ tu: ðə bi:ʧ?],A1_L69_S7.mp3
+8,Почему эта тема интересна тебе?,Why is this topic interesting for you?,[waɪ ɪz ðɪs ˈtɒpɪk ˈɪntrɪstɪŋ fɔ: ju:?],A1_L69_S8.mp3
+9,Сколько лет твоим родителям?,How old are your parents?,[haʊ əʊld ɑ: jɔ: ˈpeərənts?],A1_L69_S9.mp3
+10,Что означает это слово?,What does this word mean?,[wɒt dʌz ðɪs wɜ:d mi:n?],A1_L69_S10.mp3
+11,Сколько у тебя вопросов?,How many questions do you have?,[haʊ ˈmeni ˈkwesʧənz du: ju: hæv?],A1_L69_S11.mp3
+12,Почему эта работа такая стрессовая для вас?,Why is this job so stressful for you?,[waɪ ɪz ðɪs ʤɒb səʊ ˈstresfəl fɔ: ju:?],A1_L69_S12.mp3
+13,В чем проблема?,What's the problem?,[wɒts ðə ˈprɒbləm?],A1_L69_S13.mp3
+14,Почему эта вещь кажется такой важной?,Why does this thing seem so important?,[waɪ dʌz ðɪs θɪŋ si:m səʊ ɪmˈpɔ:tənt?],A1_L69_S14.mp3
+15,Почему это неправильно?,Why is it incorrect?,[waɪ ɪz ɪt ˌɪnkəˈrekt?],A1_L69_S15.mp3
+16,Почему ты так много думаешь об этом?,Why do you think about it so much?,[waɪ du: ju: θɪŋk əˈbaʊt ɪt səʊ mʌʧ?],A1_L69_S16.mp3
+17,Где работают твои родители?,Where do your parents work?,[weə du: jɔ: ˈpeərənts wɜ:k?],A1_L69_S17.mp3
+18,Где работает твоя мама?,Where does your mother work?,[weə dʌz jɔ: ˈmʌðə wɜ:k?],A1_L69_S18.mp3
+19,Что означают эти слова?,What do these words mean?,[wɒt du: ði:z wɜ:dz mi:n?],A1_L69_S19.mp3
+20,Что дальше?,What's next?,[wɒts nekst?],A1_L69_S20.mp3
+21,Насколько это рискованно?,How risky is it?,[haʊ ˈrɪski ɪz ɪt?],A1_L69_S21.mp3
+22,Кто следующий?,Who's next?,[hu:z nekst?],A1_L69_S22.mp3
+23,Какой твой адрес?,What's your address?,[wɒts jɔ: əˈdres?],A1_L69_S23.mp3
+24,Какая у твоего отца работа?,What's your father's job?,[wɒts jɔ: ˈfɑ:ðəz ʤɒb?],A1_L69_S24.mp3
+25,Какой его совет?,What's his advice?,[wɒts hɪz ədˈvaɪs?],A1_L69_S25.mp3
+26,Как часто он путешествует?,How often does he travel?,[haʊ ˈɒfn dʌz hi: ˈtrævl?],A1_L69_S26.mp3
+27,Аэропорт рядом?,Is the airport near?,[ɪz ði ˈeəpɔ:t nɪə?],A1_L69_S27.mp3
+28,Какой у нее адрес?,What's her address?,[wɒts hɜ:r əˈdres?],A1_L69_S28.mp3
+29,Какие их рекомендации?,What are their recommendations?,[wɒt ɑ: ðeə ˌrekəmenˈdeɪʃənz?],A1_L69_S29.mp3
+30,Сколько лет твоей маме?,How old is your mother?,[haʊ əʊld ɪz jɔ: ˈmʌðə?],A1_L69_S30.mp3
+31,Какая у твоей мамы работа?,What's your mother's job?,[wɒts jɔ: ˈmʌðəz ʤɒb?],A1_L69_S31.mp3
+32,Насколько глубокое озеро?,How deep is the lake?,[haʊ di:p ɪz ðə leɪk?],A1_L69_S32.mp3
+33,Почему тебе нравится этот отель?,Why do you like this hotel?,[waɪ du: ju: laɪk ðɪs həʊˈtel?],A1_L69_S33.mp3
+34,Что в посылке?,What's in the parcel?,[wɒts ɪn ðə ˈpɑ:sl?],A1_L69_S34.mp3
+35,Этот отель рядом с этим местом?,Is this hotel near this place?,[ɪz ðɪs həʊˈtel nɪə ðɪs pleɪs?],A1_L69_S35.mp3
+36,Насколько опасно это?,How dangerous is it?,[haʊ ˈdeɪnʤrəs ɪz ɪt?],A1_L69_S36.mp3
+37,Насколько красивый этот город?,How beautiful is this city?,[haʊ ˈbju:təfəl ɪz ðɪs ˈsɪti?],A1_L69_S37.mp3
+38,Насколько это важно для тебя?,How important is it for you?,[haʊ ɪmˈpɔ:tənt ɪz ɪt fɔ: ju:?],A1_L69_S38.mp3
+39,Что означает это выражение?,What does this expression mean?,[wɒt dʌz ðɪs ɪksˈpreʃən mi:n?],A1_L69_S39.mp3
+40,Почему это тебе так интересно?,Why is it so interesting for you?,[waɪ ɪz ɪt səʊ ˈɪntrɪstɪŋ fɔ: ju:?],A1_L69_S40.mp3
+41,Сколько лет твоему отцу?,How old is your father?,[haʊ əʊld ɪz jɔ: ˈfɑ:ðə?],A1_L69_S41.mp3
+42,Где работает твой отец?,Where does your father work?,[weə dʌz jɔ: ˈfɑ:ðə wɜ:k?],A1_L69_S42.mp3
+43,"Мой английский намного лучше, чем раньше?",Is my English much better than before?,[ɪz maɪ ˈɪŋglɪʃ mʌʧ ˈbetə ðæn bɪˈfɔ:?],A1_L69_S43.mp3
+44,Что означает эта фраза?,What does this phrase mean?,[wɒt dʌz ðɪs freɪz mi:n?],A1_L69_S44.mp3
+45,Как зовут мальчика?,What's the boy's name?,[wɒts ðə bɔɪz neɪm?],A1_L69_S45.mp3
+46,"Почему тебе нужно гораздо больше времени, чтобы полностью это закончить?",Why do you need much more time to finish it completely?,[waɪ du: ju: ni:d mʌʧ mɔ: taɪm tu: ˈfɪnɪʃ ɪt kəmˈpli:tli?],A1_L69_S46.mp3
+47,Почему тебе нужно сделать это как можно скорее?,Why do you need to do it as soon as possible?,[waɪ du: ju: ni:d tu: du: ɪt æz su:n æz ˈpɒsəbl?],A1_L69_S47.mp3
+48,Как ты заботишься о своем здоровье?,How do you look after your health?,[haʊ du: ju: lʊk ˈɑ:ftə jɔ: helθ?],A1_L69_S48.mp3
+49,Как долго он добирается до школы?,How long does he get to school?,[haʊ lɒŋ dʌz hi: get tu: sku:l?],A1_L69_S49.mp3
+50,Почему он так заинтересован в этом проекте?,Why is he so interested in this project?,[waɪ ɪz hi: səʊ ˈɪntrɪstɪd ɪn ðɪs ˈprɒʤekt?],A1_L69_S50.mp3
+51,Почему ты предпочитаешь изучать английский язык сам?,Why do you prefer to learn English by yourself?,[waɪ du: ju: priˈfɜ: tu: lɜ:n ˈɪŋglɪʃ baɪ jɔ:ˈself?],A1_L69_S51.mp3
+52,Сколько раз в неделю ты ходишь в бассейн?,How many times a week do you go to the swimming pool?,[haʊ ˈmeni taɪmz ə wi:k du: ju: gəʊ tu: ðə ˈswɪmɪŋ pu:l?],A1_L69_S52.mp3
+53,Почему он предпочитает изучать английский сам?,Why does he prefer to learn English by himself?,[waɪ dʌz hi: priˈfɜ: tu: lɜ:n ˈɪŋglɪʃ baɪ hɪmˈself?],A1_L69_S53.mp3
+54,Как долго она добирается домой?,How long does she get home?,[haʊ lɒŋ dʌz ʃi: get həʊm?],A1_L69_S54.mp3
+55,Какие у девочки интересы?,What are the girl's interests?,[wɒt ɑ: ðə gɜ:lz ˈɪntrɪsts?],A1_L69_S55.mp3
+56,Какой у тебя уровень английского?,What's your English level?,[wɒts jɔ: ˈɪŋglɪʃ ˈlevl?],A1_L69_S56.mp3
+57,Как часто ты читаешь этот журнал?,How often do you read this magazine?,[haʊ ˈɒfn du: ju: ri:d ðɪs ˌmægəˈzi:n?],A1_L69_S57.mp3
+58,Что в коробке?,What's in the box?,[wɒts ɪn ðə bɒks?],A1_L69_S58.mp3
+59,Как зовут твоего друга?,What's your friend's name?,[wɒts jɔ: frendz neɪm?],A1_L69_S59.mp3
+60,Как долго идет урок?,How long is the lesson?,[haʊ lɒŋ ɪz ðə ˈlesn?],A1_L69_S60.mp3
+61,Как долго идет фильм?,How long is the movie?,[haʊ lɒŋ ɪz ðə ˈmu:vi?],A1_L69_S61.mp3
+62,Как долго идут эти уроки?,How long are these lessons?,[haʊ lɒŋ ɑ: ði:z ˈlesnz?],A1_L69_S62.mp3
+63,Как зовут девочек?,What are the girls' names?,[wɒt ɑ: ðə gɜ:lz neɪmz?],A1_L69_S63.mp3
+64,Как зовут девочку?,What is the girl's name?,[wɒt ɪz ðə gɜ:lz neɪm?],A1_L69_S64.mp3
+65,Как зовут женщину?,What is the woman's name?,[wɒt ɪz ðə ˈwʊmənz neɪm?],A1_L69_S65.mp3
+66,Какие у мальчика хобби?,What are the boy's hobbies?,[wɒt ɑ: ðə bɔɪz ˈhɒbiz?],A1_L69_S66.mp3
+67,Какое у мальчика хобби?,What is the boy's hobby?,[wɒt ɪz ðə bɔɪz ˈhɒbi?],A1_L69_S67.mp3
+68,Какие у того мальчика хобби?,What are that boy's hobbies?,[wɒt ɑ: ðæt bɔɪz ˈhɒbiz?],A1_L69_S68.mp3
+69,Как он обычно туда добирается?,How does he usually get there?,[haʊ dʌz hi: ˈju:ʒʊəli get ðeə?],A1_L69_S69.mp3
+70,Как она обычно туда добирается?,How does she usually get there?,[haʊ dʌz ʃi: ˈju:ʒʊəli get ðeə?],A1_L69_S70.mp3
+71,Когда ты обычно туда добираешься?,When do you usually get there?,[wen du: ju: ˈju:ʒʊəli get ðeə?],A1_L69_S71.mp3
+72,Как долго идут уроки?,How long are the lessons?,[haʊ lɒŋ ɑ: ðə ˈlesnz?],A1_L69_S72.mp3
+73,Как долго идет этот урок? …………….…................................................... 74. Какой у него уровень английского? …………….…................................................... 75. Какой у нее уровень английского? …………….…................................................... 76. Как зовут эту девочку? …………….…................................................... 77. Как ты добираешься до работы? …………….…................................................... 78. Как он добирается до работы? …………….…................................................... 79. Как ты добираешься до школы? …………….…................................................... 80. Как долго идут курсы? …………….…................................................... 81. Как долго идут эти курсы? …………….…................................................... 82. Как долго идет этот курс? …………….…................................................... 83. Как ты добираешься домой после работы? …………….…................................................... 84. Как она добирается домой после работы? …………….…................................................... 85. Как ты возвращаешься домой? …………….…................................................... 8 86. Сколько раз в неделю он ходит на работу? …………….…................................................... 87. Что в сумке? …………….…................................................... 88. Какие их потребности? …………….…................................................... 89. Как долго ты добираешься до работы? …………….…................................................... 90. Почему он изучает английский самостоятельно? …………….…................................................... 91. Сколько раз в неделю ты ходишь в спортзал? …………….…................................................... 92. Как долго ты добираешься в университет? …………….…................................................... 93. Как часто ты бегаешь трусцой? …………….…................................................... 94. Почему ты предпочитаешь делать это самостоятельно? …………….…................................................... 95. Насколько дорогие эти часы? …………….…................................................... 96. Какой у тебя уровень? …………….…................................................... 97. Какие у мальчиков хобби? …………….…................................................... 98. Насколько это полезно? …………….…................................................... 9 99. Насколько это эффективно? …………….…................................................... 100. Как зовут мальчиков? …………….…................................................... 10 Ответы 1. Сколько у тебя вопросов?,How many questions do you have?,[haʊ ˈmeni ˈkwesʧənz du: ju: hæv?],A1_L69_S73.mp3
+74,Какой у него уровень английского?,What's his English level?,[wɒts hɪz ˈɪŋglɪʃ ˈlevl?],A1_L69_S74.mp3
+75,Какой у нее уровень английского?,What's her English level?,[wɒts hɜ: ˈɪŋglɪʃ ˈlevl?],A1_L69_S75.mp3
+76,Как зовут эту девочку?,What's this girl's name?,[wɒts ðɪs gɜ:lz neɪm?],A1_L69_S76.mp3
+77,Как ты добираешься до работы?,How do you get to work?,[haʊ du: ju: get tu: wɜ:k?],A1_L69_S77.mp3
+78,Как он добирается до работы?,How does he get to work?,[haʊ dʌz hi: get tu: wɜ:k?],A1_L69_S78.mp3
+79,Как ты добираешься до школы?,How do you get to school?,[haʊ du: ju: get tu: sku:l?],A1_L69_S79.mp3
+80,Как долго идут курсы?,How long are the courses?,[haʊ lɒŋ ɑ: ðə ˈkɔ:sɪz?],A1_L69_S80.mp3
+81,Как долго идут эти курсы?,How long are these courses?,[haʊ lɒŋ ɑ: ði:z ˈkɔ:sɪz?],A1_L69_S81.mp3
+82,Как долго идет этот курс?,How long is this course?,[haʊ lɒŋ ɪz ðɪs kɔ:s?],A1_L69_S82.mp3
+83,Как ты добираешься домой после работы?,How do you get home after work?,[haʊ du: ju: get həʊm ˈɑ:ftə wɜ:k?],A1_L69_S83.mp3
+84,Как она добирается домой после работы?,How does she get home after work?,[haʊ dʌz ʃi: get həʊm ˈɑ:ftə wɜ:k?],A1_L69_S84.mp3
+85,Как ты возвращаешься домой?,How do you get back home?,[haʊ du: ju: get bæk həʊm?],A1_L69_S85.mp3
+86,Сколько раз в неделю он ходит на работу?,How many times a week does he go to work?,[haʊ ˈmeni taɪmz ə wi:k dʌz hi: gəʊ tu: wɜ:k?],A1_L69_S86.mp3
+87,Что в сумке?,What is in the bag?,[wɒt ɪz ɪn ðə bæg?],A1_L69_S87.mp3
+88,Какие их потребности?,What are their needs?,[wɒt ɑ: ðeə ni:dz?],A1_L69_S88.mp3
+89,Как долго ты добираешься до работы?,How long do you get to work?,[haʊ lɒŋ du: ju: get tu: wɜ:k?],A1_L69_S89.mp3
+90,Почему он изучает английский самостоятельно?,Why does he learn English on his own?,[waɪ dʌz hi: lɜ:n ˈɪŋglɪʃ ɒn hɪz əʊn?],A1_L69_S90.mp3
+91,Сколько раз в неделю ты ходишь в спортзал?,How many times a week do you go to the gym?,[haʊ ˈmeni taɪmz ə wi:k du: ju: gəʊ tu: ðə ʤɪm?],A1_L69_S91.mp3
+92,Как долго ты добираешься в университет?,How long do you get to university?,[haʊ lɒŋ du: ju: get tu: ˌju:nɪˈvɜ:sɪti?],A1_L69_S92.mp3
+93,Как часто ты бегаешь трусцой?,How often do you go jogging?,[haʊ ˈɒfn du: ju: gəʊ ˈʤɒgɪŋ?],A1_L69_S93.mp3
+94,Почему ты предпочитаешь делать это самостоятельно?,Why do you prefer to do it on your own?,[waɪ du: ju: priˈfɜ: tu: du: ɪt ɒn jɔ: əʊn?],A1_L69_S94.mp3
+95,Насколько дорогие эти часы?,How expensive is this watch?,[haʊ ɪksˈpensɪv ɪz ðɪs wɒʧ?],A1_L69_S95.mp3
+96,Какой у тебя уровень?,What's your level?,[wɒts jɔ: ˈlevl?],A1_L69_S96.mp3
+97,Какие у мальчиков хобби?,What are the boys' hobbies?,[wɒt ɑ: ðə bɔɪz ˈhɒbiz?],A1_L69_S97.mp3
+98,Насколько это полезно?,How useful is it?,[haʊ ˈju:sfəl ɪz ɪt?],A1_L69_S98.mp3
+99,Насколько это эффективно?,How effective is it?,[haʊ ɪˈfektɪv ɪz ɪt?],A1_L69_S99.mp3
+100,Как зовут мальчиков?,What are the boys' names?,[wɒt ɑ: ðə bɔɪz neɪmz?],A1_L69_S100.mp3

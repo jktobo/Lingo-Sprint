@@ -1,0 +1,98 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Эта квартира подходит для небольшой семьи,This apartment is suitable for a small family,[ðɪs əˈpɑ:tmənt ɪz ˈsju:təbl fɔ: ə smɔ:l ˈfæmɪli],B2_L211_S2.mp3
+3,"Он говорит, что ему наскучила его нынешняя работа",He says that he got bored with his present job,[hi: sez ðæt hi: gɒt bɔ:d wɪð hɪz ˈpreznt ʤɒb],B2_L211_S3.mp3
+4,Он предоставляет нам очень ценную информацию,He provides us with very valuable information,[hi: prəˈvaɪdz ʌs wɪð ˈveri ˈvæljʊəbl ˌɪnfəˈmeɪʃən],B2_L211_S4.mp3
+5,Этот парень действительно без ума от футбола,This guy is really crazy about football,[ðɪs gaɪ ɪz ˈrɪəli ˈkreɪzi əˈbaʊt ˈfʊtbɔ:l],B2_L211_S5.mp3
+6,Я был в восторге от такого результата,I was delighted by this result,[aɪ wɒz dɪˈlaɪtɪd baɪ ðɪs rɪˈzʌlt],B2_L211_S6.mp3
+7,Он сильно зависит от своих родителей,He is heavily dependent on his parents,[hi: ɪz ˈhevɪli dɪˈpendənt ɒn hɪz ˈpeərənts],B2_L211_S7.mp3
+8,Они ограничивают свободу слова и самовыражения,They restrict freedom of speech and expression,[ðeɪ rɪsˈtrɪkt ˈfri:dəm ɒv spi:ʧ ænd ɪksˈpreʃən],B2_L211_S8.mp3
+9,Это место не кажется мне знакомым,This place doesn't seem familiar to me,[ðɪs pleɪs dʌznt si:m fəˈmɪliə tu: mi:],B2_L211_S9.mp3
+10,Он очень оптимистичен насчет будущего компании,He is very optimistic about the future of the company,[hi: ɪz ˈveri ˌɒptɪˈmɪstɪk əˈbaʊt ðə ˈfju:ʧər ɒv ðə ˈkʌmpəni],B2_L211_S10.mp3
+11,"Эта программа подходит как для детей, так и для взрослых",This program is suitable for both children and adults,[ðɪs ˈprəʊgræm ɪz ˈsju:təbl fɔ: bəʊθ ˈʧɪldrən ænd ˈædʌlts],B2_L211_S11.mp3
+12,Я действительно сожалею о беспорядке,I am really sorry for the mess,[aɪ æm ˈrɪəli ˈsɒri fɔ: ðə mes],B2_L211_S12.mp3
+13,Эта одежда подходит для холодной погоды?,Are these clothes suitable for cold weather?,[ɑ: ði:z kləʊðz ˈsju:təbl fɔ: kəʊld ˈweðə?],B2_L211_S13.mp3
+14,Они обеспечивают эту страну нефтью и газом,They provide this country with oil and gas,[ðeɪ prəˈvaɪd ðɪs ˈkʌntri wɪð ɔɪl ænd gæs],B2_L211_S14.mp3
+15,Этот документальный фильм также подходит для молодых зрителей,This documentary is also suitable for young viewers,[ðɪs ˌdɒkjʊˈmentəri ɪz ˈɔ:lsəʊ ˈsju:təbl fɔ: jʌŋ ˈvju:əz],B2_L211_S15.mp3
+16,Извини за опоздание,I'm sorry for being late,[aɪm ˈsɒri fɔ: ˈbi:ɪŋ leɪt],B2_L211_S16.mp3
+17,Они за свободу слова,They are for freedom of speech,[ðeɪ ɑ: fɔ: ˈfri:dəm ɒv spi:ʧ],B2_L211_S17.mp3
+18,"Извини, что пришел позже",I'm sorry for coming later,[aɪm ˈsɒri fɔ: ˈkʌmɪŋ ˈleɪtə],B2_L211_S18.mp3
+19,Я абсолютно уверен в этом,I am absolutely certain about it,[aɪ æm ˈæbsəlu:tli ˈsɜ:tn əˈbaʊt ɪt],B2_L211_S19.mp3
+20,Есть опасность пожара,There is danger of a fire,[ðeər ɪz ˈdeɪnʤər ɒv ə ˈfaɪə],B2_L211_S20.mp3
+21,Он в ужасе от этой мысли,He is terrified at this thought,[hi: ɪz ˈterɪfaɪd æt ðɪs θɔ:t],B2_L211_S21.mp3
+22,Он действительно в восторге от новостей,He is really delighted by the news,[hi: ɪz ˈrɪəli dɪˈlaɪtɪd baɪ ðə nju:z],B2_L211_S22.mp3
+23,Мне наскучил фильм,I was bored with the movie,[aɪ wɒz bɔ:d wɪð ðə ˈmu:vi],B2_L211_S23.mp3
+24,Есть опасность новых протестов,There is a danger of new protests,[ðeər ɪz ə ˈdeɪnʤər ɒv nju: ˈprəʊtests],B2_L211_S24.mp3
+25,Он действительно без ума от нее,He is really crazy about her,[hi: ɪz ˈrɪəli ˈkreɪzi əˈbaʊt hɜ:],B2_L211_S25.mp3
+26,Ты знаком с этой теорией?,Are you familiar with this theory?,[ɑ: ju: fəˈmɪliə wɪð ðɪs ˈθɪəri?],B2_L211_S26.mp3
+27,Она в ужасе от пауков,She is terrified of spiders,[ʃi: ɪz ˈterɪfaɪd ɒv ˈspaɪdəz],B2_L211_S27.mp3
+28,Дом не подходит для такой большой семьи,The house isn't suitable for such a large family,[ðə haʊs ˈɪznt ˈsju:təbl fɔ: sʌʧ ə lɑ:ʤ ˈfæmɪli],B2_L211_S28.mp3
+29,Эта песня кажется мне знакомой,This song seems familiar to me,[ðɪs sɒŋ si:mz fəˈmɪliə tu: mi:],B2_L211_S29.mp3
+30,Я был действительно раздражен его замечаниями,I was really annoyed with his remarks,[aɪ wɒz ˈrɪəli əˈnɔɪd wɪð hɪz ˈrɪˈmɑ:ks],B2_L211_S30.mp3
+31,Мне очень быстро надоел тот урок,I got bored with that lesson very quickly,[aɪ gɒt bɔ:d wɪð ðæt ˈlesn ˈveri ˈkwɪkli],B2_L211_S31.mp3
+32,Он хочет найти подходящего человека для этой работы,He wants to find a suitable person for this job,[hi: wɒnts tu: faɪnd ə ˈsju:təbl ˈpɜ:sn fɔ: ðɪs ʤɒb],B2_L211_S32.mp3
+33,Он известен своей честностью,He is known for his honesty,[hi: ɪz nəʊn fɔ: hɪz ˈɒnɪsti],B2_L211_S33.mp3
+34,Он очень дружелюбен к нам,He is very friendly towards us,[hi: ɪz ˈveri ˈfrendli təˈwɔ:dz ʌs],B2_L211_S34.mp3
+35,Существует опасность другого кризиса,There is a danger of another crisis,[ðeər ɪz ə ˈdeɪnʤər ɒv əˈnʌðə ˈkraɪsɪs],B2_L211_S35.mp3
+36,Они продемонстрировали недостаток знаний и опыта,They demonstrated a lack of knowledge and experience,[ðeɪ ˈdemənstreɪtɪd ə læk ɒv ˈnɒlɪʤ ænd ɪksˈpɪərɪəns],B2_L211_S36.mp3
+37,Этот город известен своей богатой историей,This city is known for its rich history,[ðɪs ˈsɪti ɪz nəʊn fɔ: ɪts rɪʧ ˈhɪstəri],B2_L211_S37.mp3
+38,Я очень оптимистично настроен по поводу этого проекта,I feel very optimistic about this project,[aɪ fi:l ˈveri ˌɒptɪˈmɪstɪk əˈbaʊt ðɪs ˈprɒʤekt],B2_L211_S38.mp3
+39,Этот фильм не подходит для детей,This movie isn't suitable for children,[ðɪs ˈmu:vi ˈɪznt ˈsju:təbl fɔ: ˈʧɪldrən],B2_L211_S39.mp3
+40,Эта страна известна своими обычаями и традициями,This country is known for its customs and traditions,[ðɪs ˈkʌntri ɪz nəʊn fɔ: ɪts ˈkʌstəmz ænd trəˈdɪʃənz],B2_L211_S40.mp3
+41,"Я знаю, что мне не хватает уверенности в себе, но я стараюсь работать над этой проблемой",I know that I have a lack of confidence but I try to work on this problem,[aɪ nəʊ ðæt aɪ hæv ə læk ɒv ˈkɒnfɪdəns bʌt aɪ traɪ tu: wɜ:k ɒn ðɪs ˈprɒbləm],B2_L211_S41.mp3
+42,"Он всегда был очень дружелюбен к нам, когда мы останавливались там",He was always very friendly to us when we were staying there,[hi: wɒz ˈɔ:lweɪz ˈveri ˈfrendli tu: ʌs wen wi: wɜ: ˈsteɪɪŋ ðeə],B2_L211_S42.mp3
+43,Этот документальный фильм идеально подходит для людей всех возрастов,This documentary is perfectly suitable for people of all ages,[ðɪs ˌdɒkjʊˈmentəri ɪz ˈpɜ:fɪktli ˈsju:təbl fɔ: ˈpi:pl ɒv ɔ:l ˈeɪʤɪz],B2_L211_S43.mp3
+44,Эта страна сильно зависит от своих природных ресурсов,This country is heavily dependent on its natural resources,[ðɪs ˈkʌntri ɪz ˈhevɪli dɪˈpendənt ɒn ɪts ˈnæʧrəl rɪˈsɔ:sɪz],B2_L211_S44.mp3
+45,Я действительно сожалею о причиненных тебе неудобствах,I am really sorry about the inconvenience caused to you,[aɪ æm ˈrɪəli ˈsɒri əˈbaʊt ði ˌɪnkənˈvi:niəns kɔ:zd tu: ju:],B2_L211_S45.mp3
+46,Он был в ужасе от мысли потерять все свои деньги,He was terrified at the thought of losing all his money,[hi: wɒz ˈterɪfaɪd æt ðə θɔ:t ɒv ˈlu:zɪŋ ɔ:l hɪz ˈmʌni],B2_L211_S46.mp3
+47,Компания предоставляет очень хорошие условия для своих сотрудников,The company provides very good conditions for its employees,[ðə ˈkʌmpəni prəˈvaɪdz ˈveri gʊd kənˈdɪʃənz fɔ: ɪts ˌemplɔɪˈi:z],B2_L211_S47.mp3
+48,Я абсолютно рад это слышать,I am absolutely delighted to hear it,[aɪ æm ˈæbsəlu:tli dɪˈlaɪtɪd tu: hɪər ɪt],B2_L211_S48.mp3
+49,Он действительно сожалеет о причиненных мне неудобствах,He is really sorry about the inconvenience caused to me,[hi: ɪz ˈrɪəli ˈsɒri əˈbaʊt ði ˌɪnkənˈvi:niəns kɔ:zd tu: mi:],B2_L211_S49.mp3
+50,Мне бы не хотелось быть сильно зависимым от этого,I wouldn't like to be heavily dependent on it,[aɪ ˈwʊdnt laɪk tu: bi: ˈhevɪli dɪˈpendənt ɒn ɪt],B2_L211_S50.mp3
+51,Я никогда в жизни не был так уверен,I have never been so certain in my life,[aɪ hæv ˈnevə bi:n səʊ ˈsɜ:tn ɪn maɪ laɪf],B2_L211_S51.mp3
+52,"Мне действительно жаль, что я тебя расстроил",I'm really sorry for upsetting you,[aɪm ˈrɪəli ˈsɒri fɔ: ʌpˈsetɪŋ ju:],B2_L211_S52.mp3
+53,Я абсолютно рад быть здесь,I am absolutely delighted to be here,[aɪ æm ˈæbsəlu:tli dɪˈlaɪtɪd tu: bi: hɪə],B2_L211_S53.mp3
+54,У тебя никогда не бывает нехватки энтузиазма,You never have a lack of enthusiasm,[ju: ˈnevə hæv ə læk ɒv ɪnˈθju:zɪæzm],B2_L211_S54.mp3
+55,Их свобода передвижения ограничена,Their freedom of movement is restricted,[ðeə ˈfri:dəm ɒv ˈmu:vmənt ɪz rɪsˈtrɪktɪd],B2_L211_S55.mp3
+56,Чем известен этот певец?,What is this singer known for?,[wɒt ɪz ðɪs ˈsɪŋə nəʊn fɔ:?],B2_L211_S56.mp3
+57,Этот певец известен той песней,This singer is known for that song,[ðɪs ˈsɪŋər ɪz nəʊn fɔ: ðæt sɒŋ],B2_L211_S57.mp3
+58,Чем известен этот актер?,What is this actor known for?,[wɒt ɪz ðɪs ˈæktə nəʊn fɔ:?],B2_L211_S58.mp3
+59,Мне наскучило сидеть дома,I got bored with staying at home,[aɪ gɒt bɔ:d wɪð ˈsteɪɪŋ æt həʊm],B2_L211_S59.mp3
+60,Что ей наскучило?,What is she bored with?,[wɒt ɪz ʃi: bɔ:d wɪð?],B2_L211_S60.mp3
+61,Мне наскучило заниматься домашними делами,I got bored with doing housework,[aɪ gɒt bɔ:d wɪð ˈdu:ɪŋ ˈhaʊswɜ:k],B2_L211_S61.mp3
+62,Он был в ужасе при мысли об одиночестве,He was terrified at the thought of loneliness,[hi: wɒz ˈterɪfaɪd æt ðə θɔ:t ɒv ˈləʊnlɪnəs],B2_L211_S62.mp3
+63,Она была в ужасе при мысли о потере своих денег,She was terrified at the thought of losing her money,[ʃi: wɒz ˈterɪfaɪd æt ðə θɔ:t ɒv ˈlu:zɪŋ hɜ: ˈmʌni],B2_L211_S63.mp3
+64,Я в ужасе от этой мысли,I am terrified at this thought,[aɪ æm ˈterɪfaɪd æt ðɪs θɔ:t],B2_L211_S64.mp3
+65,Мы видим их очевидную нехватку знаний,We see their apparent lack of knowledge,[wi: si: ðeər əˈpærənt læk ɒv ˈnɒlɪʤ],B2_L211_S65.mp3
+66,У этого студента нехватка уверенности в себе,This student has a lack of confidence,[ðɪs ˈstju:dənt hæz ə læk ɒv ˈkɒnfɪdəns],B2_L211_S66.mp3
+67,Он был раздражен такой плохой погодой,He was annoyed by such bad weather,[hiː wɒz əˈnɔɪd baɪ sʌʧ bæd ˈwɛðə],B2_L211_S67.mp3
+68,Чем они так раздражены?,What are they so annoyed with?,[wɒt ɑ: ðeɪ səʊ əˈnɔɪd wɪð?],B2_L211_S68.mp3
+69,Я был действительно раздражен его поведением,I was really annoyed with his behaviour,[aɪ wɒz ˈrɪəli əˈnɔɪd wɪð hɪz bɪˈheɪvjə],B2_L211_S69.mp3
+70,Я абсолютно рад тебя видеть,I am absolutely delighted to see you,[aɪ æm ˈæbsəlu:tli dɪˈlaɪtɪd tu: si: ju:],B2_L211_S70.mp3
+71,"Я абсолютно счастлив быть там …………….…................................................... 72. Она абсолютно счастлива это слышать …………….…................................................... 73. Они предоставляют нам всю необходимую информацию …………….…................................................... 74. Он предоставил нам все необходимое оборудование …………….…................................................... 75. Эта компания предоставляет своим сотрудникам долгие отпуска …………….…................................................... 76. Я немного знаком с ним …………….…................................................... 77. Кто тебе кажется знакомым? …………….…................................................... 78. Этот фильм кажется мне знакомым …………….…................................................... 79. Чем известно это место? …………….…................................................... 80. Этот город известен своими традициями …………….…................................................... 81. Он известен своей добротой …………….…................................................... 82. Нам дана свобода выбора …………….…................................................... 83. Наша свобода передвижения ограничена …………….…................................................... 8 84. Нам дана свобода передвижения …………….…................................................... 85. Они предоставляют нам все необходимое оборудование …………….…................................................... 86. Я был абсолютно в восторге от результата …………….…................................................... 87. Ей наскучило заниматься домашним хозяйством …………….…................................................... 88. Что кажется тебе знакомым? …………….…................................................... 89. Эта компания предоставляет своим сотрудникам идеальные условия …………….…................................................... 90. Мне действительно жаль, что я ранил твои чувства …………….…................................................... 91. Чем она так раздражена? …………….…................................................... 92. Я уверен, что он будет очень рад видеть тебя …………….…................................................... 93. Тебе наскучило делать домашнее задание? …………….…................................................... 94. Его отец старался предоставить ей самое лучшее образование …………….…................................................... 95. Что тебе наскучило? …………….…................................................... 96. Свобода слова и самовыражения ограничена …………….…................................................... 9 97. Детям наскучила игра …………….…................................................... 98. Его родители стараются предоставить ему очень хорошее образование …………….…................................................... 10 Ответы 1. Все были так доброжелательны к нам",Everyone was so friendly towards us,[ˈevrɪwʌn wɒz səʊ ˈfrendli təˈwɔ:dz ʌs],B2_L211_S71.mp3
+72,Она абсолютно счастлива это слышать,She is absolutely delighted to hear it,[ʃi: ɪz ˈæbsəlu:tli dɪˈlaɪtɪd tu: hɪər ɪt],B2_L211_S72.mp3
+73,Они предоставляют нам всю необходимую информацию,They provide us with all the necessary information,[ðeɪ prəˈvaɪd ʌs wɪð ɔ:l ðə ˈnesɪsəri ˌɪnfəˈmeɪʃən],B2_L211_S73.mp3
+74,Он предоставил нам все необходимое оборудование,He provided us with all the necessary equipment,[hi: prəˈvaɪdɪd ʌs wɪð ɔ:l ðə ˈnesɪsəri ɪˈkwɪpmənt],B2_L211_S74.mp3
+75,Эта компания предоставляет своим сотрудникам долгие отпуска,This company provides its employees with long holidays,[ðɪs ˈkʌmpəni prəˈvaɪdz ɪts ˌemplɔɪˈi:z wɪð lɒŋ ˈhɒlədeɪz],B2_L211_S75.mp3
+76,Я немного знаком с ним,I am a bit familiar with him,[aɪ æm ə bɪt fəˈmɪliə wɪð hɪm],B2_L211_S76.mp3
+77,Кто тебе кажется знакомым?,Who seems familiar to you?,[hu: si:mz fəˈmɪliə tu: ju:?],B2_L211_S77.mp3
+78,Этот фильм кажется мне знакомым,This movie seems familiar to me,[ðɪs ˈmu:vi si:mz fəˈmɪliə tu: mi:],B2_L211_S78.mp3
+79,Чем известно это место?,What is this place known for?,[wɒt ɪz ðɪs pleɪs nəʊn fɔ:?],B2_L211_S79.mp3
+80,Этот город известен своими традициями,This city is known for its traditions,[ðɪs ˈsɪti ɪz nəʊn fɔ: ɪts trəˈdɪʃənz],B2_L211_S80.mp3
+81,Он известен своей добротой,He is known for his kindness,[hi: ɪz nəʊn fɔ: hɪz ˈkaɪndnɪs],B2_L211_S81.mp3
+82,Нам дана свобода выбора,We are given freedom of choice,[wi: ɑ: ˈgɪvn ˈfri:dəm ɒv ʧɔɪs],B2_L211_S82.mp3
+83,Наша свобода передвижения ограничена,Our freedom of movement is restricted,[ˈaʊə ˈfri:dəm ɒv ˈmu:vmənt ɪz rɪsˈtrɪktɪd],B2_L211_S83.mp3
+84,Нам дана свобода передвижения,We are given freedom of movement,[wi: ɑ: ˈgɪvn ˈfri:dəm ɒv ˈmu:vmənt],B2_L211_S84.mp3
+85,Они предоставляют нам все необходимое оборудование,They provide us with all the necessary equipment,[ðeɪ prəˈvaɪd ʌs wɪð ɔ:l ðə ˈnesɪsəri ɪˈkwɪpmənt],B2_L211_S85.mp3
+86,Я был абсолютно в восторге от результата,I was absolutely delighted by the result,[aɪ wɒz ˈæbsəlu:tli dɪˈlaɪtɪd baɪ ðə rɪˈzʌlt],B2_L211_S86.mp3
+87,Ей наскучило заниматься домашним хозяйством,She got bored with doing housework,[ʃi: gɒt bɔ:d wɪð ˈdu:ɪŋ ˈhaʊswɜ:k],B2_L211_S87.mp3
+88,Что кажется тебе знакомым?,What seems familiar to you?,[wɒt si:mz fəˈmɪliə tu: ju:?],B2_L211_S88.mp3
+89,Эта компания предоставляет своим сотрудникам идеальные условия,This company provides its employees with perfect conditions,[ðɪs ˈkʌmpəni prəˈvaɪdz ɪts ˌemplɔɪˈi:z wɪð ˈpɜ:fɪkt kənˈdɪʃənz],B2_L211_S89.mp3
+90,"Мне действительно жаль, что я ранил твои чувства",I am really sorry for hurting your feelings,[aɪ æm ˈrɪəli ˈsɒri fɔ: ˈhɜ:tɪŋ jɔ: ˈfi:lɪŋz],B2_L211_S90.mp3
+91,Чем она так раздражена?,What is she so annoyed with?,[wɒt ɪz ʃi: səʊ əˈnɔɪd wɪð?],B2_L211_S91.mp3
+92,"Я уверен, что он будет очень рад видеть тебя",I'm sure that he will be absolutely delighted to see you,[aɪm ʃʊə ðæt hi: wɪl bi: ˈæbsəlu:tli dɪˈlaɪtɪd tu: si: ju:],B2_L211_S92.mp3
+93,Тебе наскучило делать домашнее задание?,Are you bored with doing homework?,[ɑ: ju: bɔ:d wɪð ˈdu:ɪŋ ˈhəʊmˌwɜ:k?],B2_L211_S93.mp3
+94,Его отец старался предоставить ей самое лучшее образование,His father tried to provide her with the best education,[hɪz ˈfɑ:ðə traɪd tu: prəˈvaɪd hɜ: wɪð ðə best ˌedju:ˈkeɪʃən],B2_L211_S94.mp3
+95,Что тебе наскучило?,What are you bored with?,[wɒt ɑ: ju: bɔ:d wɪð?],B2_L211_S95.mp3
+96,Свобода слова и самовыражения ограничена,Freedom of speech and expression is restricted,[ˈfri:dəm ɒv spi:ʧ ænd ɪksˈpreʃən ɪz rɪsˈtrɪktɪd],B2_L211_S96.mp3
+97,Детям наскучила игра,The kids got bored with the game,[ðə kɪdz gɒt bɔ:d wɪð ðə geɪm],B2_L211_S97.mp3
+98,Его родители стараются предоставить ему очень хорошее образование,His parents try to provide him with a very good education,[hɪz ˈpeərənts traɪ tu: prəˈvaɪd hɪm wɪð ə ˈveri gʊd ˌedju:ˈkeɪʃən],B2_L211_S98.mp3

@@ -1,0 +1,102 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он попытался сбежать из тюрьмы,He tried to escape from prison,[hi: traɪd tu: ɪsˈkeɪp frɒm ˈprɪzn],A2_L104_S2.mp3
+3,Я говорил с ним вчера,I spoke to him yesterday,[aɪ spəʊk tu: hɪm ˈjestədeɪ],A2_L104_S3.mp3
+4,Он обычно тратит так много денег на это,He usually spends so much money on it,[hi: ˈju:ʒʊəli spendz səʊ mʌʧ ˈmʌni ɒn ɪt],A2_L104_S4.mp3
+5,Он проголосовал за второго кандидата,He voted for the second candidate,[hi: ˈvəʊtɪd fɔ: ðə ˈsekənd ˈkændɪˌdeɪt],A2_L104_S5.mp3
+6,Его действительно не волнуют эти вещи,He doesn't really care about these things,[hi: dʌznt ˈrɪəli keər əˈbaʊt ði:z θɪŋz],A2_L104_S6.mp3
+7,Он ответил на мое письмо немедленно,He replied to my letter immediately,[hi: rɪˈplaɪd tu: maɪ ˈletər ɪˈmi:diətli],A2_L104_S7.mp3
+8,Это может привести нас к успеху,It can lead us to success,[ɪt kæn li:d ʌs tu: səkˈses],A2_L104_S8.mp3
+9,Он ответил на твое сообщение?,Did he reply to your message?,[dɪd hi: rɪˈplaɪ tu: jɔ: ˈmesɪʤ?],A2_L104_S9.mp3
+10,Меня действительно это не волнует,I don't really care about it,[aɪ dəʊnt ˈrɪəli keər əˈbaʊt ɪt],A2_L104_S10.mp3
+11,Он одобряет этот выбор?,Does he approve of this choice?,[dʌz hi: əˈpru:v ɒv ðɪs ʧɔɪs?],A2_L104_S11.mp3
+12,Я одобряю это решение,I approve of this decision,[aɪ əˈpru:v ɒv ðɪs dɪˈsɪʒən],A2_L104_S12.mp3
+13,Я хочу поздравить тебя с твоим днем рождения,I want to congratulate you on your birthday,[aɪ wɒnt tu: kənˈgrætjʊleɪt ju: ɒn jɔ: ˈbɜ:θdeɪ],A2_L104_S13.mp3
+14,Мне действительно нравится проводить время с моими друзьями,I really like spending time with my friends,[aɪ ˈrɪəli laɪk ˈspendɪŋ taɪm wɪð maɪ frendz],A2_L104_S14.mp3
+15,Меня это не волнует,I don't care about it,[aɪ dəʊnt keər əˈbaʊt ɪt],A2_L104_S15.mp3
+16,Он страдает от очень серьезной болезни,He suffers from a very serious illness,[hi: ˈsʌfəz frɒm ə ˈveri ˈsɪərɪəs ˈɪlnɪs],A2_L104_S16.mp3
+17,Ты подготовился к этому экзамену?,Did you prepare for this exam?,[dɪd ju: prɪˈpeə fɔ: ðɪs ɪgˈzæm?],A2_L104_S17.mp3
+18,Мне все равно,I don't care,[aɪ dəʊnt keə],A2_L104_S18.mp3
+19,Он страдает от депрессии,He suffers from depression,[hi: ˈsʌfəz frɒm dɪˈpreʃən],A2_L104_S19.mp3
+20,Она не заботится об этом,She doesn't care about it,[ʃi: dʌznt keər əˈbaʊt ɪt],A2_L104_S20.mp3
+21,Я представил им своего друга,I introduced my friend to them,[aɪ ˌɪntrəˈdju:st maɪ frend tu: ðem],A2_L104_S21.mp3
+22,Позволь мне представить его!,Let me introduce him!,[let mi: ˌɪntrəˈdju:s hɪm!],A2_L104_S22.mp3
+23,Он говорил со мной об этом вчера,He spoke to me about it yesterday,[hi: spəʊk tu: mi: əˈbaʊt ɪt ˈjestədeɪ],A2_L104_S23.mp3
+24,Я надеюсь на твою поддержку,I hope for your support,[aɪ həʊp fɔ: jɔ: səˈpɔ:t],A2_L104_S24.mp3
+25,Он ответил на мое письмо почти сразу,He answered my letter almost immediately,[hi: ˈɑ:nsəd maɪ ˈletər ˈɔ:lməʊst ɪˈmi:diətli],A2_L104_S25.mp3
+26,Ты одобряешь это решение?,Do you approve of this decision?,[du: ju: əˈpru:v ɒv ðɪs dɪˈsɪʒən?],A2_L104_S26.mp3
+27,Я проголосовал за первого кандидата,I voted for the first candidate,[aɪ ˈvəʊtɪd fɔ: ðə fɜ:st ˈkændɪˌdeɪt],A2_L104_S27.mp3
+28,Он надеется на твою помощь,He hopes for your help,[hi: həʊps fɔ: jɔ: help],A2_L104_S28.mp3
+29,Я хочу послушать это еще раз,I want to listen to it one more time,[aɪ wɒnt tu: ˈlɪsn tu: ɪt wʌn mɔ: taɪm],A2_L104_S29.mp3
+30,Это привело меня к успеху,It led me to success,[ɪt led mi: tu: səkˈses],A2_L104_S30.mp3
+31,Тебе нравится слушать музыку?,Do you like listening to music?,[du: ju: laɪk ˈlɪsnɪŋ tu: ˈmju:zɪk?],A2_L104_S31.mp3
+32,Не беспокойся об этом слишком сильно!,Don't worry about it too much!,[dəʊnt ˈwʌri əˈbaʊt ɪt tu: mʌʧ!],A2_L104_S32.mp3
+33,Я хочу представить моего друга тебе,I want to introduce my friend to you,[aɪ wɒnt tu: ˌɪntrəˈdju:s maɪ frend tu: ju:],A2_L104_S33.mp3
+34,Что привело его к успеху?,What led him to success?,[wɒt led hɪm tu: səkˈses?],A2_L104_S34.mp3
+35,Она страдает от головных болей,She suffers from headaches,[ʃi: ˈsʌfəz frɒm ˈhedeɪks],A2_L104_S35.mp3
+36,Он пытался бежать из этой страны,He tried to escape from this country,[hi: traɪd tu: ɪsˈkeɪp frɒm ðɪs ˈkʌntri],A2_L104_S36.mp3
+37,Ты ответил на это письмо?,Did you reply to this letter?,[dɪd ju: rɪˈplaɪ tu: ðɪs ˈletə?],A2_L104_S37.mp3
+38,Она голосовала за другого кандидата,She voted for another candidate,[ʃi: ˈvəʊtɪd fɔ:r əˈnʌðə ˈkændɪˌdeɪt],A2_L104_S38.mp3
+39,Как ты будешь готовиться к этому тесту?,How will you prepare for this test?,[haʊ wɪl ju: prɪˈpeə fɔ: ðɪs test?],A2_L104_S39.mp3
+40,Тебе совсем не нужно беспокоиться об этом,You don't need to worry about it at all,[ju: dəʊnt ni:d tu: ˈwʌri əˈbaʊt ɪt æt ɔ:l],A2_L104_S40.mp3
+41,Он одобряет этот выбор,He approves of this choice,[hi: əˈpru:vz ɒv ðɪs ʧɔɪs],A2_L104_S41.mp3
+42,Я хотел бы поздравить тебя с твоим днем рождения,I'd like to congratulate you on your birthday,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn jɔ: ˈbɜ:θdeɪ],A2_L104_S42.mp3
+43,"Я верю, что я смогу полностью избавиться от этих ошибок",I believe that I will be able to get rid of these mistakes completely,[aɪ bɪˈli:v ðæt aɪ wɪl bi: ˈeɪbl tu: get rɪd ɒv ði:z mɪsˈteɪks kəmˈpli:tli],A2_L104_S43.mp3
+44,Не все зависит от меня,Not everything depends on me,[nɒt ˈevrɪθɪŋ dɪˈpendz ɒn mi:],A2_L104_S44.mp3
+45,Мне удалось получить эту работу,I succeeded in getting this job,[aɪ səkˈsi:dɪd ɪn ˈgetɪŋ ðɪs ʤɒb],A2_L104_S45.mp3
+46,Книга состоит из пяти глав,The book consists of five chapters,[ðə bʊk kənˈsɪsts ɒv faɪv ˈʧæptəz],A2_L104_S46.mp3
+47,Я хотел бы поздравить тебя со сдачей теста,I'd like to congratulate you on passing the test,[aɪd laɪk tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ ðə test],A2_L104_S47.mp3
+48,"Он пытался сбежать из тюрьмы, но ему не удалось это сделать",He tried to escape from prison but he didn't succeed in doing it,[hi: traɪd tu: ɪsˈkeɪp frɒm ˈprɪzn bʌt hi: dɪdnt səkˈsi:d ɪn ˈdu:ɪŋ ɪt],A2_L104_S48.mp3
+49,Я хочу поздравить тебя со сдачей экзамена,I want to congratulate you on passing the exam,[aɪ wɒnt tu: kənˈgrætjʊleɪt ju: ɒn ˈpɑ:sɪŋ ði ɪgˈzæm],A2_L104_S49.mp3
+50,Ему удалось сбежать из полиции,He managed to escape from the police,[hi: ˈmænɪʤd tu: ɪsˈkeɪp frɒm ðə pəˈli:s],A2_L104_S50.mp3
+51,Почему ты так сильно беспокоишься об этом?,Why do you worry about it so much?,[waɪ du: ju: ˈwʌri əˈbaʊt ɪt səʊ mʌʧ?],A2_L104_S51.mp3
+52,Постарайся не беспокоиться об этом,Try not to worry about it,[traɪ nɒt tu: ˈwʌri əˈbaʊt ɪt],A2_L104_S52.mp3
+53,"Он надеется на лучшее, но ожидает худшего",He hopes for the best but expects the worst,[hi: həʊps fɔ: ðə best bʌt ɪksˈpekts ðə wɜ:st],A2_L104_S53.mp3
+54,Я с нетерпением жду следующих уроков,I look forward to the next lessons,[aɪ lʊk ˈfɔ:wəd tu: ðə nekst ˈlesnz],A2_L104_S54.mp3
+55,Это напоминает мне о моем первом визите в Соединенные Штаты,It reminds me of my first visit to the United States,[ɪt ˈrɪmaɪndz mi: ɒv maɪ fɜ:st ˈvɪzɪt tu: ði: jʊˈnaɪtɪd steɪts],A2_L104_S55.mp3
+56,"Я прекрасно понимаю, что мне нужно избавиться от этих ошибок",I perfectly understand that I need to get rid of these mistakes,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd ðæt aɪ ni:d tu: get rɪd ɒv ði:z mɪsˈteɪks],A2_L104_S56.mp3
+57,Кто голосовал за него?,Who voted for him?,[hu: ˈvəʊtɪd fɔ: hɪm?],A2_L104_S57.mp3
+58,Мне удалось получить хорошую оценку,I succeeded in getting a good grade,[aɪ səkˈsi:dɪd ɪn ˈgetɪŋ ə gʊd greɪd],A2_L104_S58.mp3
+59,Мне удалось сделать это очень хорошо,I succeeded in doing it very well,[aɪ səkˈsi:dɪd ɪn ˈdu:ɪŋ ɪt ˈveri wel],A2_L104_S59.mp3
+60,Ей удалось получить хорошую работу,She succeeded in getting a good job,[ʃi: səkˈsi:dɪd ɪn ˈgetɪŋ ə gʊd ʤɒb],A2_L104_S60.mp3
+61,Кого это действительно волновало?,Who really cared about it?,[hu: ˈrɪəli keəd əˈbaʊt ɪt?],A2_L104_S61.mp3
+62,Тебя действительно это волновало?,Did you really care about it?,[dɪd ju: ˈrɪəli keər əˈbaʊt ɪt?],A2_L104_S62.mp3
+63,это волновало больше всего?,Who cared about it most of all?,[hu: keəd əˈbaʊt ɪt məʊst ɒv ɔ:l?],A2_L104_S63.mp3
+64,"Я вижу, ты действительно беспокоишься об этом",I see you're really worried about it,[aɪ si: jʊə ˈrɪəli ˈwʌrid əˈbaʊt ɪt],A2_L104_S64.mp3
+65,Ты действительно беспокоился об этом?,Did you really worry about it?,[dɪd ju: ˈrɪəli ˈwʌri əˈbaʊt ɪt?],A2_L104_S65.mp3
+66,"Я вижу, ты не беспокоишься об этом",I see you don't worry about it,[aɪ si: ju: dəʊnt ˈwʌri əˈbaʊt ɪt],A2_L104_S66.mp3
+67,Ему удалось заработать эту сумму денег,He succeeded in earning this sum of money,[hi: səkˈsi:dɪd ɪn ˈɜ:nɪŋ ðɪs sʌm ɒv ˈmʌni],A2_L104_S67.mp3
+68,Ему удалось выучить этот текст наизусть,He succeeded in learning this text by heart,[hi: səkˈsi:dɪd ɪn ˈlɜ:nɪŋ ðɪs tekst baɪ hɑ:t],A2_L104_S68.mp3
+69,Мне удалось заработать так много денег,I succeeded in earning so much money,[aɪ səkˈsi:dɪd ɪn ˈɜ:nɪŋ səʊ mʌʧ ˈmʌni],A2_L104_S69.mp3
+70,Я с нетерпением жду просмотра следующих видео,I look forward to watching the next videos,[aɪ lʊk ˈfɔ:wəd tu: ˈwɒʧɪŋ ðə nekst ˈvɪdɪəʊz],A2_L104_S70.mp3
+71,Я с нетерпением жду следующего урока,I look forward to the next lesson,[aɪ lʊk ˈfɔ:wəd tu: ðə nekst ˈlesn],A2_L104_S71.mp3
+72,Я с нетерпением жду новой песни,I look forward to a new song,[aɪ lʊk ˈfɔ:wəd tu: ə nju: sɒŋ],A2_L104_S72.mp3
+73,"Почему ты так беспокоишься об этом? …………….…................................................... 74. Ты так сильно беспокоился об этом? …………….…................................................... 75. Почему она так беспокоится об этом? …………….…................................................... 76. Мне удалось сдать этот экзамен …………….…................................................... 77. Ей удалось пройти этот тест …………….…................................................... 78. Я преуспел в бизнесе …………….…................................................... 79. Презентация состоит из десяти слайдов …………….…................................................... 80. Эта книга состоит из десяти глав …………….…................................................... 81. Моя презентация состоит из двух частей …………….…................................................... 82. Я действительно надеюсь на твое понимание …………….…................................................... 83. Я действительно надеюсь на его поддержку …………….…................................................... 84. Я так сильно надеюсь на ее понимание …………….…................................................... 85. Мне удалось сдать тест …………….…................................................... 8 86. Мне удалось сдать тот экзамен …………….…................................................... 87. Мне удалось решить эту задачу …………….…................................................... 88. Отчет состоит из двух частей …………….…................................................... 89. Он часто слушает музыку, когда занимается другими делами …………….…................................................... 90. Мне нужно избавиться от этих глупых ошибок …………….…................................................... 91. Она часто страдает от головных болей …………….…................................................... 92. Он преуспел в бизнесе …………….…................................................... 93. Многие люди говорят, что усердная работа часто приводит к успеху …………….…................................................... 94. Я предпочитаю надеяться на лучшее …………….…................................................... 95. Тебе удалось получить эту работу? …………….…................................................... 96. Это напоминает мне о моем прошлом …………….…................................................... 97. Он страдает от боли в спине …………….…................................................... 98. Я надеюсь на лучшее …………….…................................................... 9 99. Тебя это действительно волновало? …………….…................................................... 100. Это напоминает мне о ней …………….…................................................... 101. Кто смеется над ним? …………….…................................................... 102. Мне удалось это сделать …………….…................................................... 10 Ответы 1. Мы одобряем твое решение",We approve of your decision,[wi: əˈpru:v ɒv jɔ: dɪˈsɪʒən],A2_L104_S73.mp3
+74,Ты так сильно беспокоился об этом?,Did you worry about it so much?,[dɪd ju: ˈwʌri əˈbaʊt ɪt səʊ mʌʧ?],A2_L104_S74.mp3
+75,Почему она так беспокоится об этом?,Why is she so worried about it?,[waɪ ɪz ʃi: səʊ ˈwʌrid əˈbaʊt ɪt?],A2_L104_S75.mp3
+76,Мне удалось сдать этот экзамен,I succeeded in passing this exam,[aɪ səkˈsi:dɪd ɪn ˈpɑ:sɪŋ ðɪs ɪgˈzæm],A2_L104_S76.mp3
+77,Ей удалось пройти этот тест,She succeeded in passing this test,[ʃi: səkˈsi:dɪd ɪn ˈpɑ:sɪŋ ðɪs test],A2_L104_S77.mp3
+78,Я преуспел в бизнесе,I succeeded in business,[aɪ səkˈsi:dɪd ɪn ˈbɪznɪs],A2_L104_S78.mp3
+79,Презентация состоит из десяти слайдов,The presentation consists of ten slides,[ðə ˌprezenˈteɪʃən kənˈsɪsts ɒv ten slaɪdz],A2_L104_S79.mp3
+80,Эта книга состоит из десяти глав,This book consists of ten chapters,[ðɪs bʊk kənˈsɪsts ɒv ten ˈʧæptəz],A2_L104_S80.mp3
+81,Моя презентация состоит из двух частей,My presentation consists of two parts,[maɪ ˌprezenˈteɪʃən kənˈsɪsts ɒv tu: pɑ:ts],A2_L104_S81.mp3
+82,Я действительно надеюсь на твое понимание,I really hope for your understanding,[aɪ ˈrɪəli həʊp fɔ: jɔ: ˌʌndəˈstændɪŋ],A2_L104_S82.mp3
+83,Я действительно надеюсь на его поддержку,I really hope for his support,[aɪ ˈrɪəli həʊp fɔ: hɪz səˈpɔ:t],A2_L104_S83.mp3
+84,Я так сильно надеюсь на ее понимание,I hope for her understanding so much,[aɪ həʊp fɔ: hɜ:r ˌʌndəˈstændɪŋ səʊ mʌʧ],A2_L104_S84.mp3
+85,Мне удалось сдать тест,I succeeded in passing the test,[aɪ səkˈsi:dɪd ɪn ˈpɑ:sɪŋ ðə test],A2_L104_S85.mp3
+86,Мне удалось сдать тот экзамен,I succeeded in passing that exam,[aɪ səkˈsi:dɪd ɪn ˈpɑ:sɪŋ ðæt ɪgˈzæm],A2_L104_S86.mp3
+87,Мне удалось решить эту задачу,I succeeded in solving this task,[aɪ səkˈsi:dɪd ɪn ˈsɒlvɪŋ ðɪs tɑ:sk],A2_L104_S87.mp3
+88,Отчет состоит из двух частей,The report consists of two parts,[ðə rɪˈpɔ:t kənˈsɪsts ɒv tu: pɑ:ts],A2_L104_S88.mp3
+89,"Он часто слушает музыку, когда занимается другими делами",He often listens to music when he does other things,[hi: ˈɒfn ˈlɪsnz tu: ˈmju:zɪk wen hi: dʌz ˈʌðə θɪŋz],A2_L104_S89.mp3
+90,Мне нужно избавиться от этих глупых ошибок,I need to get rid of these silly mistakes,[aɪ ni:d tu: get rɪd ɒv ði:z ˈsɪli mɪsˈteɪks],A2_L104_S90.mp3
+91,Она часто страдает от головных болей,She often suffers from headaches,[ʃi: ˈɒfn ˈsʌfəz frɒm ˈhedeɪks],A2_L104_S91.mp3
+92,Он преуспел в бизнесе,He succeeded in business,[hi: səkˈsi:dɪd ɪn ˈbɪznɪs],A2_L104_S92.mp3
+93,"Многие люди говорят, что усердная работа часто приводит к успеху",Many people say that hard work often leads to success,[ˈmeni ˈpi:pl seɪ ðæt hɑ:d wɜ:k ˈɒfn li:dz tu: səkˈses],A2_L104_S93.mp3
+94,Я предпочитаю надеяться на лучшее,I prefer to hope for the best,[aɪ priˈfɜ: tu: həʊp fɔ: ðə best],A2_L104_S94.mp3
+95,Тебе удалось получить эту работу?,Did you succeed in getting this job?,[dɪd ju: səkˈsi:d ɪn ˈgetɪŋ ðɪs ʤɒb?],A2_L104_S95.mp3
+96,Это напоминает мне о моем прошлом,It reminds me of my past,[ɪt ˈrɪmaɪndz mi: ɒv maɪ pɑ:st],A2_L104_S96.mp3
+97,Он страдает от боли в спине,He suffers from a backache,[hi: ˈsʌfəz frɒm ə ˈbækeɪk],A2_L104_S97.mp3
+98,Я надеюсь на лучшее,I hope for the best,[aɪ həʊp fɔ: ðə best],A2_L104_S98.mp3
+99,Тебя это действительно волновало?,Did you really carry about it?,[dɪd ju: ˈrɪəli ˈkæri əˈbaʊt ɪt?],A2_L104_S99.mp3
+100,Это напоминает мне о ней,It reminds me of her,[ɪt ˈrɪmaɪndz mi: ɒv hɜ:],A2_L104_S100.mp3
+101,Кто смеется над ним?,Who laughs at him?,[hu: lɑ:fs æt hɪm?],A2_L104_S101.mp3
+102,Мне удалось это сделать,I succeeded in doing it,[aɪ səkˈsi:dɪd ɪn ˈdu:ɪŋ ɪt],A2_L104_S102.mp3

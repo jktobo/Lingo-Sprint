@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она ненавидит делать домашнюю работу,She hates doing homework,[ʃi: heɪts ˈdu:ɪŋ ˈhəʊmˌwɜ:k],B1_L177_S2.mp3
+3,Я планирую посетить Англию скоро,I plan to visit England soon,[aɪ plæn tu: ˈvɪzɪt ˈɪŋglənd su:n],B1_L177_S3.mp3
+4,Ты хочешь выпить кофе?,Do you fancy drinking coffee?,[du: ju: ˈfænsi ˈdrɪŋkɪŋ ˈkɒfi?],B1_L177_S4.mp3
+5,Я предлагаю остановиться в отеле получше,I suggest staying in a better hotel,[aɪ səˈʤest ˈsteɪɪŋ ɪn ə ˈbetə həʊˈtel],B1_L177_S5.mp3
+6,Что ты рекомендуешь делать в этой ситуации?,What do you recommend doing in this situation?,[wɒt du: ju: ˌrekəˈmend ˈdu:ɪŋ ɪn ðɪs ˌsɪtjʊˈeɪʃən?],B1_L177_S6.mp3
+7,Он рассматривал переезд в Соединенные Штаты,He considered moving to the United States,[hi: kənˈsɪdəd ˈmu:vɪŋ tu: ði: jʊˈnaɪtɪd steɪts],B1_L177_S7.mp3
+8,Мне не нравится стоять в длинных очередях,I dislike staying in long queues,[aɪ dɪsˈlaɪk ˈsteɪɪŋ ɪn lɒŋ kju:z],B1_L177_S8.mp3
+9,Тебе хочется пойти в музей в пятницу?,Do you feel like going to the museum on Friday?,[du: ju: fi:l laɪk ˈgəʊɪŋ tu: ðə mju:ˈzɪəm ɒn ˈfraɪdeɪ?],B1_L177_S9.mp3
+10,Ты хотел бы потанцевать?,Would you like to dance?,[wʊd ju: laɪk tu: dɑ:ns?],B1_L177_S10.mp3
+11,Она потратила много времени на приготовление этого торта,She spent lots of time on cooking this cake,[ʃi: spent lɒts ɒv taɪm ɒn ˈkʊkɪŋ ðɪs keɪk],B1_L177_S11.mp3
+12,Тебе нравится водить машину?,Do you like driving a car?,[du: ju: laɪk ˈdraɪvɪŋ ə kɑ:?],B1_L177_S12.mp3
+13,"К сожалению, он не смог этого сделать","Unfortunately, he wasn't able to do it","[ʌnˈfɔ:ʧnɪtli, hi: wɒznt ˈeɪbl tu: du: ɪt]",B1_L177_S13.mp3
+14,Девочка начала внезапно плакать,The girl began to cry suddenly,[ðə gɜ:l bɪˈgæn tu: kraɪ ˈsʌdnli],B1_L177_S14.mp3
+15,Я смог очень быстро адаптироваться к этим условиям,I was able to adapt to these conditions very quickly,[aɪ wɒz ˈeɪbl tu: əˈdæpt tu: ði:z kənˈdɪʃənz ˈveri ˈkwɪkli],B1_L177_S15.mp3
+16,Что ты можешь посоветовать мне сделать в этой ситуации?,What can you advise me to do in this situation?,[wɒt kæn ju: ədˈvaɪz mi: tu: du: ɪn ðɪs ˌsɪtjʊˈeɪʃən?],B1_L177_S16.mp3
+17,Он не любит ходить в кино один,He dislikes going to the movies alone,[hi: dɪsˈlaɪks ˈgəʊɪŋ tu: ðə ˈmu:viz əˈləʊn],B1_L177_S17.mp3
+18,Этот курс действительно помог мне улучшить мой английский,This course really helped me improve my English,[ðɪs kɔ:s ˈrɪəli helpt mi: ɪmˈpru:v maɪ ˈɪŋglɪʃ],B1_L177_S18.mp3
+19,Я не хотел бы быть на его месте,I wouldn't like to be in his place,[aɪ ˈwʊdnt laɪk tu: bi: ɪn hɪz pleɪs],B1_L177_S19.mp3
+20,Не забудь покормить собаку!,Don't forget to feed the dog!,[dəʊnt fəˈget tu: fi:d ðə dɒg!],B1_L177_S20.mp3
+21,Мы решили пойти в другом направлении,We decided to go in another direction,[wi: dɪˈsaɪdɪd tu: gəʊ ɪn əˈnʌðə dɪˈrekʃən],B1_L177_S21.mp3
+22,Он ненавидит носить галстук,He hates wearing a tie,[hi: heɪts ˈweərɪŋ ə taɪ],B1_L177_S22.mp3
+23,Тебе нужно посмотреть на контекст,You need to look at the context,[ju: ni:d tu: lʊk æt ðə ˈkɒntekst],B1_L177_S23.mp3
+24,Ты заслуживаешь победить,You deserve to win,[ju: dɪˈzɜ:v tu: wɪn],B1_L177_S24.mp3
+25,Он надеется найти хорошего адвоката,He hopes to find a good lawyer,[hi: həʊps tu: faɪnd ə gʊd ˈlɔ:jə],B1_L177_S25.mp3
+26,Что ты намереваешься делать?,What do you intend to do?,[wɒt du: ju: ɪnˈtend tu: du:?],B1_L177_S26.mp3
+27,Я намереваюсь навестить тебя на следующей неделе,I intend to visit you next week,[aɪ ɪnˈtend tu: ˈvɪzɪt ju: nekst wi:k],B1_L177_S27.mp3
+28,Она избегает говорить о своем прошлом,She avoids talking about her past,[ʃi: əˈvɔɪdz ˈtɔ:kɪŋ əˈbaʊt hɜ: pɑ:st],B1_L177_S28.mp3
+29,Он попросил их уйти,He asked them to leave,[hi: ɑ:skt ðem tu: li:v],B1_L177_S29.mp3
+30,Мне хочется посмотреть это видео сегодня вечером,I fancy watching this video tonight,[aɪ ˈfænsi ˈwɒʧɪŋ ðɪs ˈvɪdɪəʊ təˈnaɪt],B1_L177_S30.mp3
+31,Я намереваюсь посетить этот город в следующем году,I intend to visit this city next year,[aɪ ɪnˈtend tu: ˈvɪzɪt ðɪs ˈsɪti nekst jɪə],B1_L177_S31.mp3
+32,Я думал переехать за границу,I considered moving abroad,[aɪ kənˈsɪdəd ˈmu:vɪŋ əˈbrɔ:d],B1_L177_S32.mp3
+33,Я предлагаю остановиться в этом отеле,I suggest staying in this hotel,[aɪ səˈʤest ˈsteɪɪŋ ɪn ðɪs həʊˈtel],B1_L177_S33.mp3
+34,Я не смог ответить на твой звонок,I was unable to answer your call,[aɪ wɒz ʌnˈeɪbl tu: ˈɑ:nsə jɔ: kɔ:l],B1_L177_S34.mp3
+35,Я решил пойти в другом направлении,I decided to go in a different direction,[aɪ dɪˈsaɪdɪd tu: gəʊ ɪn ə ˈdɪfrənt dɪˈrekʃən],B1_L177_S35.mp3
+36,Ты хотел бы сейчас пойти на пикник?,Would you like to go on a picnic now?,[wʊd ju: laɪk tu: gəʊ ɒn ə ˈpɪknɪk naʊ?],B1_L177_S36.mp3
+37,Я смог это сделать,I was able to do it,[aɪ wɒz ˈeɪbl tu: du: ɪt],B1_L177_S37.mp3
+38,Он забыл купить молоко,He forgot to buy milk,[hi: fəˈgɒt tu: baɪ mɪlk],B1_L177_S38.mp3
+39,Я надеюсь скоро тебя увидеть,I hope to see you soon,[aɪ həʊp tu: si: ju: su:n],B1_L177_S39.mp3
+40,Я смог сдать такой сложный экзамен,I was able to pass such a difficult exam,[aɪ wɒz ˈeɪbl tu: pɑ:s sʌʧ ə ˈdɪfɪkəlt ɪgˈzæm],B1_L177_S40.mp3
+41,Когда ты практикуешь говорить по-английски?,When do you practise speaking English?,[wen du: ju: ˈpræktɪs ˈspi:kɪŋ ˈɪŋglɪʃ?],B1_L177_S41.mp3
+42,Он предложил оплатить чеком,He suggested paying by cheque,[hi: səˈʤestɪd ˈpeɪɪŋ baɪ ʧek],B1_L177_S42.mp3
+43,Я хотел бы задать тебе несколько вопросов,I'd like to ask you some questions,[aɪd laɪk tu: ɑ:sk ju: sʌm ˈkwesʧənz],B1_L177_S43.mp3
+44,Он бросил курить несколько лет назад,He gave up smoking several years ago,[hi: geɪv ʌp ˈsməʊkɪŋ ˈsevrəl jɪəz əˈgəʊ],B1_L177_S44.mp3
+45,"Честно говоря, я не люблю вставать рано, но мне приходится это делать","To tell the truth, I don't like getting up early but I have to do it","[tu: tel ðə tru:θ, aɪ dəʊnt laɪk ˈgetɪŋ ʌp ˈɜ:li bʌt aɪ hæv tu: du: ɪt]",B1_L177_S45.mp3
+46,Что ты можешь порекомендовать сделать в такой ситуации?,What can you recommend doing in such a situation?,[wɒt kæn ju: ˌrekəˈmend ˈdu:ɪŋ ɪn sʌʧ ə ˌsɪtjʊˈeɪʃən?],B1_L177_S46.mp3
+47,"Я знаю, что многие люди пытались изучать английский язык самостоятельно, и им это удалось",I know that many people tried to learn English by themselves and they succeeded in doing it,[aɪ nəʊ ðæt ˈmeni ˈpi:pl traɪd tu: lɜ:n ˈɪŋglɪʃ baɪ ðəmˈselvz ænd ðeɪ səkˈsi:dɪd ɪn ˈdu:ɪŋ ɪt],B1_L177_S47.mp3
+48,"Когда он был ребенком, ему не нравилось ходить в школу","When he was a child, he didn't like going to school","[wen hi: wɒz ə ʧaɪld, hi: dɪdnt laɪk ˈgəʊɪŋ tu: sku:l]",B1_L177_S48.mp3
+49,Что ты можешь порекомендовать делать в таких условиях?,What can you recommend doing in such circumstances?,[wɒt kæn ju: ˌrekəˈmend ˈdu:ɪŋ ɪn sʌʧ ˈsɜ:kəmstənsɪz?],B1_L177_S49.mp3
+50,Это действительно помогло мне значительно улучшить мой английский,It really helped me improve my English greatly,[ɪt ˈrɪəli helpt mi: ɪmˈpru:v maɪ ˈɪŋglɪʃ ˈgreɪtli],B1_L177_S50.mp3
+51,Что ты можешь посоветовать мне делать в таких обстоятельствах?,What can you advise me to do in such circumstances?,[wɒt kæn ju: ədˈvaɪz mi: tu: du: ɪn sʌʧ ˈsɜ:kəmstənsɪz?],B1_L177_S51.mp3
+52,"Я знаю, что некоторые люди пытались выучить английский язык самостоятельно, и они не смогли это сделать",I know that some people tried to learn English by themselves and they failed to do it,[aɪ nəʊ ðæt sʌm ˈpi:pl traɪd tu: lɜ:n ˈɪŋglɪʃ baɪ ðəmˈselvz ænd ðeɪ feɪld tu: du: ɪt],B1_L177_S52.mp3
+53,Что ты можешь посоветовать мне сделать в такой ситуации?,What can you advise me to do in such a situation?,[wɒt kæn ju: ədˈvaɪz mi: tu: du: ɪn sʌʧ ə ˌsɪtjʊˈeɪʃən?],B1_L177_S53.mp3
+54,"Честно говоря, я не люблю вставать рано, но мне нужно это делать","To tell the truth, I don't like getting up early but I need to do it","[tu: tel ðə tru:θ, aɪ dəʊnt laɪk ˈgetɪŋ ʌp ˈɜ:li bʌt aɪ ni:d tu: du: ɪt]",B1_L177_S54.mp3
+55,Я ненавижу ходить по магазинам по выходным,I hate doing the shopping at the weekend,[aɪ heɪt ˈdu:ɪŋ ðə ˈʃɒpɪŋ æt ðə ˈwi:kˈend],B1_L177_S55.mp3
+56,Они не позволили ему войти в дом,They didn't let him enter the house,[ðeɪ dɪdnt let hɪm ˈentə ðə haʊs],B1_L177_S56.mp3
+57,Мы предпочитаем изучать английский язык самостоятельно,We prefer to learn English by ourselves,[wi: priˈfɜ: tu: lɜ:n ˈɪŋglɪʃ baɪ ˌaʊəˈselvz],B1_L177_S57.mp3
+58,Он отрицает кражу этих денег,He denies stealing this money,[hi: dɪˈnaɪz ˈsti:lɪŋ ðɪs ˈmʌni],B1_L177_S58.mp3
+59,Они не смогли разрешить этот конфликт,They failed to resolve this conflict,[ðeɪ feɪld tu: rɪˈzɒlv ðɪs ˈkɒnflɪkt],B1_L177_S59.mp3
+60,Её родители не позволяют ей сделать это,Her parents don't let her do it,[hɜ: ˈpeərənts dəʊnt let hɜ: du: ɪt],B1_L177_S60.mp3
+61,Ее родители не разрешают ей видеться с ним,Her parents don't let her see him,[hɜ: ˈpeərənts dəʊnt let hɜ: si: hɪm],B1_L177_S61.mp3
+62,Его родители не позволяют ему обсуждать это,His parents don't let him discuss it,[hɪz ˈpeərənts dəʊnt let hɪm dɪsˈkʌs ɪt],B1_L177_S62.mp3
+63,"Я думаю, что он заслуживает победить",I think he deserves to win,[aɪ θɪŋk hi: dɪˈzɜ:vz tu: wɪn],B1_L177_S63.mp3
+64,"Я думаю, что он заслуживает быть знаменитым",I think he deserves to be famous,[aɪ θɪŋk hi: dɪˈzɜ:vz tu: bi: ˈfeɪməs],B1_L177_S64.mp3
+65,"Я не думаю, что он заслуживает победы",I don't think he deserves to win,[aɪ dəʊnt θɪŋk hi: dɪˈzɜ:vz tu: wɪn],B1_L177_S65.mp3
+66,Я терпеть не могу стоять в очередях,I can't stand waiting in queues,[aɪ kɑ:nt stænd ˈweɪtɪŋ ɪn kju:z],B1_L177_S66.mp3
+67,Я терпеть не могу убирать свою комнату,I can't stand cleaning my room,[aɪ kɑ:nt stænd ˈkli:nɪŋ maɪ ru:m],B1_L177_S67.mp3
+68,Я терпеть не могу готовить это,I can't stand cooking it,[aɪ kɑ:nt stænd ˈkʊkɪŋ ɪt],B1_L177_S68.mp3
+69,Он не смог сдержать свое слово,He failed to keep his word,[hi: feɪld tu: ki:p hɪz wɜ:d],B1_L177_S69.mp3
+70,Он не сдержал этого слова,He failed to keep this word,[hi: feɪld tu: ki:p ðɪs wɜ:d],B1_L177_S70.mp3
+71,"Он не смог сделать это …………….…................................................... 72. Его родители не позволили ему сделать это …………….…................................................... 73. Ее родители не позволили ей пойти туда …………….…................................................... 74. Мои родители не разрешали мне этого делать …………….…................................................... 75. Ему не позволено это делать …………….…................................................... 76. Ему не позволено ходить туда …………….…................................................... 77. Ему не позволено обсуждать это …………….…................................................... 78. Он настоял на том, чтобы увидеть его …………….…................................................... 79. Он настаивал на том, чтобы сказать ему всю правду …………….…................................................... 80. Он настоял на том, чтобы это сделать …………….…................................................... 81. Я был очень рад это услышать …………….…................................................... 82. Я был очень рад тебя видеть …………….…................................................... 83. Я был очень рад сделать это …………….…................................................... 8 84. Он не смог найти это …………….…................................................... 85. Он не смог сказать это …………….…................................................... 86. Я ненавижу делать покупки по выходным …………….…................................................... 87. Я ненавижу ходить в спортзал по выходным …………….…................................................... 88. Я ненавижу учиться по выходным …………….…................................................... 89. Они решили остаться друзьями …………….…................................................... 90. Он отрицает совершение этого преступления …………….…................................................... 91. Я надеюсь найти решение этой проблемы …………….…................................................... 92. Они хотели остаться друзьями …………….…................................................... 93. Она была очень рада получить твое письмо …………….…................................................... 94. Не забудь покормить собаку, пока меня не будет! …………….…................................................... 95. Он планирует отправиться в путешествие в Лондон …………….…................................................... 96. Ему удалось открыть дверь без ключа …………….…................................................... 9 97. Его поклонники решили продолжить его ждать …………….…................................................... 98. Они отрицали, что совершили то преступление …………….…................................................... 99. Она настояла на том, чтобы сделать это …………….…................................................... 100. Кто помог тебе понять это? …………….…................................................... 101. Она не сдержала свое обещание …………….…................................................... 102. Не забудь покормить кота, пока меня не будет! …………….…................................................... 103. Что помогло тебе достичь этой цели? …………….…................................................... 10 Ответы 1. Он решил учить английский здесь",He decided to learn English here,[hi: dɪˈsaɪdɪd tu: lɜ:n ˈɪŋglɪʃ hɪə],B1_L177_S71.mp3
+72,Его родители не позволили ему сделать это,His parents didn't let him do it,[hɪz ˈpeərənts dɪdnt let hɪm du: ɪt],B1_L177_S72.mp3
+73,Ее родители не позволили ей пойти туда,Her parents didn't let her go there,[hɜ: ˈpeərənts dɪdnt let hɜ: gəʊ ðeə],B1_L177_S73.mp3
+74,Мои родители не разрешали мне этого делать,My parents didn't let me do it,[maɪ ˈpeərənts dɪdnt let mi: du: ɪt],B1_L177_S74.mp3
+75,Ему не позволено это делать,He isn't allowed to do it,[hi: ˈɪznt əˈlaʊd tu: du: ɪt],B1_L177_S75.mp3
+76,Ему не позволено ходить туда,He isn't allowed to go there,[hi: ˈɪznt əˈlaʊd tu: gəʊ ðeə],B1_L177_S76.mp3
+77,Ему не позволено обсуждать это,He isn't allowed to discuss it,[hi: ˈɪznt əˈlaʊd tu: dɪsˈkʌs ɪt],B1_L177_S77.mp3
+78,"Он настоял на том, чтобы увидеть его",He insisted on seeing him,[hi: ɪnˈsɪstɪd ɒn ˈsi:ɪŋ hɪm],B1_L177_S78.mp3
+79,"Он настаивал на том, чтобы сказать ему всю правду",He insisted on telling him all the truth,[hi: ɪnˈsɪstɪd ɒn ˈtelɪŋ hɪm ɔ:l ðə tru:θ],B1_L177_S79.mp3
+80,"Он настоял на том, чтобы это сделать",He insisted on doing it,[hi: ɪnˈsɪstɪd ɒn ˈdu:ɪŋ ɪt],B1_L177_S80.mp3
+81,Я был очень рад это услышать,I was very glad to hear it,[aɪ wɒz ˈveri glæd tu: hɪər ɪt],B1_L177_S81.mp3
+82,Я был очень рад тебя видеть,I was very glad to see you,[aɪ wɒz ˈveri glæd tu: si: ju:],B1_L177_S82.mp3
+83,Я был очень рад сделать это,I was very glad to do it,[aɪ wɒz ˈveri glæd tu: du: ɪt],B1_L177_S83.mp3
+84,Он не смог найти это,He failed to find it,[hi: feɪld tu: faɪnd ɪt],B1_L177_S84.mp3
+85,Он не смог сказать это,He failed to say it,[hi: feɪld tu: seɪ ɪt],B1_L177_S85.mp3
+86,Я ненавижу делать покупки по выходным,I hate doing the shopping at weekends,[aɪ heɪt ˈdu:ɪŋ ðə ˈʃɒpɪŋ æt ˈwi:kˈendz],B1_L177_S86.mp3
+87,Я ненавижу ходить в спортзал по выходным,I hate going to the gym at weekends,[aɪ heɪt ˈgəʊɪŋ tu: ðə ʤɪm æt ˈwi:kˈendz],B1_L177_S87.mp3
+88,Я ненавижу учиться по выходным,I hate learning at weekends,[aɪ heɪt ˈlɜ:nɪŋ æt ˈwi:kˈendz],B1_L177_S88.mp3
+89,Они решили остаться друзьями,They decided to remain friends,[ðeɪ dɪˈsaɪdɪd tu: rɪˈmeɪn frendz],B1_L177_S89.mp3
+90,Он отрицает совершение этого преступления,He denies committing this crime,[hi: dɪˈnaɪz kəˈmɪtɪŋ ðɪs kraɪm],B1_L177_S90.mp3
+91,Я надеюсь найти решение этой проблемы,I hope to find a solution to this problem,[aɪ həʊp tu: faɪnd ə səˈlu:ʃən tu: ðɪs ˈprɒbləm],B1_L177_S91.mp3
+92,Они хотели остаться друзьями,They wanted to remain friends,[ðeɪ ˈwɒntɪd tu: rɪˈmeɪn frendz],B1_L177_S92.mp3
+93,Она была очень рада получить твое письмо,She was very pleased to receive your letter,[ʃi: wɒz ˈveri pli:zd tu: rɪˈsi:v jɔ: ˈletə],B1_L177_S93.mp3
+94,"Не забудь покормить собаку, пока меня не будет!",Don't forget to feed the dog while I am away!,[dəʊnt fəˈget tu: fi:d ðə dɒg waɪl aɪ æm əˈweɪ!],B1_L177_S94.mp3
+95,Он планирует отправиться в путешествие в Лондон,He is planning to go on a trip to London,[hi: ɪz ˈplænɪŋ tu: gəʊ ɒn ə trɪp tu: ˈlʌndən],B1_L177_S95.mp3
+96,Ему удалось открыть дверь без ключа,He managed to open the door without a key,[hi: ˈmænɪʤd tu: ˈəʊpən ðə dɔ: wɪˈðaʊt ə ki:],B1_L177_S96.mp3
+97,Его поклонники решили продолжить его ждать,His fans decided to continue waiting for him,[hɪz fænz dɪˈsaɪdɪd tu: kənˈtɪnju: ˈweɪtɪŋ fɔ: hɪm],B1_L177_S97.mp3
+98,"Они отрицали, что совершили то преступление",They denied committing that crime,[ðeɪ dɪˈnaɪd kəˈmɪtɪŋ ðæt kraɪm],B1_L177_S98.mp3
+99,"Она настояла на том, чтобы сделать это",She insisted on doing it,[ʃi: ɪnˈsɪstɪd ɒn ˈdu:ɪŋ ɪt],B1_L177_S99.mp3
+100,Кто помог тебе понять это?,Who helped you understand it?,[hu: helpt ju: ˌʌndəˈstænd ɪt?],B1_L177_S100.mp3
+101,Она не сдержала свое обещание,She failed to keep her promise,[ʃi: feɪld tu: ki:p hɜ: ˈprɒmɪs],B1_L177_S101.mp3
+102,"Не забудь покормить кота, пока меня не будет!",Don't forget to feed the cat while I am away!,[dəʊnt fəˈget tu: fi:d ðə kæt waɪl aɪ æm əˈweɪ!],B1_L177_S102.mp3
+103,Что помогло тебе достичь этой цели?,What helped you achieve this aim?,[wɒt helpt ju: əˈʧi:v ðɪs eɪm?],B1_L177_S103.mp3

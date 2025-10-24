@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Она моя мама,She's my mother,[ʃi:z maɪ ˈmʌðə],A0_L14_S1.mp3
+2,Я в порядке,I'm OK,[aɪm ˈəʊˈkeɪ],A0_L14_S2.mp3
+3,Мы дома,We're at home,[wɪər æt həʊm],A0_L14_S3.mp3
+4,Ей семьдесят лет,She's seventy years old,[ʃi:z ˈsevnti jɪəz əʊld],A0_L14_S4.mp3
+5,Ему семьдесят,He's seventy,[hi:z ˈsevnti],A0_L14_S5.mp3
+6,Она американка,She's American,[ʃi:z əˈmerɪkən],A0_L14_S6.mp3
+7,Ей семьдесят лет,She's seventy years old,[ʃi:z ˈsevnti jɪəz əʊld],A0_L14_S7.mp3
+8,Ты очень трудолюбивый,You're very hard-working,[jʊə ˈveri ˈhɑ:dˌwɜ:kɪŋ],A0_L14_S8.mp3
+9,Она очень бедная,She's very poor,[ʃi:z ˈveri pʊə],A0_L14_S9.mp3
+10,Ему семьдесят,He's seventy,[hi:z ˈsevnti],A0_L14_S10.mp3
+11,Ему восемь,He's eight,[hi:z eɪt],A0_L14_S11.mp3
+12,Я в порядке,I'm OK,[aɪm ˈəʊˈkeɪ],A0_L14_S12.mp3
+13,Он холост,He's single,[hi:z ˈsɪŋgl],A0_L14_S13.mp3
+14,Это опасно,It's dangerous,[ɪts ˈdeɪnʤrəs],A0_L14_S14.mp3
+15,Это так далеко,It's so far,[ɪts səʊ fɑ:],A0_L14_S15.mp3
+16,Она в порядке,She's OK,[ʃi:z ˈəʊˈkeɪ],A0_L14_S16.mp3
+17,Я в порядке,I'm fine,[aɪm faɪn],A0_L14_S17.mp3
+18,Это очень далеко,It's very far,[ɪts ˈveri fɑ:],A0_L14_S18.mp3
+19,Мы дома,We're at home,[wɪər æt həʊm],A0_L14_S19.mp3
+20,Ты очень умный,You're very smart,[jʊə ˈveri smɑ:t],A0_L14_S20.mp3
+21,Ему восемнадцать,He's eighteen,[hi:z ˌeɪˈti:n],A0_L14_S21.mp3
+22,Он очень трудолюбивый,He's very hard-working,[hi:z ˈveri ˈhɑ:dˌwɜ:kɪŋ],A0_L14_S22.mp3
+23,Она такая ленивая,She's so lazy,[ʃi:z səʊ ˈleɪzi],A0_L14_S23.mp3
+24,Ты прав,You're right,[jʊə raɪt],A0_L14_S24.mp3
+25,Это лучше,It's better,[ɪts ˈbetə],A0_L14_S25.mp3
+26,Ты такой трудолюбивый,You're so hard-working,[jʊə səʊ ˈhɑ:dˌwɜ:kɪŋ],A0_L14_S26.mp3
+27,Ты действительно прав,You're really right,[jʊə ˈrɪəli raɪt],A0_L14_S27.mp3
+28,Он в порядке,He's fine,[hi:z faɪn],A0_L14_S28.mp3
+29,Ты абсолютно прав,You're absolutely right,[jʊə ˈæbsəlu:tli raɪt],A0_L14_S29.mp3
+30,Он очень ленивый,He's very lazy,[hi:z ˈveri ˈleɪzi],A0_L14_S30.mp3
+31,Это рядом,It's near,[ɪts nɪə],A0_L14_S31.mp3
+32,Ей двадцать лет,She's twenty years old,[ʃi:z ˈtwenti jɪəz əʊld],A0_L14_S32.mp3
+33,Он ленивый,He's lazy,[hi:z ˈleɪzi],A0_L14_S33.mp3
+34,Я женат,I'm married,[aɪm ˈmærɪd],A0_L14_S34.mp3
+35,Он американец,He's American,[hi:z əˈmerɪkən],A0_L14_S35.mp3
+36,Он очень умный,He's very smart,[hi:z ˈveri smɑ:t],A0_L14_S36.mp3
+37,Я в порядке,I'm alright,[aɪm ɔ:lˈraɪt],A0_L14_S37.mp3
+38,Она замужем,She's married,[ʃi:z ˈmærɪd],A0_L14_S38.mp3
+39,Он бедный,He's poor,[hi:z pʊə],A0_L14_S39.mp3
+40,Она очень умная,She's very smart,[ʃi:z ˈveri smɑ:t],A0_L14_S40.mp3
+41,Это очень опасно,It's very dangerous,[ɪts ˈveri ˈdeɪnʤrəs],A0_L14_S41.mp3
+42,Он женат,He's married,[hi:z ˈmærɪd],A0_L14_S42.mp3
+43,Она очень богатая,She's very rich,[ʃi:z ˈveri rɪʧ],A0_L14_S43.mp3
+44,Я холост,I'm single,[aɪm ˈsɪŋgl],A0_L14_S44.mp3
+45,Я русский,I'm Russian,[aɪm ˈrʌʃn],A0_L14_S45.mp3
+46,Она с ним сейчас,She's with him now,[ʃi:z wɪð hɪm naʊ],A0_L14_S46.mp3
+47,Это очень эффективно,It's very effective,[ɪts ˈveri ɪˈfektɪv],A0_L14_S47.mp3
+48,Это возможно,It's possible,[ɪts ˈpɒsəbl],A0_L14_S48.mp3
+49,"Я думаю, это хорошо",I think it's good,[aɪ θɪŋk ɪts gʊd],A0_L14_S49.mp3
+50,"Я думаю, это действительно замечательно",I think it's really wonderful,[aɪ θɪŋk ɪts ˈrɪəli ˈwʌndəfʊl],A0_L14_S50.mp3
+51,Она со мной сейчас,She's with me now,[ʃi:z wɪð mi: naʊ],A0_L14_S51.mp3
+52,"Я думаю, это очень хорошо",I think it's very good,[aɪ θɪŋk ɪts ˈveri gʊd],A0_L14_S52.mp3
+53,Она очень красивая,She's very beautiful,[ʃi:z ˈveri ˈbju:təfʊl],A0_L14_S53.mp3
+54,Она моя сестра,She's my sister,[ʃi:z maɪ ˈsɪstə],A0_L14_S54.mp3
+55,Они мои родители,They're my parents,[ðeə maɪ ˈpeərənts],A0_L14_S55.mp3
+56,"Я вижу, ты очень занят",I see you're very busy,[aɪ si: jʊə ˈveri ˈbɪzi],A0_L14_S56.mp3
+57,Она моя мама,She's my mother,[ʃi:z maɪ ˈmʌðə],A0_L14_S57.mp3
+58,Ты такая красивая,You're so beautiful,[jʊə səʊ ˈbju:təfʊl],A0_L14_S58.mp3
+59,Это намного лучше,It's much better,[ɪts mʌʧ ˈbetə],A0_L14_S59.mp3
+60,Это так легко,It's so easy,[ɪts səʊ ˈi:zi],A0_L14_S60.mp3
+61,"Я думаю, это возможно",I think it's possible,[aɪ θɪŋk ɪts ˈpɒsəbl],A0_L14_S61.mp3
+62,"Он думает, это возможно",He thinks it's possible,[hi: θɪŋks ɪts ˈpɒsəbl],A0_L14_S62.mp3
+63,"Они знают, это возможно",They know it's possible,[ðeɪ nəʊ ɪts ˈpɒsəbl],A0_L14_S63.mp3
+64,Это ошибка,It's a mistake,[ɪts ə mɪsˈteɪk],A0_L14_S64.mp3
+65,Это деньги,It's money,[ɪts ˈmʌni],A0_L14_S65.mp3
+66,Это опасная ситуация,It's a dangerous situation,[ɪts ə ˈdeɪnʤrəs ˌsɪtjʊˈeɪʃən],A0_L14_S66.mp3
+67,Это абсолютно бесплатно,It's absolutely free,[ɪts ˈæbsəlu:tli fri:],A0_L14_S67.mp3
+68,Это очень дорого,It's very expensive,[ɪts ˈveri ɪksˈpensɪv],A0_L14_S68.mp3
+69,Я готов сейчас,I'm ready now,[aɪm ˈredi naʊ],A0_L14_S69.mp3
+70,Мы готовы сейчас,We're ready now,[wɪə ˈredi naʊ],A0_L14_S70.mp3
+71,Он готов сейчас,He's ready now,[hi:z ˈredi naʊ],A0_L14_S71.mp3
+72,Это слишком трудно,It's too difficult,[ɪts tu: ˈdɪfɪkəlt],A0_L14_S72.mp3
+73,Это слишком легко,It's too easy,[ɪts tu: ˈi:zi],A0_L14_S73.mp3
+74,Это очень трудно,It's very difficult,[ɪts ˈveri ˈdɪfɪkəlt],A0_L14_S74.mp3
+75,Он мой отец,He's my father,[hi:z maɪ ˈfɑ:ðə],A0_L14_S75.mp3
+76,Он мой друг,He's my friend,[hi:z maɪ frend],A0_L14_S76.mp3
+77,Ты его отец,You're his father,[jʊə hɪz ˈfɑ:ðə],A0_L14_S77.mp3
+78,Это очень легко,It's very easy,[ɪts ˈveri ˈi:zi],A0_L14_S78.mp3
+79,Он свободен,He is free,[hi: ɪz fri:],A0_L14_S79.mp3
+80,Это бесплатно,It's free,[ɪts fri:],A0_L14_S80.mp3
+81,Мы свободны,We are free,[wi: ɑ: fri:],A0_L14_S81.mp3
+82,Я готов,I'm ready,[aɪm ˈredi],A0_L14_S82.mp3
+83,Он готов,He's ready,[hi:z ˈredi],A0_L14_S83.mp3
+84,Мы готовы,We're ready,[wɪə ˈredi],A0_L14_S84.mp3
+85,"Я думаю, ты прав",I think you are right,[aɪ θɪŋk ju: ɑ: raɪt],A0_L14_S85.mp3
+86,"Я думаю, он абсолютно прав",I think he's absolutely right,[aɪ θɪŋk hi:z ˈæbsəlu:tli raɪt],A0_L14_S86.mp3
+87,"Он думает, что он прав",He thinks that he is right,[hi: θɪŋks ðæt hi: ɪz raɪt],A0_L14_S87.mp3
+88,"Я знаю, что это ошибка",I know that it's a mistake,[aɪ nəʊ ðæt ɪts ə mɪsˈteɪk],A0_L14_S88.mp3
+89,Это так эффективно,It's so effective,[ɪts səʊ ɪˈfektɪv],A0_L14_S89.mp3
+90,Это действительно возможно,It's really possible,[ɪts ˈrɪəli ˈpɒsəbl],A0_L14_S90.mp3
+91,Он мой брат,He's my brother,[hi:z maɪ ˈbrʌðə],A0_L14_S91.mp3
+92,"Я думаю, ты абсолютно прав",I think you're absolutely right,[aɪ θɪŋk jʊə ˈæbsəlu:tli raɪt],A0_L14_S92.mp3
+93,Они его родители,They're his parents,[ðeə hɪz ˈpeərənts],A0_L14_S93.mp3
+94,"Я думаю, что это очень эффективно",I think that it's very effective,[aɪ θɪŋk ðæt ɪts ˈveri ɪˈfektɪv],A0_L14_S94.mp3
+95,Это очень важно,It's very important,[ɪts ˈveri ɪmˈpɔ:tənt],A0_L14_S95.mp3
+96,"Я думаю, это замечательно",I think it's wonderful,[aɪ θɪŋk ɪts ˈwʌndəfʊl],A0_L14_S96.mp3
+97,"Я думаю, что это действительно хорошо",I think that it's really good,[aɪ θɪŋk ðæt ɪts ˈrɪəli gʊd],A0_L14_S97.mp3
+98,Он сейчас с нами,He's with us now,[hi:z wɪð ʌs naʊ],A0_L14_S98.mp3
+99,Это действительно эффективно,It's really effective,[ɪts ˈrɪəli ɪˈfektɪv],A0_L14_S99.mp3
+100,"Я знаю, это очень дорого",I know it's very expensive,[aɪ nəʊ ɪts ˈveri ɪksˈpensɪv],A0_L14_S100.mp3

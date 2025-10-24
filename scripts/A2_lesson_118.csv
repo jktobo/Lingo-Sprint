@@ -1,0 +1,106 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он курит слишком много в последнее время,He has been smoking too much lately,[hi: hæz bi:n ˈsməʊkɪŋ tu: mʌʧ ˈleɪtli],A2_L118_S2.mp3
+3,Я смотрю это видео в течение пятнадцати минут,I’ve been watching this video for fifteen minutes,[aɪv bi:n ˈwɒʧɪŋ ðɪs ˈvɪdɪəʊ fɔ: ˈfɪfˈti:n ˈmɪnɪts],A2_L118_S3.mp3
+4,Он изучает испанский в течение полугода,He’s been learning Spanish for half a year,[hi:z bi:n ˈlɜ:nɪŋ ˈspænɪʃ fɔ: hɑ:f ə jɪə],A2_L118_S4.mp3
+5,Я работаю здесь почти один год,I’ve been working here for almost one year,[aɪv bi:n ˈwɜ:kɪŋ hɪə fɔ: ˈɔ:lməʊst wʌn jɪə],A2_L118_S5.mp3
+6,Мы читаем с утра,We’ve been reading since morning,[wi:v bi:n ˈri:dɪŋ sɪns ˈmɔ:nɪŋ],A2_L118_S6.mp3
+7,Как долго вы живете вместе?,How long have you been living together?,[haʊ lɒŋ hæv ju: bi:n ˈlɪvɪŋ təˈgeðə?],A2_L118_S7.mp3
+8,Как долго она работает здесь?,How long has she been working here?,[haʊ lɒŋ hæz ʃi: bi:n ˈwɜ:kɪŋ hɪə?],A2_L118_S8.mp3
+9,Он здесь с утра,He's been here since morning,[hi:z bi:n hɪə sɪns ˈmɔ:nɪŋ],A2_L118_S9.mp3
+10,Я готовлюсь к этому экзамену два дня,I have been preparing for this exam for two days,[aɪ hæv bi:n prɪˈpeərɪŋ fɔ: ðɪs ɪgˈzæm fɔ: tu: deɪz],A2_L118_S10.mp3
+11,Он живет в деревне уже более десяти лет,He has been living in the village for more than ten years,[hi: hæz bi:n ˈlɪvɪŋ ɪn ðə ˈvɪlɪʤ fɔ: mɔ: ðæn ten jɪəz],A2_L118_S11.mp3
+12,Я тренируюсь с самого утра,I have been training since morning,[aɪ hæv bi:n ˈtreɪnɪŋ sɪns ˈmɔ:nɪŋ],A2_L118_S12.mp3
+13,Она учится в университете полтора года,She has been studying at university for a year and a half,[ʃi: hæz bi:n ˈstʌdiɪŋ æt ˌju:nɪˈvɜ:sɪti fɔ: ə jɪər ænd ə hɑ:f],A2_L118_S13.mp3
+14,Она здесь весь день,She's been here all day,[ʃi:z bi:n hɪər ɔ:l deɪ],A2_L118_S14.mp3
+15,Как давно ты там учишься?,How long have you been studying there?,[haʊ lɒŋ hæv ju: bi:n ˈstʌdiɪŋ ðeə?],A2_L118_S15.mp3
+16,Я делаю это упражнение более десяти минут,I have been doing this exercise for more than ten minutes,[aɪ hæv bi:n ˈdu:ɪŋ ðɪs ˈeksəsaɪz fɔ: mɔ: ðæn ten ˈmɪnɪts],A2_L118_S16.mp3
+17,Я изучаю английский два года,I have been learning English for two years,[aɪ hæv bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ fɔ: tu: jɪəz],A2_L118_S17.mp3
+18,Я думаю об этом весь день,I have been thinking about it all day,[aɪ hæv bi:n ˈθɪŋkɪŋ əˈbaʊt ɪt ɔ:l deɪ],A2_L118_S18.mp3
+19,Она ждет нас пять минут,She has been waiting for us for five minutes,[ʃi: hæz bi:n ˈweɪtɪŋ fɔ: ʌs fɔ: faɪv ˈmɪnɪts],A2_L118_S19.mp3
+20,Как давно ты изучаешь английский язык?,How long have you been learning English?,[haʊ lɒŋ hæv ju: bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ?],A2_L118_S20.mp3
+21,В последнее время я очень интенсивно тренируюсь,I have been training very intensively lately,[aɪ hæv bi:n ˈtreɪnɪŋ ˈveri ɪnˈtensɪvli ˈleɪtli],A2_L118_S21.mp3
+22,Как давно вы встречаетесь?,How long have you been dating?,[haʊ lɒŋ hæv ju: bi:n ˈdeɪtɪŋ?],A2_L118_S22.mp3
+23,Он преподает английский около десяти лет,He's been teaching English for about ten years,[hi:z bi:n ˈti:ʧɪŋ ˈɪŋglɪʃ fɔ: əˈbaʊt ten jɪəz],A2_L118_S23.mp3
+24,Я занимаюсь этим весь день,I have been doing it all day,[aɪ hæv bi:n ˈdu:ɪŋ ɪt ɔ:l deɪ],A2_L118_S24.mp3
+25,Мы разговариваем по телефону целый час,We've been talking on the phone for an hour,[wi:v bi:n ˈtɔ:kɪŋ ɒn ðə fəʊn fɔ: ən ˈaʊə],A2_L118_S25.mp3
+26,Как давно ты здесь учишься?,How long have you been studying here?,[haʊ lɒŋ hæv ju: bi:n ˈstʌdiɪŋ hɪə?],A2_L118_S26.mp3
+27,Как давно ты здесь работаешь?,How long have you been working here?,[haʊ lɒŋ hæv ju: bi:n ˈwɜ:kɪŋ hɪə?],A2_L118_S27.mp3
+28,Я думаю об этом весь день,I've been thinking about it all day,[aɪv bi:n ˈθɪŋkɪŋ əˈbaʊt ɪt ɔ:l deɪ],A2_L118_S28.mp3
+29,Она готовит весь день,She's been cooking all day,[ʃi:z bi:n ˈkʊkɪŋ ɔ:l deɪ],A2_L118_S29.mp3
+30,Я очень занят в последнее время,I have been very busy lately,[aɪ hæv bi:n ˈveri ˈbɪzi ˈleɪtli],A2_L118_S30.mp3
+31,Я жду этого звонка весь день,I've been waiting for this call all day,[aɪv bi:n ˈweɪtɪŋ fɔ: ðɪs kɔ:l ɔ:l deɪ],A2_L118_S31.mp3
+32,Он учит английский полгода,He has been learning English for half a year,[hi: hæz bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ fɔ: hɑ:f ə jɪə],A2_L118_S32.mp3
+33,Он слишком много курит в последнее время,He has been smoking too much lately,[hi: hæz bi:n ˈsməʊkɪŋ tu: mʌʧ ˈleɪtli],A2_L118_S33.mp3
+34,Он путешествует по Европе два месяца,He has been travelling in Europe for two months,[hi: hæz bi:n ˈtrævlɪŋ ɪn ˈjʊərəp fɔ: tu: mʌnθs],A2_L118_S34.mp3
+35,Как долго ты здесь живешь?,How long have you been living here?,[haʊ lɒŋ hæv ju: bi:n ˈlɪvɪŋ hɪə?],A2_L118_S35.mp3
+36,Она готовит больше часа,She has been cooking for more than an hour,[ʃi: hæz bi:n ˈkʊkɪŋ fɔ: mɔ: ðæn ən ˈaʊə],A2_L118_S36.mp3
+37,Я жду тебя около пятнадцати минут,I've been waiting for you for about fifteen minutes,[aɪv bi:n ˈweɪtɪŋ fɔ: ju: fɔ: əˈbaʊt ˈfɪfˈti:n ˈmɪnɪts],A2_L118_S37.mp3
+38,Я смотрю это видео двадцать минут,I've been watching this video for twenty minutes,[aɪv bi:n ˈwɒʧɪŋ ðɪs ˈvɪdɪəʊ fɔ: ˈtwenti ˈmɪnɪts],A2_L118_S38.mp3
+39,Мой друг ищет работу с августа,My friend has been looking for a job since August,[maɪ frend hæz bi:n ˈlʊkɪŋ fɔ: ə ʤɒb sɪns ˈɔ:gəst],A2_L118_S39.mp3
+40,Я работаю здесь с прошлой недели,I have been working here since last week,[aɪ hæv bi:n ˈwɜ:kɪŋ hɪə sɪns lɑ:st wi:k],A2_L118_S40.mp3
+41,Ты играл весь день,You have been playing all day,[ju: hæv bi:n ˈpleɪɪŋ ɔ:l deɪ],A2_L118_S41.mp3
+42,Они встречаются около двух месяцев,They've been dating for about two months,[ðeɪv bi:n ˈdeɪtɪŋ fɔ: əˈbaʊt tu: mʌnθs],A2_L118_S42.mp3
+43,Я не видел его в последнее время,I haven't seen him lately,[aɪ hævnt si:n hɪm ˈleɪtli],A2_L118_S43.mp3
+44,Они путешествуют по Азии три недели,They have been travelling in Asia for three weeks,[ðeɪ hæv bi:n ˈtrævlɪŋ ɪn ˈeɪʒə fɔ: θri: wi:ks],A2_L118_S44.mp3
+45,Как долго ты здесь находишься?,How long have you been staying here?,[haʊ lɒŋ hæv ju: bi:n ˈsteɪɪŋ hɪə?],A2_L118_S45.mp3
+46,Я очень давно изучаю английский,I've been learning English for a very long time,[aɪv bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ fɔ: ə ˈveri lɒŋ taɪm],A2_L118_S46.mp3
+47,Я работаю с утра,I have been working since morning,[aɪ hæv bi:n ˈwɜ:kɪŋ sɪns ˈmɔ:nɪŋ],A2_L118_S47.mp3
+48,Как долго вы живете вместе?,How long have you been living together?,[haʊ lɒŋ hæv ju: bi:n ˈlɪvɪŋ təˈgeðə?],A2_L118_S48.mp3
+49,В последнее время я изучаю английский намного интенсивнее,I have been learning English much more intensively lately,[aɪ hæv bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ mʌʧ mɔ: ɪnˈtensɪvli ˈleɪtli],A2_L118_S49.mp3
+50,Что ты делаешь последние двадцать минут?,What have you been doing for the last twenty minutes?,[wɒt hæv ju: bi:n ˈdu:ɪŋ fɔ: ðə lɑ:st ˈtwenti ˈmɪnɪts?],A2_L118_S50.mp3
+51,Как долго ты ищешь работу?,How long have you been looking for a job?,[haʊ lɒŋ hæv ju: bi:n ˈlʊkɪŋ fɔ: ə ʤɒb?],A2_L118_S51.mp3
+52,"Я думаю об этой вещи с тех пор, как ты это сказал",I have been thinking about this thing since you said it,[aɪ hæv bi:n ˈθɪŋkɪŋ əˈbaʊt ðɪs θɪŋ sɪns ju: sed ɪt],A2_L118_S52.mp3
+53,Я пытаюсь связаться с ней весь день,I have been trying to get in touch with her all day,[aɪ hæv bi:n ˈtraɪɪŋ tu: get ɪn tʌʧ wɪð hɜ: ɔ:l deɪ],A2_L118_S53.mp3
+54,"Он не говорил с ней с тех пор, как он переехал в Америку",He hasn't talked to her since he moved to America,[hi: ˈhæznt tɔ:kt tu: hɜ: sɪns hi: mu:vd tu: əˈmerɪkə],A2_L118_S54.mp3
+55,Как давно вы помолвлены?,How long have you been engaged?,[haʊ lɒŋ hæv ju: bi:n ɪnˈgeɪʤd?],A2_L118_S55.mp3
+56,"Я не видел ее с тех пор, как она окончила университет",I haven't seen her since she graduated from university,[aɪ hævnt si:n hɜ: sɪns ʃi: ˈgrædjʊeɪtɪd frɒm ˌju:nɪˈvɜ:sɪti],A2_L118_S56.mp3
+57,Он чувствует себя совершенно измученным. Он ведет машину много часов,He feels absolutely exhausted.He has been driving for many hours,[hi: fi:lz ˈæbsəlu:tli ɪgˈzɔ:stɪd],A2_L118_S57.mp3
+58,В последнее время она очень интересуется религией,She has been very interested in religion lately,[ʃi: hæz bi:n ˈveri ˈɪntrɪstɪd ɪn rɪˈlɪʤən ˈleɪtli],A2_L118_S58.mp3
+59,Снег идет весь день,It's been snowing all day,[ɪts bi:n ˈsnəʊɪŋ ɔ:l deɪ],A2_L118_S59.mp3
+60,Я очень интенсивно изучаю английский последние три месяца,I've been learning English very intensively for the last three months,[aɪv bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ ˈveri ɪnˈtensɪvli fɔ: ðə lɑ:st θri: mʌnθs],A2_L118_S60.mp3
+61,"Я не видел его с тех пор, как мы закончили школу",I haven't seen him since we finished school,[aɪ hævnt si:n hɪm sɪns wi: ˈfɪnɪʃt sku:l],A2_L118_S61.mp3
+62,Я знаю его очень долгое время,I have known him for a very long time,[aɪ hæv nəʊn hɪm fɔ: ə ˈveri lɒŋ taɪm],A2_L118_S62.mp3
+63,Как давно вы женаты?,How long have you been married?,[haʊ lɒŋ hæv ju: bi:n ˈmærɪd?],A2_L118_S63.mp3
+64,Она покупает еду на рынке в последнее время,She has been buying food in the market lately,[ʃi: hæz bi:n ˈbaɪɪŋ fu:d ɪn ðə ˈmɑ:kɪt ˈleɪtli],A2_L118_S64.mp3
+65,Она заказывает еду онлайн в последнее время,She has been ordering food online lately,[ʃi: hæz bi:n ˈɔ:dərɪŋ fu:d ˈɒnˌlaɪn ˈleɪtli],A2_L118_S65.mp3
+66,Она покупает одежду онлайн в последнее время,She has been buying clothes online lately,[ʃi: hæz bi:n ˈbaɪɪŋ kləʊðz ˈɒnˌlaɪn ˈleɪtli],A2_L118_S66.mp3
+67,Я очень заинтересован в этом в последнее время,I have been very interested in it lately,[aɪ hæv bi:n ˈveri ˈɪntrɪstɪd ɪn ɪt ˈleɪtli],A2_L118_S67.mp3
+68,Я очень заинтересован в политике в последнее время,I have been very interested in politics lately,[aɪ hæv bi:n ˈveri ˈɪntrɪstɪd ɪn ˈpɒlɪtɪks ˈleɪtli],A2_L118_S68.mp3
+69,Она очень интересуется музыкой в последнее время,She has been very interested in music lately,[ʃi: hæz bi:n ˈveri ˈɪntrɪstɪd ɪn ˈmju:zɪk ˈleɪtli],A2_L118_S69.mp3
+70,Как давно ты живешь в этом отеле?,How long have you been staying in this hotel?,[haʊ lɒŋ hæv ju: bi:n ˈsteɪɪŋ ɪn ðɪs həʊˈtel?],A2_L118_S70.mp3
+71,Как давно ты остаешься там?,How long have you been staying there?,[haʊ lɒŋ hæv ju: bi:n ˈsteɪɪŋ ðeə?],A2_L118_S71.mp3
+72,Я живу в этом отеле два дня,I have been staying in this hotel for two days,[aɪ hæv bi:n ˈsteɪɪŋ ɪn ðɪs həʊˈtel fɔ: tu: deɪz],A2_L118_S72.mp3
+73,Чем ты занимаешься последние два года? …………….…................................................... 74. Что ты изучаешь последние два года? …………….…................................................... 75. Куда ты ездишь последние два года? …………….…................................................... 76. Я пытаюсь связаться с ним весь день …………….…................................................... 77. Я пытаюсь дозвониться до него весь день …………….…................................................... 78. Я пытаюсь найти это весь день …………….…................................................... 79. Я чаще езжу на велосипеде в последнее время …………….…................................................... 80. Я чаще плаваю в последнее время …………….…................................................... 81. Я чаще хожу туда в последнее время …………….…................................................... 82. Она работает менеджером пять лет …………….…................................................... 83. Он работает инженером пять лет …………….…................................................... 84. Я работаю там пять лет …………….…................................................... 85. Сильный снег идет весь день …………….…................................................... 8 86. Сейчас идет снег …………….…................................................... 87. Сильный дождь идет весь день …………….…................................................... 88. Как долго они помолвлены? …………….…................................................... 89. Они помолвлены один год …………….…................................................... 90. Идет дождь так сильно весь день …………….…................................................... 91. Сильный дождь идет в данный момент …………….…................................................... 92. Эта песня становится все более и более популярной в последнее время …………….…................................................... 93. У меня было мало свободного времени в последнее время …………….…................................................... 94. Я получаю много телефонных звонков в последнее время …………….…................................................... 95. Мальчик учится полчаса …………….…................................................... 96. Я покупаю это на рынке в последнее время …………….…................................................... 97. Как долго ты знаешь ее? …………….…................................................... 98. Я не ходил в библиотеку в последнее время …………….…................................................... 9 99. Мальчики играют в футбол с пяти часов …………….…................................................... 100. Я давно ее знаю …………….…................................................... 101. Как долго ты меня ждал? …………….…................................................... 102. Мой друг учит английский с детства …………….…................................................... 103. Я нахожусь дома весь день …………….…................................................... 104. Как давно ты здесь? …………….…................................................... 105. Дождь идет весь день …………….…................................................... 106. Я очень занят в последнее время 10 Ответы 1. Я делаю это с утра,I have been doing it since morning,[aɪ hæv bi:n ˈdu:ɪŋ ɪt sɪns ˈmɔ:nɪŋ],A2_L118_S73.mp3
+74,Что ты изучаешь последние два года?,What have you been studying for the last two years?,[wɒt hæv ju: bi:n ˈstʌdiɪŋ fɔ: ðə lɑ:st tu: jɪəz?],A2_L118_S74.mp3
+75,Куда ты ездишь последние два года?,Where have you been going for the last two years?,[weə hæv ju: bi:n ˈgəʊɪŋ fɔ: ðə lɑ:st tu: jɪəz?],A2_L118_S75.mp3
+76,Я пытаюсь связаться с ним весь день,I have been trying to contact him all day,[aɪ hæv bi:n ˈtraɪɪŋ tu: ˈkɒntækt hɪm ɔ:l deɪ],A2_L118_S76.mp3
+77,Я пытаюсь дозвониться до него весь день,I have been trying to call him all day,[aɪ hæv bi:n ˈtraɪɪŋ tu: kɔ:l hɪm ɔ:l deɪ],A2_L118_S77.mp3
+78,Я пытаюсь найти это весь день,I have been trying to find it all day,[aɪ hæv bi:n ˈtraɪɪŋ tu: faɪnd ɪt ɔ:l deɪ],A2_L118_S78.mp3
+79,Я чаще езжу на велосипеде в последнее время,I have been going cycling more often lately,[aɪ hæv bi:n ˈgəʊɪŋ ˈsaɪklɪŋ mɔ: ˈɒfn ˈleɪtli],A2_L118_S79.mp3
+80,Я чаще плаваю в последнее время,I have been swimming more often lately,[aɪ hæv bi:n ˈswɪmɪŋ mɔ: ˈɒfn ˈleɪtli],A2_L118_S80.mp3
+81,Я чаще хожу туда в последнее время,I have been going there more often lately,[aɪ hæv bi:n ˈgəʊɪŋ ðeə mɔ: ˈɒfn ˈleɪtli],A2_L118_S81.mp3
+82,Она работает менеджером пять лет,He has been working as a manager for five years,[hi: hæz bi:n ˈwɜ:kɪŋ æz ə ˈmænɪʤə fɔ: faɪv jɪəz],A2_L118_S82.mp3
+83,Он работает инженером пять лет,He has been working as an engineer for five years,[hi: hæz bi:n ˈwɜ:kɪŋ æz ən ˌenʤɪˈnɪə fɔ: faɪv jɪəz],A2_L118_S83.mp3
+84,Я работаю там пять лет,I have been working there for five years,[aɪ hæv bi:n ˈwɜ:kɪŋ ðeə fɔ: faɪv jɪəz],A2_L118_S84.mp3
+85,Сильный снег идет весь день,It's been snowing heavily all day,[ɪts bi:n ˈsnəʊɪŋ ˈhevɪli ɔ:l deɪ],A2_L118_S85.mp3
+86,Сейчас идет снег,It is snowing now,[ɪt ɪz ˈsnəʊɪŋ naʊ],A2_L118_S86.mp3
+87,Сильный дождь идет весь день,It's been raining heavily all day,[ɪts bi:n ˈreɪnɪŋ ˈhevɪli ɔ:l deɪ],A2_L118_S87.mp3
+88,Как долго они помолвлены?,How long have they been engaged?,[haʊ lɒŋ hæv ðeɪ bi:n ɪnˈgeɪʤd?],A2_L118_S88.mp3
+89,Они помолвлены один год,They have been engaged for one year,[ðeɪ hæv bi:n ɪnˈgeɪʤd fɔ: wʌn jɪə],A2_L118_S89.mp3
+90,Идет дождь так сильно весь день,It has been raining so heavily all day,[ɪt hæz bi:n ˈreɪnɪŋ səʊ ˈhevɪli ɔ:l deɪ],A2_L118_S90.mp3
+91,Сильный дождь идет в данный момент,It is raining so heavily at the moment,[ɪt ɪz ˈreɪnɪŋ səʊ ˈhevɪli æt ðə ˈməʊmənt],A2_L118_S91.mp3
+92,Эта песня становится все более и более популярной в последнее время,This song has been getting more and more popular lately,[ðɪs sɒŋ hæz bi:n ˈgetɪŋ mɔ: ænd mɔ: ˈpɒpjʊlə ˈleɪtli],A2_L118_S92.mp3
+93,У меня было мало свободного времени в последнее время,I have had little free time lately,[aɪ hæv hæd ˈlɪtl fri: taɪm ˈleɪtli],A2_L118_S93.mp3
+94,Я получаю много телефонных звонков в последнее время,I have been getting lots of phone calls lately,[aɪ hæv bi:n ˈgetɪŋ lɒts ɒv fəʊn kɔ:lz ˈleɪtli],A2_L118_S94.mp3
+95,Мальчик учится полчаса,The boy has been studying for half an hour,[ðə bɔɪ hæz bi:n ˈstʌdiɪŋ fɔ: hɑ:f ən ˈaʊə],A2_L118_S95.mp3
+96,Я покупаю это на рынке в последнее время,I have been buying it in the market lately,[aɪ hæv bi:n ˈbaɪɪŋ ɪt ɪn ðə ˈmɑ:kɪt ˈleɪtli],A2_L118_S96.mp3
+97,Как долго ты знаешь ее?,How long have you known her?,[haʊ lɒŋ hæv ju: nəʊn hɜ:?],A2_L118_S97.mp3
+98,Я не ходил в библиотеку в последнее время,I haven't been going to the library lately,[aɪ hævnt bi:n ˈgəʊɪŋ tu: ðə ˈlaɪbrəri ˈleɪtli],A2_L118_S98.mp3
+99,Мальчики играют в футбол с пяти часов,The boys have been playing football since five o'clock,[ðə bɔɪz hæv bi:n ˈpleɪɪŋ ˈfʊtbɔ:l sɪns faɪv əˈklɒk],A2_L118_S99.mp3
+100,Я давно ее знаю,I have known her for a long time,[aɪ hæv nəʊn hɜ: fɔ: ə lɒŋ taɪm],A2_L118_S100.mp3
+101,Как долго ты меня ждал?,How long have you been waiting for me?,[haʊ lɒŋ hæv ju: bi:n ˈweɪtɪŋ fɔ: mi:?],A2_L118_S101.mp3
+102,Мой друг учит английский с детства,My friend has been learning English since childhood,[maɪ frend hæz bi:n ˈlɜ:nɪŋ ˈɪŋglɪʃ sɪns ˈʧaɪldhʊd],A2_L118_S102.mp3
+103,Я нахожусь дома весь день,I have been staying at home all day,[aɪ hæv bi:n ˈsteɪɪŋ æt həʊm ɔ:l deɪ],A2_L118_S103.mp3
+104,Как давно ты здесь?,How long have you been here?,[haʊ lɒŋ hæv ju: bi:n hɪə?],A2_L118_S104.mp3
+105,Дождь идет весь день,It's been raining all day,[ɪts bi:n ˈreɪnɪŋ ɔ:l deɪ],A2_L118_S105.mp3
+106,Я очень занят в последнее время,I've been very busy lately,[aɪv bi:n ˈveri ˈbɪzi ˈleɪtli],A2_L118_S106.mp3

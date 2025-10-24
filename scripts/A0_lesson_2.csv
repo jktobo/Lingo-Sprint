@@ -1,0 +1,107 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Он видит эту проблему,He sees this problem,[hi: si:z ðɪs ˈprɒbləm],A0_L2_S1.mp3
+2,Она понимает это,She understands it,[ʃi: ˌʌndəˈstændz ɪt],A0_L2_S2.mp3
+3,Мне это очень нравится,I like it very much,[aɪ laɪk ɪt ˈveri mʌʧ],A0_L2_S3.mp3
+4,Она живет очень далеко,She lives very far,[ʃi: lɪvz ˈveri fɑ:],A0_L2_S4.mp3
+5,Ей нравится эта игра,She likes this game,[ʃi: laɪks ðɪs geɪm],A0_L2_S5.mp3
+6,Это стоит двадцать евро,It costs twenty euros,[ɪt kɒsts ˈtwenti ˈjʊərəʊz],A0_L2_S6.mp3
+7,Она делает ошибки,She makes mistakes,[ʃi: meɪks mɪsˈteɪks],A0_L2_S7.mp3
+8,Он часто делает это,He often does it,[hi: ˈɒfn dʌz ɪt],A0_L2_S8.mp3
+9,Он обычно покупает эти билеты,He usually buys these tickets,[hi: ˈju:ʒʊəli baɪz ði:z ˈtɪkɪts],A0_L2_S9.mp3
+10,Я делаю это очень часто,I do it very often,[aɪ du: ɪt ˈveri ˈɒfn],A0_L2_S10.mp3
+11,Она там живет,She lives there,[ʃi: lɪvz ðeə],A0_L2_S11.mp3
+12,Он согласен,He agrees,[hi: əˈgri:z],A0_L2_S12.mp3
+13,Он часто делает это,He often does it,[hi: ˈɒfn dʌz ɪt],A0_L2_S13.mp3
+14,Он живет очень далеко,He lives very far,[hi: lɪvz ˈveri fɑ:],A0_L2_S14.mp3
+15,Это стоит намного меньше,It costs much less,[ɪt kɒsts mʌʧ les],A0_L2_S15.mp3
+16,Я согласен с тобой,I agree with you,[aɪ əˈgri: wɪð ju:],A0_L2_S16.mp3
+17,Он действительно хочет этого,He really wants it,[hi: ˈrɪəli wɒnts ɪt],A0_L2_S17.mp3
+18,Он часто делает ошибки,He often makes mistakes,[hi: ˈɒfn meɪks mɪsˈteɪks],A0_L2_S18.mp3
+19,Он видит эту проблему,He sees this problem,[hi: si:z ðɪs ˈprɒbləm],A0_L2_S19.mp3
+20,Она знает это лучше,She knows it better,[ʃi: nəʊz ɪt ˈbetə],A0_L2_S20.mp3
+21,Он ходит на работу,He goes to work,[hi: gəʊz tu: wɜ:k],A0_L2_S21.mp3
+22,Она понимает это,She understands it,[ʃi: ˌʌndəˈstændz ɪt],A0_L2_S22.mp3
+23,Я действительно хочу это,I really want it,[aɪ ˈrɪəli wɒnt ɪt],A0_L2_S23.mp3
+24,Я полностью с тобой согласен,I absolutely agree with you,[aɪ ˈæbsəlu:tli əˈgri: wɪð ju:],A0_L2_S24.mp3
+25,Она хочет это,She wants it,[ʃi: wɒnts ɪt],A0_L2_S25.mp3
+26,Он обычно покупает эти билеты,He usually buys these tickets,[hi: ˈju:ʒʊəli baɪz ði:z ˈtɪkɪts],A0_L2_S26.mp3
+27,Это стоит меньше,It costs less,[ɪt kɒsts les],A0_L2_S27.mp3
+28,Он чувствует себя лучше,He feels better,[hi: fi:lz ˈbetə],A0_L2_S28.mp3
+29,Он видит эту ошибку,He sees this mistake,[hi: si:z ðɪs mɪsˈteɪk],A0_L2_S29.mp3
+30,Она живет в том месте,She lives in that place,[ʃi: lɪvz ɪn ðæt pleɪs],A0_L2_S30.mp3
+31,Это стоит двадцать евро,It costs twenty euros,[ɪt kɒsts ˈtwenti ˈjʊərəʊz],A0_L2_S31.mp3
+32,Он живет здесь,He lives here,[hi: lɪvz hɪə],A0_L2_S32.mp3
+33,Он понимает,He understands,[hi: ˌʌndəˈstændz],A0_L2_S33.mp3
+34,Я живу рядом,I live near,[aɪ lɪv nɪə],A0_L2_S34.mp3
+35,Она согласна с этим,She agrees with it,[ʃi: əˈgri:z wɪð ɪt],A0_L2_S35.mp3
+36,Он живет в том городе,He lives in that city,[hi: lɪvz ɪn ðæt ˈsɪti],A0_L2_S36.mp3
+37,Она часто покупает эти билеты,She often buys these tickets,[ʃi: ˈɒfn baɪz ði:z ˈtɪkɪts],A0_L2_S37.mp3
+38,Она делает ошибки,She makes mistakes,[ʃi: meɪks mɪsˈteɪks],A0_L2_S38.mp3
+39,Это стоит намного больше,It costs much more,[ɪt kɒsts mʌʧ mɔ:],A0_L2_S39.mp3
+40,Это работает очень хорошо,It works very well,[ɪt wɜ:ks ˈveri wel],A0_L2_S40.mp3
+41,Это стоит десять долларов,It costs ten dollars,[ɪt kɒsts ten ˈdɒləz],A0_L2_S41.mp3
+42,Она ходит в школу,She goes to school,[ʃi: gəʊz tu: sku:l],A0_L2_S42.mp3
+43,Это стоит пятьдесят фунтов,It costs fifty pounds,[ɪt kɒsts ˈfɪfti paʊndz],A0_L2_S43.mp3
+44,Я покупаю эти билеты онлайн,I buy these tickets online,[aɪ baɪ ði:z ˈtɪkɪts ˈɒnˌlaɪn],A0_L2_S44.mp3
+45,Он делает это каждый день,He does it every day,[hi: dʌz ɪt ˈevri deɪ],A0_L2_S45.mp3
+46,Они работают вместе,They work together,[ðeɪ wɜ:k təˈgeðə],A0_L2_S46.mp3
+47,Я вижу эту проблему,I see this problem,[aɪ si: ðɪs ˈprɒbləm],A0_L2_S47.mp3
+48,Он знает английский,He knows English,[hi: nəʊz ˈɪŋglɪʃ],A0_L2_S48.mp3
+49,Это стоит больше,It costs more,[ɪt kɒsts mɔ:],A0_L2_S49.mp3
+50,"Я знаю, что это стоит больше",I know that it costs more,[aɪ nəʊ ðæt ɪt kɒsts mɔ:],A0_L2_S50.mp3
+51,"Я думаю, он говорит по-английски очень хорошо",I think he speaks English very well,[aɪ θɪŋk hi: spi:ks ˈɪŋglɪʃ ˈveri wel],A0_L2_S51.mp3
+52,Он часто говорит это,He often says it,[hi: ˈɒfn sez ɪt],A0_L2_S52.mp3
+53,"Я знаю, как это работает",I know how it works,[aɪ nəʊ haʊ ɪt wɜ:ks],A0_L2_S53.mp3
+54,"Я думаю, это очень хорошо работает",I think it works very well,[aɪ θɪŋk ɪt wɜ:ks ˈveri wel],A0_L2_S54.mp3
+55,Он много знает,He knows a lot,[hi: nəʊz ə lɒt],A0_L2_S55.mp3
+56,Он понимает того человека,He understands that person,[hi: ˌʌndəˈstændz ðæt ˈpɜ:sn],A0_L2_S56.mp3
+57,"Я думаю, он делает это лучше",I think he does it better,[aɪ θɪŋk hi: dʌz ɪt ˈbetə],A0_L2_S57.mp3
+58,Мы часто слышим это по телевизору,We often hear it on TV,[wi: ˈɒfn hɪər ɪt ɒn ˌti:ˈvi:],A0_L2_S58.mp3
+59,Ему это нравится,He likes it,[hi: laɪks ɪt],A0_L2_S59.mp3
+60,"Я вижу, что он чувствует себя намного лучше",I see that he feels much better,[aɪ si: ðæt hi: fi:lz mʌʧ ˈbetə],A0_L2_S60.mp3
+61,"Я думаю, что он нас понимает",I think that he understands us,[aɪ θɪŋk ðæt hi: ˌʌndəˈstændz ʌs],A0_L2_S61.mp3
+62,Он часто звонит мне,He often calls me,[hi: ˈɒfn kɔ:lz mi:],A0_L2_S62.mp3
+63,Он смотрит эти видео,He watches these videos,[hi: ˈwɒʧɪz ði:z ˈvɪdɪəʊz],A0_L2_S63.mp3
+64,Он знает так мало,He knows so little,[hi: nəʊz səʊ ˈlɪtl],A0_L2_S64.mp3
+65,Это помогает мне так сильно,It helps me so much,[ɪt helps mi: səʊ mʌʧ],A0_L2_S65.mp3
+66,Ты помогаешь мне так сильно,You help me so much,[ju: help mi: səʊ mʌʧ],A0_L2_S66.mp3
+67,Это помогает тебе так сильно,It helps you so much,[ɪt helps ju: səʊ mʌʧ],A0_L2_S67.mp3
+68,Я работаю так много,I work so much,[aɪ wɜ:k səʊ mʌʧ],A0_L2_S68.mp3
+69,Она работает так много,She works so much,[ʃi: wɜ:ks səʊ mʌʧ],A0_L2_S69.mp3
+70,Ты работаешь слишком много,You work too much,[ju: wɜ:k tu: mʌʧ],A0_L2_S70.mp3
+71,Это помогает мне,It helps me,[ɪt helps mi:],A0_L2_S71.mp3
+72,Они помогают мне,They help me,[ðeɪ help mi:],A0_L2_S72.mp3
+73,Я иногда говорю это,I sometimes say it,[aɪ ˈsʌmtaɪmz seɪ ɪt],A0_L2_S73.mp3
+74,Он иногда говорит это,He sometimes says it,[hi: ˈsʌmtaɪmz sez ɪt],A0_L2_S74.mp3
+75,Я слышу тебя,I hear you,[aɪ hɪə ju:],A0_L2_S75.mp3
+76,Я слышу их,I hear them,[aɪ hɪə ðem],A0_L2_S76.mp3
+77,Она слышит меня,She hears me,[ʃi: hɪəz mi:],A0_L2_S77.mp3
+78,"Я думаю, что ты делаешь это лучше",I think that you do it better,[aɪ θɪŋk ðæt ju: du: ɪt ˈbetə],A0_L2_S78.mp3
+79,"Я думаю, что он делает это лучше",I think that he does it better,[aɪ θɪŋk ðæt hi: dʌz ɪt ˈbetə],A0_L2_S79.mp3
+80,"Я знаю, ты делаешь это лучше",I know you do it better,[aɪ nəʊ ju: du: ɪt ˈbetə],A0_L2_S80.mp3
+81,Я понимаю этих людей,I understand these people,[aɪ ˌʌndəˈstænd ði:z ˈpi:pl],A0_L2_S81.mp3
+82,Я понимаю тех людей,I understand those people,[aɪ ˌʌndəˈstænd ðəʊz ˈpi:pl],A0_L2_S82.mp3
+83,Он понимает тех людей,He understands those people,[hi: ˌʌndəˈstændz ðəʊz ˈpi:pl],A0_L2_S83.mp3
+84,Он работает слишком мало,He works too little,[hi: wɜ:ks tu: ˈlɪtl],A0_L2_S84.mp3
+85,Он работает так много,He works so much,[hi: wɜ:ks səʊ mʌʧ],A0_L2_S85.mp3
+86,Она звонит мне иногда,She calls me sometimes,[ʃi: kɔ:lz mi: ˈsʌmtaɪmz],A0_L2_S86.mp3
+87,Она звонит ему иногда,She calls him sometimes,[ʃi: kɔ:lz hɪm ˈsʌmtaɪmz],A0_L2_S87.mp3
+88,Они звонят мне иногда,They call me sometimes,[ðeɪ kɔ:l mi: ˈsʌmtaɪmz],A0_L2_S88.mp3
+89,Это очень помогает мне,It really helps me,[ɪt ˈrɪəli helps mi:],A0_L2_S89.mp3
+90,Ты очень помогаешь мне,You really help me,[ju: ˈrɪəli help mi:],A0_L2_S90.mp3
+91,Это очень помогает ему,It really helps him,[ɪt ˈrɪəli helps hɪm],A0_L2_S91.mp3
+92,Ему нравится это видео,He likes this video,[hi: laɪks ðɪs ˈvɪdɪəʊ],A0_L2_S92.mp3
+93,Он часто говорит мне эту вещь,He often tells me this thing,[hi: ˈɒfn telz mi: ðɪs θɪŋ],A0_L2_S93.mp3
+94,"Я понимаю, почему это происходит",I understand why it happens,[aɪ ˌʌndəˈstænd waɪ ɪt ˈhæpənz],A0_L2_S94.mp3
+95,Она всегда смотрит телевизор,She always watches TV,[ʃi: ˈɔ:lweɪz ˈwɒʧɪz ˌti:ˈvi:],A0_L2_S95.mp3
+96,Иногда он говорит это,Sometimes he says it,[ˈsʌmtaɪmz hi: sez ɪt],A0_L2_S96.mp3
+97,Они часто говорят мне эти вещи,They often tell me these things,[ðeɪ ˈɒfn tel mi: ði:z θɪŋz],A0_L2_S97.mp3
+98,Ей нравится это,She likes it,[ʃi: laɪks ɪt],A0_L2_S98.mp3
+99,"Я вижу, это действительно помогает мне",I see it really helps me,[aɪ si: ɪt ˈrɪəli helps mi:],A0_L2_S99.mp3
+100,"Я думаю, он работает очень хорошо",I think he works very well,[aɪ θɪŋk hi: wɜ:ks ˈveri wel],A0_L2_S100.mp3
+101,Ей нравится эта идея,She likes this idea,[ʃi: laɪks ðɪs aɪˈdɪə],A0_L2_S101.mp3
+102,Это очень помогает мне,It helps me a lot,[ɪt helps mi: ə lɒt],A0_L2_S102.mp3
+103,Она работает слишком много,She works too much,[ʃi: wɜ:ks tu: mʌʧ],A0_L2_S103.mp3
+104,Она знает много,She knows a lot,[ʃi: nəʊz ə lɒt],A0_L2_S104.mp3
+105,Я часто слышу это,I often hear it,[aɪ ˈɒfn hɪər ɪt],A0_L2_S105.mp3
+106,"Я знаю, что это стоит намного больше",I know that it costs much more,[aɪ nəʊ ðæt ɪt kɒsts mʌʧ mɔ:],A0_L2_S106.mp3

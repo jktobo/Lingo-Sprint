@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Он избегает встречать ее,He avoids meeting her,[hi: əˈvɔɪdz ˈmi:tɪŋ hɜ:],B1_L175_S2.mp3
+3,Я хочу пойти в этот парк,I want to go to this park,[aɪ wɒnt tu: gəʊ tu: ðɪs pɑ:k],B1_L175_S3.mp3
+4,Я обожаю читать книги,I enjoy reading books,[aɪ ɪnˈʤɔɪ ˈri:dɪŋ bʊks],B1_L175_S4.mp3
+5,Он обещал не делать этого,He promised not to do it,[hi: ˈprɒmɪst nɒt tu: du: ɪt],B1_L175_S5.mp3
+6,Я не рекомендую покупать еду там,I don't recommend buying food there,[aɪ dəʊnt ˌrekəˈmend ˈbaɪɪŋ fu:d ðeə],B1_L175_S6.mp3
+7,Что ты любишь делать в свое свободное время?,What do you like doing in your spare time?,[wɒt du: ju: laɪk ˈdu:ɪŋ ɪn jɔ: speə taɪm?],B1_L175_S7.mp3
+8,Я хочу пойти домой сейчас,I want to go home now,[aɪ wɒnt tu: gəʊ həʊm naʊ],B1_L175_S8.mp3
+9,Что ты предлагаешь делать?,What do you suggest doing?,[wɒt du: ju: səˈʤest ˈdu:ɪŋ?],B1_L175_S9.mp3
+10,Я надеюсь сдать тест,I hope to pass the test,[aɪ həʊp tu: pɑ:s ðə test],B1_L175_S10.mp3
+11,Он попросил меня пойти с ним,He asked me to come with him,[hi: ɑ:skt mi: tu: kʌm wɪð hɪm],B1_L175_S11.mp3
+12,Я не хотел бы говорить об этом,I wouldn't like to talk about it,[aɪ ˈwʊdnt laɪk tu: tɔ:k əˈbaʊt ɪt],B1_L175_S12.mp3
+13,Я рекомендую прочитать эту книгу,I recommend reading this book,[aɪ ˌrekəˈmend ˈri:dɪŋ ðɪs bʊk],B1_L175_S13.mp3
+14,Я решил не делать этого,I decided not to do it,[aɪ dɪˈsaɪdɪd nɒt tu: du: ɪt],B1_L175_S14.mp3
+15,Я действительно обожаю заниматься спортом,I really enjoy playing sports,[aɪ ˈrɪəli ɪnˈʤɔɪ ˈpleɪɪŋ spɔ:ts],B1_L175_S15.mp3
+16,Ты хотел бы жить за границей?,Would you like to live abroad?,[wʊd ju: laɪk tu: lɪv əˈbrɔ:d?],B1_L175_S16.mp3
+17,Я хотел бы сказать тебе одну вещь,I would like to tell you one thing,[aɪ wʊd laɪk tu: tel ju: wʌn θɪŋ],B1_L175_S17.mp3
+18,Я предлагаю пойти туда сейчас,I suggest going there now,[aɪ səˈʤest ˈgəʊɪŋ ðeə naʊ],B1_L175_S18.mp3
+19,Он надеется сдать этот тест,He hopes to pass this test,[hi: həʊps tu: pɑ:s ðɪs test],B1_L175_S19.mp3
+20,Я рекомендую посмотреть это видео,I recommend watching this video,[aɪ ˌrekəˈmend ˈwɒʧɪŋ ðɪs ˈvɪdɪəʊ],B1_L175_S20.mp3
+21,Я действительно обожаю изучать иностранные языки,I really enjoy learning foreign languages,[aɪ ˈrɪəli ɪnˈʤɔɪ ˈlɜ:nɪŋ ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L175_S21.mp3
+22,Он хочет видеть врача,He wants to see a doctor,[hi: wɒnts tu: si: ə ˈdɒktə],B1_L175_S22.mp3
+23,Он рекомендовал подождать,He recommended waiting,[hi: ˌrekəˈmendɪd ˈweɪtɪŋ],B1_L175_S23.mp3
+24,Она согласилась помочь нам,She agreed to help us,[ʃi: əˈgri:d tu: help ʌs],B1_L175_S24.mp3
+25,Она действительно любит танцевать,She really loves dancing,[ʃi: ˈrɪəli lʌvz ˈdɑ:nsɪŋ],B1_L175_S25.mp3
+26,Я предлагаю подождать,I suggest waiting,[aɪ səˈʤest ˈweɪtɪŋ],B1_L175_S26.mp3
+27,Я избегаю обсуждать такого рода вещи,I avoid discussing this kind of things,[aɪ əˈvɔɪd dɪsˈkʌsɪŋ ðɪs kaɪnd ɒv θɪŋz],B1_L175_S27.mp3
+28,Я люблю играть в настольный теннис,I love playing table tennis,[aɪ lʌv ˈpleɪɪŋ ˈteɪbl ˈtenɪs],B1_L175_S28.mp3
+29,Он обещал сдержать свои слова,He promised to keep his words,[hi: ˈprɒmɪst tu: ki:p hɪz wɜ:dz],B1_L175_S29.mp3
+30,Она только что закончила готовить,She has just finished cooking,[ʃi: hæz ʤʌst ˈfɪnɪʃt ˈkʊkɪŋ],B1_L175_S30.mp3
+31,Я закончил делать свое домашнее задание,I finished doing my homework,[aɪ ˈfɪnɪʃt ˈdu:ɪŋ maɪ ˈhəʊmˌwɜ:k],B1_L175_S31.mp3
+32,Ему нравится бегать трусцой,He likes jogging,[hi: laɪks ˈʤɒgɪŋ],B1_L175_S32.mp3
+33,Я предлагаю сходить посмотреть это,I suggest going to see it,[aɪ səˈʤest ˈgəʊɪŋ tu: si: ɪt],B1_L175_S33.mp3
+34,Он действительно обожает заниматься спортом,He really enjoys doing sports,[hi: ˈrɪəli ɪnˈʤɔɪz ˈdu:ɪŋ spɔ:ts],B1_L175_S34.mp3
+35,Я обожаю заниматься спортом,I enjoy doing sports,[aɪ ɪnˈʤɔɪ ˈdu:ɪŋ spɔ:ts],B1_L175_S35.mp3
+36,Я действительно обожаю проводить время с тобой,I really enjoy spending time with you,[aɪ ˈrɪəli ɪnˈʤɔɪ ˈspendɪŋ taɪm wɪð ju:],B1_L175_S36.mp3
+37,Мы еще не закончили это обсуждать,We haven't finished discussing it yet,[wi: hævnt ˈfɪnɪʃt dɪsˈkʌsɪŋ ɪt jet],B1_L175_S37.mp3
+38,Ты хотел бы жить в другой стране?,Would you like to live in another country?,[wʊd ju: laɪk tu: lɪv ɪn əˈnʌðə ˈkʌntri?],B1_L175_S38.mp3
+39,Я начал думать об этом действительно серьезно,I started thinking about it really seriously,[aɪ ˈstɑ:tɪd ˈθɪŋkɪŋ əˈbaʊt ɪt ˈrɪəli ˈsɪərɪəsli],B1_L175_S39.mp3
+40,Она обещала сохранить этот секрет,She promised to keep this secret,[ʃi: ˈprɒmɪst tu: ki:p ðɪs ˈsi:krɪt],B1_L175_S40.mp3
+41,Когда ты закончишь это делать?,When will you finish doing it?,[wen wɪl ju: ˈfɪnɪʃ ˈdu:ɪŋ ɪt?],B1_L175_S41.mp3
+42,Он посоветовал мне не делать этого,He advised me not to do it,[hi: ədˈvaɪzd mi: nɒt tu: du: ɪt],B1_L175_S42.mp3
+43,Она еще не закончила говорить,She hasn't finished speaking yet,[ʃi: ˈhæznt ˈfɪnɪʃt ˈspi:kɪŋ jet],B1_L175_S43.mp3
+44,Я хочу сказать следующее,I want to say the following,[aɪ wɒnt tu: seɪ ðə ˈfɒləʊɪŋ],B1_L175_S44.mp3
+45,Я не против пойти туда,I don't mind going there,[aɪ dəʊnt maɪnd ˈgəʊɪŋ ðeə],B1_L175_S45.mp3
+46,Ты хочешь пойти в ресторан сегодня вечером?,Do you fancy going to the restaurant tonight?,[du: ju: ˈfænsi ˈgəʊɪŋ tu: ðə ˈrestrɒnt təˈnaɪt?],B1_L175_S46.mp3
+47,Я избегаю рассказывать другим людям о моих планах,I avoid telling other people about my plans,[aɪ əˈvɔɪd ˈtelɪŋ ˈʌðə ˈpi:pl əˈbaʊt maɪ plænz],B1_L175_S47.mp3
+48,Он избегает говорить об этом,He avoids talking about it,[hi: əˈvɔɪdz ˈtɔ:kɪŋ əˈbaʊt ɪt],B1_L175_S48.mp3
+49,Я не могу не восхищаться красотой этого места,I can't help admiring the beauty of this place,[aɪ kɑ:nt help ədˈmaɪərɪŋ ðə ˈbju:ti ɒv ðɪs pleɪs],B1_L175_S49.mp3
+50,Она не может не восхищаться таким человеком,She can't help admiring such a person,[ʃi: kɑ:nt help ədˈmaɪərɪŋ sʌʧ ə ˈpɜ:sn],B1_L175_S50.mp3
+51,Ты когда-нибудь рассматривал жизнь за границей?,Have you ever considered living abroad?,[hæv ju: ˈevə kənˈsɪdəd ˈlɪvɪŋ əˈbrɔ:d?],B1_L175_S51.mp3
+52,Он не против ждать этого,He doesn't mind waiting for it,[hi: dʌznt maɪnd ˈweɪtɪŋ fɔ: ɪt],B1_L175_S52.mp3
+53,Эта страна хотела стать членом Европейского Союза,This country wanted to become a member of the European Union,[ðɪs ˈkʌntri ˈwɒntɪd tu: bɪˈkʌm ə ˈmembər ɒv ðə ˌjʊərəˈpi:ən ˈju:njən],B1_L175_S53.mp3
+54,Они отложили обсуждение этих событий,They postponed discussing these events,[ðeɪ pəʊstˈpəʊnd dɪsˈkʌsɪŋ ði:z ɪˈvents],B1_L175_S54.mp3
+55,Ты хочешь выпить чашку кофе?,Do you fancy drinking a cup of coffee?,[du: ju: ˈfænsi ˈdrɪŋkɪŋ ə kʌp ɒv ˈkɒfi?],B1_L175_S55.mp3
+56,Она избегает говорить с ним,She avoids talking to him,[ʃi: əˈvɔɪdz ˈtɔ:kɪŋ tu: hɪm],B1_L175_S56.mp3
+57,"Определенно, я рекомендую посмотреть этот фильм","Definitely, I recommend watching this movie","[ˈdefɪnɪtli, aɪ ˌrekəˈmend ˈwɒʧɪŋ ðɪs ˈmu:vi]",B1_L175_S57.mp3
+58,"Мне нравится гулять в парке, дыша свежим воздухом",I like walking in the park breathing fresh air,[aɪ laɪk ˈwɔ:kɪŋ ɪn ðə pɑ:k ˈbri:ðɪŋ freʃ eə],B1_L175_S58.mp3
+59,Я настоятельно рекомендую посетить это место,I strongly recommend visiting this place,[aɪ ˈstrɒŋli ˌrekəˈmend ˈvɪzɪtɪŋ ðɪs pleɪs],B1_L175_S59.mp3
+60,"Ты знаешь, я действительно люблю это делать","You know, I really enjoy doing it","[ju: nəʊ, aɪ ˈrɪəli ɪnˈʤɔɪ ˈdu:ɪŋ ɪt]",B1_L175_S60.mp3
+61,"Ты знаешь, мне действительно нравится плавать","You know, I really enjoy swimming","[ju: nəʊ, aɪ ˈrɪəli ɪnˈʤɔɪ ˈswɪmɪŋ]",B1_L175_S61.mp3
+62,"Ты знаешь, ему действительно нравится петь","You know, he really enjoys singing","[ju: nəʊ, hi: ˈrɪəli ɪnˈʤɔɪz ˈsɪŋɪŋ]",B1_L175_S62.mp3
+63,Он рассматривает обучение за границей,He considers studying abroad,[hi: kənˈsɪdəz ˈstʌdiɪŋ əˈbrɔ:d],B1_L175_S63.mp3
+64,Он рассматривает переезд за границу,He considers moving abroad,[hi: kənˈsɪdəz ˈmu:vɪŋ əˈbrɔ:d],B1_L175_S64.mp3
+65,Он рассматривал обучение там,He considered studying there,[hi: kənˈsɪdəd ˈstʌdiɪŋ ðeə],B1_L175_S65.mp3
+66,Начался снег,It started snowing,[ɪt ˈstɑ:tɪd ˈsnəʊɪŋ],B1_L175_S66.mp3
+67,Начался дождь,It started raining,[ɪt ˈstɑ:tɪd ˈreɪnɪŋ],B1_L175_S67.mp3
+68,Дождь уже закончился?,Has it already stopped raining?,[hæz ɪt ɔ:lˈredi stɒpt ˈreɪnɪŋ?],B1_L175_S68.mp3
+69,Я избегаю делать это,I avoid doing it,[aɪ əˈvɔɪd ˈdu:ɪŋ ɪt],B1_L175_S69.mp3
+70,Я избегаю говорить об этом,I avoid talking about it,[aɪ əˈvɔɪd ˈtɔ:kɪŋ əˈbaʊt ɪt],B1_L175_S70.mp3
+71,Я избегаю обсуждать это,I avoid discussing it,[aɪ əˈvɔɪd dɪsˈkʌsɪŋ ɪt],B1_L175_S71.mp3
+72,Я еще не закончил делать это,I haven't finished doing it yet,[aɪ hævnt ˈfɪnɪʃt ˈdu:ɪŋ ɪt jet],B1_L175_S72.mp3
+73,"Я уже закончил это делать …………….…................................................... 74. Я еще не прочитал эту книгу …………….…................................................... 75. Мне нравится плавать …………….…................................................... 76. Мне нравится бегать трусцой …………….…................................................... 77. Мне не нравится плавать …………….…................................................... 78. Мне не нравилось плавать там …………….…................................................... 79. Мне не нравится посещать этот клуб …………….…................................................... 80. Мне не нравилось петь эту песню …………….…................................................... 81. Определенно, я рекомендую посетить это место …………….…................................................... 82. Конечно, я рекомендую пойти в это место …………….…................................................... 83. Они отложили представление этих материалов …………….…................................................... 84. Они отложили показ этих материалов …………….…................................................... 85. Они отложили это дело …………….…................................................... 8 86. Я не против сделать это прямо сейчас …………….…................................................... 87. Я не против пойти туда прямо сейчас …………….…................................................... 88. Я не против посетить этот музей прямо сейчас …………….…................................................... 89. Ребенок начал плакать …………….…................................................... 90. Я не могу не восхищаться такими людьми …………….…................................................... 91. Ты уже закончил это делать? …………….…................................................... 92. Я настоятельно советую тебе не делать этого …………….…................................................... 93. Ты не против помочь мне? …………….…................................................... 94. Он избегает рассказывать другим о своих планах …………….…................................................... 95. Я хочу встретиться с тобой здесь …………….…................................................... 96. Они отложили строительство новой больницы …………….…................................................... 97. Он избегает встречи с ней …………….…................................................... 98. Он отложил строительство дома …………….…................................................... 9 99. Он хочет стать членом этой организации …………….…................................................... 100. Ты хочешь выйти сегодня вечером? …………….…................................................... 101. Скоро начнется дождь …………….…................................................... 102. Я не против сделать это …………….…................................................... 103. Я начал изучать английский, когда я был ребенком …………….…................................................... 10 Ответы 1. Она пообещала сохранить его секрет",She promised to keep his secret,[ʃi: ˈprɒmɪst tu: ki:p hɪz ˈsi:krɪt],B1_L175_S73.mp3
+74,Я еще не прочитал эту книгу,I haven't read this book yet,[aɪ hævnt red ðɪs bʊk jet],B1_L175_S74.mp3
+75,Мне нравится плавать,I fancy swimming,[aɪ ˈfænsi ˈswɪmɪŋ],B1_L175_S75.mp3
+76,Мне нравится бегать трусцой,I fancy jogging,[aɪ ˈfænsi ˈʤɒgɪŋ],B1_L175_S76.mp3
+77,Мне не нравится плавать,I don't fancy swimming,[aɪ dəʊnt ˈfænsi ˈswɪmɪŋ],B1_L175_S77.mp3
+78,Мне не нравилось плавать там,I didn't fancy swimming there,[aɪ dɪdnt ˈfænsi ˈswɪmɪŋ ðeə],B1_L175_S78.mp3
+79,Мне не нравится посещать этот клуб,I don't fancy visiting this club,[aɪ dəʊnt ˈfænsi ˈvɪzɪtɪŋ ðɪs klʌb],B1_L175_S79.mp3
+80,Мне не нравилось петь эту песню,I didn't fancy singing this song,[aɪ dɪdnt ˈfænsi ˈsɪŋɪŋ ðɪs sɒŋ],B1_L175_S80.mp3
+81,"Определенно, я рекомендую посетить это место","Definitely, I recommend visiting this place","[ˈdefɪnɪtli, aɪ ˌrekəˈmend ˈvɪzɪtɪŋ ðɪs pleɪs]",B1_L175_S81.mp3
+82,"Конечно, я рекомендую пойти в это место","Of course, I recommend going to this place","[ɒv kɔ:s, aɪ ˌrekəˈmend ˈgəʊɪŋ tu: ðɪs pleɪs]",B1_L175_S82.mp3
+83,Они отложили представление этих материалов,They postponed presenting these materials,[ðeɪ pəʊstˈpəʊnd prɪˈzentɪŋ ði:z məˈtɪərɪəlz],B1_L175_S83.mp3
+84,Они отложили показ этих материалов,They postponed showing these materials,[ðeɪ pəʊstˈpəʊnd ˈʃəʊɪŋ ði:z məˈtɪərɪəlz],B1_L175_S84.mp3
+85,Они отложили это дело,They postponed doing it,[ðeɪ pəʊstˈpəʊnd ˈdu:ɪŋ ɪt],B1_L175_S85.mp3
+86,Я не против сделать это прямо сейчас,I don't mind doing it right now,[aɪ dəʊnt maɪnd ˈdu:ɪŋ ɪt raɪt naʊ],B1_L175_S86.mp3
+87,Я не против пойти туда прямо сейчас,I don't mind going there right now,[aɪ dəʊnt maɪnd ˈgəʊɪŋ ðeə raɪt naʊ],B1_L175_S87.mp3
+88,Я не против посетить этот музей прямо сейчас,I don't mind visiting this museum right now,[aɪ dəʊnt maɪnd ˈvɪzɪtɪŋ ðɪs mju:ˈzɪəm raɪt naʊ],B1_L175_S88.mp3
+89,Ребенок начал плакать,The baby started crying,[ðə ˈbeɪbi ˈstɑ:tɪd ˈkraɪɪŋ],B1_L175_S89.mp3
+90,Я не могу не восхищаться такими людьми,I can't help admiring such people,[aɪ kɑ:nt help ədˈmaɪərɪŋ sʌʧ ˈpi:pl],B1_L175_S90.mp3
+91,Ты уже закончил это делать?,Have you already finished doing it?,[hæv ju: ɔ:lˈredi ˈfɪnɪʃt ˈdu:ɪŋ ɪt?],B1_L175_S91.mp3
+92,Я настоятельно советую тебе не делать этого,I strongly advise you not to do it,[aɪ ˈstrɒŋli ədˈvaɪz ju: nɒt tu: du: ɪt],B1_L175_S92.mp3
+93,Ты не против помочь мне?,Do you mind helping me?,[du: ju: maɪnd ˈhelpɪŋ mi:?],B1_L175_S93.mp3
+94,Он избегает рассказывать другим о своих планах,He avoids telling others about his plans,[hi: əˈvɔɪdz ˈtelɪŋ ˈʌðəz əˈbaʊt hɪz plænz],B1_L175_S94.mp3
+95,Я хочу встретиться с тобой здесь,I fancy meeting you here,[aɪ ˈfænsi ˈmi:tɪŋ ju: hɪə],B1_L175_S95.mp3
+96,Они отложили строительство новой больницы,They postponed building a new hospital,[ðeɪ pəʊstˈpəʊnd ˈbɪldɪŋ ə nju: ˈhɒspɪtl],B1_L175_S96.mp3
+97,Он избегает встречи с ней,He avoids meeting her,[hi: əˈvɔɪdz ˈmi:tɪŋ hɜ:],B1_L175_S97.mp3
+98,Он отложил строительство дома,He postponed building a house,[hi: pəʊstˈpəʊnd ˈbɪldɪŋ ə haʊs],B1_L175_S98.mp3
+99,Он хочет стать членом этой организации,He wants to become a member of this organization,[hi: wɒnts tu: bɪˈkʌm ə ˈmembər ɒv ðɪs ˌɔ:gənaɪˈzeɪʃən],B1_L175_S99.mp3
+100,Ты хочешь выйти сегодня вечером?,Do you fancy going out tonight?,[du: ju: ˈfænsi ˈgəʊɪŋ aʊt təˈnaɪt?],B1_L175_S100.mp3
+101,Скоро начнется дождь,It will start raining soon,[ɪt wɪl stɑ:t ˈreɪnɪŋ su:n],B1_L175_S101.mp3
+102,Я не против сделать это,I don't mind doing it,[aɪ dəʊnt maɪnd ˈdu:ɪŋ ɪt],B1_L175_S102.mp3
+103,"Я начал изучать английский, когда я был ребенком",I started learning English when I was a child,[aɪ ˈstɑ:tɪd ˈlɜ:nɪŋ ˈɪŋglɪʃ wen aɪ wɒz ə ʧaɪld],B1_L175_S103.mp3

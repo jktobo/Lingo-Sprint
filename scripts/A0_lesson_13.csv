@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Я счастлив,I am happy,[aɪ æm ˈhæpi],A0_L13_S1.mp3
+2,Ты абсолютно прав,You are absolutely right,[ju: ɑ: ˈæbsəlu:tli raɪt],A0_L13_S2.mp3
+3,Это чудесно,It is wonderful,[ɪt ɪz ˈwʌndəfəl],A0_L13_S3.mp3
+4,Это мало,It is little,[ɪt ɪz ˈlɪtl],A0_L13_S4.mp3
+5,Это действительно чудесно,It is really wonderful,[ɪt ɪz ˈwʌndəfəl],A0_L13_S5.mp3
+6,Я из России,I am from Russia,[aɪ æm frɒm ˈrʌʃə],A0_L13_S6.mp3
+7,Он очень счастлив,He is very happy,[hi: ɪz ˈveri ˈhæpi],A0_L13_S7.mp3
+8,Это плохо,It is bad,[ɪt ɪz bæd],A0_L13_S8.mp3
+9,Он из Англии,He is from England,[hi: ɪz frɒm ˈɪŋglənd],A0_L13_S9.mp3
+10,Это один миллион долларов,It is one million dollars,[ɪt ɪz wʌn ˈmɪljən ˈdɒləz],A0_L13_S10.mp3
+11,Это так скучно,It is so boring,[ɪt ɪz səʊ ˈbɔ:rɪŋ],A0_L13_S11.mp3
+12,Это один миллион,It is one million,[ɪt ɪz wʌn ˈmɪljən],A0_L13_S12.mp3
+13,Я на работе,I am at work,[aɪ æm æt wɜ:k],A0_L13_S13.mp3
+14,Ты абсолютно прав,You are absolutely right,[ju: ɑ: ˈæbsəlu:tli raɪt],A0_L13_S14.mp3
+15,Это так замечательно,It is so wonderful,[ɪt ɪz ˈrɪəli ˈwʌndəfəl],A0_L13_S15.mp3
+16,Это слишком мало,It is too little,[ɪt ɪz tu: ˈlɪtl],A0_L13_S16.mp3
+17,Они в школе,They are at school,[ðeɪ ɑ: æt sku:l],A0_L13_S17.mp3
+18,Она очень грустная,She is very sad,[ʃi: ɪz ˈveri sæd],A0_L13_S18.mp3
+19,Это интересно,It is interesting,[ɪt ɪz ˈɪntrɪstɪŋ],A0_L13_S19.mp3
+20,Это очень хорошо,It is very good,[ɪt ɪz ˈveri gʊd],A0_L13_S20.mp3
+21,Она занята сейчас,She is busy now,[ʃi: ɪz ˈbɪzi naʊ],A0_L13_S21.mp3
+22,Она в школе,She is at school,[ʃi: ɪz æt sku:l],A0_L13_S22.mp3
+23,Она из Соединенных Штатов,She is from the United States,[ʃi: ɪz frɒm ðə jʊˈnaɪtɪd steɪts],A0_L13_S23.mp3
+24,Я дома,I am at home,[aɪ æm æt həʊm],A0_L13_S24.mp3
+25,Это очень плохо,It is very bad,[ɪt ɪz ˈveri bæd],A0_L13_S25.mp3
+26,Он ее муж,He is her husband,[hi: ɪz hɜ: ˈhʌzbənd],A0_L13_S26.mp3
+27,Он сердитый,He is angry,[hi: ɪz ˈæŋgri],A0_L13_S27.mp3
+28,Он очень сердитый,He is very angry,[hi: ɪz ˈveri ˈæŋgri],A0_L13_S28.mp3
+29,Это хорошо,It is good,[ɪt ɪz gʊd],A0_L13_S29.mp3
+30,Я свободен,I am free,[aɪ æm fri:],A0_L13_S30.mp3
+31,Ты прав,You are right,[ju: ɑ: raɪt],A0_L13_S31.mp3
+32,Я здесь,I am here,[aɪ æm hɪə],A0_L13_S32.mp3
+33,Они очень заняты,They are very busy,[ðeɪ ɑ: ˈveri ˈbɪzi],A0_L13_S33.mp3
+34,Это так хорошо,It is so good,[ɪt ɪz səʊ gʊd],A0_L13_S34.mp3
+35,Я очень занят сейчас,I am very busy now,[aɪ æm ˈveri ˈbɪzi naʊ],A0_L13_S35.mp3
+36,Я так счастлив,I am so happy,[aɪ æm səʊ ˈhæpi],A0_L13_S36.mp3
+37,Это очень интересно,It is very interesting,[ɪt ɪz ˈveri ˈɪntrɪstɪŋ],A0_L13_S37.mp3
+38,Он сейчас на работе,He is at work now,[hi: ɪz æt wɜ:k naʊ],A0_L13_S38.mp3
+39,Это очень важно,It is very important,[ɪt ɪz ˈveri ɪmˈpɔ:tənt],A0_L13_S39.mp3
+40,Я студент,I am a student,[aɪ æm ə ˈstju:dənt],A0_L13_S40.mp3
+41,Она действительно злая,She is really angry,[ʃi: ɪz ˈrɪəli ˈæŋgri],A0_L13_S41.mp3
+42,Мы дома,We are at home,[wi: ɑ: æt həʊm],A0_L13_S42.mp3
+43,Они мои друзья,They are my friends,[ðeɪ ɑ: maɪ frendz],A0_L13_S43.mp3
+44,Ты мой лучший друг,You are my best friend,[ju: ɑ: maɪ best frend],A0_L13_S44.mp3
+45,Он очень старый,He is very old,[hi: ɪz ˈveri əʊld],A0_L13_S45.mp3
+46,Они учителя,They are teachers,[ðeɪ ɑ: ˈti:ʧəz],A0_L13_S46.mp3
+47,Он мой лучший друг,He is my best friend,[hi: ɪz maɪ best frend],A0_L13_S47.mp3
+48,Он учитель,He is a teacher,[hi: ɪz ə ˈti:ʧə],A0_L13_S48.mp3
+49,Она очень молодая,She is very young,[ʃi: ɪz ˈveri jʌŋ],A0_L13_S49.mp3
+50,Ей шестьдесят лет,She is sixty years old,[ʃi: ɪz ˈsɪksti jɪəz əʊld],A0_L13_S50.mp3
+51,Она секретарь,She is a secretary,[ʃi: ɪz ə ˈsekrətri],A0_L13_S51.mp3
+52,Он мой друг,He is my friend,[hi: ɪz maɪ frend],A0_L13_S52.mp3
+53,Мы студенты,We are students,[wi: ɑ: ˈstju:dənts],A0_L13_S53.mp3
+54,Они менеджеры,They are managers,[ðeɪ ɑ: ˈmænɪʤəz],A0_L13_S54.mp3
+55,Это вопрос,It is a question,[ɪt ɪz ə ˈkwesʧən],A0_L13_S55.mp3
+56,Он в своей комнате,He is in his room,[hi: ɪz ɪn hɪz ru:m],A0_L13_S56.mp3
+57,Она в своей комнате,She is in her room,[ʃi: ɪz ɪn hɜ: ru:m],A0_L13_S57.mp3
+58,Я действительно уверен,I am really sure,[aɪ æm ˈrɪəli ʃʊə],A0_L13_S58.mp3
+59,Мы действительно уверены,We are really sure,[wi: ɑ: ˈrɪəli ʃʊə],A0_L13_S59.mp3
+60,Он абсолютно прав,He is absolutely right,[hi: ɪz ˈæbsəlu:tli raɪt],A0_L13_S60.mp3
+61,Я абсолютно уверен,I am absolutely sure,[aɪ æm ˈæbsəlu:tli ʃʊə],A0_L13_S61.mp3
+62,Я абсолютно прав,I am absolutely right,[aɪ æm ˈæbsəlu:tli raɪt],A0_L13_S62.mp3
+63,Он абсолютно уверен,He is absolutely sure,[hi: ɪz ˈæbsəlu:tli ʃʊə],A0_L13_S63.mp3
+64,Это игра,It is a game,[ɪt ɪz ə geɪm],A0_L13_S64.mp3
+65,Это мальчик,This is a boy,[ðɪs ɪz ə bɔɪ],A0_L13_S65.mp3
+66,Они друзья,They are friends,[ðeɪ ɑ: frendz],A0_L13_S66.mp3
+67,Они дети,They are children,[ðeɪ ɑ: ˈʧɪldrən],A0_L13_S67.mp3
+68,Он ребенок,He is a child,[hi: ɪz ə ʧaɪld],A0_L13_S68.mp3
+69,Мы дети,We are children,[wi: ɑ: ˈʧɪldrən],A0_L13_S69.mp3
+70,Она певица,She is a singer,[ʃi: ɪz ə ˈsɪŋə],A0_L13_S70.mp3
+71,Я певец,I am a singer,[aɪ æm ə ˈsɪŋə],A0_L13_S71.mp3
+72,Они певцы,They are singers,[ðeɪ ɑ: ˈsɪŋəz],A0_L13_S72.mp3
+73,Мне сорок лет,I am forty years old,[aɪ æm ˈfɔ:ti jɪəz əʊld],A0_L13_S73.mp3
+74,Мне шестьдесят лет,I am sixty years old,[aɪ æm ˈsɪksti jɪəz əʊld],A0_L13_S74.mp3
+75,Ему сорок лет,He is forty years old,[hi: ɪz ˈfɔ:ti jɪəz əʊld],A0_L13_S75.mp3
+76,Она врач,She is a doctor,[ʃi: ɪz ə ˈdɒktə],A0_L13_S76.mp3
+77,Я врач,I am a doctor,[aɪ æm ə ˈdɒktə],A0_L13_S77.mp3
+78,Они врачи,They are doctors,[ðeɪ ɑ: ˈdɒktəz],A0_L13_S78.mp3
+79,Они действительно уверены,They are really sure,[ðeɪ ɑ: ˈrɪəli ʃʊə],A0_L13_S79.mp3
+80,Он действительно уверен,He is really sure,[hi: ɪz ˈrɪəli ʃʊə],A0_L13_S80.mp3
+81,Я уверен,I am sure,[aɪ æm ʃʊə],A0_L13_S81.mp3
+82,Мы уверены,We are sure,[wi: ɑ: ʃʊə],A0_L13_S82.mp3
+83,Он уверен,He is sure,[hi: ɪz ʃʊə],A0_L13_S83.mp3
+84,Этого достаточно,It is enough,[ɪt ɪz ɪˈnʌf],A0_L13_S84.mp3
+85,Они слишком большие,They are too big,[ðeɪ ɑ: tu: bɪg],A0_L13_S85.mp3
+86,Я в своей комнате,I am in my room,[aɪ æm ɪn maɪ ru:m],A0_L13_S86.mp3
+87,Это проблема,It is a problem,[ɪt ɪz ə ˈprɒbləm],A0_L13_S87.mp3
+88,Он бизнесмен,He is a businessman,[hi: ɪz ə ˈbɪznɪsmən],A0_L13_S88.mp3
+89,Мне тридцать,I am thirty,[aɪ æm ˈθɜ:ti],A0_L13_S89.mp3
+90,Он программист,He is a programmer,[hi: ɪz ə ˈprəʊgræmə],A0_L13_S90.mp3
+91,Он менеджер,He is a manager,[hi: ɪz ə ˈmænɪʤə],A0_L13_S91.mp3
+92,Это любовь,It is love,[ɪt ɪz lʌv],A0_L13_S92.mp3
+93,Это факт,It is a fact,[ɪt ɪz ə fækt],A0_L13_S93.mp3
+94,"Этого больше, чем достаточно",It is more than enough,[ɪt ɪz mɔ: ðæn ɪˈnʌf],A0_L13_S94.mp3
+95,Она учитель,She is a teacher,[ʃi: ɪz ə ˈti:ʧə],A0_L13_S95.mp3
+96,Он певец,He is a singer,[hi: ɪz ə ˈsɪŋə],A0_L13_S96.mp3
+97,Они сейчас вместе,They are together now,[ðeɪ ɑ: təˈgeðə naʊ],A0_L13_S97.mp3
+98,Она его жена,She is his wife,[ʃi: ɪz hɪz waɪf],A0_L13_S98.mp3
+99,Он сейчас в другой стране,He is in another country now,[hi: ɪz ɪn əˈnʌðə ˈkʌntri naʊ],A0_L13_S99.mp3
+100,Ему шестьдесят,He is sixty,[hi: ɪz ˈsɪksti],A0_L13_S100.mp3

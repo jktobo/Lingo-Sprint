@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Мы смотрим телевизор сейчас,We are watching TV,[wi: ɑ: ˈwɒʧɪŋ ˌti:ˈvi:],A2_L110_S2.mp3
+3,Он принимает душ сейчас,He is taking a shower,[hi: ɪz ˈteɪkɪŋ ə ˈʃaʊə],A2_L110_S3.mp3
+4,Он танцует сейчас,I’m dancing,[aɪm ˈdɑ:nsɪŋ],A2_L110_S4.mp3
+5,Мы играем на стадионе сейчас,We’re playing at the stadium,[wɪə ˈpleɪɪŋ æt ðə ˈsteɪdiəm],A2_L110_S5.mp3
+6,Я танцую сейчас,He’s dancing,[hi:z ˈdɑ:nsɪŋ],A2_L110_S6.mp3
+7,Она учит русский сейчас,She’s learning Russian,[ʃi:z ˈlɜ:nɪŋ ˈrʌʃn],A2_L110_S7.mp3
+8,Она принимает душ,She is taking a shower,[ʃi: ɪz ˈteɪkɪŋ ə ˈʃaʊə],A2_L110_S8.mp3
+9,Я слушаю тебя,I'm listening to you,[aɪm ˈlɪsnɪŋ tu: ju:],A2_L110_S9.mp3
+10,Я думаю об этом очень серьезно сейчас,I'm thinking about it very seriously now,[aɪm ˈθɪŋkɪŋ əˈbaʊt ɪt ˈveri ˈsɪərɪəsli naʊ],A2_L110_S10.mp3
+11,Он остается на работе,He's staying at work,[hi:z ˈsteɪɪŋ æt wɜ:k],A2_L110_S11.mp3
+12,Я сейчас иду в парк,I'm going to the park now,[aɪm ˈgəʊɪŋ tu: ðə pɑ:k naʊ],A2_L110_S12.mp3
+13,Он изучает биологию сейчас,He's studying biology now,[hi:z ˈstʌdiɪŋ baɪˈɒləʤi naʊ],A2_L110_S13.mp3
+14,Он плавает в пруду,He's swimming in the pond,[hi:z ˈswɪmɪŋ ɪn ðə pɒnd],A2_L110_S14.mp3
+15,Мы играем в футбол,We're playing football,[wɪə ˈpleɪɪŋ ˈfʊtbɔ:l],A2_L110_S15.mp3
+16,Они разговаривают и смеются,They are talking and laughing,[ðeɪ ɑ: ˈtɔ:kɪŋ ænd ˈlɑ:fɪŋ],A2_L110_S16.mp3
+17,Это происходит в данный момент,It is happening at the moment,[ɪt ɪz ˈhæpnɪŋ æt ðə ˈməʊmənt],A2_L110_S17.mp3
+18,Я сейчас разговариваю с тобой,I'm talking to you now,[aɪm ˈtɔ:kɪŋ tu: ju: naʊ],A2_L110_S18.mp3
+19,Я жду твоего ответа,I'm waiting for your answer,[aɪm ˈweɪtɪŋ fɔ: jɔ: ˈɑ:nsə],A2_L110_S19.mp3
+20,Мы лежим на пляже,We're lying on the beach,[wɪə ˈlaɪɪŋ ɒn ðə bi:ʧ],A2_L110_S20.mp3
+21,Я сейчас еду на велосипеде,I am riding a bike now,[aɪ æm ˈraɪdɪŋ ə baɪk naʊ],A2_L110_S21.mp3
+22,Они играют на стадионе,They are playing at the stadium,[ðeɪ ɑ: ˈpleɪɪŋ æt ðə ˈsteɪdiəm],A2_L110_S22.mp3
+23,Он поет,He is singing,[hi: ɪz ˈsɪŋɪŋ],A2_L110_S23.mp3
+24,Она пишет письмо сейчас,She's writing a letter now,[ʃi:z ˈraɪtɪŋ ə ˈletə naʊ],A2_L110_S24.mp3
+25,Я остаюсь дома,I'm staying at home,[aɪm ˈsteɪɪŋ æt həʊm],A2_L110_S25.mp3
+26,Он принимает душ,He is taking a shower,[hi: ɪz ˈteɪkɪŋ ə ˈʃaʊə],A2_L110_S26.mp3
+27,Я иду домой,I'm going home,[aɪm ˈgəʊɪŋ həʊm],A2_L110_S27.mp3
+28,Она танцует,She is dancing,[ʃi: ɪz ˈdɑ:nsɪŋ],A2_L110_S28.mp3
+29,Я иду на работу,I'm going to work,[aɪm ˈgəʊɪŋ tu: wɜ:k],A2_L110_S29.mp3
+30,Она что-то говорит,She is saying something,[ʃi: ɪz ˈseɪɪŋ ˈsʌmθɪŋ],A2_L110_S30.mp3
+31,Она поет так громко,She is singing so loudly,[ʃi: ɪz ˈsɪŋɪŋ səʊ ˈlaʊdli],A2_L110_S31.mp3
+32,Я учу английский сейчас,I am learning English now,[aɪ æm ˈlɜ:nɪŋ ˈɪŋglɪʃ naʊ],A2_L110_S32.mp3
+33,Ты едешь слишком быстро,You are driving too fast,[ju: ɑ: ˈdraɪvɪŋ tu: fɑ:st],A2_L110_S33.mp3
+34,Мы смотрим фильм,We are watching a movie,[wi: ɑ: ˈwɒʧɪŋ ə ˈmu:vi],A2_L110_S34.mp3
+35,Я сейчас смотрю это видео,I'm watching this video now,[aɪm ˈwɒʧɪŋ ðɪs ˈvɪdɪəʊ naʊ],A2_L110_S35.mp3
+36,Я лежу на солнечном пляже,I'm lying on a sunny beach,[aɪm ˈlaɪɪŋ ɒn ə ˈsʌni bi:ʧ],A2_L110_S36.mp3
+37,Я жду тебя,I am waiting for you,[aɪ æm ˈweɪtɪŋ fɔ: ju:],A2_L110_S37.mp3
+38,Он ест гамбургер,He is eating a hamburger,[hi: ɪz ˈi:tɪŋ ə ˈhæmbɜ:gə],A2_L110_S38.mp3
+39,Я пью чай,I am drinking tea,[aɪ æm ˈdrɪŋkɪŋ ti:],A2_L110_S39.mp3
+40,Он тратит время впустую,He's wasting time,[hi:z ˈweɪstɪŋ taɪm],A2_L110_S40.mp3
+41,Я жду твоего звонка,I am waiting for your call,[aɪ æm ˈweɪtɪŋ fɔ: jɔ: kɔ:l],A2_L110_S41.mp3
+42,Она готовит торт,She's cooking a cake,[ʃi:z ˈkʊkɪŋ ə keɪk],A2_L110_S42.mp3
+43,Она сейчас изучает химию,She's studying chemistry now,[ʃi:z ˈstʌdiɪŋ ˈkemɪstri naʊ],A2_L110_S43.mp3
+44,Я сейчас гуляю в парке,I'm walking in the park now,[aɪm ˈwɔ:kɪŋ ɪn ðə pɑ:k naʊ],A2_L110_S44.mp3
+45,Она пьет кофе,She is drinking coffee,[ʃi: ɪz ˈdrɪŋkɪŋ ˈkɒfi],A2_L110_S45.mp3
+46,Он ждет тебя сейчас,He is waiting for you now,[hi: ɪz ˈweɪtɪŋ fɔ: ju: naʊ],A2_L110_S46.mp3
+47,Он делает пиццу сейчас,He is making pizza now,[hi: ɪz ˈmeɪkɪŋ ˈpi:tsə naʊ],A2_L110_S47.mp3
+48,Она сейчас убирает дом,She is cleaning the house now,[ʃi: ɪz ˈkli:nɪŋ ðə haʊs naʊ],A2_L110_S48.mp3
+49,Цены становятся все выше и выше,The prices are getting higher and higher,[ðə ˈpraɪsɪz ɑ: ˈgetɪŋ ˈhaɪər ænd ˈhaɪə],A2_L110_S49.mp3
+50,Дети играют в футбол,The children are playing football,[ðə ˈʧɪldrən ɑ: ˈpleɪɪŋ ˈfʊtbɔ:l],A2_L110_S50.mp3
+51,Он отдыхает после работы,He's having a rest after work,[hi:z ˈhævɪŋ ə rest ˈɑ:ftə wɜ:k],A2_L110_S51.mp3
+52,Эта область становится все более и более загрязненной,This area is getting more and more polluted,[ðɪs ˈeərɪə ɪz ˈgetɪŋ mɔ: ænd mɔ: pəˈlu:tɪd],A2_L110_S52.mp3
+53,Солнце светит ярко,The sun is shining brightly,[ðə sʌn ɪz ˈʃaɪnɪŋ ˈbraɪtli],A2_L110_S53.mp3
+54,Он лежит на солнечном пляже и болтает со своей женой,He is lying on a sunny beach and chatting with his wife,[hi: ɪz ˈlaɪɪŋ ɒn ə ˈsʌni bi:ʧ ænd ˈʧætɪŋ wɪð hɪz waɪf],A2_L110_S54.mp3
+55,Я пытаюсь как-то адаптироваться к этим условиям,I'm trying to adapt to these conditions somehow,[aɪm ˈtraɪɪŋ tu: əˈdæpt tu: ði:z kənˈdɪʃənz ˈsʌmhaʊ],A2_L110_S55.mp3
+56,Он ест шоколадный торт,He's eating a chocolate cake,[hi:z ˈi:tɪŋ ə ˈʧɒkəlɪt keɪk],A2_L110_S56.mp3
+57,Наша жизнь становится все дороже и дороже,Our life is getting more and more expensive,[ˈaʊə laɪf ɪz ˈgetɪŋ mɔ: ænd mɔ: ɪksˈpensɪv],A2_L110_S57.mp3
+58,Качество этих продуктов становится все лучше и лучше,The quality of these products is getting better and better,[ðə ˈkwɒlɪti ɒv ði:z ˈprɒdʌkts ɪz ˈgetɪŋ ˈbetər ænd ˈbetə],A2_L110_S58.mp3
+59,Город становится все более и более загрязненным,The city is getting more and more polluted,[ðə ˈsɪti ɪz ˈgetɪŋ mɔ: ænd mɔ: pəˈlu:tɪd],A2_L110_S59.mp3
+60,Мой английский становится все лучше и лучше,My English is getting better and better,[maɪ ˈɪŋglɪʃ ɪz ˈgetɪŋ ˈbetər ænd ˈbetə],A2_L110_S60.mp3
+61,Идет сильный дождь,It's raining heavily,[ɪts ˈreɪnɪŋ ˈhevɪli],A2_L110_S61.mp3
+62,Она ест шоколад,She is eating chocolate,[ʃi: ɪz ˈi:tɪŋ ˈʧɒkəlɪt],A2_L110_S62.mp3
+63,Она убирает комнату сейчас,She is cleaning the room now,[ʃi: ɪz ˈkli:nɪŋ ðə ru:m naʊ],A2_L110_S63.mp3
+64,Она моет руки сейчас,She is washing her hands now,[ʃi: ɪz ˈwɒʃɪŋ hɜ: hændz naʊ],A2_L110_S64.mp3
+65,Она делает свое домашнее задание сейчас,She is doing her homework now,[ʃi: ɪz ˈdu:ɪŋ hɜ: ˈhəʊmˌwɜ:k naʊ],A2_L110_S65.mp3
+66,Она отдыхает после школы,She's having a rest after school,[ʃi:z ˈhævɪŋ ə rest ˈɑ:ftə sku:l],A2_L110_S66.mp3
+67,Она отдыхает в данный момент,She's having a rest at the moment,[ʃi:z ˈhævɪŋ ə rest æt ðə ˈməʊmənt],A2_L110_S67.mp3
+68,Я сейчас отдыхаю,I'm having a rest now,[aɪm ˈhævɪŋ ə rest naʊ],A2_L110_S68.mp3
+69,Она лежит на солнечном пляже и болтает со своим мужем,She is lying on a sunny beach and chatting with her husband,[ʃi: ɪz ˈlaɪɪŋ ɒn ə ˈsʌni bi:ʧ ænd ˈʧætɪŋ wɪð hɜ: ˈhʌzbənd],A2_L110_S69.mp3
+70,Она лежит на пляже и разговаривает со своим мужем,She is lying on the beach and talking to her husband,[ʃi: ɪz ˈlaɪɪŋ ɒn ðə bi:ʧ ænd ˈtɔ:kɪŋ tu: hɜ: ˈhʌzbənd],A2_L110_S70.mp3
+71,Она лежит на кровати и болтает со своими друзьями,She is lying in bed and chatting with her friends,[ʃi: ɪz ˈlaɪɪŋ ɪn bed ænd ˈʧætɪŋ wɪð hɜ: frendz],A2_L110_S71.mp3
+72,Я очень усердно работаю в эти дни,I'm working very hard these days,[aɪm ˈwɜ:kɪŋ ˈveri hɑ:d ði:z deɪz],A2_L110_S72.mp3
+73,Он сейчас так много работает …………….…................................................... 74. Я сейчас работаю над этим проектом …………….…................................................... 75. Я отдыхаю после работы …………….…................................................... 76. Я отдыхаю в данный момент …………….…................................................... 77. Женщина разговаривает по телефону …………….…................................................... 78. Женщина разговаривает со своим мужем …………….…................................................... 79. Я разговариваю по телефону …………….…................................................... 80. Дети разговаривают и смеются …………….…................................................... 81. Мои друзья поют и танцуют …………….…................................................... 82. Они разговаривают друг с другом …………….…................................................... 83. Он тренируется очень интенсивно в эти дни …………….…................................................... 84. Они тренируются очень интенсивно в этом месяце …………….…................................................... 85. Он пытается тренироваться очень интенсивно …………….…................................................... 8 86. Идет сильный снег …………….…................................................... 87. Сейчас идет снег …………….…................................................... 88. Все делают это сейчас …………….…................................................... 89. Я делаю это сейчас …………….…................................................... 90. Они делают это сейчас …………….…................................................... 91. Я делаю свою домашнюю работу в данный момент …………….…................................................... 92. Его отец сейчас работает в саду …………….…................................................... 93. Некоторые люди становятся все богаче и богаче …………….…................................................... 94. Я разговариваю по телефону в данный момент …………….…................................................... 95. Я остаюсь дома на этой неделе …………….…................................................... 96. Мальчик смеется над ней …………….…................................................... 97. Эта профессия становится все более и более популярной …………….…................................................... 98. Мы обсуждаем это в настоящее время …………….…................................................... 9 99. Мой уровень становится все выше и выше …………….…................................................... 100. Большинство людей становятся все беднее и беднее …………….…................................................... 101. Девочка плачет …………….…................................................... 102. Идет дождь …………….…................................................... 103. Ребенок спит …………….…................................................... 104. Идет снег …………….…................................................... 105. Все покупают это сейчас …………….…................................................... 10 Ответы 1. Я пою сейчас,I am singing,[aɪ æm ˈsɪŋɪŋ],A2_L110_S73.mp3
+74,Я сейчас работаю над этим проектом,I'm working on this project now,[aɪm ˈwɜ:kɪŋ ɒn ðɪs ˈprɒʤekt naʊ],A2_L110_S74.mp3
+75,Я отдыхаю после работы,I'm having a rest after work,[aɪm ˈhævɪŋ ə rest ˈɑ:ftə wɜ:k],A2_L110_S75.mp3
+76,Я отдыхаю в данный момент,I'm having a rest at the moment,[aɪm ˈhævɪŋ ə rest æt ðə ˈməʊmənt],A2_L110_S76.mp3
+77,Женщина разговаривает по телефону,The woman is talking on the phone,[ðə ˈwʊmən ɪz ˈtɔ:kɪŋ ɒn ðə fəʊn],A2_L110_S77.mp3
+78,Женщина разговаривает со своим мужем,The woman is talking to her husband,[ðə ˈwʊmən ɪz ˈtɔ:kɪŋ tu: hɜ: ˈhʌzbənd],A2_L110_S78.mp3
+79,Я разговариваю по телефону,I am talking on the phone,[aɪ æm ˈtɔ:kɪŋ ɒn ðə fəʊn],A2_L110_S79.mp3
+80,Дети разговаривают и смеются,The kids are talking and laughing,[ðə kɪdz ɑ: ˈtɔ:kɪŋ ænd ˈlɑ:fɪŋ],A2_L110_S80.mp3
+81,Мои друзья поют и танцуют,My friends are singing and dancing,[maɪ frendz ɑ: ˈsɪŋɪŋ ænd ˈdɑ:nsɪŋ],A2_L110_S81.mp3
+82,Они разговаривают друг с другом,They are talking to each other,[ðeɪ ɑ: ˈtɔ:kɪŋ tu: i:ʧ ˈʌðə],A2_L110_S82.mp3
+83,Он тренируется очень интенсивно в эти дни,He is training very intensively these days,[hi: ɪz ˈtreɪnɪŋ ˈveri ɪnˈtensɪvli ði:z deɪz],A2_L110_S83.mp3
+84,Они тренируются очень интенсивно в этом месяце,They are training very intensively this month,[ðeɪ ɑ: ˈtreɪnɪŋ ˈveri ɪnˈtensɪvli ðɪs mʌnθ],A2_L110_S84.mp3
+85,Он пытается тренироваться очень интенсивно,He is trying to train very intensively,[hi: ɪz ˈtraɪɪŋ tu: treɪn ˈveri ɪnˈtensɪvli],A2_L110_S85.mp3
+86,Идет сильный снег,It's snowing heavily,[ɪts ˈsnəʊɪŋ ˈhevɪli],A2_L110_S86.mp3
+87,Сейчас идет снег,It's snowing now,[ɪts ˈsnəʊɪŋ naʊ],A2_L110_S87.mp3
+88,Все делают это сейчас,Everyone is doing it now,[ˈevrɪwʌn ɪz ˈdu:ɪŋ ɪt naʊ],A2_L110_S88.mp3
+89,Я делаю это сейчас,I'm doing it now,[aɪm ˈdu:ɪŋ ɪt naʊ],A2_L110_S89.mp3
+90,Они делают это сейчас,They're doing it now,[ðeə ˈdu:ɪŋ ɪt naʊ],A2_L110_S90.mp3
+91,Я делаю свою домашнюю работу в данный момент,I am doing my homework at the moment,[aɪ æm ˈdu:ɪŋ maɪ ˈhəʊmˌwɜ:k æt ðə ˈməʊmənt],A2_L110_S91.mp3
+92,Его отец сейчас работает в саду,His father is working in the garden now,[hɪz ˈfɑ:ðər ɪz ˈwɜ:kɪŋ ɪn ðə ˈgɑ:dn naʊ],A2_L110_S92.mp3
+93,Некоторые люди становятся все богаче и богаче,Some people are getting richer and richer,[sʌm ˈpi:pl ɑ: ˈgetɪŋ ˈrɪʧər ænd ˈrɪʧə],A2_L110_S93.mp3
+94,Я разговариваю по телефону в данный момент,I'm talking on the phone at the moment,[aɪm ˈtɔ:kɪŋ ɒn ðə fəʊn æt ðə ˈməʊmənt],A2_L110_S94.mp3
+95,Я остаюсь дома на этой неделе,I am staying at home this week,[aɪ æm ˈsteɪɪŋ æt həʊm ðɪs wi:k],A2_L110_S95.mp3
+96,Мальчик смеется над ней,The boy is laughing at her,[ðə bɔɪ ɪz ˈlɑ:fɪŋ æt hɜ:],A2_L110_S96.mp3
+97,Эта профессия становится все более и более популярной,This profession is getting more and more popular,[ðɪs prəˈfeʃən ɪz ˈgetɪŋ mɔ: ænd mɔ: ˈpɒpjʊlə],A2_L110_S97.mp3
+98,Мы обсуждаем это в настоящее время,We're discussing it at present,[wɪə dɪsˈkʌsɪŋ ɪt æt ˈpreznt],A2_L110_S98.mp3
+99,Мой уровень становится все выше и выше,My level is getting higher and higher,[maɪ ˈlevl ɪz ˈgetɪŋ ˈhaɪər ænd ˈhaɪə],A2_L110_S99.mp3
+100,Большинство людей становятся все беднее и беднее,Most people are getting poorer and poorer,[məʊst ˈpi:pl ɑ: ˈgetɪŋ ˈpʊərər ænd ˈpʊərə],A2_L110_S100.mp3
+101,Девочка плачет,The girl is crying,[ðə gɜ:l ɪz ˈkraɪɪŋ],A2_L110_S101.mp3
+102,Идет дождь,It is raining,[ɪt ɪz ˈreɪnɪŋ],A2_L110_S102.mp3
+103,Ребенок спит,The baby is sleeping,[ðə ˈbeɪbi ɪz ˈsli:pɪŋ],A2_L110_S103.mp3
+104,Идет снег,It is snowing,[ɪt ɪz ˈsnəʊɪŋ],A2_L110_S104.mp3
+105,Все покупают это сейчас,Everyone is buying it now,[ˈevrɪwʌn ɪz ˈbaɪɪŋ ɪt naʊ],A2_L110_S105.mp3

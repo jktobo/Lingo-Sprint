@@ -1,52 +1,52 @@
--- Таблица уровней (A0, A1, B1...)
-CREATE TABLE levels (
+-- Создаем таблицы только если они еще не существуют
+CREATE TABLE IF NOT EXISTS levels (
     id SERIAL PRIMARY KEY,
     title VARCHAR(50) NOT NULL UNIQUE
 );
 
--- Таблица уроков (Урок 1, Урок 2...)
-CREATE TABLE lessons (
+CREATE TABLE IF NOT EXISTS lessons (
     id SERIAL PRIMARY KEY,
     level_id INT NOT NULL REFERENCES levels(id),
     lesson_number INT NOT NULL,
     title VARCHAR(255)
 );
 
--- Главная таблица с предложениями
-CREATE TABLE sentences (
+CREATE TABLE IF NOT EXISTS sentences (
     id SERIAL PRIMARY KEY,
     lesson_id INT NOT NULL REFERENCES lessons(id),
     order_number INT NOT NULL, -- Порядковый номер в уроке (1, 2, 3...)
     prompt_ru TEXT NOT NULL,
     answer_en TEXT NOT NULL,
     transcription VARCHAR(255),
-    audio_path VARCHAR(1024) NOT NULL -- Путь к файлу в S3/Yandex Storage
+    audio_path VARCHAR(1024)
 );
 
--- Таблица пользователей
-CREATE TABLE users (
+CREATE TABLE IF NOT EXISTS users (
     id SERIAL PRIMARY KEY,
     email VARCHAR(255) NOT NULL UNIQUE,
     password_hash VARCHAR(255) NOT NULL,
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
-    
-    -- Поля для монетизации
     subscription_status VARCHAR(20) DEFAULT 'free' NOT NULL, -- 'free', 'premium'
-    stripe_customer_id VARCHAR(255) UNIQUE -- ID из Stripe/Optima/KICB
+    stripe_customer_id VARCHAR(255) UNIQUE
 );
 
--- Таблица для отслеживания прогресса (для интервального повторения)
-CREATE TABLE user_progress (
+CREATE TABLE IF NOT EXISTS user_progress (
     id SERIAL PRIMARY KEY,
     user_id INT NOT NULL REFERENCES users(id),
     sentence_id INT NOT NULL REFERENCES sentences(id),
     status VARCHAR(20) DEFAULT 'new' NOT NULL, -- 'new', 'learning', 'mastered'
     correct_streak INT DEFAULT 0 NOT NULL,
     next_review_date TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
-    
-    UNIQUE(user_id, sentence_id) -- Один юзер - одно предложение
+    UNIQUE(user_id, sentence_id)
 );
 
 -- Индексы для ускорения запросов
-CREATE INDEX idx_user_progress_review ON user_progress (user_id, next_review_date);
-CREATE INDEX idx_sentences_lesson ON sentences (lesson_id);
+CREATE INDEX IF NOT EXISTS idx_user_progress_review ON user_progress (user_id, next_review_date);
+CREATE INDEX IF NOT EXISTS idx_sentences_lesson ON sentences (lesson_id);
+
+-- === НОВОЕ: Добавляем все уровни ===
+INSERT INTO levels (title) VALUES ('A0') ON CONFLICT (title) DO NOTHING;
+INSERT INTO levels (title) VALUES ('A1') ON CONFLICT (title) DO NOTHING;
+INSERT INTO levels (title) VALUES ('B1') ON CONFLICT (title) DO NOTHING;
+INSERT INTO levels (title) VALUES ('B2') ON CONFLICT (title) DO NOTHING;
+INSERT INTO levels (title) VALUES ('C1') ON CONFLICT (title) DO NOTHING;

@@ -1,0 +1,105 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,"Это так интересно, не так ли?","It’s so interesting, isn’t it?","[ɪts səʊ ˈɪntrɪstɪŋ, ˈɪznt ɪt?]",A2_L149_S2.mp3
+3,"Они знают это, не так ли?","They know it, don’t they?","[ðeɪ nəʊ ɪt, dəʊnt ðeɪ?]",A2_L149_S3.mp3
+4,"Она помогла тебе, не так ли?","She helped you, didn’t she?","[ʃi: helpt ju:, dɪdnt ʃi:?]",A2_L149_S4.mp3
+5,"Он не ходил туда, не так ли?","He didn’t go there, did he?","[hi: dɪdnt gəʊ ðeə, dɪd hi:?]",A2_L149_S5.mp3
+6,"Они не знают это, не так ли?","They don’t know it, do they?","[ðeɪ dəʊnt nəʊ ɪt, du: ðeɪ?]",A2_L149_S6.mp3
+7,"Она не помогла тебе, не так ли?","She didn’t help you, did she?","[ʃi: dɪdnt help ju:, dɪd ʃi:?]",A2_L149_S7.mp3
+8,"Ты никогда туда не ходишь, не так ли?","You never go there, do you?","[ju: ˈnevə gəʊ ðeə, du: ju:?]",A2_L149_S8.mp3
+9,"У него есть машина, не так ли?","He has got a car, hasn't he?","[hi: hæz gɒt ə kɑ:, ˈhæznt hi:?]",A2_L149_S9.mp3
+10,"Ты действительно счастлив, не так ли?","You are really happy, aren't you?","[ju: ɑ: ˈrɪəli ˈhæpi, ɑ:nt ju:?]",A2_L149_S10.mp3
+11,"Он будет там до трех, не так ли?","He will be there until three, won't he?","[hi: wɪl bi: ðeər ənˈtɪl θri:, wəʊnt hi:?]",A2_L149_S11.mp3
+12,"Я поступил правильно, не так ли?","I did the right thing, didn't I?","[aɪ dɪd ðə raɪt θɪŋ, dɪdnt aɪ?]",A2_L149_S12.mp3
+13,"Это хорошая идея, не так ли?","It's a good idea, isn't it?","[ɪts ə gʊd aɪˈdɪə, ˈɪznt ɪt?]",A2_L149_S13.mp3
+14,"Он изучает архитектуру, не так ли?","He is studying architecture, isn't he?","[hi: ɪz ˈstʌdiɪŋ ˈɑ:kɪtekʧə, ˈɪznt hi:?]",A2_L149_S14.mp3
+15,"У него есть идея, не так ли?","He has an idea, doesn't he?","[hi: hæz ən aɪˈdɪə, dʌznt hi:?]",A2_L149_S15.mp3
+16,"Это действительно помогает тебе, не так ли?","It really helps you, doesn't it?","[ɪt ˈrɪəli helps ju:, dʌznt ɪt?]",A2_L149_S16.mp3
+17,"Тебе нужны вилка и нож, не так ли?","You need a fork and a knife, don't you?","[ju: ni:d ə fɔ:k ænd ə naɪf, dəʊnt ju:?]",A2_L149_S17.mp3
+18,"Ты этого не понимаешь, не так ли?","You don't understand it, do you?","[ju: dəʊnt ˌʌndəˈstænd ɪt, du: ju:?]",A2_L149_S18.mp3
+19,"Он больше не покупает сигарет, не так ли?","He doesn't buy cigarettes anymore, does he?","[hi: dʌznt baɪ ˌsɪgəˈrets ˌeniˈmɔ:, dʌz hi:?]",A2_L149_S19.mp3
+20,"Это действительно интересно, не так ли?","It is really interesting, isn't it?","[ɪt ɪz ˈrɪəli ˈɪntrɪstɪŋ, ˈɪznt ɪt?]",A2_L149_S20.mp3
+21,"Он также хочет туда поехать, не так ли?","He also wants to go there, doesn't he?","[hi: ˈɔ:lsəʊ wɒnts tu: gəʊ ðeə, dʌznt hi:?]",A2_L149_S21.mp3
+22,"У тебя есть машина, не так ли?","You've got a car, haven't you?","[ju:v gɒt ə kɑ:, hævnt ju:?]",A2_L149_S22.mp3
+23,"Мне не следует этого делать, не так ли?","I shouldn't do it, should I?","[aɪ ʃʊdnt du: ɪt, ʃʊd aɪ?]",A2_L149_S23.mp3
+24,"У него высокая температура, не так ли?","He has a high temperature, doesn't he?","[hi: hæz ə haɪ ˈtemprɪʧə, dʌznt hi:?]",A2_L149_S24.mp3
+25,"Это хорошо, не так ли?","It's good, isn't it?","[ɪts gʊd, ˈɪznt ɪt?]",A2_L149_S25.mp3
+26,"Ты учишь английский самостоятельно, не так ли?","You learn English by yourself, don't you?","[ju: lɜ:n ˈɪŋglɪʃ baɪ jɔ:ˈself, dəʊnt ju:?]",A2_L149_S26.mp3
+27,"Температура сейчас ниже нуля, не так ли?","The temperature is below zero now, isn't it?","[ðə ˈtemprɪʧər ɪz bɪˈləʊ ˈzɪərəʊ naʊ, ˈɪznt ɪt?]",A2_L149_S27.mp3
+28,"У тебя есть кот, не так ли?","You have a cat, don't you?","[ju: hæv ə kæt, dəʊnt ju:?]",A2_L149_S28.mp3
+29,"Тебе нужен лимон, не так ли?","You need a lemon, don't you?","[ju: ni:d ə ˈlemən, dəʊnt ju:?]",A2_L149_S29.mp3
+30,"Она работает официанткой, не так ли?","She works as a waitress, doesn't she?","[ʃi: wɜ:ks æz ə ˈweɪtrɪs, dʌznt ʃi:?]",A2_L149_S30.mp3
+31,"Ты не из США, не так ли?","You aren't from the USA, are you?","[ju: ɑ:nt frɒm ðə ju:-es-eɪ, ɑ: ju:?]",A2_L149_S31.mp3
+32,"Это действительно тебя интересует, не так ли?","It really interests you, doesn't it?","[ɪt ˈrɪəli ˈɪntrɪsts ju:, dʌznt ɪt?]",A2_L149_S32.mp3
+33,"Ты чувствуешь себя действительно счастливым, не так ли?","You feel really happy, don't you?","[ju: fi:l ˈrɪəli ˈhæpi, dəʊnt ju:?]",A2_L149_S33.mp3
+34,"Ты хочешь чай с лимоном, не так ли?","You want tea with lemon, don't you?","[ju: wɒnt ti: wɪð ˈlemən, dəʊnt ju:?]",A2_L149_S34.mp3
+35,"Он действительно этого хочет, не так ли?","He really wants it, doesn't he?","[hi: ˈrɪəli wɒnts ɪt, dʌznt hi:?]",A2_L149_S35.mp3
+36,"Это действительно невероятно, не так ли?","It is really unbelievable, isn't it?","[ɪt ɪz ˈrɪəli ˌʌnbɪˈli:vəbl, ˈɪznt ɪt?]",A2_L149_S36.mp3
+37,"Он не должен этого делать, не так ли?","He mustn't do it, must he?","[hi: ˈmʌsnt du: ɪt, mʌst hi:?]",A2_L149_S37.mp3
+38,"У тебя есть машина, не так ли?","You have a car, don't you?","[ju: hæv ə kɑ:, dəʊnt ju:?]",A2_L149_S38.mp3
+39,"Сегодня очень ветрено, не так ли?","It's very windy today, isn't it?","[ɪts ˈveri ˈwɪndi təˈdeɪ, ˈɪznt ɪt?]",A2_L149_S39.mp3
+40,"Он купил новый мотоцикл, не так ли?","He bought a new motorcycle, didn't he?","[hi: bɔ:t ə nju: ˈməʊtəˈsaɪkl, dɪdnt hi:?]",A2_L149_S40.mp3
+41,"Она не права, не так ли?","She isn't right, is she?","[ʃi: ˈɪznt raɪt, ɪz ʃi:?]",A2_L149_S41.mp3
+42,"Они ничего не ответили, не так ли?","They didn't answer anything, did they?","[ðeɪ dɪdnt ˈɑ:nsər ˈenɪθɪŋ, dɪd ðeɪ?]",A2_L149_S42.mp3
+43,"Это тебе совсем не помогает, не так ли?","It doesn't help you at all, does it?","[ɪt dʌznt help ju: æt ɔ:l, dʌz ɪt?]",A2_L149_S43.mp3
+44,"Это кажется действительно невероятным, не так ли?","It seems really unbelievable, doesn't it?","[ɪt si:mz ˈrɪəli ˌʌnbɪˈli:vəbl, dʌznt ɪt?]",A2_L149_S44.mp3
+45,"Ты изучаешь графический дизайн, не так ли?","You are studying graphic design, aren't you?","[ju: ɑ: ˈstʌdiɪŋ ˈgræfɪk dɪˈzaɪn, ɑ:nt ju:?]",A2_L149_S45.mp3
+46,"Тебе нужна вилка, не так ли?","You need a fork, don't you?","[ju: ni:d ə fɔ:k, dəʊnt ju:?]",A2_L149_S46.mp3
+47,"Ты хочешь чай с сахаром, не так ли?","You want tea with sugar, don't you?","[ju: wɒnt ti: wɪð ˈʃʊgə, dəʊnt ju:?]",A2_L149_S47.mp3
+48,"Ты не опоздал, не так ли?","You weren't late, were you?","[ju: wɜ:nt leɪt, wɜ: ju:?]",A2_L149_S48.mp3
+49,"Изучение английского языка - это интересно, не так ли?","Learning English is interesting, isn't it?","[ˈlɜ:nɪŋ ˈɪŋglɪʃ ɪz ˈɪntrɪstɪŋ, ˈɪznt ɪt?]",A2_L149_S49.mp3
+50,"Обычно рекомендуется чистить зубы два раза в день, не так ли?","It is usually recommended brushing our teeth twice a day, isn't it?","[ɪt ɪz ˈju:ʒʊəli ˌrekəˈmendɪd ˈbrʌʃɪŋ ˈaʊə ti:θ twaɪs ə deɪ, ˈɪznt ɪt?]",A2_L149_S50.mp3
+51,"В доме никто не живет, не так ли?","Nobody lives in the house, do they?","[ˈnəʊbədi lɪvz ɪn ðə haʊs, du: ðeɪ?]",A2_L149_S51.mp3
+52,"Вы прекрасно провели время вместе, не так ли?","You had a great time together, didn't you?","[ju: hæd ə greɪt taɪm təˈgeðə, dɪdnt ju:?]",A2_L149_S52.mp3
+53,"Эта женщина выращивает фрукты и овощи в своем собственном саду, не так ли?","This woman grows fruit and vegetables in her own garden, doesn't she?","[ðɪs ˈwʊmən grəʊz fru:t ænd ˈveʤtəblz ɪn hɜ: əʊn ˈgɑ:dn, dʌznt ʃi:?]",A2_L149_S53.mp3
+54,"Ты ведь никогда не был в этом месте, не так ли?","You have never been to this place, have you?","[ju: hæv ˈnevə bi:n tu: ðɪs pleɪs, hæv ju:?]",A2_L149_S54.mp3
+55,"Не было никаких серьезных трудностей, не так ли?","There weren't any serious difficulties, were there?","[ðeə wɜ:nt ˈeni ˈsɪərɪəs ˈdɪfɪkəltiz, wɜ: ðeə?]",A2_L149_S55.mp3
+56,"Он никогда не пьет алкоголь, не так ли?","He never drinks alcohol, does he?","[hi: ˈnevə drɪŋks ˈælkəhɒl, dʌz hi:?]",A2_L149_S56.mp3
+57,"У него были очень серьезные проблемы, не так ли?","He had very serious problems, didn't he?","[hi: hæd ˈveri ˈsɪərɪəs ˈprɒbləmz, dɪdnt hi:?]",A2_L149_S57.mp3
+58,"Ты работал весь день, не так ли?","You have been working all day, haven't you?","[ju: hæv bi:n ˈwɜ:kɪŋ ɔ:l deɪ, hævnt ju:?]",A2_L149_S58.mp3
+59,"Ты уже был там, не так ли?","You have already been there, haven't you?","[ju: hæv ɔ:lˈredi bi:n ðeə, hævnt ju:?]",A2_L149_S59.mp3
+60,"Я нахожусь в нужном месте, не так ли?","I am in the right place, aren't I?","[aɪ æm ɪn ðə raɪt pleɪs, ɑ:nt aɪ?]",A2_L149_S60.mp3
+61,"Все там, не так ли?","Everyone is there, aren't they?","[ˈevrɪwʌn ɪz ðeə, ɑ:nt ðeɪ?]",A2_L149_S61.mp3
+62,"В твоей работе не было никаких ошибок, не так ли?","There weren't any mistakes in your work, were there?","[ðeə wɜ:nt ˈeni mɪsˈteɪks ɪn jɔ: wɜ:k, wɜ: ðeə?]",A2_L149_S62.mp3
+63,"Она опоздала на встречу, не так ли?","She was late for the meeting, wasn't she?","[ʃi: wɒz leɪt fɔ: ðə ˈmi:tɪŋ, wɒznt ʃi:?]",A2_L149_S63.mp3
+64,"На дорогах много льда, не так ли?","There is much ice on the roads, isn't there?","[ðeər ɪz mʌʧ aɪs ɒn ðə rəʊdz, ˈɪznt ðeə?]",A2_L149_S64.mp3
+65,"В этой комнате много грязи, не так ли?","There is much dirt in this room, isn't there?","[ðeər ɪz mʌʧ dɜ:t ɪn ðɪs ru:m, ˈɪznt ðeə?]",A2_L149_S65.mp3
+66,"На полу было так много воды, не правда ли?","There was so much water on the floor, wasn't there?","[ðeə wɒz səʊ mʌʧ ˈwɔ:tər ɒn ðə flɔ:, wɒznt ðeə?]",A2_L149_S66.mp3
+67,"Мы никогда не узнаем этого, не так ли?","We will never know it, will we?","[wi: wɪl ˈnevə nəʊ ɪt, wɪl wi:?]",A2_L149_S67.mp3
+68,"Мы узнаем это, не так ли?","We will know it, won't we?","[wi: wɪl nəʊ ɪt, wəʊnt wi:?]",A2_L149_S68.mp3
+69,"Мы никогда этого не сделаем, не так ли?","We will never do it, will we?","[wi: wɪl ˈnevə du: ɪt, wɪl wi:?]",A2_L149_S69.mp3
+70,"Здесь слишком много соли, не так ли?","There is too much salt here, isn't there?","[ðeər ɪz tu: mʌʧ sɒlt hɪə, ˈɪznt ðeə?]",A2_L149_S70.mp3
+71,"У нее слишком много одежды, не так ли?","She has too many clothes, doesn't she?","[ʃi: hæz tu: ˈmeni kləʊðz, dʌznt ʃi:?]",A2_L149_S71.mp3
+72,"Здесь слишком много сахара, не так ли? …………….…................................................... 73. Давай сделаем это, хорошо? …………….…................................................... 74. Давай пойдем туда, хорошо? …………….…................................................... 75. Давай сделаем это вместе, хорошо? …………….…................................................... 76. Все дети любят сладости, не так ли? …………….…................................................... 77. Твой сын любит сладости, не так ли? …………….…................................................... 78. Все люди любят вкусную еду, не так ли? …………….…................................................... 79. Давай поедем на следующем автобусе, хорошо? …………….…................................................... 80. Давай возьмем такси, ладно? …………….…................................................... 81. Давай пойдем в кино, хорошо? …………….…................................................... 82. Ничего плохого не случилось, не так ли? …………….…................................................... 83. Случилось что-то плохое, не так ли? …………….…................................................... 84. Ничего плохого не случится, правда? …………….…................................................... 8 …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... …………….…................................................... 85. Давай подождем, пока дождь прекратится, хорошо? 86. Давай пойдем в парк, хорошо? 87. Давай пойдем туда вместе, хорошо? 88. Давай подождем, пока снег не прекратится, хорошо? 89. Давай подождем его вместе, хорошо? 90. Все это знают, не так ли? 91. Никто этого не знает, не так ли? 92. Ты это знаешь, не так ли? 93. Никто не пошел на встречу, не так ли? 94. Ты еще не посетил это место, не так ли? 95. Давай позовем официанта, хорошо? 96. Мне действительно везет, не так ли? 97. Он не опоздал на встречу, не так ли? …………….…................................................... 9 98. Там никого не было, не так ли? …………….…................................................... 99. Постарайся быть осторожнее, ладно? …………….…................................................... 100. Не забудь сделать это, ладно? …………….…................................................... 101. В супе не достаточно соли, не так ли? …………….…................................................... 102. Ты никогда этого не делаешь, не так ли? …………….…................................................... 103. Никто этого не знает, не так ли? …………….…................................................... 104. Я прав, не так ли? …………….…................................................... 105. Ничего не готово, не так ли? …………….…................................................... 10 Ответы 1. Это хорошо, не так ли?","It is good, isn’t it?","[ɪt ɪz gʊd, ˈɪznt ɪt?]",A2_L149_S72.mp3
+73,"Давай сделаем это, хорошо?","Let's do it, shall we?","[lets du: ɪt, ʃæl wi:?]",A2_L149_S73.mp3
+74,"Давай пойдем туда, хорошо?","Let's go there, shall we?","[lets gəʊ ðeə, ʃæl wi:?]",A2_L149_S74.mp3
+75,"Давай сделаем это вместе, хорошо?","Let's do it together, shall we?","[lets du: ɪt təˈgeðə, ʃæl wi:?]",A2_L149_S75.mp3
+76,"Все дети любят сладости, не так ли?","All children love sweets, don't they?","[ɔ:l ˈʧɪldrən lʌv swi:ts, dəʊnt ðeɪ?]",A2_L149_S76.mp3
+77,"Твой сын любит сладости, не так ли?","Your son loves sweets, doesn't he?","[jɔ: sʌn lʌvz swi:ts, dʌznt hi:?]",A2_L149_S77.mp3
+78,"Все люди любят вкусную еду, не так ли?","All people love tasty food, don't they?","[ɔ:l ˈpi:pl lʌv ˈteɪsti fu:d, dəʊnt ðeɪ?]",A2_L149_S78.mp3
+79,"Давай поедем на следующем автобусе, хорошо?","Let's take the next bus, shall we?","[lets teɪk ðə nekst bʌs, ʃæl wi:?]",A2_L149_S79.mp3
+80,"Давай возьмем такси, ладно?","Let's take a taxi, shall we?","[lets teɪk ə ˈtæksi, ʃæl wi:?]",A2_L149_S80.mp3
+81,"Давай пойдем в кино, хорошо?","Let's go to the cinema, shall we?","[lets gəʊ tu: ðə ˈsɪnəmə, ʃæl wi:?]",A2_L149_S81.mp3
+82,"Ничего плохого не случилось, не так ли?","Nothing bad happened, did it?","[ˈnʌθɪŋ bæd ˈhæpənd, dɪd ɪt?]",A2_L149_S82.mp3
+83,"Случилось что-то плохое, не так ли?","Something bad happened, didn't it?","[ˈsʌmθɪŋ bæd ˈhæpənd, dɪdnt ɪt?]",A2_L149_S83.mp3
+84,"Ничего плохого не случится, правда?","Nothing bad will happen, will it?","[ˈnʌθɪŋ bæd wɪl ˈhæpən, wɪl ɪt?]",A2_L149_S84.mp3
+85,"Давай подождем,пока дождь прекратится, хорошо?","Let's wait till the rain stops, shall we?","[lets weɪt tɪl ðə reɪn stɒps, ʃæl wi:?]",A2_L149_S85.mp3
+86,"Давай пойдем в парк, хорошо?","Let's go to the park, shall we?","[lets gəʊ tu: ðə pɑ:k, ʃæl wi:?]",A2_L149_S86.mp3
+87,"Давай пойдем туда вместе, хорошо?","Let's go there together, shall we?","[lets gəʊ ðeə təˈgeðə, ʃæl wi:?]",A2_L149_S87.mp3
+88,"Давай подождем, пока снег не прекратится, хорошо?","Let's wait till the snow stops, shall we?","[lets weɪt tɪl ðə snəʊ stɒps, ʃæl wi:?]",A2_L149_S88.mp3
+89,"Давай подождем его вместе, хорошо?","Let's wait for him together, shall we?","[lets weɪt fɔ: hɪm təˈgeðə, ʃæl wi:?]",A2_L149_S89.mp3
+90,"Все это знают, не так ли?","Everyone knows it, don't they?","[ˈevrɪwʌn nəʊz ɪt, dəʊnt ðeɪ?]",A2_L149_S90.mp3
+91,"Никто этого не знает, не так ли?","Nobody knows it, do they?","[ˈnəʊbədi nəʊz ɪt, du: ðeɪ?]",A2_L149_S91.mp3
+92,"Ты это знаешь, не так ли?","You know it, don't you?","[ju: nəʊ ɪt, dəʊnt ju:?]",A2_L149_S92.mp3
+93,"Никто не пошел на встречу, не так ли?","Nobody went to the meeting, did they?","[ˈnəʊbədi went tu: ðə ˈmi:tɪŋ, dɪd ðeɪ?]",A2_L149_S93.mp3
+94,"Ты еще не посетил это место, не так ли?","You haven't visited this place yet, have you?","[ju: hævnt ˈvɪzɪtɪd ðɪs pleɪs jet, hæv ju:?]",A2_L149_S94.mp3
+95,"Давай позовем официанта, хорошо?","Let's call the waiter, shall we?","[lets kɔ:l ðə ˈweɪtə, ʃæl wi:?]",A2_L149_S95.mp3
+96,"Мне действительно везет, не так ли?","I am really lucky, aren't I?","[aɪ æm ˈrɪəli ˈlʌki, ɑ:nt aɪ?]",A2_L149_S96.mp3
+97,"Он не опоздал на встречу, не так ли?","He wasn't late for the meeting, was he?","[hi: wɒznt leɪt fɔ: ðə ˈmi:tɪŋ, wɒz hi:?]",A2_L149_S97.mp3
+98,"Там никого не было, не так ли?","Nobody was there, were they?","[ˈnəʊbədi wɒz ðeə, wɜ: ðeɪ?]",A2_L149_S98.mp3
+99,"Постарайся быть осторожнее, ладно?","Try to be more careful, will you?","[traɪ tu: bi: mɔ: ˈkeəfəl, wɪl ju:?]",A2_L149_S99.mp3
+100,"Не забудь сделать это, ладно?","Don't forget to do it, will you?","[dəʊnt fəˈget tu: du: ɪt, wɪl ju:?]",A2_L149_S100.mp3
+101,"В супе не достаточно соли, не так ли?","There isn't enough salt in the soup, is there?","[ðeər ˈɪznt ɪˈnʌf sɒlt ɪn ðə su:p, ɪz ðeə?]",A2_L149_S101.mp3
+102,"Ты никогда этого не делаешь, не так ли?","You never do it, do you?","[ju: ˈnevə du: ɪt, du: ju:?]",A2_L149_S102.mp3
+103,"Никто этого не знает, не так ли?","No one knows it, do they?","[nəʊ wʌn nəʊz ɪt, du: ðeɪ?]",A2_L149_S103.mp3
+104,"Я прав, не так ли?","I am right, aren't I?","[aɪ æm raɪt, ɑ:nt aɪ?]",A2_L149_S104.mp3
+105,"Ничего не готово, не так ли?","Nothing is ready, is it?","[ˈnʌθɪŋ ɪz ˈredi, ɪz ɪt?]",A2_L149_S105.mp3

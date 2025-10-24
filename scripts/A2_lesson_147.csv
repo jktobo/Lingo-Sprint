@@ -1,0 +1,108 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,У меня есть сестра,I have got a sister,[aɪ hæv gɒt ə ˈsɪstə],A2_L147_S2.mp3
+3,У нее есть большая машина,She has a big car,[ʃi: hæz ə bɪg kɑ:],A2_L147_S3.mp3
+4,У нее есть большой дом,She has got a big house,[ʃi: hæz gɒt ə bɪg haʊs],A2_L147_S4.mp3
+5,У тебя есть брат?,Have you got a brother?,[hæv ju: gɒt ə ˈbrʌðə?],A2_L147_S5.mp3
+6,У нее есть сестра?,Has she got a sister?,[hæz ʃi: gɒt ə ˈsɪstə?],A2_L147_S6.mp3
+7,У меня нет работы,I haven’t got a job,[aɪ hævnt gɒt ə ʤɒb],A2_L147_S7.mp3
+8,У нее нет машины,She hasn’t got a car,[ʃi: ˈhæznt gɒt ə kɑ:],A2_L147_S8.mp3
+9,В данный момент у меня нет никаких вопросов,I haven't got any questions at the moment,[aɪ hævnt gɒt ˈeni ˈkwesʧənz æt ðə ˈməʊmənt],A2_L147_S9.mp3
+10,У нее есть какие-либо вопросы?,Does she have any questions?,[dʌz ʃi: hæv ˈeni ˈkwesʧənz?],A2_L147_S10.mp3
+11,У него нет никакого опыта работы,He hasn't got any work experience,[hi: ˈhæznt gɒt ˈeni wɜ:k ɪksˈpɪərɪəns],A2_L147_S11.mp3
+12,У тебя есть какие-либо братья или сестры?,Have you got any brothers or sisters?,[hæv ju: gɒt ˈeni ˈbrʌðəz ɔ: ˈsɪstəz?],A2_L147_S12.mp3
+13,У меня сейчас нет никакого свободного времени,I haven't got any free time now,[aɪ hævnt gɒt ˈeni fri: taɪm naʊ],A2_L147_S13.mp3
+14,У тебя есть какие-либо идеи?,Have you got any ideas?,[hæv ju: gɒt ˈeni aɪˈdɪəz?],A2_L147_S14.mp3
+15,У тебя есть какие-либо планы на завтра?,Do you have any plans for tomorrow?,[du: ju: hæv ˈeni plænz fɔ: təˈmɒrəʊ?],A2_L147_S15.mp3
+16,У нее нет никакого опыта,She doesn't have any experience,[ʃi: dʌznt hæv ˈeni ɪksˈpɪərɪəns],A2_L147_S16.mp3
+17,У тебя схожее мнение?,Do you have a similar opinion?,[du: ju: hæv ə ˈsɪmɪlər əˈpɪnjən?],A2_L147_S17.mp3
+18,У него нет машины,He hasn't got a car,[hi: ˈhæznt gɒt ə kɑ:],A2_L147_S18.mp3
+19,У твоего отца есть машина?,Has your dad got a car?,[hæz jɔ: dæd gɒt ə kɑ:?],A2_L147_S19.mp3
+20,У него нет машины,He doesn't have a car,[hi: dʌznt hæv ə kɑ:],A2_L147_S20.mp3
+21,У тебя есть какие-либо мысли?,Have you got any thoughts?,[hæv ju: gɒt ˈeni θɔ:ts?],A2_L147_S21.mp3
+22,У него есть скейтборд?,Does he have a skateboard?,[dʌz hi: hæv ə ˈskeɪtbɔ:d?],A2_L147_S22.mp3
+23,У тебя есть какие-либо планы на будущее?,Have you got any plans for the future?,[hæv ju: gɒt ˈeni plænz fɔ: ðə ˈfju:ʧə?],A2_L147_S23.mp3
+24,У нее голубые глаза,She has got blue eyes,[ʃi: hæz gɒt blu: aɪz],A2_L147_S24.mp3
+25,У меня есть идея,I have got an idea,[aɪ hæv gɒt ən aɪˈdɪə],A2_L147_S25.mp3
+26,У тебя есть скейтборд?,Have you got a skateboard?,[hæv ju: gɒt ə ˈskeɪtbɔ:d?],A2_L147_S26.mp3
+27,У тебя есть домашнее животное?,Have you got a pet?,[hæv ju: gɒt ə pet?],A2_L147_S27.mp3
+28,У тебя есть минутка?,Have you got a minute?,[hæv ju: gɒt ə ˈmɪnɪt?],A2_L147_S28.mp3
+29,У него есть дом,He's got a house,[hi:z gɒt ə haʊs],A2_L147_S29.mp3
+30,У него есть старый велосипед,He has got an old bike,[hi: hæz gɒt ən əʊld baɪk],A2_L147_S30.mp3
+31,У него есть какие-либо планы?,Has he got any plans?,[hæz hi: gɒt ˈeni plænz?],A2_L147_S31.mp3
+32,У тебя есть машина?,Have you got a car?,[hæv ju: gɒt ə kɑ:?],A2_L147_S32.mp3
+33,У тебя есть какие-либо братья или сестры?,Do you have any brothers or sisters?,[du: ju: hæv ˈeni ˈbrʌðəz ɔ: ˈsɪstəz?],A2_L147_S33.mp3
+34,У тебя есть какие-либо домашние животные?,Have you got any pets?,[hæv ju: gɒt ˈeni pets?],A2_L147_S34.mp3
+35,У меня такое чувство,I've got such a feeling,[aɪv gɒt sʌʧ ə ˈfi:lɪŋ],A2_L147_S35.mp3
+36,У него есть роликовые коньки?,Does he have rollerblades?,[dʌz hi: hæv ˈrəʊləˌbleɪdz?],A2_L147_S36.mp3
+37,У тебя есть машина?,Do you have a car?,[du: ju: hæv ə kɑ:?],A2_L147_S37.mp3
+38,У меня есть идея,I've got an idea,[aɪv gɒt ən aɪˈdɪə],A2_L147_S38.mp3
+39,У меня есть одна очень интересная идея,I have got one very interesting idea,[aɪ hæv gɒt wʌn ˈveri ˈɪntrɪstɪŋ aɪˈdɪə],A2_L147_S39.mp3
+40,У моего друга схожая точка зрения,My friend has got a similar point of view,[maɪ frend hæz gɒt ə ˈsɪmɪlə pɔɪnt ɒv vju:],A2_L147_S40.mp3
+41,У тебя так много талантов,You have got so many talents,[ju: hæv gɒt səʊ ˈmeni ˈtælənts],A2_L147_S41.mp3
+42,У тебя есть роликовые коньки?,Have you got rollerblades?,[hæv ju: gɒt ˈrəʊləˌbleɪdz?],A2_L147_S42.mp3
+43,У нее есть вопросы?,Has she got any questions?,[hæz ʃi: gɒt ˈeni ˈkwesʧənz?],A2_L147_S43.mp3
+44,У меня похожая точка зрения,I have a similar point of view,[aɪ hæv ə ˈsɪmɪlə pɔɪnt ɒv vju:],A2_L147_S44.mp3
+45,У него такие намерения,He's got such intentions,[hi:z gɒt sʌʧ ɪnˈtenʃənz],A2_L147_S45.mp3
+46,У нее много друзей,She has got lots of friends,[ʃi: hæz gɒt lɒts ɒv frendz],A2_L147_S46.mp3
+47,У моей мамы два двоюродных брата,My mom has got two cousins,[maɪ mɒm hæz gɒt tu: ˈkʌznz],A2_L147_S47.mp3
+48,В комнате есть стол?,Is there a table in the room?,[ɪz ðeər ə ˈteɪbl ɪn ðə ru:m?],A2_L147_S48.mp3
+49,У тебя есть какие-либо планы на сегодняшний вечер?,Do you have any plans for tonight?,[du: ju: hæv ˈeni plænz fɔ: təˈnaɪt?],A2_L147_S49.mp3
+50,У твоего отца есть брат?,Does your father have a brother?,[dʌz jɔ: ˈfɑ:ðə hæv ə ˈbrʌðə?],A2_L147_S50.mp3
+51,В комнате два окна?,Are there two windows in the room?,[ɑ: ðeə tu: ˈwɪndəʊz ɪn ðə ru:m?],A2_L147_S51.mp3
+52,У тебя есть калькулятор?,Have you got a calculator?,[hæv ju: gɒt ə ˈkælkjʊleɪtə?],A2_L147_S52.mp3
+53,В классе десять компьютеров,There are ten computers in the classroom,[ðeər ɑ: ten kəmˈpju:təz ɪn ðə ˈklɑ:srʊm],A2_L147_S53.mp3
+54,У тебя есть какие-либо планы на вечер?,Have you got any plans for tonight?,[hæv ju: gɒt ˈeni plænz fɔ: təˈnaɪt?],A2_L147_S54.mp3
+55,Сколько стульев у тебя в комнате?,How many chairs do you have in the room?,[haʊ ˈmeni ʧeəz du: ju: hæv ɪn ðə ru:m?],A2_L147_S55.mp3
+56,"У тебя есть какие-либо друзья, которые живут за границей?",Have you got any friends who live abroad?,[hæv ju: gɒt ˈeni frendz hu: lɪv əˈbrɔ:d?],A2_L147_S56.mp3
+57,Сколько у тебя сейчас есть времени?,How much time have you got now?,[haʊ mʌʧ taɪm hæv ju: gɒt naʊ?],A2_L147_S57.mp3
+58,"У меня есть несколько вопросов, которые действительно беспокоят меня",I have some questions which really worry me,[aɪ hæv sʌm ˈkwesʧənz wɪʧ ˈrɪəli ˈwʌri mi:],A2_L147_S58.mp3
+59,Сколько у тебя ошибок?,How many mistakes do you have?,[haʊ ˈmeni mɪsˈteɪks du: ju: hæv?],A2_L147_S59.mp3
+60,На полу ковер,There is a carpet on the floor,[ðeər ɪz ə ˈkɑ:pɪt ɒn ðə flɔ:],A2_L147_S60.mp3
+61,У мальчика есть велосипед?,Has the boy got a bike?,[hæz ðə bɔɪ gɒt ə baɪk?],A2_L147_S61.mp3
+62,Сколько стульев в комнате?,How many chairs are there in the room?,[haʊ ˈmeni ʧeəz ɑ: ðeər ɪn ðə ru:m?],A2_L147_S62.mp3
+63,Во вторник у него математика,He has got Mathematics on Tuesday,[hi: hæz gɒt ˌmæθɪˈmætɪks ɒn ˈtju:zdeɪ],A2_L147_S63.mp3
+64,В твоем доме есть гараж?,Is there a garage in your house?,[ɪz ðeər ə ˈgærɑ:ʒ ɪn jɔ: haʊs?],A2_L147_S64.mp3
+65,В твоей комнате есть балкон?,Is there a balcony in your room?,[ɪz ðeər ə ˈbælkəni ɪn jɔ: ru:m?],A2_L147_S65.mp3
+66,Где ванная комната в твоем доме?,Where is the bathroom in your house?,[weər ɪz ðə ˈbɑ:θru:m ɪn jɔ: haʊs?],A2_L147_S66.mp3
+67,Сколько денег у тебя с собой?,How much money have you got with you?,[haʊ mʌʧ ˈmʌni hæv ju: gɒt wɪð ju:?],A2_L147_S67.mp3
+68,У меня с собой есть немного денег,I have some money with me,[aɪ hæv sʌm ˈmʌni wɪð mi:],A2_L147_S68.mp3
+69,У него нет с собой никаких денег,He hasn't got any money with him,[hi: ˈhæznt gɒt ˈeni ˈmʌni wɪð hɪm],A2_L147_S69.mp3
+70,В кухне есть два окна,The kitchen has got two windows,[ðə ˈkɪʧɪn hæz gɒt tu: ˈwɪndəʊz],A2_L147_S70.mp3
+71,В кухне нет никаких окон,The kitchen hasn't got any windows,[ðə ˈkɪʧɪn ˈhæznt gɒt ˈeni ˈwɪndəʊz],A2_L147_S71.mp3
+72,Сколько окон в кухне?,How many windows does the kitchen have?,[haʊ ˈmeni ˈwɪndəʊz dʌz ðə ˈkɪʧɪn hæv?],A2_L147_S72.mp3
+73,"У твоей матери есть сестра? …………….…................................................... 74. У твоей матери есть какие-либо братья или сестры? …………….…................................................... 75. У моей матери есть два брата и одна сестра …………….…................................................... 76. У нее очень мало друзей …………….…................................................... 77. У нее есть только два друга …………….…................................................... 78. У нее нет никаких друзей …………….…................................................... 79. Что у нее в руках? …………….…................................................... 80. Что у нее в руках? …………….…................................................... 81. У нее в руках несколько конфет …………….…................................................... 82. У нее светлые волосы? …………….…................................................... 83. У нее седые волосы? …………….…................................................... 84. У нее темные волосы …………….…................................................... 85. У меня история в четверг …………….…................................................... 8 86. У меня литература в четверг …………….…................................................... 87. У меня химия во вторник …………….…................................................... 88. У меня много домашнего задания сегодня …………….…................................................... 89. У меня так много домашнего задания сегодня …………….…................................................... 90. У тебя есть какое-либо домашнее задание сегодня? …………….…................................................... 91. В моем доме три комнаты …………….…................................................... 92. В моем доме один балкон …………….…................................................... 93. У меня в доме три комнаты …………….…................................................... 94. У меня есть серьезные сомнения в этом …………….…................................................... 95. У меня завтра очень важная встреча …………….…................................................... 96. Сколько ошибок у тебя? …………….…................................................... 97. У него есть серьезные сомнения в успехе этого проекта …………….…................................................... 98. У тебя есть родственники, которые живут за границей? …………….…................................................... 9 99. У меня есть две комнаты в моей квартире …………….…................................................... 100. У тебя два окна в комнате? …………….…................................................... 101. Сколько у тебя сейчас свободного времени? …………….…................................................... 102. У тебя есть калькулятор с собой? …………….…................................................... 103. На кухне два окна …………….…................................................... 104. У нее длинные волосы? …………….…................................................... 105. Есть ли компьютеры в классе? …………….…................................................... 106. В твоем доме есть гараж? …………….…................................................... 107. На полу коврик …………….…................................................... 108. В пятницу у меня литература …………….…................................................... 10 Ответы 1. У меня есть брат",I have a brother,[aɪ hæv ə ˈbrʌðə],A2_L147_S73.mp3
+74,У твоей матери есть какие-либо братья или сестры?,Has your mother got any brothers or sisters?,[hæz jɔ: ˈmʌðə gɒt ˈeni ˈbrʌðəz ɔ: ˈsɪstəz?],A2_L147_S74.mp3
+75,У моей матери есть два брата и одна сестра,My mother has got two brothers and one sister,[maɪ ˈmʌðə hæz gɒt tu: ˈbrʌðəz ænd wʌn ˈsɪstə],A2_L147_S75.mp3
+76,У нее очень мало друзей,She has very few friends,[ʃi: hæz ˈveri fju: frendz],A2_L147_S76.mp3
+77,У нее есть только два друга,She has got only two friends,[ʃi: hæz gɒt ˈəʊnli tu: frendz],A2_L147_S77.mp3
+78,У нее нет никаких друзей,She hasn't got any friends,[ʃi: ˈhæznt gɒt ˈeni frendz],A2_L147_S78.mp3
+79,Что у нее в руках?,What has she got in her hands?,[wɒt hæz ʃi: gɒt ɪn hɜ: hændz?],A2_L147_S79.mp3
+80,Что у нее в руках?,What does she have in her hands?,[wɒt dʌz ʃi: hæv ɪn hɜ: hændz?],A2_L147_S80.mp3
+81,У нее в руках несколько конфет,She has some sweets in her hands,[ʃi: hæz sʌm swi:ts ɪn hɜ: hændz],A2_L147_S81.mp3
+82,У нее светлые волосы?,Has she got blonde hair?,[hæz ʃi: gɒt blɒnd heə?],A2_L147_S82.mp3
+83,У нее седые волосы?,Does she have grey hair?,[dʌz ʃi: hæv greɪ heə?],A2_L147_S83.mp3
+84,У нее темные волосы,She has got dark hair,[ʃi: hæz gɒt dɑ:k heə],A2_L147_S84.mp3
+85,У меня история в четверг,I have got History on Thursday,[aɪ hæv gɒt ˈhɪstəri ɒn ˈθɜ:zdeɪ],A2_L147_S85.mp3
+86,У меня литература в четверг,I have Literature on Thursday,[aɪ hæv ˈlɪtərɪʧər ɒn ˈθɜ:zdeɪ],A2_L147_S86.mp3
+87,У меня химия во вторник,I have got Chemistry on Tuesday,[aɪ hæv gɒt ˈkemɪstri ɒn ˈtju:zdeɪ],A2_L147_S87.mp3
+88,У меня много домашнего задания сегодня,I have got lots of homework today,[aɪ hæv gɒt lɒts ɒv ˈhəʊmˌwɜ:k təˈdeɪ],A2_L147_S88.mp3
+89,У меня так много домашнего задания сегодня,I have so much homework today,[aɪ hæv səʊ mʌʧ ˈhəʊmˌwɜ:k təˈdeɪ],A2_L147_S89.mp3
+90,У тебя есть какое-либо домашнее задание сегодня?,Do you have any homework today?,[du: ju: hæv ˈeni ˈhəʊmˌwɜ:k təˈdeɪ?],A2_L147_S90.mp3
+91,В моем доме три комнаты,There are three rooms in my house,[ðeər ɑ: θri: ru:mz ɪn maɪ haʊs],A2_L147_S91.mp3
+92,В моем доме один балкон,There is one balcony in my house,[ðeər ɪz wʌn ˈbælkəni ɪn maɪ haʊs],A2_L147_S92.mp3
+93,У меня в доме три комнаты,I have got three rooms in my house,[aɪ hæv gɒt θri: ru:mz ɪn maɪ haʊs],A2_L147_S93.mp3
+94,У меня есть серьезные сомнения в этом,I have got serious doubts about it,[aɪ hæv gɒt ˈsɪərɪəs daʊts əˈbaʊt ɪt],A2_L147_S94.mp3
+95,У меня завтра очень важная встреча,I have got a very important meeting tomorrow,[aɪ hæv gɒt ə ˈveri ɪmˈpɔ:tənt ˈmi:tɪŋ təˈmɒrəʊ],A2_L147_S95.mp3
+96,Сколько ошибок у тебя?,How many mistakes have you got?,[haʊ ˈmeni mɪsˈteɪks hæv ju: gɒt?],A2_L147_S96.mp3
+97,У него есть серьезные сомнения в успехе этого проекта,He has serious doubts about the success of this project,[hi: hæz ˈsɪərɪəs daʊts əˈbaʊt ðə səkˈses ɒv ðɪs ˈprɒʤekt],A2_L147_S97.mp3
+98,"У тебя есть родственники, которые живут за границей?",Do you have any relatives who live abroad?,[du: ju: hæv ˈeni ˈrelətɪvz hu: lɪv əˈbrɔ:d?],A2_L147_S98.mp3
+99,У меня есть две комнаты в моей квартире,I have two rooms in my apartment,[aɪ hæv tu: ru:mz ɪn maɪ əˈpɑ:tmənt],A2_L147_S99.mp3
+100,У тебя два окна в комнате?,Have you got two windows in the room?,[hæv ju: gɒt tu: ˈwɪndəʊz ɪn ðə ru:m?],A2_L147_S100.mp3
+101,Сколько у тебя сейчас свободного времени?,How much free time do you have now?,[haʊ mʌʧ fri: taɪm du: ju: hæv naʊ?],A2_L147_S101.mp3
+102,У тебя есть калькулятор с собой?,Do you have a calculator with you?,[du: ju: hæv ə ˈkælkjʊleɪtə wɪð ju:?],A2_L147_S102.mp3
+103,На кухне два окна,There are two windows in the kitchen,[ðeər ɑ: tu: ˈwɪndəʊz ɪn ðə ˈkɪʧɪn],A2_L147_S103.mp3
+104,У нее длинные волосы?,Has she got long hair?,[hæz ʃi: gɒt lɒŋ heə?],A2_L147_S104.mp3
+105,Есть ли компьютеры в классе?,Are there computers in the classroom?,[ɑ: ðeə kəmˈpju:təz ɪn ðə ˈklɑ:srʊm?],A2_L147_S105.mp3
+106,В твоем доме есть гараж?,Has your house got a garage?,[hæz jɔ: haʊs gɒt ə ˈgærɑ:ʒ?],A2_L147_S106.mp3
+107,На полу коврик,There is a rug on the floor,[ðeər ɪz ə rʌg ɒn ðə flɔ:],A2_L147_S107.mp3
+108,В пятницу у меня литература,I have got Literature on Friday,[aɪ hæv gɒt ˈlɪtərɪʧər ɒn ˈfraɪdeɪ],A2_L147_S108.mp3

@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я зарезервировал столик у окна,I reserved a table near the window,[aɪ rɪˈzɜ:vd ə ˈteɪbl nɪə ðə ˈwɪndəʊ],A1_L100_S2.mp3
+3,Я выполнил свою работу,I completed my work,[aɪ kəmˈpli:tɪd maɪ wɜ:k],A1_L100_S3.mp3
+4,Он покрасил стену,He painted the wall,[hi: ˈpeɪntɪd ðə wɔ:l],A1_L100_S4.mp3
+5,Пациенту потребовалась операция,The patient required an operation,[ðə ˈpeɪʃənt rɪˈkwaɪəd ən ˌɒpəˈreɪʃən],A1_L100_S5.mp3
+6,Как он заработал эти деньги?,How did he earn this money?,[haʊ dɪd hi: ɜ:n ðɪs ˈmʌni?],A1_L100_S6.mp3
+7,Она в основном слушает классическую музыку,She mostly listens to classical music,[ʃi: ˈməʊstli ˈlɪsnz tu: ˈklæsɪkəl ˈmju:zɪk],A1_L100_S7.mp3
+8,Во сколько ты вернешься домой?,What time will you return home?,[wɒt taɪm wɪl ju: rɪˈtɜ:n həʊm?],A1_L100_S8.mp3
+9,Ты зарезервируешь столик для нас?,Will you reserve a table for us?,[wɪl ju: rɪˈzɜ:v ə ˈteɪbl fɔ: ʌs?],A1_L100_S9.mp3
+10,Я хочу сосредоточиться на этих вопросах,I want to concentrate on these issues,[aɪ wɒnt tu: ˈkɒnsəntreɪt ɒn ði:z ˈɪʃu:z],A1_L100_S10.mp3
+11,Он хотел бы извиниться за свое поведение,He'd like to apologise for his behaviour,[hi:d laɪk tu: əˈpɒləʤaɪz fɔ: hɪz bɪˈheɪvjə],A1_L100_S11.mp3
+12,Ты можешь поговорить со мной сейчас?,Can you talk to me now?,[kæn ju: tɔ:k tu: mi: naʊ?],A1_L100_S12.mp3
+13,Это зависит от разных факторов,It depends on different factors,[ɪt dɪˈpendz ɒn ˈdɪfrənt ˈfæktəz],A1_L100_S13.mp3
+14,Я закончу этот курс в следующем году,I’ll complete this course next year,[aɪ wɪl kəmˈpli:t ðɪs kɔ:s nekst jɪə],A1_L100_S14.mp3
+15,Я выполнил это задание,I completed this task,[aɪ kəmˈpli:tɪd ðɪs tɑ:sk],A1_L100_S15.mp3
+16,Он много спал,He slept a lot,[hi: slept ə lɒt],A1_L100_S16.mp3
+17,Я не могу себе этого представить,I can't imagine it,[aɪ kɑ:nt ɪˈmæʤɪn ɪt],A1_L100_S17.mp3
+18,Он улетел прочь,He flew away,[hi: flu: əˈweɪ],A1_L100_S18.mp3
+19,Он слишком много спит,He sleeps too much,[hi: sli:ps tu: mʌʧ],A1_L100_S19.mp3
+20,Я хочу немного расслабиться,I want to relax a bit,[aɪ wɒnt tu: rɪˈlæks ə bɪt],A1_L100_S20.mp3
+21,Кто написал эту книгу?,Who wrote this book?,[hu: rəʊt ðɪs bʊk?],A1_L100_S21.mp3
+22,"Я знаю, что могу сделать это лучше",I know that I can do it better,[aɪ nəʊ ðæt aɪ kæn du: ɪt ˈbetə],A1_L100_S22.mp3
+23,Она перезвонила мне,She called me back,[ʃi: kɔ:ld mi: bæk],A1_L100_S23.mp3
+24,Я могу бежать намного быстрее,I can run much faster,[aɪ kæn rʌn mʌʧ ˈfɑ:stə],A1_L100_S24.mp3
+25,Он вернулся в Америку прошлым летом,He returned to America last summer,[hi: rɪˈtɜ:nd tu: əˈmerɪkə lɑ:st ˈsʌmə],A1_L100_S25.mp3
+26,Это требует постоянной работы,It requires constant work,[ɪt rɪˈkwaɪəz ˈkɒnstənt wɜ:k],A1_L100_S26.mp3
+27,Он в основном слушал поп-музыку,He mostly listened to pop music,[hi: ˈməʊstli ˈlɪsnd tu: pɒp ˈmju:zɪk],A1_L100_S27.mp3
+28,Он собирал марки,He collected stamps,[hi: kəˈlektɪd stæmps],A1_L100_S28.mp3
+29,Он извинился за свои слова,He apologised for his words,[hi: əˈpɒləʤaɪzd fɔ: hɪz wɜ:dz],A1_L100_S29.mp3
+30,Я написал ему имейл,I wrote him an email,[aɪ rəʊt hɪm ən ˈi:meɪl],A1_L100_S30.mp3
+31,Мы можем сосредоточиться на этой проблеме,We can concentrate on this problem,[wi: kæn ˈkɒnsəntreɪt ɒn ðɪs ˈprɒbləm],A1_L100_S31.mp3
+32,Когда ты хочешь обсудить это?,When do you want to discuss it?,[wen du: ju: wɒnt tu: dɪsˈkʌs ɪt?],A1_L100_S32.mp3
+33,Это действительно зависит от меня?,Does it really depend on me?,[dʌz ɪt ˈrɪəli dɪˈpend ɒn mi:?],A1_L100_S33.mp3
+34,Эта квартира принадлежит его родителям,This apartment belongs to his parents,[ðɪs əˈpɑ:tmənt bɪˈlɒŋz tu: hɪz ˈpeərənts],A1_L100_S34.mp3
+35,Ты умеешь говорить по-английски?,Can you speak English?,[kæn ju: spi:k ˈɪŋglɪʃ?],A1_L100_S35.mp3
+36,Они построили церковь в этой области,They built a church in this area,[ðeɪ bɪlt ə ʧɜ:ʧ ɪn ðɪs ˈeərɪə],A1_L100_S36.mp3
+37,Ты хочешь танцевать?,Do you want to dance?,[du: ju: wɒnt tu: dɑ:ns?],A1_L100_S37.mp3
+38,Мы могли бы обсудить это сегодня вечером,We could discuss it tonight,[wi: kʊd dɪsˈkʌs ɪt təˈnaɪt],A1_L100_S38.mp3
+39,Мне нужно поговорить с тобой,I need to talk to you,[aɪ ni:d tu: tɔ:k tu: ju:],A1_L100_S39.mp3
+40,Этот дом принадлежит тебе?,Does this house belong to you?,[dʌz ðɪs haʊs bɪˈlɒŋ tu: ju:?],A1_L100_S40.mp3
+41,"Я хотел бы отметить, что это чрезвычайно важная вещь",I'd like to point out that it's an extremely important thing,[aɪd laɪk tu: pɔɪnt aʊt ðæt ɪts ən ɪksˈtri:mli ɪmˈpɔ:tənt θɪŋ],A1_L100_S41.mp3
+42,Он снял все деньги со своего счета,He withdrew all the money from his account,[hi: wɪðˈdru: ɔ:l ðə ˈmʌni frɒm hɪz əˈkaʊnt],A1_L100_S42.mp3
+43,"Он собирал древние монеты, когда был мальчиком",He collected ancient coins when he was a boy,[hi: kəˈlektɪd ˈeɪnʃnt kɔɪnz wen hi: wɒz ə bɔɪ],A1_L100_S43.mp3
+44,Качество этих продуктов действительно впечатляет меня,The quality of these products really impresses me,[ðə ˈkwɒlɪti ɒv ði:z ˈprɒdʌkts ˈrɪəli ˈɪmpresɪz mi:],A1_L100_S44.mp3
+45,Они построили этот монастырь в пятнадцатом веке,They built this monastery in the fifteenth century,[ðeɪ bɪlt ðɪs ˈmɒnəstəri ɪn ðə ˌfɪfˈti:nθ ˈsenʧʊri],A1_L100_S45.mp3
+46,Почему ты начал изучать второй иностранный язык?,Why did you start learning the second foreign language?,[waɪ dɪd ju: stɑ:t ˈlɜ:nɪŋ ðə ˈsekənd ˈfɒrɪn ˈlæŋgwɪʤ?],A1_L100_S46.mp3
+47,"Он умер много лет назад, но память о нем все еще жива",He died many years ago but the memory of him is still alive,[hi: daɪd ˈmeni jɪəz əˈgəʊ bʌt ðə ˈmeməri ɒv hɪm ɪz stɪl əˈlaɪv],A1_L100_S47.mp3
+48,"Я постараюсь практиковать свой английский столько, сколько я могу, потому что я действительно хочу добиться хорошего прогресса",I’ll try to practise my English as much as I can because I really want to make good progress,[aɪ wɪl traɪ tu: ˈpræktɪs maɪ ˈɪŋglɪʃ æz mʌʧ æz aɪ kæn bɪˈkɒz aɪ ˈrɪəli wɒnt tu: meɪk gʊd ˈprəʊgrəs],A1_L100_S48.mp3
+49,"Я постараюсь не упустить каждую возможность практиковать английский, потому что моя огромнейшая мечта - знать его идеально",I’ll try not to miss every opportunity to practise English because it is my greatest dream to know it perfectly,[aɪ wɪl traɪ nɒt tu: mɪs ˈevri ˌɒpəˈtju:nɪti tu: ˈpræktɪs ˈɪŋglɪʃ bɪˈkɒz ɪt ɪz maɪ ˈgreɪtɪst dri:m tu: nəʊ ɪt ˈpɜ:fɪktli],A1_L100_S49.mp3
+50,Он решил купить дом вместо квартиры,He decided to buy a house instead of an apartment,[hi: dɪˈsaɪdɪd tu: baɪ ə haʊs ɪnˈsted ɒv ən əˈpɑ:tmənt],A1_L100_S50.mp3
+51,Представление действительно впечатлило меня,The performance really impressed me,[ðə pəˈfɔ:məns ˈrɪəli ɪmˈprest mi:],A1_L100_S51.mp3
+52,Он не может представить свою жизнь без спорта,He can't imagine his life without sport,[hi: kɑ:nt ɪˈmæʤɪn hɪz laɪf wɪˈðaʊt spɔ:t],A1_L100_S52.mp3
+53,Что он тебе посоветовал сделать?,What did he advise you to do?,[wɒt dɪd hi: ədˈvaɪz ju: tu: du:?],A1_L100_S53.mp3
+54,Я не хочу что-либо обещать,I don't want to promise anything,[aɪ dəʊnt wɒnt tu: ˈprɒmɪs ˈenɪθɪŋ],A1_L100_S54.mp3
+55,Она попросила помощи,She asked for help,[ʃi: ɑ:skt fɔ: help],A1_L100_S55.mp3
+56,Учитель указал на его ошибки,The teacher pointed out his mistakes,[ðə ˈti:ʧə ˈpɔɪntɪd aʊt hɪz mɪsˈteɪks],A1_L100_S56.mp3
+57,Твой учитель указал на твои ошибки?,Did your teacher point out your mistakes?,[dɪd jɔ: ˈti:ʧə pɔɪnt aʊt jɔ: mɪsˈteɪks?],A1_L100_S57.mp3
+58,Я указал на ее ошибки,I pointed out her mistakes,[aɪ ˈpɔɪntɪd aʊt hɜ: mɪsˈteɪks],A1_L100_S58.mp3
+59,Эта вещь не зависит от меня,This thing doesn't depend on me,[ðɪs θɪŋ dʌznt dɪˈpend ɒn mi:],A1_L100_S59.mp3
+60,Эта вещь зависит от меня?,Does this thing depend on me?,[dʌz ðɪs θɪŋ dɪˈpend ɒn mi:?],A1_L100_S60.mp3
+61,Это не зависит от моего решения,It doesn't depend on my decision,[ɪt dʌznt dɪˈpend ɒn maɪ dɪˈsɪʒən],A1_L100_S61.mp3
+62,Он выучил этот текст наизусть,He learnt this text by heart,[hi: lɜ:nt ðɪs tekst baɪ hɑ:t],A1_L100_S62.mp3
+63,Он выучил этот текст наизусть?,Did he learn this text by heart?,[dɪd hi: lɜ:n ðɪs tekst baɪ hɑ:t?],A1_L100_S63.mp3
+64,Я не хочу учить тот текст наизусть,I don't want to learn that text by heart,[aɪ dəʊnt wɒnt tu: lɜ:n ðæt tekst baɪ hɑ:t],A1_L100_S64.mp3
+65,Они наконец разрешили этот конфликт,They finally resolved this conflict,[ðeɪ ˈfaɪnəli rɪˈzɒlvd ðɪs ˈkɒnflɪkt],A1_L100_S65.mp3
+66,Они наконец разрешат этот конфликт,They’ll finally resolve this conflict,[ðeɪ wɪl ˈfaɪnəli rɪˈzɒlv ðɪs ˈkɒnflɪkt],A1_L100_S66.mp3
+67,Я наконец решил эту проблему,I finally solved this problem,[aɪ ˈfaɪnəli sɒlvd ðɪs ˈprɒbləm],A1_L100_S67.mp3
+68,"Я хотел бы отметить, что это действительно удивительно",I'd like to point out that it's really amazing,[aɪd laɪk tu: pɔɪnt aʊt ðæt ɪts ˈrɪəli əˈmeɪzɪŋ],A1_L100_S68.mp3
+69,"Он хотел бы отметить, что это было так удивительно",He'd like to point out that it was so amazing,[hi:d laɪk tu: pɔɪnt aʊt ðæt ɪt wɒz səʊ əˈmeɪzɪŋ],A1_L100_S69.mp3
+70,"Они отметили, что это было так удивительно",They pointed out that it was so amazing,[ðeɪ ˈpɔɪntɪd aʊt ðæt ɪt wɒz səʊ əˈmeɪzɪŋ],A1_L100_S70.mp3
+71,Он обещал взять это под контроль,He promised to take it under control,[hi: ˈprɒmɪst tu: teɪk ɪt ˈʌndə kənˈtrəʊl],A1_L100_S71.mp3
+72,"Ты обещаешь взять это под контроль? …………….…................................................... 73. Он решил взять это под контроль …………….…................................................... 74. Я смогу заработать эти деньги? …………….…................................................... 75. Я смогу заработать эти деньги …………….…................................................... 76. Ты сможешь заработать так много денег? …………….…................................................... 77. Результаты этого чемпионата действительно шокировали меня …………….…................................................... 78. Результат этой игры меня так сильно шокировал …………….…................................................... 79. Эти результаты действительно шокировали их …………….…................................................... 80. Ты можешь объяснить эту вещь мне? …………….…................................................... 81. Я не могу объяснить эту вещь тебе …………….…................................................... 82. Ты можешь показать это видео мне? …………….…................................................... 83. Я думаю, я куплю квартиру вместо дома …………….…................................................... 84. Я решил купить квартиру вместо дома …………….…................................................... 8 85. Ты купишь квартиру вместо этого дома? …………….…................................................... 86. Было чрезвычайно сложно приспособиться к тем условиям …………….…................................................... 87. Я перезвоню тебе через пару минут …………….…................................................... 88. Те новости действительно шокировали тебя? …………….…................................................... 89. Как ты разрешил этот конфликт? …………….…................................................... 90. Я думаю, тебе нужно немного отдохнуть …………….…................................................... 91. Я снял эти деньги со своего счета …………….…................................................... 92. Она попросила меня задать тебе этот вопрос …………….…................................................... 93. Она посоветовала мне не делать этого …………….…................................................... 94. Я знаю, что мне нужно практиковать свой английский более регулярно …………….…................................................... 95. Он ненавидит делать такого рода вещи …………….…................................................... 96. Мне нужно некоторое время, чтобы сосредоточиться …………….…................................................... 97. Он знает, что она может умереть скоро …………….…................................................... 9 98. Я сдал тест успешно …………….…................................................... 99. Я действительно ненавижу делать это …………….…................................................... 100. Я могу объяснить это тебе …………….…................................................... 10 Ответы 1. Я хотел бы полететь в Соединенные Штаты однажды",I'd like to fly to the United States one day,[aɪd laɪk tu: flaɪ tu: ði: jʊˈnaɪtɪd steɪts wʌn deɪ],A1_L100_S72.mp3
+73,Он решил взять это под контроль,He decided to take it under control,[hi: dɪˈsaɪdɪd tu: teɪk ɪt ˈʌndə kənˈtrəʊl],A1_L100_S73.mp3
+74,Я смогу заработать эти деньги?,Will I be able to earn this money?,[wɪl aɪ bi: ˈeɪbl tu: ɜ:n ðɪs ˈmʌni?],A1_L100_S74.mp3
+75,Я смогу заработать эти деньги,I’ll be able to earn this money,[aɪ wɪl bi: ˈeɪbl tu: ɜ:n ðɪs ˈmʌni],A1_L100_S75.mp3
+76,Ты сможешь заработать так много денег?,Will you be able to earn so much money?,[wɪl ju: bi: ˈeɪbl tu: ɜ:n səʊ mʌʧ ˈmʌni?],A1_L100_S76.mp3
+77,Результаты этого чемпионата действительно шокировали меня,The results of this championship really shocked me,[ðə rɪˈzʌlts ɒv ðɪs ˈʧæmpiənʃɪp ˈrɪəli ʃɒkt mi:],A1_L100_S77.mp3
+78,Результат этой игры меня так сильно шокировал,The result of this game shocked me so much,[ðə rɪˈzʌlt ɒv ðɪs geɪm ʃɒkt mi: səʊ mʌʧ],A1_L100_S78.mp3
+79,Эти результаты действительно шокировали их,These results really shocked them,[ði:z rɪˈzʌlts ˈrɪəli ʃɒkt ðem],A1_L100_S79.mp3
+80,Ты можешь объяснить эту вещь мне?,Can you explain this thing to me?,[kæn ju: ɪksˈpleɪn ðɪs θɪŋ tu: mi:?],A1_L100_S80.mp3
+81,Я не могу объяснить эту вещь тебе,I can't explain this thing to you,[aɪ kɑ:nt ɪksˈpleɪn ðɪs θɪŋ tu: ju:],A1_L100_S81.mp3
+82,Ты можешь показать это видео мне?,Can you show this video to me?,[kæn ju: ʃəʊ ðɪs ˈvɪdɪəʊ tu: mi:?],A1_L100_S82.mp3
+83,"Я думаю, я куплю квартиру вместо дома",I think I'll buy an apartment instead of a house,[aɪ θɪŋk aɪl baɪ ən əˈpɑ:tmənt ɪnˈsted ɒv ə haʊs],A1_L100_S83.mp3
+84,Я решил купить квартиру вместо дома,I decided to buy an apartment instead of a house,[aɪ dɪˈsaɪdɪd tu: baɪ ən əˈpɑ:tmənt ɪnˈsted ɒv ə haʊs],A1_L100_S84.mp3
+85,Ты купишь квартиру вместо этого дома?,Will you buy an apartment instead of this house?,[wɪl ju: baɪ ən əˈpɑ:tmənt ɪnˈsted ɒv ðɪs haʊs?],A1_L100_S85.mp3
+86,Было чрезвычайно сложно приспособиться к тем условиям,It was extremely difficult to adapt to those conditions,[ɪt wɒz ɪksˈtri:mli ˈdɪfɪkəlt tu: əˈdæpt tu: ðəʊz kənˈdɪʃənz],A1_L100_S86.mp3
+87,Я перезвоню тебе через пару минут,I'll call you back in a couple of minutes,[aɪl kɔ:l ju: bæk ɪn ə ˈkʌpl ɒv ˈmɪnɪts],A1_L100_S87.mp3
+88,Те новости действительно шокировали тебя?,Did that news really shock you?,[dɪd ðæt nju:z ˈrɪəli ʃɒk ju:?],A1_L100_S88.mp3
+89,Как ты разрешил этот конфликт?,How did you resolve this conflict?,[haʊ dɪd ju: rɪˈzɒlv ðɪs ˈkɒnflɪkt?],A1_L100_S89.mp3
+90,"Я думаю, тебе нужно немного отдохнуть",I think you need to relax a little,[aɪ θɪŋk ju: ni:d tu: rɪˈlæks ə ˈlɪtl],A1_L100_S90.mp3
+91,Я снял эти деньги со своего счета,I withdrew this money from my account,[aɪ wɪðˈdru: ðɪs ˈmʌni frɒm maɪ əˈkaʊnt],A1_L100_S91.mp3
+92,Она попросила меня задать тебе этот вопрос,She asked me to ask you this question,[ʃi: ɑ:skt mi: tu: ɑ:sk ju: ðɪs ˈkwesʧən],A1_L100_S92.mp3
+93,Она посоветовала мне не делать этого,She advised me not to do it,[ʃi: ədˈvaɪzd mi: nɒt tu: du: ɪt],A1_L100_S93.mp3
+94,"Я знаю, что мне нужно практиковать свой английский более регулярно",I know that I need to practise my English more regularly,[aɪ nəʊ ðæt aɪ ni:d tu: ˈpræktɪs maɪ ˈɪŋglɪʃ mɔ: ˈregjʊləli],A1_L100_S94.mp3
+95,Он ненавидит делать такого рода вещи,He hates doing this sort of things,[hi: heɪts ˈdu:ɪŋ ðɪs sɔ:t ɒv θɪŋz],A1_L100_S95.mp3
+96,"Мне нужно некоторое время, чтобы сосредоточиться",I need some time to concentrate,[aɪ ni:d sʌm taɪm tu: ˈkɒnsəntreɪt],A1_L100_S96.mp3
+97,"Он знает, что она может умереть скоро",He knows that she can die soon,[hi: nəʊz ðæt ʃi: kæn daɪ su:n],A1_L100_S97.mp3
+98,Я сдал тест успешно,I passed the test successfully,[aɪ pɑ:st ðə test səkˈsesfəli],A1_L100_S98.mp3
+99,Я действительно ненавижу делать это,I really hate doing it,[aɪ ˈrɪəli heɪt ˈdu:ɪŋ ɪt],A1_L100_S99.mp3
+100,Я могу объяснить это тебе,I can explain it to you,[aɪ kæn ɪksˈpleɪn ɪt tu: ju:],A1_L100_S100.mp3

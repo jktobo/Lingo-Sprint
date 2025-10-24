@@ -1,0 +1,97 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+1,Кто был твоим учителем?,Who was your teacher?,[hu: wɒz jɔ: ˈti:ʧə?],A0_L43_S1.mp3
+2,Где ты был вчера?,Where were you yesterday?,[weə wɜ: ju: ˈjestədeɪ?],A0_L43_S2.mp3
+3,Кто был твоим учителем?,Who was your teacher?,[hu: wɒz jɔ: ˈti:ʧə?],A0_L43_S3.mp3
+4,Почему это было так необычно?,Why was it so unusual?,[waɪ wɒz ɪt səʊ ʌnˈju:ʒʊəl?],A0_L43_S4.mp3
+5,Как он был?,How was he?,[haʊ wɒz hi:?],A0_L43_S5.mp3
+6,Кто был твоим тренером?,Who was your trainer?,[hu: wɒz jɔ: ˈtreɪnə?],A0_L43_S6.mp3
+7,Где он был прошлой ночью?,Where was he last night?,[weə wɒz hi: lɑ:st naɪt?],A0_L43_S7.mp3
+8,Почему ты был там?,Why were you there?,[waɪ wɜ: ju: ðeə?],A0_L43_S8.mp3
+9,Где это было?,Where was it?,[weə wɒz ɪt?],A0_L43_S9.mp3
+10,Кто был прав?,Who was right?,[hu: wɒz raɪt?],A0_L43_S10.mp3
+11,Почему это было неправильно?,Why was it wrong?,[waɪ wɒz ɪt rɒŋ?],A0_L43_S11.mp3
+12,Где ты был вчера?,Where were you yesterday?,[weə wɜ: ju: ˈjestədeɪ?],A0_L43_S12.mp3
+13,Почему она была так расстроена?,Why was she so upset?,[waɪ wɒz ʃi: səʊ ʌpˈset?],A0_L43_S13.mp3
+14,Почему ты был таким уставшим?,Why were you so tired?,[waɪ wɜ: ju: səʊ ˈtaɪəd?],A0_L43_S14.mp3
+15,Что было лучше?,What was better?,[wɒt wɒz ˈbetə?],A0_L43_S15.mp3
+16,Когда вы были в Италии в последний раз?,When were you in Italy last time?,[wen wɜ: ju: ɪn ˈɪtəli lɑ:st taɪm?],A0_L43_S16.mp3
+17,Почему это было так скучно?,Why was it so boring?,[waɪ wɒz ɪt səʊ ˈbɔ:rɪŋ?],A0_L43_S17.mp3
+18,Когда ты был за границей в последний раз?,When were you abroad last time?,[wen wɜ: ju: əˈbrɔ:d lɑ:st taɪm?],A0_L43_S18.mp3
+19,Когда ты был дома?,When were you at home?,[wen wɜ: ju: æt həʊm?],A0_L43_S19.mp3
+20,Сколько это стоило?,How much was it?,[haʊ mʌʧ wɒz ɪt?],A0_L43_S20.mp3
+21,Почему он был такой грустный?,Why was he so sad?,[waɪ wɒz hi: səʊ sæd?],A0_L43_S21.mp3
+22,Когда ты был в этом городе в последний раз?,When were you in this city last time?,[wen wɜ: ju: ɪn ðɪs ˈsɪti lɑ:st taɪm?],A0_L43_S22.mp3
+23,Где ты был в прошлом году?,Where were you last year?,[weə wɜ: ju: lɑ:st jɪə?],A0_L43_S23.mp3
+24,Почему это было так дешево?,Why was it so cheap?,[waɪ wɒz ɪt səʊ ʧi:p?],A0_L43_S24.mp3
+25,Кто был с тобой?,Who was with you?,[hu: wɒz wɪð ju:?],A0_L43_S25.mp3
+26,Они были хорошими студентами?,Were they good students?,[wɜ: ðeɪ gʊd ˈstju:dənts?],A0_L43_S26.mp3
+27,Почему это было так важно?,Why was it so important?,[waɪ wɒz ɪt səʊ ɪmˈpɔ:tənt?],A0_L43_S27.mp3
+28,Где он был вчера утром?,Where was he yesterday morning?,[weə wɒz hi: ˈjestədeɪ ˈmɔ:nɪŋ?],A0_L43_S28.mp3
+29,Как у нее были дела?,How was she?,[haʊ wɒz ʃi:?],A0_L43_S29.mp3
+30,Почему это было неправильно?,Why was it incorrect?,[waɪ wɒz ɪt ˌɪnkəˈrekt?],A0_L43_S30.mp3
+31,Кто был не прав?,Who was wrong?,[hu: wɒz rɒŋ?],A0_L43_S31.mp3
+32,Что было так сложно для тебя?,What was so difficult for you?,[wɒt wɒz səʊ ˈdɪfɪkəlt fɔ: ju:?],A0_L43_S32.mp3
+33,Как это было?,How was it?,[haʊ wɒz ɪt?],A0_L43_S33.mp3
+34,Что было так необычно для тебя?,What was so unusual for you?,[wɒt wɒz səʊ ʌnˈju:ʒʊəl fɔ: ju:?],A0_L43_S34.mp3
+35,Когда ты был болен?,When were you ill?,[wen wɜ: ju: ɪl?],A0_L43_S35.mp3
+36,Почему это было так дорого?,Why was it so expensive?,[waɪ wɒz ɪt səʊ ɪksˈpensɪv?],A0_L43_S36.mp3
+37,Кто был с твоим братом?,Who was with your brother?,[hu: wɒz wɪð jɔ: ˈbrʌðə?],A0_L43_S37.mp3
+38,Почему ты был так счастлив?,Why were you so happy?,[waɪ wɜ: ju: səʊ ˈhæpi?],A0_L43_S38.mp3
+39,Когда ты был в России последний раз?,When were you in Russia last time?,[wen wɜ: ju: ɪn ˈrʌʃə lɑ:st taɪm?],A0_L43_S39.mp3
+40,Почему он был так зол?,Why was he so angry?,[waɪ wɒz hi: səʊ ˈæŋgri?],A0_L43_S40.mp3
+41,Когда ты был там последний раз?,When were you there last time?,[wen wɜ: ju: ðeə lɑ:st taɪm?],A0_L43_S41.mp3
+42,Как долго это было?,How long was it?,[haʊ lɒŋ wɒz ɪt?],A0_L43_S42.mp3
+43,Сколько было времени?,What time was it?,[wɒt taɪm wɒz ɪt?],A0_L43_S43.mp3
+44,Как далеко это было?,How far was it?,[haʊ fɑ: wɒz ɪt?],A0_L43_S44.mp3
+45,Какой ответ был правильным?,Which answer was correct?,[wɪʧ ˈɑ:nsə wɒz kəˈrekt?],A0_L43_S45.mp3
+46,Что было в углу?,What was in the corner?,[wɒt wɒz ɪn ðə ˈkɔ:nə?],A0_L43_S46.mp3
+47,Ты тоже был на вечеринке?,Were you also at the party?,[wɜ: ju: ˈɔ:lsəʊ æt ðə ˈpɑ:ti?],A0_L43_S47.mp3
+48,Сколько ей было лет?,How old was she?,[haʊ əʊld wɒz ʃi:?],A0_L43_S48.mp3
+49,Когда она была во дворе?,When was she in the yard?,[wen wɒz ʃi: ɪn ðə jɑ:d?],A0_L43_S49.mp3
+50,Что было в классе?,What was in the classroom?,[wɒt wɒz ɪn ðə ˈklɑ:srʊm?],A0_L43_S50.mp3
+51,Что было на письменном столе?,What was on the desk?,[wɒt wɒz ɒn ðə desk?],A0_L43_S51.mp3
+52,Она тоже была в том месте?,Was she also in that place?,[wɒz ʃi: ˈɔ:lsəʊ ɪn ðæt pleɪs?],A0_L43_S52.mp3
+53,Что было за коробкой?,What was behind the box?,[wɒt wɒz bɪˈhaɪnd ðə bɒks?],A0_L43_S53.mp3
+54,Что было в том углу?,What was in that corner?,[wɒt wɒz ɪn ðæt ˈkɔ:nə?],A0_L43_S54.mp3
+55,Сколько ему было лет?,How old was he?,[haʊ əʊld wɒz hi:?],A0_L43_S55.mp3
+56,Кто был в классе?,Who was in the classroom?,[hu: wɒz ɪn ðə ˈklɑ:srʊm?],A0_L43_S56.mp3
+57,Как часто ты был там?,How often were you there?,[haʊ ˈɒfn wɜ: ju: ðeə?],A0_L43_S57.mp3
+58,Он тоже там был?,Was he also there?,[wɒz hi: ˈɔ:lsəʊ ðeə?],A0_L43_S58.mp3
+59,Она тоже там была?,Was she also there?,[wɒz ʃi: ˈɔ:lsəʊ ðeə?],A0_L43_S59.mp3
+60,Он был там вчера?,Was he there yesterday?,[wɒz hi: ðeə ˈjestədeɪ?],A0_L43_S60.mp3
+61,Когда ты был во дворе?,When were you in the yard?,[wen wɜ: ju: ɪn ðə jɑ:d?],A0_L43_S61.mp3
+62,Когда ты был в саду?,When were you in the garden?,[wen wɜ: ju: ɪn ðə ˈgɑ:dn?],A0_L43_S62.mp3
+63,Что было на столе?,What was on the table?,[wɒt wɒz ɒn ðə ˈteɪbl?],A0_L43_S63.mp3
+64,Кто был на столе?,Who was on the table?,[hu: wɒz ɒn ðə ˈteɪbl?],A0_L43_S64.mp3
+65,Что было на стуле?,What was on the chair?,[wɒt wɒz ɒn ðə ʧeə?],A0_L43_S65.mp3
+66,Какая у него была работа?,What was his job?,[wɒt wɒz hɪz ʤɒb?],A0_L43_S66.mp3
+67,Какой была ее работа?,What was her job?,[wɒt wɒz hɜ: ʤɒb?],A0_L43_S67.mp3
+68,Кто был его другом?,Who was his friend?,[hu: wɒz hɪz frend?],A0_L43_S68.mp3
+69,Чья идея была лучше?,Whose idea was better?,[hu:z aɪˈdɪə wɒz ˈbetə?],A0_L43_S69.mp3
+70,Чья идея лучшая?,Whose idea is the best?,[hu:z aɪˈdɪə ɪz ðə best?],A0_L43_S70.mp3
+71,Кто был в парке?,Who was in the park?,[hu: wɒz ɪn ðə pɑ:k?],A0_L43_S71.mp3
+72,Кто был в доме?,Who was in the house?,[hu: wɒz ɪn ðə haʊs?],A0_L43_S72.mp3
+73,Что было на дереве?,What was on the tree?,[wɒt wɒz ɒn ðə tri:?],A0_L43_S73.mp3
+74,Во сколько ты был там?,What time were you there?,[wɒt taɪm wɜ: ju: ðeə?],A0_L43_S74.mp3
+75,Во сколько ты был здесь?,What time were you here?,[wɒt taɪm wɜ: ju: hɪə?],A0_L43_S75.mp3
+76,Во сколько он был дома?,What time was he at home?,[wɒt taɪm wɒz hi: æt həʊm?],A0_L43_S76.mp3
+77,Чья книга была интереснее?,Whose book was more interesting?,[hu:z bʊk wɒz mɔ:r ˈɪntrɪstɪŋ?],A0_L43_S77.mp3
+78,Которая книга была там?,Which book was there?,[wɪʧ bʊk wɒz ðeə?],A0_L43_S78.mp3
+79,Какой был ее ответ?,What was her answer?,[wɒt wɒz hɜ:r ˈɑ:nsə?],A0_L43_S79.mp3
+80,Какой ответ был правильным?,Which answer was right?,[wɪʧ ˈɑ:nsə wɒz raɪt?],A0_L43_S80.mp3
+81,Какой вопрос был правильным?,Which question was correct?,[wɪʧ ˈkwesʧən wɒz kəˈrekt?],A0_L43_S81.mp3
+82,Какие ответы были неправильными?,Which answers were wrong?,[wɪʧ ˈɑ:nsəz wɜ: rɒŋ?],A0_L43_S82.mp3
+83,Сколько тебе было лет?,How old were you?,[haʊ əʊld wɜ: ju:?],A0_L43_S83.mp3
+84,Какой билет был дороже?,Which ticket was more expensive?,[wɪʧ ˈtɪkɪt wɒz mɔ: ɪksˈpensɪv?],A0_L43_S84.mp3
+85,Кто был во дворе?,Who was in the yard?,[hu: wɒz ɪn ðə jɑ:d?],A0_L43_S85.mp3
+86,Насколько это было трудно для тебя?,How difficult was it for you?,[haʊ ˈdɪfɪkəlt wɒz ɪt fɔ: ju:?],A0_L43_S86.mp3
+87,Он был на вечеринке?,Was he at the party?,[wɒz hi: æt ðə ˈpɑ:ti?],A0_L43_S87.mp3
+88,Что было в коробке?,What was in the box?,[wɒt wɒz ɪn ðə bɒks?],A0_L43_S88.mp3
+89,Насколько это было эффективно?,How effective was it?,[haʊ ɪˈfektɪv wɒz ɪt?],A0_L43_S89.mp3
+90,Кто был за тем деревом?,Who was behind that tree?,[hu: wɒz bɪˈhaɪnd ðæt tri:?],A0_L43_S90.mp3
+91,Кто был в лесу?,Who was in the forest?,[hu: wɒz ɪn ðə ˈfɒrɪst?],A0_L43_S91.mp3
+92,Что было на полу?,What was on the floor?,[wɒt wɒz ɒn ðə flɔ:?],A0_L43_S92.mp3
+93,Кто был в саду?,Who was in the garden?,[hu: wɒz ɪn ðə ˈgɑ:dn?],A0_L43_S93.mp3
+94,Ты был также с ними?,Were you also with them?,[wɜ: ju: ˈɔ:lsəʊ wɪð ðem?],A0_L43_S94.mp3
+95,Что было за той коробкой?,What was behind that box?,[wɒt wɒz bɪˈhaɪnd ðæt bɒks?],A0_L43_S95.mp3
+96,Кто был за дверью?,Who was behind the door? [hu: wɒz bɪˈhaɪnd ðə dɔ:?] 97. Насколько это было интересно? / How interesting was it?,[haʊ ˈɪntrɪstɪŋ wɒz ɪt?],A0_L43_S96.mp3

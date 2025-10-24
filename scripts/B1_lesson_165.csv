@@ -1,0 +1,107 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Эту машину уже сделали в Англии,This car has already been made in England,[ðɪs kɑ: hæz ɔ:lˈredi bi:n meɪd ɪn ˈɪŋglənd],B1_L165_S2.mp3
+3,Тебе рассказывают эту историю сейчас,You are being told this story now,[ju: ɑ: ˈbi:ɪŋ təʊld ðɪs ˈstɔ:ri naʊ],B1_L165_S3.mp3
+4,Этот дом строился им,This house was being built by him,[ðɪs haʊs wɒz ˈbi:ɪŋ bɪlt baɪ hɪm],B1_L165_S4.mp3
+5,Меня обсуждают сейчас,I am being discussed now,[aɪ æm ˈbi:ɪŋ dɪsˈkʌst naʊ],B1_L165_S5.mp3
+6,Дорогу ремонтируют сейчас,The road is being repaired now,[ðə rəʊd ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L165_S6.mp3
+7,Им рассказывают правду сейчас,They are being told the truth now,[ðeɪ ɑ: ˈbi:ɪŋ təʊld ðə tru:θ naʊ],B1_L165_S7.mp3
+8,Это обсуждалось в Японии,It was being discussed in Japan,[ɪt wɒz ˈbi:ɪŋ dɪsˈkʌst ɪn ʤəˈpæn],B1_L165_S8.mp3
+9,Эти проблемы решали в 3 вчера,These problems were being solved at 3 yesterday,[ði:z ˈprɒbləmz wɜ: ˈbi:ɪŋ sɒlvd æt 3 ˈjestədeɪ],B1_L165_S9.mp3
+10,Это еще не сделано,It hasn't been done yet,[ɪt ˈhæznt bi:n dʌn jet],B1_L165_S10.mp3
+11,Дорога сейчас ремонтируется,The road is being repaired now,[ðə rəʊd ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L165_S11.mp3
+12,Новый коттедж строится сейчас,A new cottage is being built now,[ə nju: ˈkɒtɪʤ ɪz ˈbi:ɪŋ bɪlt naʊ],B1_L165_S12.mp3
+13,Так много деревьев в настоящее время вырубаются,So many trees are being cut down nowadays,[səʊ ˈmeni tri:z ɑ: ˈbi:ɪŋ kʌt daʊn ˈnaʊədeɪz],B1_L165_S13.mp3
+14,"Пока этот дом продавался, та квартира сдавалась","While this house was being sold, that apartment was being rented","[waɪl ðɪs haʊs wɒz ˈbi:ɪŋ səʊld, ðæt əˈpɑ:tmənt wɒz ˈbi:ɪŋ ˈrentɪd]",B1_L165_S14.mp3
+15,Столовая сейчас ремонтируется,The canteen is being repaired now,[ðə kænˈti:n ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L165_S15.mp3
+16,Это было запрещено делать,It was forbidden to do it,[ɪt wɒz fəˈbɪdn tu: du: ɪt],B1_L165_S16.mp3
+17,Двое рабочих уволены недавно,Two workers have been dismissed recently,[tu: ˈwɜ:kəz hæv bi:n dɪsˈmɪst ˈri:sntli],B1_L165_S17.mp3
+18,Дверь была открыта этим ключом,The door was opened with this key,[ðə dɔ: wɒz ˈəʊpənd wɪð ðɪs ki:],B1_L165_S18.mp3
+19,Машина сейчас ремонтируется,The car is being repaired now,[ðə kɑ:r ɪz ˈbi:ɪŋ rɪˈpeəd naʊ],B1_L165_S19.mp3
+20,Новый небоскреб строится сейчас,A new skyscraper is being built now,[ə nju: ˈskaɪˌskreɪpər ɪz ˈbi:ɪŋ bɪlt naʊ],B1_L165_S20.mp3
+21,Эти вопросы сейчас обсуждаются,These questions are being discussed now,[ði:z ˈkwesʧənz ɑ: ˈbi:ɪŋ dɪsˈkʌst naʊ],B1_L165_S21.mp3
+22,Эта работа еще не проверена,This work hasn't been checked yet,[ðɪs wɜ:k ˈhæznt bi:n ʧekt jet],B1_L165_S22.mp3
+23,Эта проблема еще не обсуждалась,This problem hasn't been discussed yet,[ðɪs ˈprɒbləm ˈhæznt bi:n dɪsˈkʌst jet],B1_L165_S23.mp3
+24,Собор сейчас перестраивается,The cathedral is being rebuilt now,[ðə kəˈθi:drəl ɪz ˈbi:ɪŋ ˌri:ˈbɪlt naʊ],B1_L165_S24.mp3
+25,Роман был прочитан ею,The novel was read by her,[ðə ˈnɒvəl wɒz ri:d baɪ hɜ:],B1_L165_S25.mp3
+26,Это было сказано очень вежливо,It was said very politely,[ɪt wɒz sed ˈveri pəˈlaɪtli],B1_L165_S26.mp3
+27,Это сейчас читают,It is being read now,[ɪt ɪz ˈbi:ɪŋ ri:d naʊ],B1_L165_S27.mp3
+28,Это анализируют сейчас,It is being analysed now,[ɪt ɪz ˈbi:ɪŋ ˈænəlaɪzd naʊ],B1_L165_S28.mp3
+29,Монастырь перестраивается сейчас,The monastery is being rebuilt now,[ðə ˈmɒnəstəri ɪz ˈbi:ɪŋ ˌri:ˈbɪlt naʊ],B1_L165_S29.mp3
+30,Четыре новых сотрудника были наняты недавно,Four new employees have been hired recently,[fɔ: nju: ˌemplɔɪˈi:z hæv bi:n ˈhaɪəd ˈri:sntli],B1_L165_S30.mp3
+31,Письмо уже отправлено,The letter has already been sent,[ðə ˈletə hæz ɔ:lˈredi bi:n sent],B1_L165_S31.mp3
+32,Новая машина была куплена им,A new car was bought by him,[ə nju: kɑ: wɒz bɔ:t baɪ hɪm],B1_L165_S32.mp3
+33,"Когда я вошел в комнату, это обсуждалось","When I entered the room, it was being discussed","[wen aɪ ˈentəd ðə ru:m, ɪt wɒz ˈbi:ɪŋ dɪsˈkʌst]",B1_L165_S33.mp3
+34,Двери сейчас закрываются,The doors are being closed now,[ðə dɔ:z ɑ: ˈbi:ɪŋ kləʊzd naʊ],B1_L165_S34.mp3
+35,Эти проблемы сейчас решаются,These problems are being solved now,[ði:z ˈprɒbləmz ɑ: ˈbi:ɪŋ sɒlvd naʊ],B1_L165_S35.mp3
+36,Почему рабочий был уволен?,Why was the worker dismissed?,[waɪ wɒz ðə ˈwɜ:kə dɪsˈmɪst?],B1_L165_S36.mp3
+37,Опрос уже проводился,The survey has already been conducted,[ðə ˈsɜ:veɪ hæz ɔ:lˈredi bi:n kənˈdʌktɪd],B1_L165_S37.mp3
+38,Так много деревьев вырублено,So many trees are cut down,[səʊ ˈmeni tri:z ɑ: kʌt daʊn],B1_L165_S38.mp3
+39,Этот дом продается сейчас,This house is being sold now,[ðɪs haʊs ɪz ˈbi:ɪŋ səʊld naʊ],B1_L165_S39.mp3
+40,Этот бестселлер продается во многих странах,This bestseller is sold in many countries,[ðɪs ˌbestˈselər ɪz səʊld ɪn ˈmeni ˈkʌntriz],B1_L165_S40.mp3
+41,Этот вопрос только что обсуждался,This question has just been discussed,[ðɪs ˈkwesʧən hæz ʤʌst bi:n dɪsˈkʌst],B1_L165_S41.mp3
+42,Музей сейчас реконструируется,The museum is being reconstructed now,[ðə mju:ˈzɪəm ɪz ˈbi:ɪŋ ˌri:kənsˈtrʌktɪd naʊ],B1_L165_S42.mp3
+43,Новая столовая сейчас строится,A new canteen is being built now,[ə nju: kænˈti:n ɪz ˈbi:ɪŋ bɪlt naʊ],B1_L165_S43.mp3
+44,Опрос проводился на прошлой неделе,The survey was conducted - last week,[ðə ˈsɜ:veɪ wɒz kənˈdʌktɪd - lɑ:st wi:k],B1_L165_S44.mp3
+45,Это часто говорится очень формально,It is often said very formally,[ɪt ɪz ˈɒfn sed ˈveri ˈfɔ:məli],B1_L165_S45.mp3
+46,Потолок сейчас красится,The ceiling is being painted now,[ðə ˈsi:lɪŋ ɪz ˈbi:ɪŋ ˈpeɪntɪd naʊ],B1_L165_S46.mp3
+47,Моя работа сейчас проверяется,My work is being checked now,[maɪ wɜ:k ɪz ˈbi:ɪŋ ʧekt naʊ],B1_L165_S47.mp3
+48,"Когда я приехал в деревню, строился новый дом","When I came to the village, a new house was being built","[wen aɪ keɪm tu: ðə ˈvɪlɪʤ, ə nju: haʊs wɒz ˈbi:ɪŋ bɪlt]",B1_L165_S48.mp3
+49,Это старинное здание сейчас реконструируется,This ancient building is being reconstructed now,[ðɪs ˈeɪnʃnt ˈbɪldɪŋ ɪz ˈbi:ɪŋ ˌri:kənsˈtrʌktɪd naʊ],B1_L165_S49.mp3
+50,"К тому времени, как он пришел домой, суши уже были доставлены","By the time he came home, the sushi had already been delivered","[baɪ ðə taɪm hi: keɪm həʊm, ðə ˈsʊʃi hæd ɔ:lˈredi bi:n dɪˈlɪvəd]",B1_L165_S50.mp3
+51,"Потолок красили, когда он приехал",The ceiling was being painted when he arrived,[ðə ˈsi:lɪŋ wɒz ˈbi:ɪŋ ˈpeɪntɪd wen hi: əˈraɪvd],B1_L165_S51.mp3
+52,"Как уже упоминалось, это заслуживает нашего внимания","As it's already been mentioned, it deserves our attention","[æz ɪts ɔ:lˈredi bi:n ˈmenʃənd, ɪt dɪˈzɜ:vz ˈaʊər əˈtenʃn]",B1_L165_S52.mp3
+53,"Как только что было сказано, это действительно важно для всех нас","As it has just been said, it's really important for all of us","[æz ɪt hæz ʤʌst bi:n sed, ɪts ˈrɪəli ɪmˈpɔ:tənt fɔ: ɔ:l ɒv ʌs]",B1_L165_S53.mp3
+54,За что были уволены рабочие?,What were the workers dismissed for?,[wɒt wɜ: ðə ˈwɜ:kəz dɪsˈmɪst fɔ:?],B1_L165_S54.mp3
+55,"Как только что было добавлено, мы также должны принять это во внимание","As it has just been added, we also need to take it into account","[æz ɪt hæz ʤʌst bi:n ˈædɪd, wi: ˈɔ:lsəʊ ni:d tu: teɪk ɪt ˈɪntu: əˈkaʊnt]",B1_L165_S55.mp3
+56,"Как только что упоминалось, мы не можем закрыть глаза на эту несправедливость","As it has just been mentioned, we can't close our eyes on this injustice","[æz ɪt hæz ʤʌst bi:n ˈmenʃənd, wi: kɑ:nt kləʊs ˈaʊər aɪz ɒn ðɪs ɪnˈʤʌstɪs]",B1_L165_S56.mp3
+57,Еда была разделена на несколько порций,The food was divided into several portions,[ðə fu:d wɒz dɪˈvaɪdɪd ˈɪntu: ˈsevrəl ˈpɔ:ʃənz],B1_L165_S57.mp3
+58,Все будет загружено к завтрашнему дню,Everything will have been downloaded by tomorrow,[ˈevrɪθɪŋ wɪl hæv bi:n ˌdaʊnˈləʊdɪd baɪ təˈmɒrəʊ],B1_L165_S58.mp3
+59,"Она сказала, что письмо уже было отправлено",She said that the letter had already been sent,[ʃi: sed ðæt ðə ˈletə hæd ɔ:lˈredi bi:n sent],B1_L165_S59.mp3
+60,"Пока он болел, его учили дома","While he was ill, he was being taught at home","[waɪl hi: wɒz ɪl, hi: wɒz ˈbi:ɪŋ tɔ:t æt həʊm]",B1_L165_S60.mp3
+61,Крыша отремонтирована этим летом,The roof has been repaired this summer,[ðə ru:f hæz bi:n rɪˈpeəd ðɪs ˈsʌmə],B1_L165_S61.mp3
+62,"Как уже было сказано, это стоит сделать","As it has already been said, it's worth doing","[æz ɪt hæz ɔ:lˈredi bi:n sed, ɪts wɜ:θ ˈdu:ɪŋ]",B1_L165_S62.mp3
+63,Эта работа будет выполнена к январю,This work will have been done by January,[ðɪs wɜ:k wɪl hæv bi:n dʌn baɪ ˈʤænjʊəri],B1_L165_S63.mp3
+64,Остров изолирован от внешнего мира,The island is isolated from the outside world,[ði ˈaɪlənd ɪz ˈaɪsəleɪtɪd frɒm ði ˌaʊtˈsaɪd wɜ:ld],B1_L165_S64.mp3
+65,Эта программа скачивается сейчас,This program is being downloaded now,[ðɪs ˈprəʊgræm ɪz ˈbi:ɪŋ ˌdaʊnˈləʊdɪd naʊ],B1_L165_S65.mp3
+66,Эту вещь покупают сейчас,This thing is being bought now,[ðɪs θɪŋ ɪz ˈbi:ɪŋ bɔ:t naʊ],B1_L165_S66.mp3
+67,Это приложение загружается сейчас,This application is being downloaded now,[ðɪs ˌæplɪˈkeɪʃn ɪz ˈbi:ɪŋ ˌdaʊnˈləʊdɪd naʊ],B1_L165_S67.mp3
+68,Что сейчас обсуждается?,What is being discussed now?,[wɒt ɪz ˈbi:ɪŋ dɪsˈkʌst naʊ?],B1_L165_S68.mp3
+69,Это сейчас обсуждается,It is being discussed now,[ɪt ɪz ˈbi:ɪŋ dɪsˈkʌst naʊ],B1_L165_S69.mp3
+70,Что сейчас показывается?,What is being shown now?,[wɒt ɪz ˈbi:ɪŋ ʃəʊn naʊ?],B1_L165_S70.mp3
+71,"Что уже было сказано? …………….…................................................... 72. Что уже сделано? …………….…................................................... 73. Это уже сказано …………….…................................................... 74. Еще не все сказано …………….…................................................... 75. Все уже сказано …………….…................................................... 76. Все уже сказано? …………….…................................................... 77. Документы еще не были отсканированы …………….…................................................... 78. Документы еще не были подписаны …………….…................................................... 79. Эти файлы еще не были скачены …………….…................................................... 80. Дом будет построен в следующем году …………….…................................................... 81. Это здание будет построено в следующем году …………….…................................................... 82. Мой дом будет построен в следующем месяце …………….…................................................... 83. За что они были наказаны? …………….…................................................... 8 84. Они были наказаны за свое поведение …………….…................................................... 85. За что ты наказан? …………….…................................................... 86. Что еще не сделано? …………….…................................................... 87. Все уже сделано …………….…................................................... 88. Его часто критикуют очень резко …………….…................................................... 89. Его часто так резко критикуют …………….…................................................... 90. Его обычно критикуют за его поведение …………….…................................................... 91. Еще две порции были принесены …………….…................................................... 92. Некоторые порции были принесены …………….…................................................... 93. Еще две порции куплены …………….…................................................... 94. Суши были доставлены к тому времени, когда они вернулись домой …………….…................................................... 95. Он сказал, что он уже сделал это …………….…................................................... 96. Его сейчас очень резко критикуют …………….…................................................... 9 97. Он сказал, что эти проблемы уже были решены …………….…................................................... 98. Еще не все ошибки исправлены …………….…................................................... 99. Его новый дом будет построен к следующему месяцу …………….…................................................... 100. Комнаты убираются в данный момент …………….…................................................... 101. Почему это еще не сделано? …………….…................................................... 102. Комната убиралась, когда они прибыли …………….…................................................... 103. Деревня была изолирована от внешнего мира …………….…................................................... 104. Комнату убирают сейчас …………….…................................................... 105. Она сказала, что все файлы уже были скачаны …………….…................................................... 106. Его хвалят сейчас …………….…................................................... 107. Что сейчас говорят? …………….…................................................... 10 Ответы 1. Эти документы были подписаны недавно",These documents have been signed lately,[ði:z ˈdɒkjʊmənts hæv bi:n saɪnd ˈleɪtli],B1_L165_S71.mp3
+72,Что уже сделано?,What has already been done?,[wɒt hæz ɔ:lˈredi bi:n dʌn?],B1_L165_S72.mp3
+73,Это уже сказано,It has already been said,[ɪt hæz ɔ:lˈredi bi:n sed],B1_L165_S73.mp3
+74,Еще не все сказано,Not everything has been said yet,[nɒt ˈevrɪθɪŋ hæz bi:n sed jet],B1_L165_S74.mp3
+75,Все уже сказано,Everything has been already said,[ˈevrɪθɪŋ hæz bi:n ɔ:lˈredi sed],B1_L165_S75.mp3
+76,Все уже сказано?,Has everything already been said?,[hæz ˈevrɪθɪŋ ɔ:lˈredi bi:n sed?],B1_L165_S76.mp3
+77,Документы еще не были отсканированы,The documents haven't been scanned yet,[ðə ˈdɒkjʊmənts hævnt bi:n skænd jet],B1_L165_S77.mp3
+78,Документы еще не были подписаны,The documents haven't been signed yet,[ðə ˈdɒkjʊmənts hævnt bi:n saɪnd jet],B1_L165_S78.mp3
+79,Эти файлы еще не были скачены,These files haven't been downloaded yet,[ði:z faɪlz hævnt bi:n ˌdaʊnˈləʊdɪd jet],B1_L165_S79.mp3
+80,Дом будет построен в следующем году,The house will be built next year,[ðə haʊs wɪl bi: bɪlt nekst jɪə],B1_L165_S80.mp3
+81,Это здание будет построено в следующем году,This building will be constructed next year,[ðɪs ˈbɪldɪŋ wɪl bi: kənˈstrʌktɪd nekst jɪə],B1_L165_S81.mp3
+82,Мой дом будет построен в следующем месяце,My house will be built next month,[maɪ haʊs wɪl bi: bɪlt nekst mʌnθ],B1_L165_S82.mp3
+83,За что они были наказаны?,What were they punished for?,[wɒt wɜ: ðeɪ ˈpʌnɪʃt fɔ:?],B1_L165_S83.mp3
+84,Они были наказаны за свое поведение,They were punished for their behaviour,[ðeɪ wɜ: ˈpʌnɪʃt fɔ: ðeə bɪˈheɪvjə],B1_L165_S84.mp3
+85,За что ты наказан?,What are you punished for?,[wɒt ɑ: ju: ˈpʌnɪʃt fɔ:?],B1_L165_S85.mp3
+86,Что еще не сделано?,What hasn't been done yet?,[wɒt ˈhæznt bi:n dʌn jet?],B1_L165_S86.mp3
+87,Все уже сделано,Everything has already been done,[ˈevrɪθɪŋ hæz ɔ:lˈredi bi:n dʌn],B1_L165_S87.mp3
+88,Его часто критикуют очень резко,He is often criticised very sharply,[hi: ɪz ˈɒfn ˈkrɪtɪsaɪzd ˈveri ˈʃɑ:pli],B1_L165_S88.mp3
+89,Его часто так резко критикуют,He is often criticised so sharply,[hi: ɪz ˈɒfn ˈkrɪtɪsaɪzd səʊ ˈʃɑ:pli],B1_L165_S89.mp3
+90,Его обычно критикуют за его поведение,He is usually criticised for his behaviour,[hi: ɪz ˈju:ʒʊəli ˈkrɪtɪsaɪzd fɔ: hɪz bɪˈheɪvjə],B1_L165_S90.mp3
+91,Еще две порции были принесены,Two more portions were brought,[tu: mɔ: ˈpɔ:ʃənz wɜ: brɔ:t],B1_L165_S91.mp3
+92,Некоторые порции были принесены,Some portions were brought,[sʌm ˈpɔ:ʃənz wɜ: brɔ:t],B1_L165_S92.mp3
+93,Еще две порции куплены,Two more portions were bought,[tu: mɔ: ˈpɔ:ʃənz wɜ: bɔ:t],B1_L165_S93.mp3
+94,"Суши были доставлены к тому времени, когда они вернулись домой",The sushi had been delivered by the time they got back home,[ðə ˈsʊʃi hæd bi:n dɪˈlɪvəd baɪ ðə taɪm ðeɪ gɒt bæk həʊm],B1_L165_S94.mp3
+95,"Он сказал, что он уже сделал это",He said that he had already done it,[hi: sed ðæt hi: hæd ɔ:lˈredi dʌn ɪt],B1_L165_S95.mp3
+96,Его сейчас очень резко критикуют,He is being criticized very sharply now,[hi: ɪz ˈbi:ɪŋ ˈkrɪtɪsaɪzd ˈveri ˈʃɑ:pli naʊ],B1_L165_S96.mp3
+97,"Он сказал, что эти проблемы уже были решены",He said that those problems had already been solved,[hi: sed ðæt ðəʊz ˈprɒbləmz hæd ɔ:lˈredi bi:n sɒlvd],B1_L165_S97.mp3
+98,Еще не все ошибки исправлены,Not all the mistakes have been corrected yet,[nɒt ɔ:l ðə mɪsˈteɪks hæv bi:n kəˈrektɪd jet],B1_L165_S98.mp3
+99,Его новый дом будет построен к следующему месяцу,His new house will have been built by next month,[hɪz nju: haʊs wɪl hæv bi:n bɪlt baɪ nekst mʌnθ],B1_L165_S99.mp3
+100,Комнаты убираются в данный момент,The rooms are being cleaned at the moment,[ðə ru:mz ɑ: ˈbi:ɪŋ kli:nd æt ðə ˈməʊmənt],B1_L165_S100.mp3
+101,Почему это еще не сделано?,Why hasn't it been done yet?,[waɪ ˈhæznt ɪt bi:n dʌn jet?],B1_L165_S101.mp3
+102,"Комната убиралась, когда они прибыли",The room was being cleaned when they arrived,[ðə ru:m wɒz ˈbi:ɪŋ kli:nd wen ðeɪ əˈraɪvd],B1_L165_S102.mp3
+103,Деревня была изолирована от внешнего мира,The village was isolated from the outside world,[ðə ˈvɪlɪʤ wɒz ˈaɪsəleɪtɪd frɒm ði ˌaʊtˈsaɪd wɜ:ld],B1_L165_S103.mp3
+104,Комнату убирают сейчас,The room is being cleaned now,[ðə ru:m ɪz ˈbi:ɪŋ kli:nd naʊ],B1_L165_S104.mp3
+105,"Она сказала, что все файлы уже были скачаны",She said that all the files had already been downloaded,[ʃi: sed ðæt ɔ:l ðə faɪlz hæd ɔ:lˈredi bi:n ˌdaʊnˈləʊdɪd],B1_L165_S105.mp3
+106,Его хвалят сейчас,He is being praised now,[hi: ɪz ˈbi:ɪŋ preɪzd naʊ],B1_L165_S106.mp3
+107,Что сейчас говорят?,What is being said now?,[wɒt ɪz ˈbi:ɪŋ sed naʊ?],B1_L165_S107.mp3

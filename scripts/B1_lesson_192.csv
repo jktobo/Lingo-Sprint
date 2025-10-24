@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,У этой девочки такая приятная улыбка,This girl has such a pleasant smile,[ðɪs gɜ:l hæz sʌʧ ə ˈpleznt smaɪl],B1_L192_S2.mp3
+3,Извини за мой плохой английский!,Sorry for my poor English!,[ˈsɒri fɔ: maɪ pʊər ˈɪŋglɪʃ!],B1_L192_S3.mp3
+4,Он очень нервничает по поводу этого собеседования на работу,He is very nervous about this job interview,[hi: ɪz ˈveri ˈnɜ:vəs əˈbaʊt ðɪs ʤɒb ˈɪntəvju:],B1_L192_S4.mp3
+5,Она чувствовала себя так неловко из-за этого,She felt so embarrassed because of it,[ʃi: felt səʊ ɪmˈbærəst bɪˈkɒz ɒv ɪt],B1_L192_S5.mp3
+6,Эта услуга в данный момент недоступна,This service isn't available at the moment,[ðɪs ˈsɜ:vɪs ˈɪznt əˈveɪləbl æt ðə ˈməʊmənt],B1_L192_S6.mp3
+7,Большинство моих коллег очень общительны,Most of my colleagues are very sociable,[məʊst ɒv maɪ ˈkɒli:gz ɑ: ˈveri ˈsəʊʃəbl],B1_L192_S7.mp3
+8,У мальчика есть некоторые психологические проблемы,The boy has some psychological problems,[ðə bɔɪ hæz sʌm ˌsaɪkəˈlɒʤɪkəl ˈprɒbləmz],B1_L192_S8.mp3
+9,Он невероятно талантливый музыкант,He is an incredibly talented musician,[hi: ɪz ən ɪnˈkredəbli ˈtæləntɪd mju:ˈzɪʃən],B1_L192_S9.mp3
+10,Она купила большой деревянный стол для своего дома,She bought a large wooden table for her house,[ʃi: bɔ:t ə lɑ:ʤ ˈwʊdn ˈteɪbl fɔ: hɜ: haʊs],B1_L192_S10.mp3
+11,Это самый быстрый способ добраться туда,It is the quickest way to get there,[ɪt ɪz ðə ˈkwɪkɪst weɪ tu: get ðeə],B1_L192_S11.mp3
+12,Я обычно чрезвычайно занят по вечерам,I am usually extremely busy in the evenings,[aɪ æm ˈju:ʒʊəli ɪksˈtri:mli ˈbɪzi ɪn ði ˈi:vnɪŋz],B1_L192_S12.mp3
+13,Ты пользуешься общественным транспортом?,Do you use public transport?,[du: ju: ju:z ˈpʌblɪk ˈtrænspɔ:t?],B1_L192_S13.mp3
+14,В комнате очень светло,It is very light in the room,[ɪt ɪz ˈveri laɪt ɪn ðə ru:m],B1_L192_S14.mp3
+15,Ты будешь доступен завтра?,Will you be available tomorrow?,[wɪl ju: bi: əˈveɪləbl təˈmɒrəʊ?],B1_L192_S15.mp3
+16,Она очень застенчивая девушка,She is a very shy girl,[ʃi: ɪz ə ˈveri ʃaɪ gɜ:l],B1_L192_S16.mp3
+17,Какая замечательная идея!,What a great idea!,[wɒt ə greɪt aɪˈdɪə!],B1_L192_S17.mp3
+18,У него темные волосы,He has dark hair,[hi: hæz dɑ:k heə],B1_L192_S18.mp3
+19,У тебя очень оригинальная идея,You have a very original idea,[ju: hæv ə ˈveri əˈrɪʤənl aɪˈdɪə],B1_L192_S19.mp3
+20,Отчет был неполным,The report wasn't complete,[ðə rɪˈpɔ:t wɒznt kəmˈpli:t],B1_L192_S20.mp3
+21,Он предпочитает индивидуальный подход,He prefers an individual approach,[hi: priˈfɜ:z ən ˌɪndɪˈvɪdjʊəl əˈprəʊʧ],B1_L192_S21.mp3
+22,Это был большой сюрприз для всех нас,It was a great surprise for all of us,[ɪt wɒz ə greɪt səˈpraɪz fɔ: ɔ:l ɒv ʌs],B1_L192_S22.mp3
+23,У нее очень красивые зеленые глаза,She has very beautiful green eyes,[ʃi: hæz ˈveri ˈbju:təfəl gri:n aɪz],B1_L192_S23.mp3
+24,Это очень густой лес,It is a very thick forest,[ɪt ɪz ə ˈveri θɪk ˈfɒrɪst],B1_L192_S24.mp3
+25,Я живу рядом с моим другом,I live close to my friend,[aɪ lɪv kləʊs tu: maɪ frend],B1_L192_S25.mp3
+26,Это в основном психологическая проблема,It is mostly a psychological problem,[ɪt ɪz ˈməʊstli ə ˌsaɪkəˈlɒʤɪkəl ˈprɒbləm],B1_L192_S26.mp3
+27,Это типичная ситуация в этой стране,It is a typical situation in this country,[ɪt ɪz ə ˈtɪpɪkl ˌsɪtjʊˈeɪʃən ɪn ðɪs ˈkʌntri],B1_L192_S27.mp3
+28,Она очень компетентна в этой работе,She is very competent in this work,[ʃi: ɪz ˈveri ˈkɒmpɪtənt ɪn ðɪs wɜ:k],B1_L192_S28.mp3
+29,Они очень амбициозные студенты,They are very ambitious students,[ðeɪ ɑ: ˈveri æmˈbɪʃəs ˈstju:dənts],B1_L192_S29.mp3
+30,Еда имеет очень сладкий вкус,The food has a very sweet taste,[ðə fu:d hæz ə ˈveri swi:t teɪst],B1_L192_S30.mp3
+31,Новости были действительно ужасные,The news was really terrible,[ðə nju:z wɒz ˈrɪəli ˈterəbl],B1_L192_S31.mp3
+32,Он очень уверенный в себе молодой человек,He is a very self-confident young man,[hi: ɪz ə ˈveri self- ˈkɒnfɪdənt jʌŋ mæn],B1_L192_S32.mp3
+33,"Он знал, что это было незаконно",He knew that it was illegal,[hi: nju: ðæt ɪt wɒz ɪˈli:gəl],B1_L192_S33.mp3
+34,У тебя есть с собой твой мобильный телефон?,Do you have your mobile phone with you?,[du: ju: hæv jɔ: ˈməʊbaɪl fəʊn wɪð ju:?],B1_L192_S34.mp3
+35,Чай слишком сладкий для меня,The tea is too sweet for me,[ðə ti: ɪz tu: swi:t fɔ: mi:],B1_L192_S35.mp3
+36,Он всегда такой нервный,He is always so nervous,[hi: ɪz ˈɔ:lweɪz səʊ ˈnɜ:vəs],B1_L192_S36.mp3
+37,У меня обычно очень плотный график,I usually have a very busy schedule,[aɪ ˈju:ʒʊəli hæv ə ˈveri ˈbɪzi ˈʃedju:l],B1_L192_S37.mp3
+38,Она выглядит немного смущенной,She looks a little embarrassed,[ʃi: lʊks ə ˈlɪtl ɪmˈbærəst],B1_L192_S38.mp3
+39,Он чрезвычайно талантливый писатель,He is an extremely talented writer,[hi: ɪz ən ɪksˈtri:mli ˈtæləntɪd ˈraɪtə],B1_L192_S39.mp3
+40,Я хочу быть откровенным с тобой,I want to be frank with you,[aɪ wɒnt tu: bi: fræŋk wɪð ju:],B1_L192_S40.mp3
+41,"Моя грамматика была действительно ужасной в начале, но затем я значительно улучшил ее с помощью этого метода",My grammar was really terrible in the beginning but then I improved it significantly with the help of this method,[maɪ ˈgræmə wɒz ˈrɪəli ˈterəbl ɪn ðə bɪˈgɪnɪŋ bʌt ðen aɪ ɪmˈpru:vd ɪt sɪgˈnɪfɪkəntli wɪð ðə help ɒv ðɪs ˈmeθəd],B1_L192_S41.mp3
+42,"Я был горько разочарован своими результатами, но это помогло мне сделать правильные выводы и улучшить ситуацию",I was bitterly disappointed about my results but it helped me make the right conclusions and improve the situation,[aɪ wɒz ˈbɪtəli ˌdɪsəˈpɔɪntɪd əˈbaʊt maɪ rɪˈzʌlts bʌt ɪt helpt mi: meɪk ðə raɪt kənˈklu:ʒənz ænd ɪmˈpru:v ðə ˌsɪtjʊˈeɪʃə n],B1_L192_S42.mp3
+43,"Я знаю, что ты действительно разочарован, но не принимай это слишком близко к сердцу",I know that you are really disappointed but don't take it to heart,[aɪ nəʊ ðæt ju: ɑ: ˈrɪəli ˌdɪsəˈpɔɪntɪd bʌt dəʊnt teɪk ɪt tu: hɑ:t],B1_L192_S43.mp3
+44,Наш директор решил нанять более компетентного сотрудника вместо него,Our director decided to hire a more competent employee instead of him,[ˈaʊə dɪˈrektə dɪˈsaɪdɪd tu: ˈhaɪər ə mɔ: ˈkɒmpɪtənt ˌemplɔɪˈi: ɪnˈsted ɒv hɪm],B1_L192_S44.mp3
+45,"Наш начальник действительно раздражен, потому что эти работники действительно некомпетентны",Our boss is really annoyed because these workers are really incompetent,[ˈaʊə bɒs ɪz ˈrɪəli əˈnɔɪd bɪˈkɒz ði:z ˈwɜ:kəz ɑ: ˈrɪəli ɪnˈkɒmpɪtənt],B1_L192_S45.mp3
+46,"Я знаю, что мне не хватает некоторых практических навыков, но я думаю, что это вопрос времени",I know that I lack some practical skills but I think it's a matter of time,[aɪ nəʊ ðæt aɪ læk sʌm ˈpræktɪkəl skɪlz bʌt aɪ θɪŋk ɪts ə ˈmætər ɒv taɪm],B1_L192_S46.mp3
+47,"Я вижу, что есть тесная связь между этими двумя вещами",I see that there is a close connection between these two things,[aɪ si: ðæt ðeər ɪz ə kləʊs kəˈnekʃən bɪˈtwi:n ði:z tu: θɪŋz],B1_L192_S47.mp3
+48,"Я стараюсь делать это на регулярной основе, чтобы иметь максимальный результат",I try to do it on a regular basis to have the maximum result,[aɪ traɪ tu: du: ɪt ɒn ə ˈregjʊlə ˈbeɪsɪs tu: hæv ðə ˈmæksɪməm rɪˈzʌlt],B1_L192_S48.mp3
+49,"Откровенно говоря, это совсем не оправдало моих ожиданий","To be frank, it didn't live up to my expectations at all","[tu: bi: fræŋk, ɪt dɪdnt lɪv ʌp tu: maɪ ˌekspekˈteɪʃənz æt ɔ:l]",B1_L192_S49.mp3
+50,Такая ошибка очень характерна для начинающих,Such a mistake is very typical of beginners,[sʌʧ ə mɪsˈteɪk ɪz ˈveri ˈtɪpɪkl ɒv bɪˈgɪnəz],B1_L192_S50.mp3
+51,"Он был слишком стеснительным, чтобы начать разговор с ней",He was too shy to start a conversation with her,[hi: wɒz tu: ʃaɪ tu: stɑ:t ə ˌkɒnvəˈseɪʃən wɪð hɜ:],B1_L192_S51.mp3
+52,"Я уверен, что это пустая трата времени",I'm sure that it's a complete waste of time,[aɪm ʃʊə ðæt ɪts ə kəmˈpli:t weɪst ɒv taɪm],B1_L192_S52.mp3
+53,Это главная проблема для меня на данный момент,It's the main problem for me at the moment,[ɪts ðə meɪn ˈprɒbləm fɔ: mi: æt ðə ˈməʊmənt],B1_L192_S53.mp3
+54,Это очень распространенная проблема в нашем современном мире,It is a very common problem in our modern world,[ɪt ɪz ə ˈveri ˈkɒmən ˈprɒbləm ɪn ˈaʊə ˈmɒdən wɜ:ld],B1_L192_S54.mp3
+55,Ты очень широко мыслящий человек,You are a very broad-minded person,[ju: ɑ: ə ˈveri brɔ:d- ˈmaɪndɪd ˈpɜ:sn],B1_L192_S55.mp3
+56,Они решили построить деревянный забор,They decided to build a wooden fence,[ðeɪ dɪˈsaɪdɪd tu: bɪld ə ˈwʊdn fens],B1_L192_S56.mp3
+57,Они построили деревянный дом,They built a wooden house,[ðeɪ bɪlt ə ˈwʊdn haʊs],B1_L192_S57.mp3
+58,Они предпочитают жить в деревянном доме,They prefer to live in a wooden house,[ðeɪ priˈfɜ: tu: lɪv ɪn ə ˈwʊdn haʊs],B1_L192_S58.mp3
+59,Ты читаешь английские книги в оригинале?,Do you read English books in the original?,[du: ju: ri:d ˈɪŋglɪʃ bʊks ɪn ði əˈrɪʤənl?],B1_L192_S59.mp3
+60,Ты читаешь книги на английском?,Do you read books in English?,[du: ju: ri:d bʊks ɪn ˈɪŋglɪʃ?],B1_L192_S60.mp3
+61,Ты смотришь английские фильмы в оригинале?,Do you watch English movies in the original?,[du: ju: wɒʧ ˈɪŋglɪʃ ˈmu:viz ɪn ði əˈrɪʤənl?],B1_L192_S61.mp3
+62,Это проверяется на регулярной основе,It is checked on a regular basis,[ɪt ɪz ʧekt ɒn ə ˈregjʊlə ˈbeɪsɪs],B1_L192_S62.mp3
+63,Я делаю это на регулярной основе,I do it on a regular basis,[aɪ du: ɪt ɒn ə ˈregjʊlə ˈbeɪsɪs],B1_L192_S63.mp3
+64,Это регулярно проверяется,It is regularly checked,[ɪt ɪz ˈregjʊləli ʧekt],B1_L192_S64.mp3
+65,"Он был слишком беден, чтобы позволить себе сделать это",He was too poor to afford to do it,[hi: wɒz tu: pʊə tu: əˈfɔ:d tu: du: ɪt],B1_L192_S65.mp3
+66,"Они были слишком бедны, чтобы позволить себе купить это",They were too poor to afford to buy it,[ðeɪ wɜ: tu: pʊə tu: əˈfɔ:d tu: baɪ ɪt],B1_L192_S66.mp3
+67,"Он был слишком беден, чтобы позволить себе жить там …………….…................................................... 68. Я знаком с этим человеком …………….…................................................... 69. Я не знаком с ним …………….…................................................... 70. Ты знаком с этим человеком? …………….…................................................... 71. Это действительно безумная идея …………….…................................................... 72. Это очень плохая идея …………….…................................................... 73. Это действительно отличная идея …………….…................................................... 74. Его мнение схоже с моим …………….…................................................... 75. Его точка зрения схожа с моей …………….…................................................... 76. Мои идеи схожи с ее …………….…................................................... 77. Чего он боится? …………….…................................................... 78. Он боится этого? …………….…................................................... 79. Кого они боятся? …………….…................................................... 8 80. В чем он виновен? …………….…................................................... 81. Он виновен в этом преступлении? …………….…................................................... 82. Они виновны в этой аварии …………….…................................................... 83. Девушки говорят, что он очень красивый молодой человек …………….…................................................... 84. Она говорит, что он очень умный молодой человек …………….…................................................... 85. Они говорят, что она очень добрая девушка …………….…................................................... 86. Какая была главная причина для того, чтобы сделать это? …………….…................................................... 87. Я вижу, у тебя очень амбициозные планы на будущее …………….…................................................... 88. Я не могу сказать, что я очень общительный человек …………….…................................................... 89. Важно знать, как использовать как правильные, …………….…................................................... так и неправильные глаголы …………….…................................................... 90. Написано, что это лекарство не для внутреннего употребления …………….…................................................... 91. Я решил предпринять решительные шаги, …………….…................................................... 9 чтобы полностью изменить ситуацию …………….…................................................... 92. Тебе нужно делать это на регулярной основе, …………….…................................................... чтобы получить максимальный эффект …………….…................................................... 93. Говорят, что будут приняты более решительные меры …………….…................................................... 94. Мы должны учитывать как внутренние, так и внешние факторы …………….…................................................... 95. Когда он объяснял эту деталь, аудитория была очень внимательна …………….…................................................... 96. В этой области много нелегальных иммигрантов …………….…................................................... 97. Это наименее важная вещь для нас сейчас …………….…................................................... 98. Этот голос мне знаком …………….…................................................... 99. Он считается очень широко мыслящим человеком …………….…................................................... 100. Это упражнение не такое сложное, как то …………….…................................................... 10 Ответы 1. Ты недостаточно внимателен",You aren't attentive enough,[ju: ɑ:nt əˈtentɪv ɪˈnʌf],B1_L192_S67.mp3
+68,Я знаком с этим человеком,I am familiar with this person,[aɪ æm fəˈmɪliə wɪð ðɪs ˈpɜ:sn],B1_L192_S68.mp3
+69,Я не знаком с ним,I am not familiar with him,[aɪ æm nɒt fəˈmɪliə wɪð hɪm],B1_L192_S69.mp3
+70,Ты знаком с этим человеком?,Are you familiar with this person?,[ɑ: ju: fəˈmɪliə wɪð ðɪs ˈpɜ:sn?],B1_L192_S70.mp3
+71,Это действительно безумная идея,It is a really crazy idea,[ɪt ɪz ə ˈrɪəli ˈkreɪzi aɪˈdɪə],B1_L192_S71.mp3
+72,Это очень плохая идея,It is a very bad idea,[ɪt ɪz ə ˈveri bæd aɪˈdɪə],B1_L192_S72.mp3
+73,Это действительно отличная идея,It is a really excellent idea,[ɪt ɪz ə ˈrɪəli ˈeksələnt aɪˈdɪə],B1_L192_S73.mp3
+74,Его мнение схоже с моим,His opinion is similar to mine,[hɪz əˈpɪnjən ɪz ˈsɪmɪlə tu: maɪn],B1_L192_S74.mp3
+75,Его точка зрения схожа с моей,His point of view is similar to mine,[hɪz pɔɪnt ɒv vju: ɪz ˈsɪmɪlə tu: maɪn],B1_L192_S75.mp3
+76,Мои идеи схожи с ее,My ideas are similar to hers,[maɪ aɪˈdɪəz ɑ: ˈsɪmɪlə tu: hɜ:z],B1_L192_S76.mp3
+77,Чего он боится?,What is he scared of?,[wɒt ɪz hi: skeəd ɒv?],B1_L192_S77.mp3
+78,Он боится этого?,Is he scared of it?,[ɪz hi: skeəd ɒv ɪt?],B1_L192_S78.mp3
+79,Кого они боятся?,Who are they scared of?,[hu: ɑ: ðeɪ skeəd ɒv?],B1_L192_S79.mp3
+80,В чем он виновен?,What is he guilty of?,[wɒt ɪz hi: ˈgɪlti ɒv?],B1_L192_S80.mp3
+81,Он виновен в этом преступлении?,Is he guilty of this crime?,[ɪz hi: ˈgɪlti ɒv ðɪs kraɪm?],B1_L192_S81.mp3
+82,Они виновны в этой аварии,They are guilty of this accident,[ðeɪ ɑ: ˈgɪlti ɒv ðɪs ˈæksɪdənt],B1_L192_S82.mp3
+83,"Девушки говорят, что он очень красивый молодой человек",The girls say that he is a very handsome young man,[ðə gɜ:lz seɪ ðæt hi: ɪz ə ˈveri ˈhænsəm jʌŋ mæn],B1_L192_S83.mp3
+84,"Она говорит, что он очень умный молодой человек",She says that he is a very smart young man,[ʃi: sez ðæt hi: ɪz ə ˈveri smɑ:t jʌŋ mæn],B1_L192_S84.mp3
+85,"Они говорят, что она очень добрая девушка",They say that she is a very kind girl,[ðeɪ seɪ ðæt ʃi: ɪz ə ˈveri kaɪnd gɜ:l],B1_L192_S85.mp3
+86,"Какая была главная причина для того, чтобы сделать это?",What was the main reason for doing it?,[wɒt wɒz ðə meɪn ˈri:zn fɔ: ˈdu:ɪŋ ɪt?],B1_L192_S86.mp3
+87,"Я вижу, у тебя очень амбициозные планы на будущее",I see you have very ambitious plans for the future,[aɪ si: ju: hæv ˈveri æmˈbɪʃəs plænz fɔ: ðə ˈfju:ʧə],B1_L192_S87.mp3
+88,"Я не могу сказать, что я очень общительный человек",I can't say that I am a very sociable person,[aɪ kɑ:nt seɪ ðæt aɪ æm ə ˈveri ˈsəʊʃəbl ˈpɜ:sn],B1_L192_S88.mp3
+89,"Важно знать, как использовать как правильные, так и неправильные глаголы",It is important to know how to use both regular and irregular verbs,[ɪt ɪz ɪmˈpɔ:tənt tu: nəʊ haʊ tu: ju:z bəʊθ ˈregjʊlər ænd ɪˈregjʊlə vɜ:bz],B1_L192_S89.mp3
+90,"Написано, что это лекарство не для внутреннего употребления",It is written that this medicine isn't for internal use,[ɪt ɪz ˈrɪtn ðæt ðɪs ˈmedsɪn ˈɪznt fɔ: ɪnˈtɜ:nl ju:z],B1_L192_S90.mp3
+91,"Я решил предпринять решительные шаги, чтобы полностью изменить ситуацию",I decided to take decisive steps in order to change the situation completely,[aɪ dɪˈsaɪdɪd tu: teɪk dɪˈsaɪsɪv steps ɪn ˈɔ:də tu: ʧeɪnʤ ðə ˌsɪtjʊˈeɪʃən kəmˈpli:tli],B1_L192_S91.mp3
+92,"Тебе нужно делать это на регулярной основе, чтобы получить максимальный эффект",You need to do it on a regular basis to get the maximum effect,[ju: ni:d tu: du: ɪt ɒn ə ˈregjʊlə ˈbeɪsɪs tu: get ðə ˈmæksɪməm ɪˈfekt],B1_L192_S92.mp3
+93,"Говорят, что будут приняты более решительные меры",It is said that more decisive measures will be taken,[ɪt ɪz sed ðæt mɔ: dɪˈsaɪsɪv ˈmeʒəz wɪl bi: ˈteɪkən],B1_L192_S93.mp3
+94,"Мы должны учитывать как внутренние, так и внешние факторы",We need to consider both internal and external factors,[wi: ni:d tu: kənˈsɪdə bəʊθ ɪnˈtɜ:nl ænd eksˈtɜ:nl ˈfæktəz],B1_L192_S94.mp3
+95,"Когда он объяснял эту деталь, аудитория была очень внимательна","When he was explaining this detail, the audience was very attentive","[wen hi: wɒz ɪksˈpleɪnɪŋ ðɪs ˈdi:teɪl, ði ˈɔ:diəns wɒz ˈveri əˈtentɪv]",B1_L192_S95.mp3
+96,В этой области много нелегальных иммигрантов,There are many illegal immigrants in this area,[ðeər ɑ: ˈmeni ɪˈli:gəl ˈɪmɪgrənts ɪn ðɪs ˈeərɪə],B1_L192_S96.mp3
+97,Это наименее важная вещь для нас сейчас,It is the least important thing for us now,[ɪt ɪz ðə li:st ɪmˈpɔ:tənt θɪŋ fɔ: ʌs naʊ],B1_L192_S97.mp3
+98,Этот голос мне знаком,This voice is familiar to me,[ðɪs vɔɪs ɪz fəˈmɪliə tu: mi:],B1_L192_S98.mp3
+99,Он считается очень широко мыслящим человеком,He is considered to be a very broad-minded person,[hi: ɪz kənˈsɪdəd tu: bi: ə ˈveri brɔ:d-ˈmaɪndɪd ˈpɜ:sn],B1_L192_S99.mp3
+100,"Это упражнение не такое сложное, как то",This exercise isn't as difficult as that one,[ðɪs ˈeksəsaɪz ˈɪznt æz ˈdɪfɪkəlt æz ðæt wʌn],B1_L192_S100.mp3

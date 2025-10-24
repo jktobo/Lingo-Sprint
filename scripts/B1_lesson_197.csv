@@ -1,0 +1,103 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Я сделал это специально для тебя,I did it specially for you,[aɪ dɪd ɪt ˈspeʃəli fɔ: ju:],B1_L197_S2.mp3
+3,"Определенно, ты прав","Definitely, you are right","[ˈdefɪnɪtli, ju: ɑ: raɪt]",B1_L197_S3.mp3
+4,Она работает в основном по вечерам,She works mostly in the evenings,[ʃi: wɜ:ks ˈməʊstli ɪn ði ˈi:vnɪŋz],B1_L197_S4.mp3
+5,"Ей нравятся разные цветы, особенно розы","She likes different flowers, especially roses","[ʃi: laɪks ˈdɪfrənt ˈflaʊəz, ɪsˈpeʃəli ˈrəʊzɪz]",B1_L197_S5.mp3
+6,Я прекрасно понимаю важность этого решения,I perfectly understand the importance of this decision,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd ði ɪmˈpɔ:təns ɒv ðɪs dɪˈsɪʒən],B1_L197_S6.mp3
+7,"Мне нравятся разные виды спорта, особенно бадминтон","I like different kinds of sport, especially badminton","[aɪ laɪk ˈdɪfrənt kaɪndz ɒv spɔ:t, ɪsˈpeʃəli ˈbædmɪntən]",B1_L197_S7.mp3
+8,Я изредка ее вижу,I see her occasionally,[aɪ si: hɜ: əˈkeɪʒnəli],B1_L197_S8.mp3
+9,"Он любит разные виды спорта, особенно футбол","He likes different kinds of sport, especially football","[hi: laɪks ˈdɪfrənt kaɪndz ɒv spɔ:t, ɪsˈpeʃəli ˈfʊtbɔ:l]",B1_L197_S9.mp3
+10,Я хочу знать английский язык в совершенстве,I want to know English perfectly,[aɪ wɒnt tu: nəʊ ˈɪŋglɪʃ ˈpɜ:fɪktli],B1_L197_S10.mp3
+11,Я действительно так не думаю,I don't really think so,[aɪ dəʊnt ˈrɪəli θɪŋk səʊ],B1_L197_S11.mp3
+12,Я сделал это специально для тебя,I did it specially for you,[aɪ dɪd ɪt ˈspeʃəli fɔ: ju:],B1_L197_S12.mp3
+13,Он звонит ей только изредка,He calls her only occasionally,[hi: kɔ:lz hɜ: ˈəʊnli əˈkeɪʒnəli],B1_L197_S13.mp3
+14,"Я абсолютно уверен, что мы правы",I am absolutely sure that we are right,[aɪ æm ˈæbsəlu:tli ʃʊə ðæt wi: ɑ: raɪt],B1_L197_S14.mp3
+15,Я с ним абсолютно согласен,I absolutely agree with him,[aɪ ˈæbsəlu:tli əˈgri: wɪð hɪm],B1_L197_S15.mp3
+16,"Короче, это была настоящая катастрофа","In short, it was a real disaster","[ɪn ʃɔ:t, ɪt wɒz ə rɪəl dɪˈzɑ:stə]",B1_L197_S16.mp3
+17,Он серьезно болен,He is seriously ill,[hi: ɪz ˈsɪərɪəsli ɪl],B1_L197_S17.mp3
+18,Я успешно завершил этот курс,I successfully completed this course,[aɪ səkˈsesfəli kəmˈpli:tɪd ðɪs kɔ:s],B1_L197_S18.mp3
+19,Это вряд ли работает,It hardly works,[ɪt ˈhɑ:dli wɜ:ks],B1_L197_S19.mp3
+20,Я с трудом могу в это поверить,I can hardly believe it,[aɪ kæn ˈhɑ:dli bɪˈli:v ɪt],B1_L197_S20.mp3
+21,Ты так усердно работаешь,You work so hard,[ju: wɜ:k səʊ hɑ:d],B1_L197_S21.mp3
+22,"На самом деле, это не так","Actually, it isn't so","[ˈækʧʊəli, ɪt ˈɪznt səʊ]",B1_L197_S22.mp3
+23,Это в первую очередь их задача,It is primarily their task,[ɪt ɪz ˈpraɪmərɪli ðeə tɑ:sk],B1_L197_S23.mp3
+24,Это вряд ли возможно,It is hardly possible,[ɪt ɪz ˈhɑ:dli ˈpɒsəbl],B1_L197_S24.mp3
+25,"Короче говоря, это была полная катастрофа","Briefly, it was a complete disaster","[ˈbri:fli, ɪt wɒz ə kəmˈpli:t dɪˈzɑ:stə]",B1_L197_S25.mp3
+26,Это список часто задаваемых вопросов,This is a list of frequently asked questions,[ðɪs ɪz ə lɪst ɒv ˈfri:kwəntli ɑ:skt ˈkwesʧənz],B1_L197_S26.mp3
+27,Он абсолютно уверен,He is absolutely sure,[hi: ɪz ˈæbsəlu:tli ʃʊə],B1_L197_S27.mp3
+28,У него в первую очередь финансовые проблемы,He has primarily financial problems,[hi: hæz ˈpraɪmərɪli faɪˈnænʃəl ˈprɒbləmz],B1_L197_S28.mp3
+29,Она приготовила этот торт специально для нас,She cooked this cake specially for us,[ʃi: kʊkt ðɪs keɪk ˈspeʃəli fɔ: ʌs],B1_L197_S29.mp3
+30,Я абсолютно уверен,I am absolutely certain,[aɪ æm ˈæbsəlu:tli ˈsɜ:tn],B1_L197_S30.mp3
+31,"На самом деле, ты прав","Actually, you are right","[ˈækʧʊəli, ju: ɑ: raɪt]",B1_L197_S31.mp3
+32,Она постоянно нервная,She is constantly nervous,[ʃi: ɪz ˈkɒnstəntli ˈnɜ:vəs],B1_L197_S32.mp3
+33,"Он едва работает, и никому это не нравится",He hardly works and no one likes it,[hi: ˈhɑ:dli wɜ:ks ænd nəʊ wʌn laɪks ɪt],B1_L197_S33.mp3
+34,"Конечно, у нас еще есть время","Certainly, we still have time","[ˈsɜ:tnli, wi: stɪl hæv taɪm]",B1_L197_S34.mp3
+35,Он слушает эту музыку довольно часто,He listens to this music quite frequently,[hi: ˈlɪsnz tu: ðɪs ˈmju:zɪk kwaɪt ˈfri:kwəntli],B1_L197_S35.mp3
+36,Я едва мог его понять,I could hardly understand him,[aɪ kʊd ˈhɑ:dli ˌʌndəˈstænd hɪm],B1_L197_S36.mp3
+37,Эти вещи одинаково важны,These things are equally important,[ði:z θɪŋz ɑ: ˈi:kwəli ɪmˈpɔ:tənt],B1_L197_S37.mp3
+38,Я вижу его только изредка,I see him only occasionally,[aɪ si: hɪm ˈəʊnli əˈkeɪʒnəli],B1_L197_S38.mp3
+39,Она прекрасно говорит по-английски,She speaks English perfectly,[ʃi: spi:ks ˈɪŋglɪʃ ˈpɜ:fɪktli],B1_L197_S39.mp3
+40,Я успешно сдал тест,I successfully passed this test,[aɪ səkˈsesfəli pɑ:st ðɪs test],B1_L197_S40.mp3
+41,"Она так усердно работает, и все восхищаются ею",She works so hard and everyone admires her,[ʃi: wɜ:ks səʊ hɑ:d ænd ˈevrɪwʌn ədˈmaɪəz hɜ:],B1_L197_S41.mp3
+42,Он успешно прошел сдал тест,He passed this test successfully,[hi: pɑ:st ðɪs test səkˈsesfəli],B1_L197_S42.mp3
+43,Я его прекрасно понимаю,I perfectly understand him,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd hɪm],B1_L197_S43.mp3
+44,Это определенно самый эффективный способ изучения английского языка,It is definitely the most effective way of learning English,[ɪt ɪz ˈdefɪnɪtli ðə məʊst ɪˈfektɪv weɪ ɒv ˈlɜ:nɪŋ ˈɪŋglɪʃ],B1_L197_S44.mp3
+45,"Я прекрасно понимаю, что это ее совсем не волнует",I perfectly understand that she doesn't care about it at all,[aɪ ˈpɜ:fɪktli ˌʌndəˈstænd ðæt ʃi: dʌznt keər əˈbaʊt ɪt æt ɔ:l],B1_L197_S45.mp3
+46,Он может объяснить чрезвычайно сложные вещи очень просто,He can explain extremely difficult things very simply,[hi: kæn ɪksˈpleɪn ɪksˈtri:mli ˈdɪfɪkəlt θɪŋz ˈveri ˈsɪmpli],B1_L197_S46.mp3
+47,У нее есть талант объяснять сложные вещи очень простым способом,She has a talent to explain difficult things in a very simple way,[ʃi: hæz ə ˈtælənt tu: ɪksˈpleɪn ˈdɪfɪkəlt θɪŋz ɪn ə ˈveri ˈsɪmpl weɪ],B1_L197_S47.mp3
+48,"Это не обязательно означает, что он сможет предотвратить эту опасность",It doesn't necessarily mean that he will be able to prevent this danger,[ɪt dʌznt ˈnesɪsərɪli mi:n ðæt hi: wɪl bi: ˈeɪbl tu: prɪˈvent ðɪs ˈdeɪnʤə],B1_L197_S48.mp3
+49,"Я абсолютно уверен, что эта ситуация может выйти из-под контроля довольно легко",I am absolutely sure that this situation can get out of control pretty easily,[aɪ æm ˈæbsəlu:tli ʃʊə ðæt ðɪs ˌsɪtjʊˈeɪʃən kæn get aʊt ɒv kənˈtrəʊl ˈprɪti ˈi:zɪli],B1_L197_S49.mp3
+50,"Я прекрасно осознаю, что он заботится только о своих личных интересах",I perfectly realise that he only cares about his personal interests,[aɪ ˈpɜ:fɪktli ˈrɪəlaɪz ðæt hi: ˈəʊnli keəz əˈbaʊt hɪz ˈpɜ:snl ˈɪntrɪsts],B1_L197_S50.mp3
+51,"Я прекрасно осознаю, что мы не можем ничего изменить в такой ситуации",I perfectly realise that we can't change anything in such a situation,[aɪ ˈpɜ:fɪktli ˈrɪəlaɪz ðæt wi: kɑ:nt ʧeɪnʤ ˈenɪθɪŋ ɪn sʌʧ ə ˌsɪtjʊˈeɪʃən],B1_L197_S51.mp3
+52,"Это не обязательно означает, что это произойдет рано или поздно",It doesn't necessarily mean that it will happen sooner or later,[ɪt dʌznt ˈnesɪsərɪli mi:n ðæt ɪt wɪl ˈhæpən ˈsu:nər ɔ: ˈleɪtə],B1_L197_S52.mp3
+53,"Это не обязательно означает, что он действительно прав",It doesn't necessarily mean that he is really right,[ɪt dʌznt ˈnesɪsərɪli mi:n ðæt hi: ɪz ˈrɪəli raɪt],B1_L197_S53.mp3
+54,Я недавно был в Соединенных Штатах,I have been to the United States recently,[aɪ hæv bi:n tu: ði: jʊˈnaɪtɪd steɪts ˈri:sntli],B1_L197_S54.mp3
+55,Он был серьезно ранен в автомобильной аварии,He was seriously injured in a car accident,[hi: wɒz ˈsɪərɪəsli ˈɪnʤəd ɪn ə kɑ: ˈæksɪdənt],B1_L197_S55.mp3
+56,Это один из наиболее часто задаваемых вопросов,It is one of the most frequently asked questions,[ɪt ɪz wʌn ɒv ðə məʊst ˈfri:kwəntli ɑ:skt ˈkwesʧənz],B1_L197_S56.mp3
+57,"Это не обязательно означает, что будет так",It doesn't necessarily mean that it will be so,[ɪt dʌznt ˈnesɪsərɪli mi:n ðæt ɪt wɪl bi: səʊ],B1_L197_S57.mp3
+58,Это относительно недорогие часы,It is a relatively inexpensive watch,[ɪt ɪz ə ˈrelətɪvli ˌɪnɪksˈpensɪv wɒʧ],B1_L197_S58.mp3
+59,Я сделал это главным образом по этой причине,I did it especially for this reason,[aɪ dɪd ɪt ɪsˈpeʃəli fɔ: ðɪs ˈri:zn],B1_L197_S59.mp3
+60,Я сделал это только по той причине,I did it only for that reason,[aɪ dɪd ɪt ˈəʊnli fɔ: ðæt ˈri:zn],B1_L197_S60.mp3
+61,Он сделал это главным образом по той причине,He did it especially for that reason,[hi: dɪd ɪt ɪsˈpeʃəli fɔ: ðæt ˈri:zn],B1_L197_S61.mp3
+62,"Надеюсь, он скоро поправится","Hopefully, he'll recover soon","[ˈhəʊpfəli, hi:l rɪˈkʌvə su:n]",B1_L197_S62.mp3
+63,"Я надеюсь, он скоро поправится",I hope he'll recover soon,[aɪ həʊp hi:l rɪˈkʌvə su:n],B1_L197_S63.mp3
+64,"Надеюсь, он скоро вернется","Hopefully, he'll return soon","[ˈhəʊpfəli, hi:l rɪˈtɜ:n su:n]",B1_L197_S64.mp3
+65,Он в основном интересуется наукой,He is mainly interested in science,[hi: ɪz ˈmeɪnli ˈɪntrɪstɪd ɪn ˈsaɪəns],B1_L197_S65.mp3
+66,Она действительно интересуется наукой,She is really interested in science,[ʃi: ɪz ˈrɪəli ˈɪntrɪstɪd ɪn ˈsaɪəns],B1_L197_S66.mp3
+67,Он в основном интересуется искусством,He is mainly interested in art,[hi: ɪz ˈmeɪnli ˈɪntrɪstɪd ɪn ɑ:t],B1_L197_S67.mp3
+68,"Я думаю, это было сделано намеренно",I think it was done deliberately,[aɪ θɪŋk ɪt wɒz dʌn dɪˈlɪbərɪtli],B1_L197_S68.mp3
+69,"Я думаю, это было сделано очень быстро",I think it was done very quickly,[aɪ θɪŋk ɪt wɒz dʌn ˈveri ˈkwɪkli],B1_L197_S69.mp3
+70,"Я думаю, что это было сделано вовремя",I think it was done on time,[aɪ θɪŋk ɪt wɒz dʌn ɒn taɪm],B1_L197_S70.mp3
+71,"Определенно, ты прав","Definitely, you are right","[ˈdefɪnɪtli, ju: ɑ: raɪt]",B1_L197_S71.mp3
+72,"Определенно, ты не прав …………….…................................................... 73. Ты определенно прав …………….…................................................... 74. У него похожая точка зрения …………….…................................................... 75. У него такая же точка зрения …………….…................................................... 76. У него другая точка зрения …………….…................................................... 77. Это случилось очень странным образом …………….…................................................... 78. Это случилось очень необычным образом …………….…................................................... 79. Я думаю, что это произошло действительно странным образом …………….…................................................... 80. Надеюсь, все будет хорошо …………….…................................................... 81. Надеюсь, они скоро поправятся …………….…................................................... 82. Надеюсь, у тебя все будет хорошо …………….…................................................... 83. Я сделал это, в основном, по этой причине …………….…................................................... 84. Я сделал это главным образом по этой причине …………….…................................................... 8 85. Я сделал это по другой причине …………….…................................................... 86. Они думают так же …………….…................................................... 87. Они думают по-другому …………….…................................................... 88. У них похожая точка зрения …………….…................................................... 89. Это определенно лучшее место для туристов …………….…................................................... 90. Она в основном интересуется модой …………….…................................................... 91. Честно говоря, я не знаю, что тебе ответить …………….…................................................... 92. Я абсолютно уверен, что эти вещи могут выйти …………….…................................................... из-под контроля довольно легко …………….…................................................... 93. Это не обязательно означает, что ему больше это не нравится …………….…................................................... 94. Он объясняет все очень простым способом …………….…................................................... 95. Надеюсь, тебе удастся решить эту проблему …………….…................................................... 96. Тебе нужно постоянно знать об этом …………….…................................................... 9 97. Он вел себя очень странным образом …………….…................................................... 98. Мне кажется, что это делается намеренно …………….…................................................... 99. Честно говоря, я не знаю, что сказать …………….…................................................... 100. Это недавно стало очень популярным трендом …………….…................................................... 101. Это относительно дешевая вещь …………….…................................................... 102. Это произошло в основном из-за него …………….…................................................... 103. Надеюсь, этого больше не произойдет …………….…................................................... 10 Ответы 1. Я хочу знать английский превосходно",I want to know English perfectly,[aɪ wɒnt tu: nəʊ ˈɪŋglɪʃ ˈpɜ:fɪktli],B1_L197_S72.mp3
+73,Ты определенно прав,You are definitely right,[ju: ɑ: ˈdefɪnɪtli raɪt],B1_L197_S73.mp3
+74,У него похожая точка зрения,He has a similar point of view,[hi: hæz ə ˈsɪmɪlə pɔɪnt ɒv vju:],B1_L197_S74.mp3
+75,У него такая же точка зрения,He has the same point of view,[hi: hæz ðə seɪm pɔɪnt ɒv vju:],B1_L197_S75.mp3
+76,У него другая точка зрения,He has a different point of view,[hi: hæz ə ˈdɪfrənt pɔɪnt ɒv vju:],B1_L197_S76.mp3
+77,Это случилось очень странным образом,It happened in a very strange way,[ɪt ˈhæpənd ɪn ə ˈveri streɪnʤ weɪ],B1_L197_S77.mp3
+78,Это случилось очень необычным образом,It happened in a very unusual way,[ɪt ˈhæpənd ɪn ə ˈveri ʌnˈju:ʒʊəl weɪ],B1_L197_S78.mp3
+79,"Я думаю, что это произошло действительно странным образом",I think it happened in a really strange way,[aɪ θɪŋk ɪt ˈhæpənd ɪn ə ˈrɪəli streɪnʤ weɪ],B1_L197_S79.mp3
+80,"Надеюсь, все будет хорошо","Hopefully, everything will be alright","[ˈhəʊpfəli, ˈevrɪθɪŋ wɪl bi: ɔ:lˈraɪt]",B1_L197_S80.mp3
+81,"Надеюсь, они скоро поправятся","Hopefully, they will recover soon","[ˈhəʊpfəli, ðeɪ wɪl rɪˈkʌvə su:n]",B1_L197_S81.mp3
+82,"Надеюсь, у тебя все будет хорошо","Hopefully, you will be alright","[ˈhəʊpfəli, ju: wɪl bi: ɔ:lˈraɪt]",B1_L197_S82.mp3
+83,"Я сделал это, в основном, по этой причине",I did it mostly for this reason,[aɪ dɪd ɪt ˈməʊstli fɔ: ðɪs ˈri:zn],B1_L197_S83.mp3
+84,Я сделал это главным образом по этой причине,I did it specially for this reason,[aɪ dɪd ɪt ˈspeʃəli fɔ: ðɪs ˈri:zn],B1_L197_S84.mp3
+85,Я сделал это по другой причине,I did it for another reason,[aɪ dɪd ɪt fɔ: əˈnʌðə ˈri:zn],B1_L197_S85.mp3
+86,Они думают так же,They think similarly,[ðeɪ θɪŋk ˈsɪmɪləli],B1_L197_S86.mp3
+87,Они думают по-другому,They think differently,[ðeɪ θɪŋk ˈdɪfrəntli],B1_L197_S87.mp3
+88,У них похожая точка зрения,They have a similar point of view,[ðeɪ hæv ə ˈsɪmɪlə pɔɪnt ɒv vju:],B1_L197_S88.mp3
+89,Это определенно лучшее место для туристов,It is definitely the best place for tourists,[ɪt ɪz ˈdefɪnɪtli ðə best pleɪs fɔ: ˈtʊərɪsts],B1_L197_S89.mp3
+90,Она в основном интересуется модой,She is mainly interested in fashion,[ʃi: ɪz ˈmeɪnli ˈɪntrɪstɪd ɪn ˈfæʃən],B1_L197_S90.mp3
+91,"Честно говоря, я не знаю, что тебе ответить","Honestly, I don't know how to answer you","[ˈɒnɪstli, aɪ dəʊnt nəʊ haʊ tu: ˈɑ:nsə ju:]",B1_L197_S91.mp3
+92,"Я абсолютно уверен, что эти вещи могут выйти из-под контроля довольно легко",I am absolutely sure that these things can get out of control quite easily,[aɪ æm ˈæbsəlu:tli ʃʊə ðæt ði:z θɪŋz kæn get aʊt ɒv kənˈtrəʊl kwaɪt ˈi:zɪli],B1_L197_S92.mp3
+93,"Это не обязательно означает, что ему больше это не нравится",It doesn't necessarily mean that he doesn't like it anymore,[ɪt dʌznt ˈnesɪsərɪli mi:n ðæt hi: dʌznt laɪk ɪt ˌeniˈmɔ:],B1_L197_S93.mp3
+94,Он объясняет все очень простым способом,He explains everything in a very simple way,[hi: ɪksˈpleɪnz ˈevrɪθɪŋ ɪn ə ˈveri ˈsɪmpl weɪ],B1_L197_S94.mp3
+95,"Надеюсь, тебе удастся решить эту проблему","Hopefully, you'll manage to solve this problem","[ˈhəʊpfəli, ju:l ˈmænɪʤ tu: sɒlv ðɪs ˈprɒbləm]",B1_L197_S95.mp3
+96,Тебе нужно постоянно знать об этом,You need to be constantly aware of it,[ju: ni:d tu: bi: ˈkɒnstəntli əˈweər ɒv ɪt],B1_L197_S96.mp3
+97,Он вел себя очень странным образом,He behaved in a very strange way,[hi: bɪˈheɪvd ɪn ə ˈveri streɪnʤ weɪ],B1_L197_S97.mp3
+98,"Мне кажется, что это делается намеренно",It seems to me that it is done deliberately,[ɪt si:mz tu: mi: ðæt ɪt ɪz dʌn dɪˈlɪbərɪtli],B1_L197_S98.mp3
+99,"Честно говоря, я не знаю, что сказать","Honestly, I don't know what to say","[ˈɒnɪstli, aɪ dəʊnt nəʊ wɒt tu: seɪ]",B1_L197_S99.mp3
+100,Это недавно стало очень популярным трендом,It has become a very popular trend recently,[ɪt hæz bɪˈkʌm ə ˈveri ˈpɒpjʊlə trend ˈri:sntli],B1_L197_S100.mp3
+101,Это относительно дешевая вещь,It is a relatively cheap thing,[ɪt ɪz ə ˈrelətɪvli ʧi:p θɪŋ],B1_L197_S101.mp3
+102,Это произошло в основном из-за него,It happened mainly because of him,[ɪt ˈhæpənd ˈmeɪnli bɪˈkɒz ɒv hɪm],B1_L197_S102.mp3
+103,"Надеюсь, этого больше не произойдет","Hopefully, it won't happen anymore","[ˈhəʊpfəli, ɪt wəʊnt ˈhæpən ˌeniˈmɔ:]",B1_L197_S103.mp3

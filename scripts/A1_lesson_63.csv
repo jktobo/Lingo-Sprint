@@ -1,0 +1,102 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она живет в большом городе?,Does she live in a big city?,[dʌz ʃi: lɪv ɪn ə bɪg ˈsɪti?],A1_L63_S2.mp3
+3,Он изучает французский в университете?,Does he study French at university?,[dʌz hi: ˈstʌdi frenʧ æt ˌju:nɪˈvɜ:sɪti?],A1_L63_S3.mp3
+4,Он курит или нет?,Does he smoke or not?,[dʌz hi: sməʊk ɔ: nɒt?],A1_L63_S4.mp3
+5,Он пытается найти здесь эту информацию?,Does he try to find this information here?,[dʌz hi: traɪ tu: faɪnd ðɪs ˌɪnfəˈmeɪʃən hɪə?],A1_L63_S5.mp3
+6,Он часто это говорит?,Does he often say it?,[dʌz hi: ˈɒfn seɪ ɪt?],A1_L63_S6.mp3
+7,Ты живешь в большом доме?,Do you live in a big house?,[du: ju: lɪv ɪn ə bɪg haʊs?],A1_L63_S7.mp3
+8,Он плавает лучше?,Does he swim better?,[dʌz hi: swɪm ˈbetə?],A1_L63_S8.mp3
+9,Ты живешь отдельно?,Do you live separately?,[du: ju: lɪv ˈseprɪtli?],A1_L63_S9.mp3
+10,Тебе нравится эта программа?,Do you like this program?,[du: ju: laɪk ðɪs ˈprəʊgræm?],A1_L63_S10.mp3
+11,Это действительно помогает ему?,Does it really help him?,[dʌz ɪt ˈrɪəli help hɪm?],A1_L63_S11.mp3
+12,Он тоже так думает?,"Does he think so, too?","[dʌz hi: θɪŋk səʊ, tu:?]",A1_L63_S12.mp3
+13,У тебя много родственников?,Do you have many relatives?,[du: ju: hæv ˈmeni ˈrelətɪvz?],A1_L63_S13.mp3
+14,Она живет в маленьком городке?,Does she live in a small town?,[dʌz ʃi: lɪv ɪn ə smɔ:l taʊn?],A1_L63_S14.mp3
+15,Это приносит людям счастье?,Does it bring people happiness?,[dʌz ɪt brɪŋ ˈpi:pl ˈhæpɪnɪs?],A1_L63_S15.mp3
+16,Она хочет жить одна?,Does she want to live alone?,[dʌz ʃi: wɒnt tu: lɪv əˈləʊn?],A1_L63_S16.mp3
+17,Он верит в Бога?,Does he believe in God?,[dʌz hi: bɪˈli:v ɪn gɒd?],A1_L63_S17.mp3
+18,Он чувствует себя плохо?,Does he feel ill?,[dʌz hi: fi:l ɪl?],A1_L63_S18.mp3
+19,Ей нравится этот сериал?,Does she like this TV series?,[dʌz ʃi: laɪk ðɪs ˌti:ˈvi: ˈsɪəri:z?],A1_L63_S19.mp3
+20,Он часто говорит тебе эту вещь?,Does he often tell you this thing?,[dʌz hi: ˈɒfn tel ju: ðɪs θɪŋ?],A1_L63_S20.mp3
+21,Ты находишь эту идею интересной?,Do you find this idea interesting?,[du: ju: faɪnd ðɪs aɪˈdɪə ˈɪntrɪstɪŋ?],A1_L63_S21.mp3
+22,Они живут отдельно?,Do they live separately?,[du: ðeɪ lɪv ˈseprɪtli?],A1_L63_S22.mp3
+23,Она хочет учиться в другом месте?,Does she want to study in another place?,[dʌz ʃi: wɒnt tu: ˈstʌdi ɪn əˈnʌðə pleɪs?],A1_L63_S23.mp3
+24,Ты хочешь жить один?,Do you want to live alone?,[du: ju: wɒnt tu: lɪv əˈləʊn?],A1_L63_S24.mp3
+25,Ты находишь этот тест очень легким?,Do you find this test very easy?,[du: ju: faɪnd ðɪs test ˈveri ˈi:zi?],A1_L63_S25.mp3
+26,Тебе нравится плавание?,Do you like swimming?,[du: ju: laɪk ˈswɪmɪŋ?],A1_L63_S26.mp3
+27,Ты живешь в новом здании?,Do you live in a new building?,[du: ju: lɪv ɪn ə nju: ˈbɪldɪŋ?],A1_L63_S27.mp3
+28,У него стабильный доход?,Does he have a stable income?,[dʌz hi: hæv ə ˈsteɪbl ˈɪnkʌm?],A1_L63_S28.mp3
+29,Ты знаешь этого парня?,Do you know this guy?,[du: ju: nəʊ ðɪs gaɪ?],A1_L63_S29.mp3
+30,Ты куришь?,Do you smoke?,[du: ju: sməʊk?],A1_L63_S30.mp3
+31,У тебя есть стабильный доход?,Do you have a stable income?,[du: ju: hæv ə ˈsteɪbl ˈɪnkʌm?],A1_L63_S31.mp3
+32,Ты живешь в большом городе?,Do you live in a big city?,[du: ju: lɪv ɪn ə bɪg ˈsɪti?],A1_L63_S32.mp3
+33,Ты ищешь это онлайн?,Do you look for it online?,[du: ju: lʊk fɔ: ɪt ˈɒnˌlaɪn?],A1_L63_S33.mp3
+34,Она тоже так думает?,Does she also think so?,[dʌz ʃi: ˈɔ:lsəʊ θɪŋk səʊ?],A1_L63_S34.mp3
+35,Ты хочешь жить в другом месте?,Do you want to live in another place?,[du: ju: wɒnt tu: lɪv ɪn əˈnʌðə pleɪs?],A1_L63_S35.mp3
+36,У тебя большой дом?,Do you have a big house?,[du: ju: hæv ə bɪg haʊs?],A1_L63_S36.mp3
+37,Она живет в старом здании?,Does she live in an old building?,[dʌz ʃi: lɪv ɪn ən əʊld ˈbɪldɪŋ?],A1_L63_S37.mp3
+38,Ты смотришь бесплатные уроки английского онлайн?,Do you watch free English lessons online?,[du: ju: wɒʧ fri: ˈɪŋglɪʃ ˈlesnz ˈɒnˌlaɪn?],A1_L63_S38.mp3
+39,У тебя есть какое-либо свободное время?,Do you have any free time?,[du: ju: hæv ˈeni fri: taɪm?],A1_L63_S39.mp3
+40,Она изучает английский в школе?,Does she study English at school?,[dʌz ʃi: ˈstʌdi ˈɪŋglɪʃ æt sku:l?],A1_L63_S40.mp3
+41,Ты ищешь эту информацию онлайн?,Do you look for this information online?,[du: ju: lʊk fɔ: ðɪs ˌɪnfəˈmeɪʃən ˈɒnˌlaɪn?],A1_L63_S41.mp3
+42,Тебе нравится этот сериал?,Do you like this TV series?,[du: ju: laɪk ðɪs ˌti:ˈvi: ˈsɪəri:z?],A1_L63_S42.mp3
+43,Это принадлежит ему?,Does it belong to him?,[dʌz ɪt bɪˈlɒŋ tu: hɪm?],A1_L63_S43.mp3
+44,Это развивает наши профессиональные навыки?,Does it develop our professional skills?,[dʌz ɪt dɪˈveləp ˈaʊə prəˈfeʃənl skɪlz?],A1_L63_S44.mp3
+45,Он работает музыкантом?,Does he work as a musician?,[dʌz hi: wɜ:k æz ə mju:ˈzɪʃən?],A1_L63_S45.mp3
+46,Он ведет здоровый образ жизни?,Does he lead a healthy lifestyle?,[dʌz hi: li:d ə ˈhelθi ˈlaɪfˌstaɪl?],A1_L63_S46.mp3
+47,"Ты понимаешь, почему он это делает?",Do you understand why he does it?,[du: ju: ˌʌndəˈstænd waɪ hi: dʌz ɪt?],A1_L63_S47.mp3
+48,Ты финансово зависишь от своих родителей?,Do you depend on your parents financially?,[du: ju: dɪˈpend ɒn jɔ: ˈpeərənts faɪˈnænʃəli?],A1_L63_S48.mp3
+49,Это развивает наше воображение?,Does it develop our imagination?,[dʌz ɪt dɪˈveləp ˈaʊər ɪˌmæʤɪˈneɪʃən?],A1_L63_S49.mp3
+50,Ты изучаешь английский самостоятельно?,Do you learn English by yourself?,[du: ju: lɜ:n ˈɪŋglɪʃ baɪ jɔ:ˈself?],A1_L63_S50.mp3
+51,Ты хочешь быть ученым?,Do you want to be a scientist?,[du: ju: wɒnt tu: bi: ə ˈsaɪəntɪst?],A1_L63_S51.mp3
+52,Это развивает эти навыки?,Does it develop these skills?,[dʌz ɪt dɪˈveləp ði:z skɪlz?],A1_L63_S52.mp3
+53,"Ты знаешь, что я учу английский самостоятельно?",Do you know that I learn English on my own?,[du: ju: nəʊ ðæt aɪ lɜ:n ˈɪŋglɪʃ ɒn maɪ əʊn?],A1_L63_S53.mp3
+54,Он работает программистом?,Does he work as a programmer?,[dʌz hi: wɜ:k æz ə ˈprəʊgræmə?],A1_L63_S54.mp3
+55,"Ты действительно понимаешь, почему это стоит так много?",Do you really understand why it costs so much?,[du: ju: ˈrɪəli ˌʌndəˈstænd waɪ ɪt kɒsts səʊ mʌʧ?],A1_L63_S55.mp3
+56,У тебя такой же вопрос?,Do you have the same question?,[du: ju: hæv ðə seɪm ˈkwesʧən?],A1_L63_S56.mp3
+57,Ты пытаешься решить эту проблему?,Do you try to solve this problem?,[du: ju: traɪ tu: sɒlv ðɪs ˈprɒbləm?],A1_L63_S57.mp3
+58,"Ты знаешь, что я учу английский самостоятельно?",Do you know that I learn English by myself?,[du: ju: nəʊ ðæt aɪ lɜ:n ˈɪŋglɪʃ baɪ maɪˈself?],A1_L63_S58.mp3
+59,"Ты знаешь, что она учит английский самостоятельно?",Do you know that she learns English by herself?,[du: ju: nəʊ ðæt ʃi: lɜ:nz ˈɪŋglɪʃ baɪ hɜ:ˈself?],A1_L63_S59.mp3
+60,"Она знает, что он изучает английский самостоятельно?",Does she know that he learns English by himself?,[dʌz ʃi: nəʊ ðæt hi: lɜ:nz ˈɪŋglɪʃ baɪ hɪmˈself?],A1_L63_S60.mp3
+61,Она платит за свое образование?,Does she pay for her education?,[dʌz ʃi: peɪ fɔ: hɜ: ˌedju:ˈkeɪʃən?],A1_L63_S61.mp3
+62,Ты платишь за свое образование?,Do you pay for your education?,[du: ju: peɪ fɔ: jɔ: ˌedju:ˈkeɪʃən?],A1_L63_S62.mp3
+63,Он платит за свое образование?,Does he pay for his education?,[dʌz hi: peɪ fɔ: hɪz ˌedju:ˈkeɪʃən?],A1_L63_S63.mp3
+64,Ты хочешь путешествовать по миру?,Do you want to travel around the world?,[du: ju: wɒnt tu: ˈtrævl əˈraʊnd ðə wɜ:ld?],A1_L63_S64.mp3
+65,Твой брат хочет путешествовать по миру?,Does your brother want to travel around the world?,[dʌz jɔ: ˈbrʌðə wɒnt tu: ˈtrævl əˈraʊnd ðə wɜ:ld?],A1_L63_S65.mp3
+66,Она хочет путешествовать по стране?,Does she want to travel around the country?,[dʌz ʃi: wɒnt tu: ˈtrævl əˈraʊnd ðə ˈkʌntri?],A1_L63_S66.mp3
+67,Он работает инструктором?,Does he work as an instructor?,[dʌz hi: wɜ:k æz ən ɪnˈstrʌktə?],A1_L63_S67.mp3
+68,Ты работаешь инструктором?,Do you work as an instructor?,[du: ju: wɜ:k æz ən ɪnˈstrʌktə?],A1_L63_S68.mp3
+69,Он работает тренером?,Does he work as a trainer?,[dʌz hi: wɜ:k æz ə ˈtreɪnə?],A1_L63_S69.mp3
+70,Это зависит от тебя?,Does it depend on you?,[dʌz ɪt dɪˈpend ɒn ju:?],A1_L63_S70.mp3
+71,Это зависит от меня?,Does it depend on me?,[dʌz ɪt dɪˈpend ɒn mi:?],A1_L63_S71.mp3
+72,Ты зависишь от него?,Do you depend on him?,[du: ju: dɪˈpend ɒn hɪm?],A1_L63_S72.mp3
+73,Ты делаешь это самостоятельно?,Do you do it by yourself?,[du: ju: du: ɪt baɪ jɔ:ˈself?],A1_L63_S73.mp3
+74,"Она делает это самостоятельно? …………….…................................................... 75. Он делает это самостоятельно? …………….…................................................... 76. У него такие же результаты? …………….…................................................... 77. У тебя такие же результаты? …………….…................................................... 78. У нас разные результаты? …………….…................................................... 79. Ты часто делаешь ошибки, когда говоришь на иностранном языке? …………….…................................................... 80. Он часто делает ошибки, когда говорит на иностранном языке? …………….…................................................... 81. Я часто делаю ошибки, когда говорю по-английски? …………….…................................................... 82. Ты знаешь, как ответить на этот вопрос? …………….…................................................... 83. Она знает, как ответить на этот вопрос? …………….…................................................... 84. Ты знаешь, как ответить на мой вопрос? …………….…................................................... 85. Он часто делает ошибки, когда говорит по-английски? …………….…................................................... 86. Ты часто делаешь ошибки, когда говоришь по-английски? …………….…................................................... 8 87. Она часто делает ошибки, когда она говорит по-испански? …………….…................................................... 88. Он финансово зависит от своих родителей? …………….…................................................... 89. Он работает фитнес инструктором? …………….…................................................... 90. Это принадлежит тебе? …………….…................................................... 91. У него в настоящий момент есть какие-либо вопросы? …………….…................................................... 92. Ты работаешь фитнес тренером? …………….…................................................... 93. Ты изучаешь английский самостоятельно? …………….…................................................... 94. Ты стараешься вести здоровый образ жизни? …………….…................................................... 95. Ты делаешь это самостоятельно? …………….…................................................... 96. Это зависит от нас? …………….…................................................... 97. Ты знаешь, как решить эту проблему? …………….…................................................... 98. Она хочет быть специалистом по маркетингу? 99. У тебя есть какие-либо вопросы на данный момент? …………….…................................................... 9 100. Ему нужно сделать это срочно? …………….…................................................... 101. Ты работаешь персональным тренером? …………….…................................................... 102. Он хочет быть президентом? …………….…................................................... 10 Ответы 1. Ты пьешь кофе утром?",Do you drink coffee in the morning?,[du: ju: drɪŋk ˈkɒfi ɪn ðə ˈmɔ:nɪŋ?],A1_L63_S74.mp3
+75,Он делает это самостоятельно?,Does he do it by himself?,[dʌz hi: du: ɪt baɪ hɪmˈself?],A1_L63_S75.mp3
+76,У него такие же результаты?,Does he have the same results?,[dʌz hi: hæv ðə seɪm rɪˈzʌlts?],A1_L63_S76.mp3
+77,У тебя такие же результаты?,Do you have the same results?,[du: ju: hæv ðə seɪm rɪˈzʌlts?],A1_L63_S77.mp3
+78,У нас разные результаты?,Do we have different results?,[du: wi: hæv ˈdɪfrənt rɪˈzʌlts?],A1_L63_S78.mp3
+79,"Ты часто делаешь ошибки, когда говоришь на иностранном языке?",Do you often make mistakes when you speak a foreign language?,[du: ju: ˈɒfn meɪk mɪsˈteɪks wen ju: spi:k ə ˈfɒrɪn ˈlæŋgwɪʤ?],A1_L63_S79.mp3
+80,"Он часто делает ошибки, когда говорит на иностранном языке?",Does he often make mistakes when he speaks a foreign language?,[dʌz hi: ˈɒfn meɪk mɪsˈteɪks wen hi: spi:ks ə ˈfɒrɪn ˈlæŋgwɪʤ?],A1_L63_S80.mp3
+81,"Я часто делаю ошибки, когда говорю по-английски?",Do I often make mistakes when I speak English?,[du: aɪ ˈɒfn meɪk mɪsˈteɪks wen aɪ spi:k ˈɪŋglɪʃ?],A1_L63_S81.mp3
+82,"Ты знаешь, как ответить на этот вопрос?",Do you know how to answer this question?,[du: ju: nəʊ haʊ tu: ˈɑ:nsə ðɪs ˈkwesʧən?],A1_L63_S82.mp3
+83,"Она знает, как ответить на этот вопрос?",Does she know how to answer this question?,[dʌz ʃi: nəʊ haʊ tu: ˈɑ:nsə ðɪs ˈkwesʧən?],A1_L63_S83.mp3
+84,"Ты знаешь, как ответить на мой вопрос?",Do you know how to answer my question?,[du: ju: nəʊ haʊ tu: ˈɑ:nsə maɪ ˈkwesʧən?],A1_L63_S84.mp3
+85,"Он часто делает ошибки, когда говорит по-английски?",Does he often make mistakes when he speaks English?,[dʌz hi: ˈɒfn meɪk mɪsˈteɪks wen hi: spi:ks ˈɪŋglɪʃ?],A1_L63_S85.mp3
+86,"Ты часто делаешь ошибки, когда говоришь по-английски?",Do you often make mistakes when you speak English?,[du: ju: ˈɒfn meɪk mɪsˈteɪks wen ju: spi:k ˈɪŋglɪʃ?],A1_L63_S86.mp3
+87,"Она часто делает ошибки, когда она говорит по-испански?",Does she often make mistakes when she speaks Spanish?,[dʌz ʃi: ˈɒfn meɪk mɪsˈteɪks wen ʃi: spi:ks ˈspænɪʃ?],A1_L63_S87.mp3
+88,Он финансово зависит от своих родителей?,Does he depend on his parents financially?,[dʌz hi: dɪˈpend ɒn hɪz ˈpeərənts faɪˈnænʃəli?],A1_L63_S88.mp3
+89,Он работает фитнес инструктором?,Does he work as a fitness instructor?,[dʌz hi: wɜ:k æz ə ˈfɪtnɪs ɪnˈstrʌktə?],A1_L63_S89.mp3
+90,Это принадлежит тебе?,Does it belong to you?,[dʌz ɪt bɪˈlɒŋ tu: ju:?],A1_L63_S90.mp3
+91,У него в настоящий момент есть какие-либо вопросы?,Does he have any questions at present?,[dʌz hi: hæv ˈeni ˈkwesʧənz æt ˈpreznt?],A1_L63_S91.mp3
+92,Ты работаешь фитнес тренером?,Do you work as a fitness trainer?,[du: ju: wɜ:k æz ə ˈfɪtnɪs ˈtreɪnə?],A1_L63_S92.mp3
+93,Ты изучаешь английский самостоятельно?,Do you learn English on your own?,[du: ju: lɜ:n ˈɪŋglɪʃ ɒn jɔ: əʊn?],A1_L63_S93.mp3
+94,Ты стараешься вести здоровый образ жизни?,Do you try to lead a healthy lifestyle?,[du: ju: traɪ tu: li:d ə ˈhelθi ˈlaɪfˌstaɪl?],A1_L63_S94.mp3
+95,Ты делаешь это самостоятельно?,Do you do it on your own?,[du: ju: du: ɪt ɒn jɔ: əʊn?],A1_L63_S95.mp3
+96,Это зависит от нас?,Does it depend on us?,[dʌz ɪt dɪˈpend ɒn ʌs?],A1_L63_S96.mp3
+97,"Ты знаешь, как решить эту проблему?",Do you know how to solve this problem?,[du: ju: nəʊ haʊ tu: sɒlv ðɪs ˈprɒbləm?],A1_L63_S97.mp3
+98,Она хочет быть специалистом по маркетингу?,Does she want to be marketing specialist?,[dʌz ʃi: wɒnt tu: bi: ˈmɑ:kɪtɪŋ ˈspeʃəlɪst?],A1_L63_S98.mp3
+99,У тебя есть какие-либо вопросы на данный момент?,Do you have any questions at the moment?,[du: ju: hæv ˈeni ˈkwesʧənz æt ðə ˈməʊmənt?],A1_L63_S99.mp3
+100,Ему нужно сделать это срочно?,Does he need to do it urgently?,[dʌz hi: ni:d tu: du: ɪt ˈɜ:ʤəntli?],A1_L63_S100.mp3
+101,Ты работаешь персональным тренером?,Do you work as a personal trainer?,[du: ju: wɜ:k æz ə ˈpɜ:snl ˈtreɪnə?],A1_L63_S101.mp3
+102,Он хочет быть президентом?,Does he want to be a president?,[dʌz hi: wɒnt tu: bi: ə ˈprezɪdənt?],A1_L63_S102.mp3

@@ -1,0 +1,101 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Мы не в твоей группе,We aren’t in your group,[wi: ɑ:nt ɪn jɔ: gru:p],A1_L59_S2.mp3
+3,Это не плохая идея,It isn't a bad idea,[ɪt ˈɪznt ə bæd aɪˈdɪə],A1_L59_S3.mp3
+4,Это не опасное место,It isn't a dangerous place,[ɪt ˈɪznt ə ˈdeɪnʤrəs pleɪs],A1_L59_S4.mp3
+5,Это не ее окончательный ответ,It isn't her final answer,[ɪt ˈɪznt hɜ: ˈfaɪnl ˈɑ:nsə],A1_L59_S5.mp3
+6,Меня это не интересует,I'm not interested in it,[aɪm nɒt ˈɪntrɪstɪd ɪn ɪt],A1_L59_S6.mp3
+7,Это не новая машина,It isn't a new car,[ɪt ˈɪznt ə nju: kɑ:],A1_L59_S7.mp3
+8,Я не в кафе сейчас,I'm not in a cafe now,[aɪm nɒt ɪn ə ˈkæfeɪ naʊ],A1_L59_S8.mp3
+9,Он совсем не устал,He isn't tired at all,[hi: ˈɪznt ˈtaɪəd æt ɔ:l],A1_L59_S9.mp3
+10,Он не интересуется политикой,He isn't interested in politics,[hi: ˈɪznt ˈɪntrɪstɪd ɪn ˈpɒlɪtɪks],A1_L59_S10.mp3
+11,Это не высокий уровень,It isn't a high level,[ɪt ˈɪznt ə haɪ ˈlevl],A1_L59_S11.mp3
+12,Она не интересуется экономикой,She isn't interested in economics,[ʃi: ˈɪznt ˈɪntrɪstɪd ɪn ˌi:kəˈnɒmɪks],A1_L59_S12.mp3
+13,Это не легкий тест для нас,It isn't an easy test for us,[ɪt ˈɪznt ən ˈi:zi test fɔ: ʌs],A1_L59_S13.mp3
+14,Это не хорошая идея,It isn't a good idea,[ɪt ˈɪznt ə gʊd aɪˈdɪə],A1_L59_S14.mp3
+15,Я совсем не устал,I'm not tired at all,[aɪm nɒt ˈtaɪəd æt ɔ:l],A1_L59_S15.mp3
+16,Она не художник,She isn't an artist,[ʃi: ˈɪznt ən ˈɑ:tɪst],A1_L59_S16.mp3
+17,Я не рад этому,I'm not happy about it,[aɪm nɒt ˈhæpi əˈbaʊt ɪt],A1_L59_S17.mp3
+18,Он не писатель,He isn't a writer,[hi: ˈɪznt ə ˈraɪtə],A1_L59_S18.mp3
+19,Я не в отпуске сейчас,I'm not on holiday now,[aɪm nɒt ɒn ˈhɒlədeɪ naʊ],A1_L59_S19.mp3
+20,Это не так смешно,It isn't so funny,[ɪt ˈɪznt səʊ ˈfʌni],A1_L59_S20.mp3
+21,Это не большой риск,It isn't a big risk,[ɪt ˈɪznt ə bɪg rɪsk],A1_L59_S21.mp3
+22,Я не заинтересован в этих вещах,I'm not interested in these things,[aɪm nɒt ˈɪntrɪstɪd ɪn ði:z θɪŋz],A1_L59_S22.mp3
+23,Я не опаздываю,I'm not late,[aɪm nɒt leɪt],A1_L59_S23.mp3
+24,Это не большая проблема,It isn't a big problem,[ɪt ˈɪznt ə bɪg ˈprɒbləm],A1_L59_S24.mp3
+25,"Конечно, он не сумасшедший","Of course, he isn't crazy","[ɒv kɔ:s, hi: ˈɪznt ˈkreɪzi]",A1_L59_S25.mp3
+26,Он не бизнесмен,He isn't a businessman,[hi: ˈɪznt ə ˈbɪznɪsmən],A1_L59_S26.mp3
+27,Он не профессиональный певец,He isn't a professional singer,[hi: ˈɪznt ə prəˈfeʃənl ˈsɪŋə],A1_L59_S27.mp3
+28,Он не сумасшедший,He isn't crazy,[hi: ˈɪznt ˈkreɪzi],A1_L59_S28.mp3
+29,"Конечно, она не сумасшедшая","Of course, she isn't mad","[ɒv kɔ:s, ʃi: ˈɪznt mæd]",A1_L59_S29.mp3
+30,Это не глубокое озеро,It isn't a deep lake,[ɪt ˈɪznt ə di:p leɪk],A1_L59_S30.mp3
+31,Они не бедные люди,They aren't poor people,[ðeɪ ɑ:nt pʊə ˈpi:pl],A1_L59_S31.mp3
+32,Она не медсестра,She isn't a nurse,[ʃi: ˈɪznt ə nɜ:s],A1_L59_S32.mp3
+33,Я не уверен,I am not sure,[aɪ æm nɒt ʃʊə],A1_L59_S33.mp3
+34,Это не сложное упражнение для меня,It isn't a difficult exercise for me,[ɪt ˈɪznt ə ˈdɪfɪkəlt ˈeksəsaɪz fɔ: mi:],A1_L59_S34.mp3
+35,Она не бухгалтер,She isn't an accountant,[ʃi: ˈɪznt ən əˈkaʊntənt],A1_L59_S35.mp3
+36,Это не главная проблема,It isn't the main problem,[ɪt ˈɪznt ðə meɪn ˈprɒbləm],A1_L59_S36.mp3
+37,Это не мое окончательное решение,It isn't my final decision,[ɪt ˈɪznt maɪ ˈfaɪnl dɪˈsɪʒən],A1_L59_S37.mp3
+38,Она не сумасшедшая,She isn't mad,[ʃi: ˈɪznt mæd],A1_L59_S38.mp3
+39,Это не смешная шутка,It isn't a funny joke,[ɪt ˈɪznt ə ˈfʌni ʤəʊk],A1_L59_S39.mp3
+40,Он не удивлен,He isn't surprised,[hi: ˈɪznt səˈpraɪzd],A1_L59_S40.mp3
+41,Он не болен,He isn't ill,[hi: ˈɪznt ɪl],A1_L59_S41.mp3
+42,Это не глубокая река,It isn't a deep river,[ɪt ˈɪznt ə di:p ˈrɪvə],A1_L59_S42.mp3
+43,Это не простой тест,It isn't a simple test,[ɪt ˈɪznt ə ˈsɪmpl test],A1_L59_S43.mp3
+44,Это не главный вопрос,It isn't the main question,[ɪt ˈɪznt ðə meɪn ˈkwesʧən],A1_L59_S44.mp3
+45,Он не в школе сейчас,He isn't at school now,[hi: ˈɪznt æt sku:l naʊ],A1_L59_S45.mp3
+46,Это не мой лучший результат,It isn't my best result,[ɪt ˈɪznt maɪ best rɪˈzʌlt],A1_L59_S46.mp3
+47,Это не распространенная ошибка среди студентов,It isn't a common mistake among students,[ɪt ˈɪznt ə ˈkɒmən mɪsˈteɪk əˈmʌŋ ˈstju:dənts],A1_L59_S47.mp3
+48,"Я думаю, это не лучшее решение этой проблемы",I think it isn't the best solution to this problem,[aɪ θɪŋk ɪt ˈɪznt ðə best səˈlu:ʃən tu: ðɪs ˈprɒbləm],A1_L59_S48.mp3
+49,Он не носитель языка,He isn't a native speaker,[hi: ˈɪznt ə ˈneɪtɪv ˈspi:kə],A1_L59_S49.mp3
+50,Это не лучший ответ на этот вопрос,It isn't the best answer to this question,[ɪt ˈɪznt ðə best ˈɑ:nsə tu: ðɪs ˈkwesʧən],A1_L59_S50.mp3
+51,"Я не думаю, что это лучший ответ на тот вопрос",I don't think that it's the best answer to that question,[aɪ dəʊnt θɪŋk ðæt ɪts ðə best ˈɑ:nsə tu: ðæt ˈkwesʧən],A1_L59_S51.mp3
+52,Он не женат на ней,He isn't married to her,[hi: ˈɪznt ˈmærɪd tu: hɜ:],A1_L59_S52.mp3
+53,"Он думает, это не лучше",He thinks it isn't better,[hi: θɪŋks ɪt ˈɪznt ˈbetə],A1_L59_S53.mp3
+54,"Мне кажется, что она не носитель языка",It seems to me that she isn't a native speaker,[ɪt si:mz tu: mi: ðæt ʃi: ˈɪznt ə ˈneɪtɪv ˈspi:kə],A1_L59_S54.mp3
+55,Это не натуральный ингредиент,It isn't a natural ingredient,[ɪt ˈɪznt ə ˈnæʧrəl ɪnˈgri:diənt],A1_L59_S55.mp3
+56,Это не очень распространенная ошибка среди изучающих английский язык,It isn't a very common mistake among English learners,[ɪt ˈɪznt ə ˈveri ˈkɒmən mɪsˈteɪk əˈmʌŋ ˈɪŋglɪʃ ˈlɜ:nəz],A1_L59_S56.mp3
+57,Это не моя главная мечта,It isn't my main dream,[ɪt ˈɪznt maɪ meɪn dri:m],A1_L59_S57.mp3
+58,Я не заинтересован в этой вещи,I'm not interested in this thing,[aɪm nɒt ˈɪntrɪstɪd ɪn ðɪs θɪŋ],A1_L59_S58.mp3
+59,Это неправильный глагол,It's an irregular verb,[ɪts ən ɪˈregjʊlə vɜ:b],A1_L59_S59.mp3
+60,Это не правильный глагол,It isn't a regular verb,[ɪt ˈɪznt ə ˈregjʊlə vɜ:b],A1_L59_S60.mp3
+61,Это правильный глагол,It's a regular verb,[ɪts ə ˈregjʊlə vɜ:b],A1_L59_S61.mp3
+62,Мы не в одной группе,We aren't in the same group,[wi: ɑ:nt ɪn ðə seɪm gru:p],A1_L59_S62.mp3
+63,Мы в одной группе,We are in the same group,[wi: ɑ: ɪn ðə seɪm gru:p],A1_L59_S63.mp3
+64,Они не в той группе,They aren't in that group,[ðeɪ ɑ:nt ɪn ðæt gru:p],A1_L59_S64.mp3
+65,Это не очень популярный ответ,It isn't a very popular answer,[ɪt ˈɪznt ə ˈveri ˈpɒpjʊlər ˈɑ:nsə],A1_L59_S65.mp3
+66,Это очень популярный ответ,It is a very popular answer,[ɪt ɪz ə ˈveri ˈpɒpjʊlər ˈɑ:nsə],A1_L59_S66.mp3
+67,Это не очень популярный вопрос,It isn't a very popular question,[ɪt ˈɪznt ə ˈveri ˈpɒpjʊlə ˈkwesʧən],A1_L59_S67.mp3
+68,Они не в аэропорту,They aren't at the airport,[ðeɪ ɑ:nt æt ði ˈeəpɔ:t],A1_L59_S68.mp3
+69,Она не в аэропорту,She isn't at the airport,[ʃi: ˈɪznt æt ði ˈeəpɔ:t],A1_L59_S69.mp3
+70,Мы в аэропорту,We are at the airport,[wi: ɑ: æt ði ˈeəpɔ:t],A1_L59_S70.mp3
+71,"К сожалению, ты не прав","Unfortunately, you aren't right","[ʌnˈfɔ:ʧnɪtli, ju: ɑ:nt raɪt]",A1_L59_S71.mp3
+72,"К сожалению, я не прав","Unfortunately, I am not right","[ʌnˈfɔ:ʧnɪtli, aɪ æm nɒt raɪt]",A1_L59_S72.mp3
+73,"К сожалению, они не правы …………….…................................................... 74. Это не правильный ответ …………….…................................................... 75. Это правильный ответ …………….…................................................... 76. Это не самый лучший ответ …………….…................................................... 77. Она не замужем за ним …………….…................................................... 78. Они не женаты …………….…................................................... 79. Это не официальный документ …………….…................................................... 80. Это официальный документ …………….…................................................... 81. Это не важный документ …………….…................................................... 82. Он не готов к этому экзамену сейчас …………….…................................................... 83. Я не готов к тому экзамену …………….…................................................... 84. Он не готов к экзаменам …………….…................................................... 85. Я хочу сказать, что я не уверен …………….…................................................... 8 86. Она хочет сказать, что она не уверена …………….…................................................... 87. Они хотят сказать, что они не уверены …………….…................................................... 88. Он не бухгалтер …………….…................................................... 89. Это не мое главное хобби …………….…................................................... 90. Я не в парке сейчас …………….…................................................... 91. Мне кажется, это не лучшее решение …………….…................................................... 92. Они не в одном и том же классе …………….…................................................... 93. Это неофициальный документ …………….…................................................... 94. Она не на кухне …………….…................................................... 95. Я знаю, что это не возможно …………….…................................................... 96. Я действительно не уверен …………….…................................................... 97. Она не на работе в данный момент …………….…................................................... 98. Он не заинтересован в этом предмете 9 99. К сожалению, это невозможно …………….…................................................... 100. Это неправильный ответ …………….…................................................... 101. К сожалению, это не так …………….…................................................... 10 Ответы 1. Я не дома сейчас",I’m not at home now,[aɪm nɒt æt həʊm naʊ],A1_L59_S73.mp3
+74,Это не правильный ответ,It isn't the correct answer,[ɪt ˈɪznt ðə kəˈrekt ˈɑ:nsə],A1_L59_S74.mp3
+75,Это правильный ответ,It is the correct answer,[ɪt ɪz ðə kəˈrekt ˈɑ:nsə],A1_L59_S75.mp3
+76,Это не самый лучший ответ,It isn't the best answer,[ɪt ˈɪznt ðə best ˈɑ:nsə],A1_L59_S76.mp3
+77,Она не замужем за ним,She isn't married to him,[ʃi: ˈɪznt ˈmærɪd tu: hɪm],A1_L59_S77.mp3
+78,Они не женаты,They aren't married,[ðeɪ ɑ:nt ˈmærɪd],A1_L59_S78.mp3
+79,Это не официальный документ,It isn't an official document,[ɪt ˈɪznt ən əˈfɪʃəl ˈdɒkjʊmənt],A1_L59_S79.mp3
+80,Это официальный документ,It is an official document,[ɪt ɪz ən əˈfɪʃəl ˈdɒkjʊmənt],A1_L59_S80.mp3
+81,Это не важный документ,It isn't an important document,[ɪt ˈɪznt ən ɪmˈpɔ:tənt ˈdɒkjʊmənt],A1_L59_S81.mp3
+82,Он не готов к этому экзамену сейчас,He isn't ready for this exam now,[hi: ˈɪznt ˈredi fɔ: ðɪs ɪgˈzæm naʊ],A1_L59_S82.mp3
+83,Я не готов к тому экзамену,I am not ready for that exam,[aɪ æm nɒt ˈredi fɔ: ðæt ɪgˈzæm],A1_L59_S83.mp3
+84,Он не готов к экзаменам,He isn't ready for the exams,[hi: ˈɪznt ˈredi fɔ: ði ɪgˈzæmz],A1_L59_S84.mp3
+85,"Я хочу сказать, что я не уверен",I want to say that I'm not sure,[aɪ wɒnt tu: seɪ ðæt aɪm nɒt ʃʊə],A1_L59_S85.mp3
+86,"Она хочет сказать, что она не уверена",She wants to say that she isn't sure,[ʃi: wɒnts tu: seɪ ðæt ʃi: ˈɪznt ʃʊə],A1_L59_S86.mp3
+87,"Они хотят сказать, что они не уверены",They want to say that they aren't sure,[ðeɪ wɒnt tu: seɪ ðæt ðeɪ ɑ:nt ʃʊə],A1_L59_S87.mp3
+88,Он не бухгалтер,He isn't an accountant,[hi: ˈɪznt ən əˈkaʊntənt],A1_L59_S88.mp3
+89,Это не мое главное хобби,It isn't my main hobby,[ɪt ˈɪznt maɪ meɪn ˈhɒbi],A1_L59_S89.mp3
+90,Я не в парке сейчас,I'm not in the park now,[aɪm nɒt ɪn ðə pɑ:k naʊ],A1_L59_S90.mp3
+91,"Мне кажется, это не лучшее решение",It seems to me it isn't the best decision,[ɪt si:mz tu: mi: ɪt ˈɪznt ðə best dɪˈsɪʒən],A1_L59_S91.mp3
+92,Они не в одном и том же классе,They aren't in the same class,[ðeɪ ɑ:nt ɪn ðə seɪm klɑ:s],A1_L59_S92.mp3
+93,Это неофициальный документ,It's an unofficial document,[ɪts ən ˌʌnəˈfɪʃəl ˈdɒkjʊmənt],A1_L59_S93.mp3
+94,Она не на кухне,She isn't in the kitchen,[ʃi: ˈɪznt ɪn ðə ˈkɪʧɪn],A1_L59_S94.mp3
+95,"Я знаю, что это не возможно",I know that it isn't possible,[aɪ nəʊ ðæt ɪt ˈɪznt ˈpɒsəbl],A1_L59_S95.mp3
+96,Я действительно не уверен,I am not really sure,[aɪ æm nɒt ˈrɪəli ʃʊə],A1_L59_S96.mp3
+97,Она не на работе в данный момент,She isn't at work at the moment,[ʃi: ˈɪznt æt wɜ:k æt ðə ˈməʊmənt],A1_L59_S97.mp3
+98,Он не заинтересован в этом предмете,He isn't interested in this subject,[hi: ˈɪznt ˈɪntrɪstɪd ɪn ðɪs ˈsʌbʤɪkt],A1_L59_S98.mp3
+99,"К сожалению, это невозможно","Unfortunately, it isn't possible","[ʌnˈfɔ:ʧnɪtli, ɪt ˈɪznt ˈpɒsəbl]",A1_L59_S99.mp3
+100,Это неправильный ответ,It isn't the right answer,[ɪt ˈɪznt ðə raɪt ˈɑ:nsə],A1_L59_S100.mp3
+101,"К сожалению, это не так","Unfortunately, it isn't so","[ʌnˈfɔ:ʧnɪtli, ɪt ˈɪznt səʊ]",A1_L59_S101.mp3

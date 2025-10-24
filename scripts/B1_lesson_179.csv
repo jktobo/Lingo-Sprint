@@ -1,0 +1,108 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Мое хобби – плавание,My hobby is swimming,[maɪ ˈhɒbi ɪz ˈswɪmɪŋ],B1_L179_S2.mp3
+3,Я обожаю играть в футбол,I enjoy playing football,[aɪ ɪnˈʤɔɪ ˈpleɪɪŋ ˈfʊtbɔ:l],B1_L179_S3.mp3
+4,Он продолжает делать это,He goes on doing it,[hi: gəʊz ɒn ˈdu:ɪŋ ɪt],B1_L179_S4.mp3
+5,"Он остановился, чтобы купить газету",He stopped to buy a newspaper,[hi: stɒpt tu: baɪ ə ˈnju:zˌpeɪpə],B1_L179_S5.mp3
+6,Я хочу посмотреть этот фильм,I want to watch this movie,[aɪ wɒnt tu: wɒʧ ðɪs ˈmu:vi],B1_L179_S6.mp3
+7,Было сложно открыть ту дверь,It was difficult to open that door,[ɪt wɒz ˈdɪfɪkəlt tu: ˈəʊpən ðæt dɔ:],B1_L179_S7.mp3
+8,"Откровенно говоря, мне это не нравится","To be frank, I don’t like it","[tu: bi: fræŋk, aɪ dəʊnt laɪk ɪt]",B1_L179_S8.mp3
+9,"Если сказать тебе правду, я был очень удивлен слышать это","To tell you the truth, I was very surprised to hear it","[tu: tel ju: ðə tru:θ, aɪ wɒz ˈveri səˈpraɪzd tu: hɪər ɪt]",B1_L179_S9.mp3
+10,Чтение книг - одно из ее главных увлечений,Reading books is one of her main hobbies,[ˈri:dɪŋ bʊks ɪz wʌn ɒv hɜ: meɪn ˈhɒbiz],B1_L179_S10.mp3
+11,"Я не знаю, как решить эту проблему лучше",I don't know how to solve this problem better,[aɪ dəʊnt nəʊ haʊ tu: sɒlv ðɪs ˈprɒbləm ˈbetə],B1_L179_S11.mp3
+12,"Откровенно говоря, я не уверен, что поступаю правильно","To be frank, I'm not sure that I'm doing the right thing","[tu: bi: fræŋk, aɪm nɒt ʃʊə ðæt aɪm ˈdu:ɪŋ ðə raɪt θɪŋ]",B1_L179_S12.mp3
+13,"Я не знаю, как сделать это лучше",I don't know how to do it better,[aɪ dəʊnt nəʊ haʊ tu: du: ɪt ˈbetə],B1_L179_S13.mp3
+14,Мое решение - продолжать работать здесь,My decision is to continue working here,[maɪ dɪˈsɪʒən ɪz tu: kənˈtɪnju: ˈwɜ:kɪŋ hɪə],B1_L179_S14.mp3
+15,У меня был хороший шанс победить,I had a good chance to win,[aɪ hæd ə gʊd ʧɑ:ns tu: wɪn],B1_L179_S15.mp3
+16,Я очень рад это слышать,I'm very happy to hear it,[aɪm ˈveri ˈhæpi tu: hɪər ɪt],B1_L179_S16.mp3
+17,Лучше этого не говорить,It's better not to say it,[ɪts ˈbetə nɒt tu: seɪ ɪt],B1_L179_S17.mp3
+18,Делать эти упражнения очень полезно,Doing these exercises is very useful,[ˈdu:ɪŋ ði:z ˈeksəsaɪzɪz ɪz ˈveri ˈju:sfəl],B1_L179_S18.mp3
+19,"Если честно, это было немного странно","To be honest, it was a little weird","[tu: bi: ˈɒnɪst, ɪt wɒz ə ˈlɪtl wɪəd]",B1_L179_S19.mp3
+20,"Если честно, мне бы не хотелось туда ехать","To be honest, I wouldn't like to go there","[tu: bi: ˈɒnɪst, aɪ ˈwʊdnt laɪk tu: gəʊ ðeə]",B1_L179_S20.mp3
+21,Мое решение - остаться здесь до полудня,My decision is to stay here until noon,[maɪ dɪˈsɪʒən ɪz tu: steɪ hɪər ənˈtɪl nu:n],B1_L179_S21.mp3
+22,"Если сказать тебе правду, я был действительно шокирован","To tell you the truth, I was really shocked","[tu: tel ju: ðə tru:θ, aɪ wɒz ˈrɪəli ʃɒkt]",B1_L179_S22.mp3
+23,Ее хобби - коллекционирование картин,Her hobby is collecting pictures,[hɜ: ˈhɒbi ɪz kəˈlektɪŋ ˈpɪkʧəz],B1_L179_S23.mp3
+24,"Если быть откровенным, я перестал об этом беспокоиться","To be frank, I stopped worrying about it","[tu: bi: fræŋk, aɪ stɒpt ˈwʌriɪŋ əˈbaʊt ɪt]",B1_L179_S24.mp3
+25,Не курить,No smoking,[nəʊ ˈsməʊkɪŋ],B1_L179_S25.mp3
+26,Я очень рад это слышать,I'm very glad to hear it,[aɪm ˈveri glæd tu: hɪər ɪt],B1_L179_S26.mp3
+27,"Если быть честным, я немного нервничаю","To be honest, I'm a little nervous","[tu: bi: ˈɒnɪst, aɪm ə ˈlɪtl ˈnɜ:vəs]",B1_L179_S27.mp3
+28,Сложно выучить китайский язык,It's difficult to learn Chinese,[ɪts ˈdɪfɪkəlt tu: lɜ:n ˌʧaɪˈni:z],B1_L179_S28.mp3
+29,Не парковаться,No parking,[nəʊ ˈpɑ:kɪŋ],B1_L179_S29.mp3
+30,Миссия этой организации - помогать другим людям,The mission of this organisation is to help other people,[ðə ˈmɪʃən ɒv ðɪs ˌɔ:gənaɪˈzeɪʃən ɪz tu: help ˈʌðə ˈpi:pl],B1_L179_S30.mp3
+31,Бег трусцой - это очень хорошее упражнение,Jogging is a very good exercise,[ˈʤɒgɪŋ ɪz ə ˈveri gʊd ˈeksəsaɪz],B1_L179_S31.mp3
+32,"Если быть честным, я ничего об этом не знал","To be honest, I didn't know anything about it","[tu: bi: ˈɒnɪst, aɪ dɪdnt nəʊ ˈenɪθɪŋ əˈbaʊt ɪt]",B1_L179_S32.mp3
+33,Лучше сделать это сейчас,It's better to do it now,[ɪts ˈbetə tu: du: ɪt naʊ],B1_L179_S33.mp3
+34,Очень полезно делать эти упражнения,It's very useful to do these exercises,[ɪts ˈveri ˈju:sfəl tu: du: ði:z ˈeksəsaɪzɪz],B1_L179_S34.mp3
+35,Не так легко запомнить это,It isn't so easy to remember it,[ɪt ˈɪznt səʊ ˈi:zi tu: rɪˈmembər ɪt],B1_L179_S35.mp3
+36,Лучше начать делать это сейчас,It's better to start doing it now,[ɪts ˈbetə tu: stɑ:t ˈdu:ɪŋ ɪt naʊ],B1_L179_S36.mp3
+37,Я очень рад тебя видеть,I'm very glad to see you,[aɪm ˈveri glæd tu: si: ju:],B1_L179_S37.mp3
+38,Бег - это хорошее упражнение,Running is a good exercise,[ˈrʌnɪŋ ɪz ə gʊd ˈeksəsaɪz],B1_L179_S38.mp3
+39,Его план - зарабатывать две тысячи долларов ежемесячно,His plan is to earn two thousand dollars monthly,[hɪz plæn ɪz tu: ɜ:n tu: ˈθaʊzənd ˈdɒləz ˈmʌnθli],B1_L179_S39.mp3
+40,Она не знает куда идти,She doesn't know where to go,[ʃi: dʌznt nəʊ weə tu: gəʊ],B1_L179_S40.mp3
+41,"Врачи говорят, что плавание полезно для нашего здоровья",Doctors say that swimming is good for our health,[ˈdɒktəz seɪ ðæt ˈswɪmɪŋ ɪz gʊd fɔ: ˈaʊə helθ],B1_L179_S41.mp3
+42,Коллекционирование картин - одно из ее хобби,Collecting pictures is one of her hobbies,[kəˈlektɪŋ ˈpɪkʧəz ɪz wʌn ɒv hɜ: ˈhɒbiz],B1_L179_S42.mp3
+43,Курение запрещено,Smoking is prohibited,[ˈsməʊkɪŋ ɪz prəˈhɪbɪtɪd],B1_L179_S43.mp3
+44,"Если быть откровенным, это звучит немного странно","To be frank, it sounds a little weird","[tu: bi: fræŋk, ɪt saʊndz ə ˈlɪtl wɪəd]",B1_L179_S44.mp3
+45,"Если честно, я не знал","To be honest , I didn't know","[tu: bi: ˈɒnɪst , aɪ dɪdnt nəʊ]",B1_L179_S45.mp3
+46,Мой план - учить двадцать английских слов в день,My plan is to learn twenty English words a day,[maɪ plæn ɪz tu: lɜ:n ˈtwenti ˈɪŋglɪʃ wɜ:dz ə deɪ],B1_L179_S46.mp3
+47,Курение здесь запрещено,Smoking is prohibited here,[ˈsməʊkɪŋ ɪz prəˈhɪbɪtɪd hɪə],B1_L179_S47.mp3
+48,Ты готов сделать это прямо сейчас?,Are you ready to do it right now?,[ɑ: ju: ˈredi tu: du: ɪt raɪt naʊ?],B1_L179_S48.mp3
+49,"Я абсолютно уверен, что это один из лучших методов изучения иностранных языков",I'm absolutely sure that it's one of the best methods of learning foreign languages,[aɪm ˈæbsəlu:tli ʃʊə ðæt ɪts wʌn ɒv ðə best ˈmeθədz ɒv ˈlɜ:nɪŋ ˈfɒrɪn ˈlæŋgwɪʤɪz],B1_L179_S49.mp3
+50,Перевод с английского на русский кажется проще,Translating from English into Russian seems easier,[trænsˈleɪtɪŋ frɒm ˈɪŋglɪʃ ˈɪntu: ˈrʌʃn si:mz ˈi:zɪə],B1_L179_S50.mp3
+51,"Часто говорят, что преподавание - это напряженная работа",It is often said that teaching is a stressful job,[ɪt ɪz ˈɒfn sed ðæt ˈti:ʧɪŋ ɪz ə ˈstresfəl ʤɒb],B1_L179_S51.mp3
+52,Помогать другим - это миссия этой организации,Helping others is the mission of this organization,[ˈhelpɪŋ ˈʌðəz ɪz ðə ˈmɪʃən ɒv ðɪs ˌɔ:gənaɪˈzeɪʃən],B1_L179_S52.mp3
+53,Сложнее переводить с русского на английский,It's more difficult to translate from Russian into English,[ɪts mɔ: ˈdɪfɪkəlt tu: trænsˈleɪt frɒm ˈrʌʃn ˈɪntu: ˈɪŋglɪʃ],B1_L179_S53.mp3
+54,Проще переводить с английского на русский,It's easier to translate from English into Russian,[ɪts ˈi:zɪə tu: trænsˈleɪt frɒm ˈɪŋglɪʃ ˈɪntu: ˈrʌʃn],B1_L179_S54.mp3
+55,Он не может представить свою жизнь без занятий спортом,He can't imagine his life without doing sport,[hi: kɑ:nt ɪˈmæʤɪn hɪz laɪf wɪˈðaʊt ˈdu:ɪŋ spɔ:t],B1_L179_S55.mp3
+56,"Нет никакого сомнения, что эту вещь стоит купить",There is no doubt that this thing is worth buying,[ðeər ɪz nəʊ daʊt ðæt ðɪs θɪŋ ɪz wɜ:θ ˈbaɪɪŋ],B1_L179_S56.mp3
+57,С тобой приятно работать,It's a pleasure to work with you,[ɪts ə ˈpleʒə tu: wɜ:k wɪð ju:],B1_L179_S57.mp3
+58,"Нет сомнений, что это стоит послушать",No doubt that it's worth listening to,[nəʊ daʊt ðæt ɪts wɜ:θ ˈlɪsnɪŋ tu:],B1_L179_S58.mp3
+59,Она не может представить свою жизнь без путешествий,She can't imagine her life without travelling,[ʃi: kɑ:nt ɪˈmæʤɪn hɜ: laɪf wɪˈðaʊt ˈtrævlɪŋ],B1_L179_S59.mp3
+60,Я пошел в супермаркет купить немного сыра,I went to the supermarket to buy some cheese,[aɪ went tu: ðə ˈsju:pəˌmɑ:kɪt tu: baɪ sʌm ʧi:z],B1_L179_S60.mp3
+61,Очень приятно работать с тобой,It's a big pleasure to work with you,[ɪts ə bɪg ˈpleʒə tu: wɜ:k wɪð ju:],B1_L179_S61.mp3
+62,"Нет никакого сомнения, что это стоит купить",There is no doubt that it's worth buying it,[ðeər ɪz nəʊ daʊt ðæt ɪts wɜ:θ ˈbaɪɪŋ ɪt],B1_L179_S62.mp3
+63,"Нет никакого сомнения, что это действительно стоит сделать",There is no doubt that it's really worth doing,[ðeər ɪz nəʊ daʊt ðæt ɪts ˈrɪəli wɜ:θ ˈdu:ɪŋ],B1_L179_S63.mp3
+64,Я пошел на рынок купить свежие фрукты и овощи,I went to the market to buy fresh fruit and vegetables,[aɪ went tu: ðə ˈmɑ:kɪt tu: baɪ freʃ fru:t ænd ˈveʤtəblz],B1_L179_S64.mp3
+65,Я пошел в супермаркет купить немного мяса,I went to the supermarket to buy some meat,[aɪ went tu: ðə ˈsju:pəˌmɑ:kɪt tu: baɪ sʌm mi:t],B1_L179_S65.mp3
+66,Я пошел туда купить новую одежду,I went there to buy new clothes,[aɪ went ðeə tu: baɪ nju: kləʊðz],B1_L179_S66.mp3
+67,"Я думаю, что лучше не откладывать это до завтра",I think it's better not to put it off till tomorrow,[aɪ θɪŋk ɪts ˈbetə nɒt tu: pʊt ɪt ɒf tɪl təˈmɒrəʊ],B1_L179_S67.mp3
+68,"Я думаю, что лучше отложить это на некоторое время",I think it's better to put it off for some time,[aɪ θɪŋk ɪts ˈbetə tu: pʊt ɪt ɒf fɔ: sʌm taɪm],B1_L179_S68.mp3
+69,"Я думаю, что лучше больше это не откладывать",I think it's better not to put it off anymore,[aɪ θɪŋk ɪts ˈbetə nɒt tu: pʊt ɪt ɒf ˌeniˈmɔ:],B1_L179_S69.mp3
+70,"Без сомнения, это стоит сделать",No doubt that it's worth doing,[nəʊ daʊt ðæt ɪts wɜ:θ ˈdu:ɪŋ],B1_L179_S70.mp3
+71,"Без сомнения, этот фильм стоит посмотреть",No doubt that it's worth watching this movie,[nəʊ daʊt ðæt ɪts wɜ:θ ˈwɒʧɪŋ ðɪs ˈmu:vi],B1_L179_S71.mp3
+72,"Без сомнения, стоит прочитать эту книгу …………….…................................................... 73. Его велосипед нуждается в ремонте …………….…................................................... 74. Мои часы нуждаются в ремонте …………….…................................................... 75. Ее машина нуждается в ремонте …………….…................................................... 76. Он хочет заработать эти деньги, чтобы начать свой собственный бизнес …………….…................................................... 77. Он хочет заработать эти деньги, чтобы купить эту вещь …………….…................................................... 78. Я хочу заработать немного денег, чтобы снять эту квартиру …………….…................................................... 79. Я купил эту книгу, чтобы узнать что-то новое об этом предмете …………….…................................................... 80. Я купил этот урок, чтобы получить некоторую информацию …………….…................................................... 81. Я скачал это приложение, чтобы узнать некоторые новые правила …………….…................................................... 82. Этот фильм стоит посмотреть …………….…................................................... 83. Эту книгу стоит прочитать …………….…................................................... 84. Это блюдо стоит приготовить …………….…................................................... 8 85. Я не могу представить свою жизнь без совершения добрых дел …………….…................................................... 86. Я не могу представить свою жизнь без моих друзей …………….…................................................... 87. Я не могу представить свою жизнь без занятий спортом …………….…................................................... 88. Эти упражнения стоит делать …………….…................................................... 89. Это упражнение не стоит делать …………….…................................................... 90. Эти видео стоит посмотреть …………….…................................................... 91. Дом нуждается в покраске …………….…................................................... 92. Дом нуждается в ремонте …………….…................................................... 93. Дом нуждается в ремонте …………….…................................................... 94. Крыша нуждается в ремонте …………….…................................................... 95. Определенно, это место стоит посетить …………….…................................................... 96. Лучше не откладывать это …………….…................................................... 97. Нет сомнений, что это видео стоит посмотреть …………….…................................................... 9 98. Его обязанность - заботиться о них …………….…................................................... 99. Учить английский легче, чем учить китайский …………….…................................................... 100. Определенно, это видео стоит посмотреть …………….…................................................... 101. Миссия этой благотворительной организации - помогать другим …………….…................................................... 102. Перевод с русского на английский сложнее …………….…................................................... 103. Ей нужно заботиться о ребенке …………….…................................................... 104. Рубашку нужно погладить …………….…................................................... 105. Изучать китайский намного сложнее, чем изучать английский …………….…................................................... 106. Ее долг - позаботиться об этом …………….…................................................... 107. Машину нужно помыть …………….…................................................... 108. Я уверен, что это один из лучших способов изучения английского …………….…................................................... 10 Ответы 1. Стать миллионером - это его мечта",Becoming a millionaire is his dream,[bɪˈkʌmɪŋ ə ˌmɪljəˈneər ɪz hɪz dri:m],B1_L179_S72.mp3
+73,Его велосипед нуждается в ремонте,His bike needs repairing,[hɪz baɪk ni:dz rɪˈpeərɪŋ],B1_L179_S73.mp3
+74,Мои часы нуждаются в ремонте,My watch needs repairing,[maɪ wɒʧ ni:dz rɪˈpeərɪŋ],B1_L179_S74.mp3
+75,Ее машина нуждается в ремонте,Her car needs repairing,[hɜ: kɑ: ni:dz rɪˈpeərɪŋ],B1_L179_S75.mp3
+76,"Он хочет заработать эти деньги, чтобы начать свой собственный бизнес",He wants to earn this money to start his own business,[hi: wɒnts tu: ɜ:n ðɪs ˈmʌni tu: stɑ:t hɪz əʊn ˈbɪznɪs],B1_L179_S76.mp3
+77,"Он хочет заработать эти деньги, чтобы купить эту вещь",He wants to earn this money to buy this thing,[hi: wɒnts tu: ɜ:n ðɪs ˈmʌni tu: baɪ ðɪs θɪŋ],B1_L179_S77.mp3
+78,"Я хочу заработать немного денег, чтобы снять эту квартиру",I want to earn some money to rent this apartment,[aɪ wɒnt tu: ɜ:n sʌm ˈmʌni tu: rent ðɪs əˈpɑ:tmənt],B1_L179_S78.mp3
+79,"Я купил эту книгу, чтобы узнать что-то новое об этом предмете",I bought this book to learn something new about this subject,[aɪ bɔ:t ðɪs bʊk tu: lɜ:n ˈsʌmθɪŋ nju: əˈbaʊt ðɪs ˈsʌbʤɪkt],B1_L179_S79.mp3
+80,"Я купил этот урок, чтобы получить некоторую информацию",I bought this lesson to get some information,[aɪ bɔ:t ðɪs ˈlesn tu: get sʌm ˌɪnfəˈmeɪʃən],B1_L179_S80.mp3
+81,"Я скачал это приложение, чтобы узнать некоторые новые правила",I downloaded this application to learn some new rules,[aɪ ˌdaʊnˈləʊdɪd ðɪs ˌæplɪˈkeɪʃn tu: lɜ:n sʌm nju: ru:lz],B1_L179_S81.mp3
+82,Этот фильм стоит посмотреть,This movie is worth watching,[ðɪs ˈmu:vi ɪz wɜ:θ ˈwɒʧɪŋ],B1_L179_S82.mp3
+83,Эту книгу стоит прочитать,This book is worth reading,[ðɪs bʊk ɪz wɜ:θ ˈri:dɪŋ],B1_L179_S83.mp3
+84,Это блюдо стоит приготовить,This dish is worth cooking,[ðɪs dɪʃ ɪz wɜ:θ ˈkʊkɪŋ],B1_L179_S84.mp3
+85,Я не могу представить свою жизнь без совершения добрых дел,I can't imagine my life without doing good things,[aɪ kɑ:nt ɪˈmæʤɪn maɪ laɪf wɪˈðaʊt ˈdu:ɪŋ gʊd θɪŋz],B1_L179_S85.mp3
+86,Я не могу представить свою жизнь без моих друзей,I can't imagine my life without my friends,[aɪ kɑ:nt ɪˈmæʤɪn maɪ laɪf wɪˈðaʊt maɪ frendz],B1_L179_S86.mp3
+87,Я не могу представить свою жизнь без занятий спортом,I can't imagine my life without doing sports,[aɪ kɑ:nt ɪˈmæʤɪn maɪ laɪf wɪˈðaʊt ˈdu:ɪŋ spɔ:ts],B1_L179_S87.mp3
+88,Эти упражнения стоит делать,These exercises are worth doing,[ði:z ˈeksəsaɪzɪz ɑ: wɜ:θ ˈdu:ɪŋ],B1_L179_S88.mp3
+89,Это упражнение не стоит делать,This exercise isn't worth doing,[ðɪs ˈeksəsaɪz ˈɪznt wɜ:θ ˈdu:ɪŋ],B1_L179_S89.mp3
+90,Эти видео стоит посмотреть,These videos are worth watching,[ði:z ˈvɪdɪəʊz ɑ: wɜ:θ ˈwɒʧɪŋ],B1_L179_S90.mp3
+91,Дом нуждается в покраске,The house needs painting,[ðə haʊs ni:dz ˈpeɪntɪŋ],B1_L179_S91.mp3
+92,Дом нуждается в ремонте,The house needs repairing,[ðə haʊs ni:dz rɪˈpeərɪŋ],B1_L179_S92.mp3
+93,Дом нуждается в ремонте,The house needs redecorating,[ðə haʊs ni:dz ˌri:ˈdekəreɪtɪŋ],B1_L179_S93.mp3
+94,Крыша нуждается в ремонте,The roof needs repairing,[ðə ru:f ni:dz rɪˈpeərɪŋ],B1_L179_S94.mp3
+95,"Определенно, это место стоит посетить","Definitely, this place is worth visiting","[ˈdefɪnɪtli, ðɪs pleɪs ɪz wɜ:θ ˈvɪzɪtɪŋ]",B1_L179_S95.mp3
+96,Лучше не откладывать это,It's better not to put it off,[ɪts ˈbetə nɒt tu: pʊt ɪt ɒf],B1_L179_S96.mp3
+97,"Нет сомнений, что это видео стоит посмотреть",No doubt that this video is worth watching,[nəʊ daʊt ðæt ðɪs ˈvɪdɪəʊ ɪz wɜ:θ ˈwɒʧɪŋ],B1_L179_S97.mp3
+98,Его обязанность - заботиться о них,His duty is to take care of them,[hɪz ˈdju:ti ɪz tu: teɪk keər ɒv ðem],B1_L179_S98.mp3
+99,"Учить английский легче, чем учить китайский",Learning English is easier than learning Chinese,[ˈlɜ:nɪŋ ˈɪŋglɪʃ ɪz ˈi:zɪə ðæn ˈlɜ:nɪŋ ˌʧaɪˈni:z],B1_L179_S99.mp3
+100,"Определенно, это видео стоит посмотреть","Definitely, this video is worth watching","[ˈdefɪnɪtli, ðɪs ˈvɪdɪəʊ ɪz wɜ:θ ˈwɒʧɪŋ]",B1_L179_S100.mp3
+101,Миссия этой благотворительной организации - помогать другим,The mission of this charitable organisation is to help others,[ðə ˈmɪʃən ɒv ðɪs ˈʧærɪtəbl ˌɔ:gənaɪˈzeɪʃən ɪz tu: help ˈʌðəz],B1_L179_S101.mp3
+102,Перевод с русского на английский сложнее,Translating from Russian into English is more difficult,[trænsˈleɪtɪŋ frɒm ˈrʌʃn ˈɪntu: ˈɪŋglɪʃ ɪz mɔ: ˈdɪfɪkəlt],B1_L179_S102.mp3
+103,Ей нужно заботиться о ребенке,She needs to take care of the baby,[ʃi: ni:dz tu: teɪk keər ɒv ðə ˈbeɪbi],B1_L179_S103.mp3
+104,Рубашку нужно погладить,The shirt needs ironing,[ðə ʃɜ:t ni:dz ˈaɪənɪŋ],B1_L179_S104.mp3
+105,"Изучать китайский намного сложнее, чем изучать английский",Learning Chinese is much more difficult than learning English,[ˈlɜ:nɪŋ ˌʧaɪˈni:z ɪz mʌʧ mɔ: ˈdɪfɪkəlt ðæn ˈlɜ:nɪŋ ˈɪŋglɪʃ],B1_L179_S105.mp3
+106,Ее долг - позаботиться об этом,Her duty is to take care of it,[hɜ: ˈdju:ti ɪz tu: teɪk keər ɒv ɪt],B1_L179_S106.mp3
+107,Машину нужно помыть,The car needs washing,[ðə kɑ: ni:dz ˈwɒʃɪŋ],B1_L179_S107.mp3
+108,"Я уверен, что это один из лучших способов изучения английского",I'm sure that it's one of the best ways of learning English,[aɪm ʃʊə ðæt ɪts wʌn ɒv ðə best weɪz ɒv ˈlɜ:nɪŋ ˈɪŋglɪʃ],B1_L179_S108.mp3

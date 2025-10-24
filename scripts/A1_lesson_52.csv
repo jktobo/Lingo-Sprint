@@ -1,0 +1,109 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,У него старый дом,He has an old house,[hi: hæz ən əʊld haʊs],A1_L52_S2.mp3
+3,У нее короткие волосы,She has short hair,[ʃi: hæz ʃɔ:t heə],A1_L52_S3.mp3
+4,У них есть большие деньги,They have big money,[ðeɪ hæv bɪg ˈmʌni],A1_L52_S4.mp3
+5,У нас богатые друзья,We have rich friends,[wi: hæv rɪʧ frendz],A1_L52_S5.mp3
+6,Им нравятся большие машины,They like big cars,[ðeɪ laɪk bɪg kɑ:z],A1_L52_S6.mp3
+7,У нее очень интересная работа,She has a very interesting job,[ʃi: hæz ə ˈveri ˈɪntrɪstɪŋ ʤɒb],A1_L52_S7.mp3
+8,Я знаю одно странное место,I know one strange place,[aɪ nəʊ wʌn streɪnʤ pleɪs],A1_L52_S8.mp3
+9,Я купил одну книгу,I bought one book,[aɪ bɔ:t wʌn bʊk],A1_L52_S9.mp3
+10,Мне действительно нравится теплая погода,I really like warm weather,[aɪ ˈrɪəli laɪk wɔ:m ˈweðə],A1_L52_S10.mp3
+11,У меня хороший результат,I have a good result,[aɪ hæv ə gʊd rɪˈzʌlt],A1_L52_S11.mp3
+12,У тебя высокий уровень,You have a high level,[ju: hæv ə haɪ ˈlevl],A1_L52_S12.mp3
+13,Он использует простой метод,He uses a simple method,[hi: ˈju:zɪz ə ˈsɪmpl ˈmeθəd],A1_L52_S13.mp3
+14,У меня очень большая мотивация,I have very big motivation,[aɪ hæv ˈveri bɪg ˌməʊtɪˈveɪʃən],A1_L52_S14.mp3
+15,У нее длинные светлые волосы,She has long blonde hair,[ʃi: hæz lɒŋ blɒnd heə],A1_L52_S15.mp3
+16,У него большая семья,He has a large family,[hi: hæz ə lɑ:ʤ ˈfæmɪli],A1_L52_S16.mp3
+17,Мы видим современное здание,We see a modern building,[wi: si: ə ˈmɒdən ˈbɪldɪŋ],A1_L52_S17.mp3
+18,У них старая машина,They have an old car,[ðeɪ hæv ən əʊld kɑ:],A1_L52_S18.mp3
+19,У него финансовые проблемы,He has financial problems,[hi: hæz faɪˈnænʃəl ˈprɒbləmz],A1_L52_S19.mp3
+20,Она хочет горячий чай,She wants hot tea,[ʃi: wɒnts hɒt ti:],A1_L52_S20.mp3
+21,У него синяя машина,He has a blue car,[hi: hæz ə blu: kɑ:],A1_L52_S21.mp3
+22,У меня новый компьютер,I have a new computer,[aɪ hæv ə nju: kəmˈpju:tə],A1_L52_S22.mp3
+23,У меня есть синяя ручка,I have a blue pen,[aɪ hæv ə blu: pen],A1_L52_S23.mp3
+24,У него плохой результат,He has a bad result,[hi: hæz ə bæd rɪˈzʌlt],A1_L52_S24.mp3
+25,У тебя блестящий результат,You have a brilliant result,[ju: hæv ə ˈbrɪljənt rɪˈzʌlt],A1_L52_S25.mp3
+26,У него короткие волосы,He has short hair,[hi: hæz ʃɔ:t heə],A1_L52_S26.mp3
+27,Я вижу реальный прогресс,I see real progress,[aɪ si: rɪəl ˈprəʊgrəs],A1_L52_S27.mp3
+28,У него есть другая идея,He has another idea,[hi: hæz əˈnʌðər aɪˈdɪə],A1_L52_S28.mp3
+29,У него странный вопрос,He has a strange question,[hi: hæz ə streɪnʤ ˈkwesʧən],A1_L52_S29.mp3
+30,Он смотрит бесплатные видео уроки,He watches free video lessons,[hi: ˈwɒʧɪz fri: ˈvɪdɪəʊ ˈlesnz],A1_L52_S30.mp3
+31,Ей нравится зеленый цвет,She likes green colour,[ʃi: laɪks gri:n ˈkʌlə],A1_L52_S31.mp3
+32,У него богатые родители,He has rich parents,[hi: hæz rɪʧ ˈpeərənts],A1_L52_S32.mp3
+33,У нее длинные волосы,She has long hair,[ʃi: hæz lɒŋ heə],A1_L52_S33.mp3
+34,Она живет в маленьком городе,She lives in a small town,[ʃi: lɪvz ɪn ə smɔ:l taʊn],A1_L52_S34.mp3
+35,Я вижу одну маленькую ошибку,I see one small mistake,[aɪ si: wʌn smɔ:l mɪsˈteɪk],A1_L52_S35.mp3
+36,У него низкий уровень,He has a low level,[hi: hæz ə ləʊ ˈlevl],A1_L52_S36.mp3
+37,Я смотрю бесплатные уроки английского,I watch free English lessons,[aɪ wɒʧ fri: ˈɪŋglɪʃ ˈlesnz],A1_L52_S37.mp3
+38,У него короткие черные волосы,He has short black hair,[hi: hæz ʃɔ:t blæk heə],A1_L52_S38.mp3
+39,Они используют простое устройство,They use a simple device,[ðeɪ ju:z ə ˈsɪmpl dɪˈvaɪs],A1_L52_S39.mp3
+40,Ей больше нравится холодная погода,She likes cold weather more,[ʃi: laɪks kəʊld ˈweðə mɔ:],A1_L52_S40.mp3
+41,У нее есть ребенок,She has a baby,[ʃi: hæz ə ˈbeɪbi],A1_L52_S41.mp3
+42,Он видит некоторые ошибки,He sees some mistakes,[hi: si:z sʌm mɪsˈteɪks],A1_L52_S42.mp3
+43,Он видит реальный прогресс,He sees real progress,[hi: si:z rɪəl ˈprəʊgrəs],A1_L52_S43.mp3
+44,У тебя интересный вопрос,You have an interesting question,[ju: hæv ən ˈɪntrɪstɪŋ ˈkwesʧən],A1_L52_S44.mp3
+45,У него один ребенок,He has one child,[hi: hæz wʌn ʧaɪld],A1_L52_S45.mp3
+46,Ему нужна горячая вода,He needs hot water,[hi: ni:dz hɒt ˈwɔ:tə],A1_L52_S46.mp3
+47,Я живу в большом городе,I live in a big city,[aɪ lɪv ɪn ə bɪg ˈsɪti],A1_L52_S47.mp3
+48,У нее есть черный карандаш,She has a black pencil,[ʃi: hæz ə blæk ˈpensl],A1_L52_S48.mp3
+49,Она всегда старается покупать свежую еду,She always tries to buy fresh food,[ʃi: ˈɔ:lweɪz traɪz tu: baɪ freʃ fu:d],A1_L52_S49.mp3
+50,У него очень умный сын,He has a very smart son,[hi: hæz ə ˈveri smɑ:t sʌn],A1_L52_S50.mp3
+51,Он хочет иметь средний уровень для начала,He wants to have an intermediate level for a start,[hi: wɒnts tu: hæv ən ˌɪntəˈmi:diət ˈlevl fɔ: ə stɑ:t],A1_L52_S51.mp3
+52,У них очень низкий уровень,They have a very low level,[ðeɪ hæv ə ˈveri ləʊ ˈlevl],A1_L52_S52.mp3
+53,Она смотрит бесплатные видео уроки,She watches free video lessons,[ʃi: ˈwɒʧɪz fri: ˈvɪdɪəʊ ˈlesnz],A1_L52_S53.mp3
+54,"Я знаю, что у него старый компьютер",I know that he has an old computer,[aɪ nəʊ ðæt hi: hæz ən əʊld kəmˈpju:tə],A1_L52_S54.mp3
+55,"Она хочет общаться с другими людьми, которые живут за границей",She wants to communicate with other people who live abroad,[ʃi: wɒnts tu: kəˈmju:nɪkeɪt wɪð ˈʌðə ˈpi:pl hu: lɪv əˈbrɔ:d],A1_L52_S55.mp3
+56,"Конечно, я хочу иметь продвинутый уровень английского языка","Of course, I want to have an Advanced level in English","[ɒv kɔ:s, aɪ wɒnt tu: hæv ən ədˈvɑ:nst ˈlevl ɪn ˈɪŋglɪʃ]",A1_L52_S56.mp3
+57,"Он хочет общаться с другими людьми, которые могут говорить по-английски",He wants to communicate with other people who can speak English,[hi: wɒnts tu: kəˈmju:nɪkeɪt wɪð ˈʌðə ˈpi:pl hu: kæn spi:k ˈɪŋglɪʃ],A1_L52_S57.mp3
+58,У него очень высокий уровень,He has a very high level,[hi: hæz ə ˈveri haɪ ˈlevl],A1_L52_S58.mp3
+59,У них есть один очень интересный план,They have one very interesting plan,[ðeɪ hæv wʌn ˈveri ˈɪntrɪstɪŋ plæn],A1_L52_S59.mp3
+60,Я вижу очень красивое место,I see a very beautiful place,[aɪ si: ə ˈveri ˈbju:təfəl pleɪs],A1_L52_S60.mp3
+61,У него очень старый компьютер,He has a very old computer,[hi: hæz ə ˈveri əʊld kəmˈpju:tə],A1_L52_S61.mp3
+62,У нее очень красивая дочь,She has a very beautiful daughter,[ʃi: hæz ə ˈveri ˈbju:təfəl ˈdɔ:tə],A1_L52_S62.mp3
+63,"Я хочу общаться с разными людьми, которые говорят по-английски",I want to communicate with different people who speak English,[aɪ wɒnt tu: kəˈmju:nɪkeɪt wɪð ˈdɪfrənt ˈpi:pl hu: spi:k ˈɪŋglɪʃ],A1_L52_S63.mp3
+64,Это часто случается в нашем современном обществе,It often happens in our modern society,[ɪt ˈɒfn ˈhæpənz ɪn ˈaʊə ˈmɒdən səˈsaɪəti],A1_L52_S64.mp3
+65,"Я чувствую, что это оказывает очень положительный эффект на мое здоровье",I feel that it has a very positive effect on my health,[aɪ fi:l ðæt ɪt hæz ə ˈveri ˈpɒzətɪv ɪˈfekt ɒn maɪ helθ],A1_L52_S65.mp3
+66,"Она чувствует, что это оказывает действительно положительный эффект на его здоровье",She feels that it has a really positive effect on his health,[ʃi: fi:lz ðæt ɪt hæz ə ˈrɪəli ˈpɒzətɪv ɪˈfekt ɒn hɪz helθ],A1_L52_S66.mp3
+67,"Они чувствуют, что это оказывает очень положительный эффект на их здоровье",They feel that it has a very positive effect on their health,[ðeɪ fi:l ðæt ɪt hæz ə ˈveri ˈpɒzətɪv ɪˈfekt ɒn ðeə helθ],A1_L52_S67.mp3
+68,У меня очень интересная работа,I have a very interesting job,[aɪ hæv ə ˈveri ˈɪntrɪstɪŋ ʤɒb],A1_L52_S68.mp3
+69,У меня действительно интересная работа,I have a really interesting job,[aɪ hæv ə ˈrɪəli ˈɪntrɪstɪŋ ʤɒb],A1_L52_S69.mp3
+70,"У нее очень интересная работа …………….…................................................... 71. Я вижу, что у меня отличный результат …………….…................................................... 72. Она видит, что у нее отличный результат …………….…................................................... 73. Они видят, что у меня отличные результаты …………….…................................................... 74. У него большая мотивация …………….…................................................... 75. У нее большая мотивация …………….…................................................... 76. У меня большая мотивация …………….…................................................... 77. Он использует два очень интересных устройства …………….…................................................... 78. Я использую одно очень интересное устройство …………….…................................................... 79. Они используют некоторые очень интересные устройства …………….…................................................... 80. Это оказывает очень положительное влияние на его здоровье …………….…................................................... 81. Это оказывает действительно положительный эффект на твое здоровье …………….…................................................... 82. Это оказывает очень положительный эффект на мое здоровье …………….…................................................... 8 83. У нее очень сильный акцент …………….…................................................... 84. У него очень сильный акцент …………….…................................................... 85. У него действительно сильный акцент …………….…................................................... 86. У меня очень прибыльный бизнес …………….…................................................... 87. У него очень прибыльный бизнес …………….…................................................... 88. У них очень прибыльный бизнес …………….…................................................... 89. Я всегда стараюсь покупать свежие фрукты и овощи …………….…................................................... 90. Я всегда покупаю свежие фрукты и овощи …………….…................................................... 91. Я обычно стараюсь покупать свежие фрукты и овощи …………….…................................................... 92. У тебя очень хорошая машина …………….…................................................... 93. У тебя очень плохая машина …………….…................................................... 94. У него очень хорошая машина …………….…................................................... 95. Он живет в очень маленьком городке …………….…................................................... 9 96. Он хочет жить в другой стране …………….…................................................... 97. Для начала, я хочу иметь промежуточный уровень …………….…................................................... 98. У нее красивый голос …………….…................................................... 99. Я чувствую себя таким счастливым, потому что у меня …………….…................................................... очень хороший результат …………….…................................................... 100. У нее очень красивая улыбка …………….…................................................... 101. Это иногда происходит в нашем современном обществе …………….…................................................... 102. Я хочу общаться с другими людьми, которые живут в других странах …………….…................................................... 103. Мы видим одно очень красивое здание …………….…................................................... 104. У меня отличный результат …………….…................................................... 105. Я хочу иметь продвинутый уровень английского языка …………….…................................................... 106. Мы учим основные правила в начале …………….…................................................... 10 107. Она чувствует себя такой счастливой, потому что у нее …………….…................................................... блестящий результат …………….…................................................... 108. У нее очень приятная улыбка …………….…................................................... 109. Они используют очень простой метод …………….…................................................... 11 Ответы 1. У меня большая семья",I have a big family,[aɪ hæv ə bɪg ˈfæmɪli],A1_L52_S70.mp3
+71,"Я вижу, что у меня отличный результат",I see that I have an excellent result,[aɪ si: ðæt aɪ hæv ən ˈeksələnt rɪˈzʌlt],A1_L52_S71.mp3
+72,"Она видит, что у нее отличный результат",She sees that she has an excellent result,[ʃi: si:z ðæt ʃi: hæz ən ˈeksələnt rɪˈzʌlt],A1_L52_S72.mp3
+73,"Они видят, что у меня отличные результаты",They see that I have excellent results,[ðeɪ si: ðæt aɪ hæv ˈeksələnt rɪˈzʌlts],A1_L52_S73.mp3
+74,У него большая мотивация,He has big motivation,[hi: hæz bɪg ˌməʊtɪˈveɪʃən],A1_L52_S74.mp3
+75,У нее большая мотивация,She has big motivation,[ʃi: hæz bɪg ˌməʊtɪˈveɪʃən],A1_L52_S75.mp3
+76,У меня большая мотивация,I have big motivation,[aɪ hæv bɪg ˌməʊtɪˈveɪʃən],A1_L52_S76.mp3
+77,Он использует два очень интересных устройства,He uses two very interesting devices,[hi: ˈju:zɪz tu: ˈveri ˈɪntrɪstɪŋ dɪˈvaɪsɪz],A1_L52_S77.mp3
+78,Я использую одно очень интересное устройство,I use one very interesting device,[aɪ ju:z wʌn ˈveri ˈɪntrɪstɪŋ dɪˈvaɪs],A1_L52_S78.mp3
+79,Они используют некоторые очень интересные устройства,They use some very interesting devices,[ðeɪ ju:z sʌm ˈveri ˈɪntrɪstɪŋ dɪˈvaɪsɪz],A1_L52_S79.mp3
+80,Это оказывает очень положительное влияние на его здоровье,It has a very positive effect on his health,[ɪt hæz ə ˈveri ˈpɒzətɪv ɪˈfekt ɒn hɪz helθ],A1_L52_S80.mp3
+81,Это оказывает действительно положительный эффект на твое здоровье,It has a really positive effect on your health,[ɪt hæz ə ˈrɪəli ˈpɒzətɪv ɪˈfekt ɒn jɔ: helθ],A1_L52_S81.mp3
+82,Это оказывает очень положительный эффект на мое здоровье,It has a very positive effect on my health,[ɪt hæz ə ˈveri ˈpɒzətɪv ɪˈfekt ɒn maɪ helθ],A1_L52_S82.mp3
+83,У нее очень сильный акцент,She has a very strong accent,[ʃi: hæz ə ˈveri strɒŋ ˈæksənt],A1_L52_S83.mp3
+84,У него очень сильный акцент,He has a very strong accent,[hi: hæz ə ˈveri strɒŋ ˈæksənt],A1_L52_S84.mp3
+85,У него действительно сильный акцент,He has a really strong accent,[hi: hæz ə ˈrɪəli strɒŋ ˈæksənt],A1_L52_S85.mp3
+86,У меня очень прибыльный бизнес,I have a very profitable business,[aɪ hæv ə ˈveri ˈprɒfɪtəbl ˈbɪznɪs],A1_L52_S86.mp3
+87,У него очень прибыльный бизнес,He has a very profitable business,[hi: hæz ə ˈveri ˈprɒfɪtəbl ˈbɪznɪs],A1_L52_S87.mp3
+88,У них очень прибыльный бизнес,They have a very profitable business,[ðeɪ hæv ə ˈveri ˈprɒfɪtəbl ˈbɪznɪs],A1_L52_S88.mp3
+89,Я всегда стараюсь покупать свежие фрукты и овощи,I always try to buy fresh fruit and vegetables,[aɪ ˈɔ:lweɪz traɪ tu: baɪ freʃ fru:t ænd ˈveʤtəblz],A1_L52_S89.mp3
+90,Я всегда покупаю свежие фрукты и овощи,I always buy fresh fruit and vegetables,[aɪ ˈɔ:lweɪz baɪ freʃ fru:t ænd ˈveʤtəblz],A1_L52_S90.mp3
+91,Я обычно стараюсь покупать свежие фрукты и овощи,I usually try to buy fresh fruit and vegetables,[aɪ ˈju:ʒʊəli traɪ tu: baɪ freʃ fru:t ænd ˈveʤtəblz],A1_L52_S91.mp3
+92,У тебя очень хорошая машина,You have a very good car,[ju: hæv ə ˈveri gʊd kɑ:],A1_L52_S92.mp3
+93,У тебя очень плохая машина,You have a very bad car,[ju: hæv ə ˈveri bæd kɑ:],A1_L52_S93.mp3
+94,У него очень хорошая машина,He has a very good car,[hi: hæz ə ˈveri gʊd kɑ:],A1_L52_S94.mp3
+95,Он живет в очень маленьком городке,He lives in a very small town,[hi: lɪvz ɪn ə ˈveri smɔ:l taʊn],A1_L52_S95.mp3
+96,Он хочет жить в другой стране,He wants to live in another country,[hi: wɒnts tu: lɪv ɪn əˈnʌðə ˈkʌntri],A1_L52_S96.mp3
+97,"Для начала, я хочу иметь промежуточный уровень",I want to have an Intermediate level for a start,[aɪ wɒnt tu: hæv ən ˌɪntəˈmi:diət ˈlevl fɔ: ə stɑ:t],A1_L52_S97.mp3
+98,У нее красивый голос,She has a beautiful voice,[ʃi: hæz ə ˈbju:təfəl vɔɪs],A1_L52_S98.mp3
+99,"Я чувствую себя таким счастливым, потому что у меня очень хороший результат",I feel so happy because I have a very good result,[aɪ fi:l səʊ ˈhæpi bɪˈkɒz aɪ hæv ə ˈveri gʊd rɪˈzʌlt],A1_L52_S99.mp3
+100,У нее очень красивая улыбка,She has a very beautiful smile,[ʃi: hæz ə ˈveri ˈbju:təfəl smaɪl],A1_L52_S100.mp3
+101,Это иногда происходит в нашем современном обществе,It sometimes happens in our modern society,[ɪt ˈsʌmtaɪmz ˈhæpənz ɪn ˈaʊə ˈmɒdən səˈsaɪəti],A1_L52_S101.mp3
+102,"Я хочу общаться с другими людьми, которые живут в других странах",I want to communicate with other people who live in other countries,[aɪ wɒnt tu: kəˈmju:nɪkeɪt wɪð ˈʌðə ˈpi:pl hu: lɪv ɪn ˈʌðə ˈkʌntriz],A1_L52_S102.mp3
+103,Мы видим одно очень красивое здание,We see one very beautiful building,[wi: si: wʌn ˈveri ˈbju:təfəl ˈbɪldɪŋ],A1_L52_S103.mp3
+104,У меня отличный результат,I have an excellent result,[aɪ hæv ən ˈeksələnt rɪˈzʌlt],A1_L52_S104.mp3
+105,Я хочу иметь продвинутый уровень английского языка,I want to have an Advanced level in English,[aɪ wɒnt tu: hæv ən ədˈvɑ:nst ˈlevl ɪn ˈɪŋglɪʃ],A1_L52_S105.mp3
+106,Мы учим основные правила в начале,We learn basic rules in the beginning,[wi: lɜ:n ˈbeɪsɪk ru:lz ɪn ðə bɪˈgɪnɪŋ],A1_L52_S106.mp3
+107,"Она чувствует себя такой счастливой, потому что у нее блестящий результат",She feels so happy because she has a brilliant result,[ʃi: fi:lz səʊ ˈhæpi bɪˈkɒz ʃi: hæz ə ˈbrɪljənt rɪˈzʌlt],A1_L52_S107.mp3
+108,У нее очень приятная улыбка,She has a very pleasant smile,[ʃi: hæz ə ˈveri ˈpleznt smaɪl],A1_L52_S108.mp3
+109,Они используют очень простой метод,They use a very simple method,[ðeɪ ju:z ə ˈveri ˈsɪmpl ˈmeθəd],A1_L52_S109.mp3

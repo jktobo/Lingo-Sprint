@@ -1,0 +1,100 @@
+sentence_id,prompt_ru,answer_en,transcription,audio_filename
+2,Она упала в обморок от голода,She fainted from hunger,[ʃi: ˈfeɪntɪd frɒm ˈhʌŋgə],A2_L133_S2.mp3
+3,Эта новость сильно удивила меня,This news surprised me greatly,[ðɪs nju:z səˈpraɪzd mi: ˈgreɪtli],A2_L133_S3.mp3
+4,Я пишу письмо,I am writing a letter,[aɪ æm ˈraɪtɪŋ ə ˈletə],A2_L133_S4.mp3
+5,Стекло упало со стола,The glass fell off the table,[ðə glɑ:s fel ɒf ðə ˈteɪbl],A2_L133_S5.mp3
+6,Телефон звонил весь день,The phone was ringing all day,[ðə fəʊn wɒz ˈrɪŋɪŋ ɔ:l deɪ],A2_L133_S6.mp3
+7,Я надеюсь скоро тебя увидеть,I hope to see you soon,[aɪ həʊp tu: si: ju: su:n],A2_L133_S7.mp3
+8,Они значительно увеличили цены,They increased the prices considerably,[ðeɪ ɪnˈkri:st ðə ˈpraɪsɪz kənˈsɪdərəbli],A2_L133_S8.mp3
+9,Я с большим удовольствием принял его предложение,I accepted his offer with great pleasure,[aɪ əkˈseptɪd hɪz ˈɒfə wɪð greɪt ˈpleʒə],A2_L133_S9.mp3
+10,Он летел обратно в Англию,He was flying back to England,[hi: wɒz ˈflaɪɪŋ bæk tu: ˈɪŋglənd],A2_L133_S10.mp3
+11,Аудитория была действительно впечатлена,The audience was really impressed,[ði ˈɔ:diəns wɒz ˈrɪəli ɪmˈprest],A2_L133_S11.mp3
+12,Когда они сообщат мне?,When will they inform me?,[wen wɪl ðeɪ ɪnˈfɔ:m mi:?],A2_L133_S12.mp3
+13,Мы начали болтать онлайн,We started chatting online,[wi: ˈstɑ:tɪd ˈʧætɪŋ ˈɒnˌlaɪn],A2_L133_S13.mp3
+14,Она порезала свой палец,She cut her finger,[ʃi: kʌt hɜ: ˈfɪŋgə],A2_L133_S14.mp3
+15,Я обожаю путешествовать,I enjoy travelling,[aɪ ɪnˈʤɔɪ ˈtrævlɪŋ],A2_L133_S15.mp3
+16,Как он себя чувствовал?,How did he feel?,[haʊ dɪd hi: fi:l?],A2_L133_S16.mp3
+17,Как они познакомились?,How did they meet?,[haʊ dɪd ðeɪ mi:t?],A2_L133_S17.mp3
+18,Он хочет переехать за границу?,Does he want to move abroad?,[dʌz hi: wɒnt tu: mu:v əˈbrɔ:d?],A2_L133_S18.mp3
+19,Он переехал в новую квартиру,He moved into a new apartmen,[hi: mu:vd ˈɪntu: ə nju: əˈpɑ:tmənt],A2_L133_S19.mp3
+20,Он летел домой навестить свою семью,He was flying home to visit his family,[hi: wɒz ˈflaɪɪŋ həʊm tu: ˈvɪzɪt hɪz ˈfæmɪli],A2_L133_S20.mp3
+21,Это действительно имеет значение?,Does it really matter?,[dʌz ɪt ˈrɪəli ˈmætə?],A2_L133_S21.mp3
+22,Я принял его приглашение,I accepted his invitation,[aɪ əkˈseptɪd hɪz ˌɪnvɪˈteɪʃən],A2_L133_S22.mp3
+23,Девушка внезапно упала в обморок,The girl fainted suddenly,[ðə gɜ:l ˈfeɪntɪd ˈsʌdnli],A2_L133_S23.mp3
+24,Огонь все еще горел,The fire was still burning,[ðə ˈfaɪə wɒz stɪl ˈbɜ:nɪŋ],A2_L133_S24.mp3
+25,Он обычно путешествует по делам,He usually travels on business,[hi: ˈju:ʒʊəli ˈtrævlz ɒn ˈbɪznɪs],A2_L133_S25.mp3
+26,Пойдем на пляж!,Let's go to the beach!,[lets gəʊ tu: ðə bi:ʧ!],A2_L133_S26.mp3
+27,Они собирали древние монеты,They collected ancient coins,[ðeɪ kəˈlektɪd ˈeɪnʃnt kɔɪnz],A2_L133_S27.mp3
+28,Я не собираюсь больше тратить свое время,I am not going to waste my time anymore,[aɪ æm nɒt ˈgəʊɪŋ tu: weɪst maɪ taɪm ˌeniˈmɔ:],A2_L133_S28.mp3
+29,Они значительно повысили цену,They increased the price significantly,[ðeɪ ɪnˈkri:st ðə praɪs sɪgˈnɪfɪkəntli],A2_L133_S29.mp3
+30,Он подал заявку на визу,He applied for a visa,[hi: əˈplaɪd fɔ: ə ˈvi:zə],A2_L133_S30.mp3
+31,Я встретил так много новых слов в этом тексте,I met so many new words in this text,[aɪ met səʊ ˈmeni nju: wɜ:dz ɪn ðɪs tekst],A2_L133_S31.mp3
+32,Он не может справиться с этой задачей,He can't cope with this task,[hi: kɑ:nt kəʊp wɪð ðɪs tɑ:sk],A2_L133_S32.mp3
+33,Огонь горит,The fire is burning,[ðə ˈfaɪər ɪz ˈbɜ:nɪŋ],A2_L133_S33.mp3
+34,Хватит тратить время!,Stop wasting time!,[stɒp ˈweɪstɪŋ taɪm!],A2_L133_S34.mp3
+35,Она что-то писала в своей записной книжке,She was writing something in her notebook,[ʃi: wɒz ˈraɪtɪŋ ˈsʌmθɪŋ ɪn hɜ: ˈnəʊtbʊk],A2_L133_S35.mp3
+36,Я подал заявку на работу,I applied for a job,[aɪ əˈplaɪd fɔ: ə ʤɒb],A2_L133_S36.mp3
+37,Мальчик упал на землю и повредил ногу,The boy fell to the ground and hurt his leg,[ðə bɔɪ fel tu: ðə graʊnd ænd hɜ:t hɪz leg],A2_L133_S37.mp3
+38,Не беспокой его!,Don't disturb him!,[dəʊnt dɪsˈtɜ:b hɪm!],A2_L133_S38.mp3
+39,Мне нужно обменять доллары,I need to exchange dollars,[aɪ ni:d tu: ɪksˈʧeɪnʤ ˈdɒləz],A2_L133_S39.mp3
+40,Ее гостеприимство действительно впечатлило меня,Her hospitality really impressed me,[hɜ: ˌhɒspɪˈtælɪti ˈrɪəli ɪmˈprest mi:],A2_L133_S40.mp3
+41,"Если ты хочешь больше прогресса, тебе нужно практиковаться каждый день","If you want more progress, you need to practise every day","[ɪf ju: wɒnt mɔ: ˈprəʊgrəs, ju: ni:d tu: ˈpræktɪs ˈevri deɪ]",A2_L133_S41.mp3
+42,Другим не позволено входить в здание,Others aren't allowed to enter the building,[ˈʌðəz ɑ:nt əˈlaʊd tu: ˈentə ðə ˈbɪldɪŋ],A2_L133_S42.mp3
+43,"У нас был урок английского, когда прозвенел звонок",We were having an English class when the bell rang,[wi: wɜ: ˈhævɪŋ ən ˈɪŋglɪʃ klɑ:s wen ðə bel ræŋ],A2_L133_S43.mp3
+44,"Тебе нужно перестать беспокоиться об этом, потому что это на самом деле не имеет значения",You need to stop worrying about it because it doesn't really matter,[ju: ni:d tu: stɒp ˈwʌriɪŋ əˈbaʊt ɪt bɪˈkɒz ɪt dʌznt ˈrɪəli ˈmætə],A2_L133_S44.mp3
+45,"Пока она объясняла новую тему, никто не мог понять это","While she was explaining a new topic, no one could understand it","[waɪl ʃi: wɒz ɪksˈpleɪnɪŋ ə nju: ˈtɒpɪk, nəʊ wʌn kʊd ˌʌndəˈstænd ɪt]",A2_L133_S45.mp3
+46,Мы болтали о наших планах на будущее,We were chatting about our plans for the future,[wi: wɜ: ˈʧætɪŋ əˈbaʊt ˈaʊə plænz fɔ: ðə ˈfju:ʧə],A2_L133_S46.mp3
+47,"Я не купил это, потому что это стоило слишком дорого",I didn't buy it because it cost too much,[aɪ dɪdnt baɪ ɪt bɪˈkɒz ɪt kɒst tu: mʌʧ],A2_L133_S47.mp3
+48,Избавиться от акцента не так просто,It isn't so easy to get rid of an accent,[ɪt ˈɪznt səʊ ˈi:zi tu: get rɪd ɒv ən ˈæksənt],A2_L133_S48.mp3
+49,"Студенты стояли там, ожидая своих результатов",The students were standing there waiting for their results,[ðə ˈstju:dənts wɜ: ˈstændɪŋ ðeə ˈweɪtɪŋ fɔ: ðeə rɪˈzʌlts],A2_L133_S49.mp3
+50,Я стараюсь не копировать эти ошибки,I try not to copy these mistakes,[aɪ traɪ nɒt tu: ˈkɒpi ði:z mɪsˈteɪks],A2_L133_S50.mp3
+51,Часы были отремонтированы им,The watch was repaired by him,[ðə wɒʧ wɒz rɪˈpeəd baɪ hɪm],A2_L133_S51.mp3
+52,Я собрал всю необходимую информацию,I collected all the necessary information,[aɪ kəˈlektɪd ɔ:l ðə ˈnesɪsəri ˌɪnfəˈmeɪʃən],A2_L133_S52.mp3
+53,Он спит в течение двух часов,He has been sleeping for two hours,[hi: hæz bi:n ˈsli:pɪŋ fɔ: tu: ˈaʊəz],A2_L133_S53.mp3
+54,"Я чувствую себя более уверенно, когда говорю по-английски",I feel more confident when I speak English,[aɪ fi:l mɔ: ˈkɒnfɪdənt wen aɪ spi:k ˈɪŋglɪʃ],A2_L133_S54.mp3
+55,Я стараюсь практиковать свой английский каждый день,I try to practise my English every day,[aɪ traɪ tu: ˈpræktɪs maɪ ˈɪŋglɪʃ ˈevri deɪ],A2_L133_S55.mp3
+56,Курение запрещено там,Smoking isn't allowed there,[ˈsməʊkɪŋ ˈɪznt əˈlaʊd ðeə],A2_L133_S56.mp3
+57,Здесь разрешено курить?,Is smoking allowed here?,[ɪz ˈsməʊkɪŋ əˈlaʊd hɪə?],A2_L133_S57.mp3
+58,Курение было разрешено там,Smoking was allowed there,[ˈsməʊkɪŋ wɒz əˈlaʊd ðeə],A2_L133_S58.mp3
+59,Ей удалось выжить в автокатастрофе,She managed to survive in a car crash,[ʃi: ˈmænɪʤd tu: səˈvaɪv ɪn ə kɑ: kræʃ],A2_L133_S59.mp3
+60,Ей удалось избежать этих трудностей,She managed to avoid these difficulties,[ʃi: ˈmænɪʤd tu: əˈvɔɪd ði:z ˈdɪfɪkəltiz],A2_L133_S60.mp3
+61,Ей не удалось выжить в той автокатастрофе,She didn't manage to survive in that car crash,[ʃi: dɪdnt ˈmænɪʤ tu: səˈvaɪv ɪn ðæt kɑ: kræʃ],A2_L133_S61.mp3
+62,"Мне нужно учиться гораздо усерднее, чтобы избавиться от этих ошибок",I need to study much harder to get rid of these mistakes,[aɪ ni:d tu: ˈstʌdi mʌʧ ˈhɑ:də tu: get rɪd ɒv ði:z mɪsˈteɪks],A2_L133_S62.mp3
+63,"Я должен учиться намного усерднее, чтобы говорить по-английски очень хорошо",I must study much harder to speak English very well,[aɪ mʌst ˈstʌdi mʌʧ ˈhɑ:də tu: spi:k ˈɪŋglɪʃ ˈveri wel],A2_L133_S63.mp3
+64,"Мне следует учиться гораздо усерднее, чтобы говорить по-английски бегло и правильно",I should study much harder to speak English fluently and correctly,[aɪ ʃʊd ˈstʌdi mʌʧ ˈhɑ:də tu: spi:k ˈɪŋglɪʃ ˈflu:əntli ænd kəˈrektli],A2_L133_S64.mp3
+65,С ней очень плохо обращались,She was treated very badly,[ʃi: wɒz ˈtri:tɪd ˈveri ˈbædli],A2_L133_S65.mp3
+66,С ней очень хорошо обращались,She was treated very well,[ʃi: wɒz ˈtri:tɪd ˈveri wel],A2_L133_S66.mp3
+67,Она очень плохо со мной обращается,She treats me very badly,[ʃi: tri:ts mi: ˈveri ˈbædli],A2_L133_S67.mp3
+68,"Я хочу полностью избавиться от этих ошибок …………….…................................................... 69. Я надеюсь, что я избавлюсь от этих ошибок …………….…................................................... 70. Мне нужно избавиться от этой одежды …………….…................................................... 71. Его часто критикуют за это …………….…................................................... 72. Он всегда критикует меня …………….…................................................... 73. Он не критикует меня совсем …………….…................................................... 74. Ты уже все починил? …………….…................................................... 75. Я еще ничего не чинил …………….…................................................... 76. Я уже починил эти часы …………….…................................................... 77. Когда я пришел к нему, он спал …………….…................................................... 78. Когда он пришел ко мне, я спал …………….…................................................... 79. Когда я позвонил ему, он готовил …………….…................................................... 80. Только он выжил в автокатастрофе …………….…................................................... 8 81. Ему удалось выжить в автокатастрофе …………….…................................................... 82. Некоторые люди не выжили в той автокатастрофе …………….…................................................... 83. Он сказал, что он порезал палец …………….…................................................... 84. Он сказал, что он сделал это сам …………….…................................................... 85. Он сказал, что он приготовил свой любимый салат …………….…................................................... 86. Он обычно избегает говорить об этом …………….…................................................... 87. Старайся не копировать ошибки других студентов …………….…................................................... 88. Я постараюсь справиться с этими трудностями …………….…................................................... 89. Меня удивляет, что ты никогда не слышал об этом …………….…................................................... 90. Она избегает обсуждать это …………….…................................................... 91. Меня действительно удивило, что он никогда там не был …………….…................................................... 92. Я надеюсь, что это не было правдой …………….…................................................... 93. Мы не были проинформированы вовремя …………….…................................................... 9 94. Я стоял там, ожидая своих результатов …………….…................................................... 95. Его очень резко критиковали …………….…................................................... 96. Я никогда не понимал этого …………….…................................................... 97. Это стоит много денег …………….…................................................... 98. К нему относятся очень несправедливо …………….…................................................... 99. Он не позволил ей сделать этого …………….…................................................... 100. Постарайся не беспокоить его! …………….…................................................... 10 Ответы 1. Мы часто обмениваемся нашими идеями",We often exchange our ideas,[wi: ˈɒfn ɪksˈʧeɪnʤ ˈaʊər aɪˈdɪəz],A2_L133_S68.mp3
+69,"Я надеюсь, что я избавлюсь от этих ошибок",I hope that I will get rid of these mistakes,[aɪ həʊp ðæt aɪ wɪl get rɪd ɒv ði:z mɪsˈteɪks],A2_L133_S69.mp3
+70,Мне нужно избавиться от этой одежды,I need to get rid of these clothes,[aɪ ni:d tu: get rɪd ɒv ði:z kləʊðz],A2_L133_S70.mp3
+71,Его часто критикуют за это,He is often criticised for it,[hi: ɪz ˈɒfn ˈkrɪtɪsaɪzd fɔ: ɪt],A2_L133_S71.mp3
+72,Он всегда критикует меня,He always criticises me,[hi: ˈɔ:lweɪz ˈkrɪtɪsaɪzɪz mi:],A2_L133_S72.mp3
+73,Он не критикует меня совсем,He doesn't criticise me at all,[hi: dʌznt ˈkrɪtɪsaɪz mi: æt ɔ:l],A2_L133_S73.mp3
+74,Ты уже все починил?,Have you already repaired everything?,[hæv ju: ɔ:lˈredi rɪˈpeəd ˈevrɪθɪŋ?],A2_L133_S74.mp3
+75,Я еще ничего не чинил,I haven't repaired anything yet,[aɪ hævnt rɪˈpeəd ˈenɪθɪŋ jet],A2_L133_S75.mp3
+76,Я уже починил эти часы,I have already repaired this watch,[aɪ hæv ɔ:lˈredi rɪˈpeəd ðɪs wɒʧ],A2_L133_S76.mp3
+77,"Когда я пришел к нему, он спал","When I came to him, he was sleeping","[wen aɪ keɪm tu: hɪm, hi: wɒz ˈsli:pɪŋ]",A2_L133_S77.mp3
+78,"Когда он пришел ко мне, я спал","When he came to me, I was sleeping","[wen hi: keɪm tu: mi:, aɪ wɒz ˈsli:pɪŋ]",A2_L133_S78.mp3
+79,"Когда я позвонил ему, он готовил","When I called him, he was cooking","[wen aɪ kɔ:ld hɪm, hi: wɒz ˈkʊkɪŋ]",A2_L133_S79.mp3
+80,Только он выжил в автокатастрофе,Only he survived in a car crash,[ˈəʊnli hi: səˈvaɪvd ɪn ə kɑ: kræʃ],A2_L133_S80.mp3
+81,Ему удалось выжить в автокатастрофе,He managed to survive in a car crash,[hi: ˈmænɪʤd tu: səˈvaɪv ɪn ə kɑ: kræʃ],A2_L133_S81.mp3
+82,Некоторые люди не выжили в той автокатастрофе,Some people didn't survive in that car crash,[sʌm ˈpi:pl dɪdnt səˈvaɪv ɪn ðæt kɑ: kræʃ],A2_L133_S82.mp3
+83,"Он сказал, что он порезал палец",He said that he had cut his finger,[hi: sed ðæt hi: hæd kʌt hɪz ˈfɪŋgə],A2_L133_S83.mp3
+84,"Он сказал, что он сделал это сам",He said that he had done it by himself,[hi: sed ðæt hi: hæd dʌn ɪt baɪ hɪmˈself],A2_L133_S84.mp3
+85,"Он сказал, что он приготовил свой любимый салат",He said that he had cooked his favourite salad,[hi: sed ðæt hi: hæd kʊkt hɪz ˈfeɪvərɪt ˈsæləd],A2_L133_S85.mp3
+86,Он обычно избегает говорить об этом,He usually avoids talking about it,[hi: ˈju:ʒʊəli əˈvɔɪdz ˈtɔ:kɪŋ əˈbaʊt ɪt],A2_L133_S86.mp3
+87,Старайся не копировать ошибки других студентов,Try not to copy other students mistakes,[traɪ nɒt tu: ˈkɒpi ˈʌðə ˈstju:dənts mɪsˈteɪks],A2_L133_S87.mp3
+88,Я постараюсь справиться с этими трудностями,I'll try to cope with these difficulties,[aɪl traɪ tu: kəʊp wɪð ði:z ˈdɪfɪkəltiz],A2_L133_S88.mp3
+89,"Меня удивляет, что ты никогда не слышал об этом",It surprises me that you have never heard about it,[ɪt səˈpraɪzɪz mi: ðæt ju: hæv ˈnevə hɜ:d əˈbaʊt ɪt],A2_L133_S89.mp3
+90,Она избегает обсуждать это,She avoids discussing it,[ʃi: əˈvɔɪdz dɪsˈkʌsɪŋ ɪt],A2_L133_S90.mp3
+91,"Меня действительно удивило, что он никогда там не был",It really surprised me that he had never been there,[ɪt ˈrɪəli səˈpraɪzd mi: ðæt hi: hæd ˈnevə bi:n ðeə],A2_L133_S91.mp3
+92,"Я надеюсь, что это не было правдой",I hope that it wasn't true,[aɪ həʊp ðæt ɪt wɒznt tru:],A2_L133_S92.mp3
+93,Мы не были проинформированы вовремя,We weren't informed on time,[wi: wɜ:nt ɪnˈfɔ:md ɒn taɪm],A2_L133_S93.mp3
+94,"Я стоял там, ожидая своих результатов",I was standing there waiting for my results,[aɪ wɒz ˈstændɪŋ ðeə ˈweɪtɪŋ fɔ: maɪ rɪˈzʌlts],A2_L133_S94.mp3
+95,Его очень резко критиковали,He was criticised very sharply,[hi: wɒz ˈkrɪtɪsaɪzd ˈveri ˈʃɑ:pli],A2_L133_S95.mp3
+96,Я никогда не понимал этого,I have never understood it,[aɪ hæv ˈnevər ˌʌndəˈstʊd ɪt],A2_L133_S96.mp3
+97,Это стоит много денег,It costs lots of money,[ɪt kɒsts lɒts ɒv ˈmʌni],A2_L133_S97.mp3
+98,К нему относятся очень несправедливо,He is treated very unfairly,[hi: ɪz ˈtri:tɪd ˈveri ʌnˈfeəli],A2_L133_S98.mp3
+99,Он не позволил ей сделать этого,He didn't let her do it,[hi: dɪdnt let hɜ: du: ɪt],A2_L133_S99.mp3
+100,Постарайся не беспокоить его!,Try not to disturb him!,[traɪ nɒt tu: dɪsˈtɜ:b hɪm!],A2_L133_S100.mp3
