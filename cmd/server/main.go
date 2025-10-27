@@ -1,30 +1,64 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"net/http"
-	"lingo-sprint/internal/database" // Мы добавим это чуть позже
+
+	"lingo-sprint/internal/api"
+	"lingo-sprint/internal/database"
+
+	"github.com/gorilla/mux"
 )
 
 func main() {
-	// Шаг 2: Подключение к базе данных. Пока закомментировано.
 	db, err := database.Connect()
 	if err != nil {
 		log.Fatalf("Could not connect to the database: %v", err)
 	}
 	log.Println("Successfully connected to the database!")
-	defer db.Close() // Закрываем соединение при завершении работы
+	defer db.Close()
 
-	// Создаем простой обработчик для главной страницы
-	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprintf(w, "Hello, Lingo-Sprint is running!")
-	})
+	r := mux.NewRouter()
+	apiHandler := api.NewApiHandler(db)
 
-	// Запускаем сервер на порту 8080, как указано в docker-compose.yml
+	// === ИЗМЕНЕНИЯ ЗДЕСЬ ===
+
+	// 1. Создаем /api саб-роутер
+	apiRouter := r.PathPrefix("/api").Subrouter()
+
+	// 2. Эти ручки НЕ защищены. Они нужны для входа.
+	apiRouter.HandleFunc("/register", apiHandler.RegisterUser).Methods("POST")
+	apiRouter.HandleFunc("/login", apiHandler.LoginUser).Methods("POST")
+
+	// 3. Создаем "защищенный" саб-роутер
+	// Все, что будет зарегистрировано в 's', будет проходить через AuthMiddleware
+	s := apiRouter.PathPrefix("/").Subrouter()
+	s.Use(api.AuthMiddleware) // <-- "Охранник" подключен!
+
+	// 4. Регистрируем все остальные ручки в 's'
+	s.HandleFunc("/levels", apiHandler.GetLevels).Methods("GET")
+	s.HandleFunc("/levels/{level_id:[0-9]+}/lessons", apiHandler.GetLessonsByLevel).Methods("GET")
+	s.HandleFunc("/lessons/{lesson_id:[0-9]+}/sentences", apiHandler.GetSentencesByLesson).Methods("GET")
+	// (Скоро здесь появится новая ручка /progress/save)
+
+	// ========================
+
+
+	s.HandleFunc("/progress/save", apiHandler.SaveProgress).Methods("POST")
+
+
+	// Ручка для обслуживания нашего фронтенда
+	r.PathPrefix("/").Handler(http.FileServer(http.Dir("./web/static/")))
+	
 	port := ":8080"
 	log.Printf("Starting server on port %s", port)
-	if err := http.ListenAndServe(port, nil); err != nil {
+	
+	loggedRouter := http.HandlerFunc(func(w http.ResponseWriter, req *http.Request) {
+		log.Printf("%s %s %s", req.RemoteAddr, req.Method, req.URL)
+		r.ServeHTTP(w, req) 
+	})
+	
+	if err := http.ListenAndServe(port, loggedRouter); err != nil {
 		log.Fatalf("Failed to start server: %v", err)
 	}
 }

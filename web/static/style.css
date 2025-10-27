@@ -1,0 +1,270 @@
+/* === Глобальные стили === */
+:root {
+    --primary-color: #007aff;
+    --background-color: #f4f7f6;
+    --card-background: #ffffff;
+    --text-color: #333;
+    --border-color: #e0e0e0;
+    --success-bg: #e7f7eb;
+    --success-text: #155724;
+    --error-bg: #f8d7da;
+    --error-text: #721c24;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--card-background);
+    padding: 20px 40px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    margin-bottom: 30px;
+}
+
+header h1 {
+    margin: 0;
+    color: var(--primary-color);
+    font-size: 1.5em;
+}
+
+#logout-button {
+    padding: 10px 15px;
+    background-color: var(--error-bg);
+    color: var(--error-text);
+    border: 1px solid var(--error-text);
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.2s;
+}
+#logout-button:hover {
+    background-color: #f1b0b7;
+}
+
+h2 {
+    color: #555;
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 8px;
+    margin-top: 30px;
+}
+hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 30px 0;
+}
+
+/* === Стили Аутентификации === */
+.auth-form {
+    background: var(--card-background);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    max-width: 400px;
+    margin: 40px auto;
+}
+.auth-form h2 {
+    text-align: center;
+    margin-top: 0;
+    border: none;
+}
+.auth-form input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 14px;
+    font-size: 1em;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 15px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+.auth-form input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(0,122,255,0.1);
+}
+.auth-form button {
+    width: 100%;
+    padding: 14px;
+    font-size: 1.1em;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: var(--primary-color);
+    color: white;
+    transition: background-color 0.2s;
+}
+.auth-form button:hover {
+    background-color: #0056b3;
+}
+.auth-form p {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+.auth-form a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+.error-message {
+    background-color: var(--error-bg);
+    color: var(--error-text);
+    border: 1px solid var(--error-text);
+    padding: 12px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* === Стили Дэшборда === */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+    gap: 15px;
+}
+.grid-item {
+    padding: 25px 20px;
+    background-color: var(--card-background);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    font-weight: 600;
+}
+.grid-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    border-color: var(--primary-color);
+}
+.grid-item.active {
+    background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
+    transform: translateY(0);
+}
+
+/* === Стили Тренажера === */
+#card {
+    background: var(--card-background);
+    border-radius: 12px;
+    padding: 25px 30px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+.prompt {
+    font-size: 1.6em;
+    font-weight: 500;
+    margin: 15px 0 25px 0;
+    text-align: center;
+    line-height: 1.4;
+}
+#user-answer {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 14px;
+    font-size: 1.1em;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 15px;
+    min-height: 80px;
+    resize: vertical;
+}
+#user-answer:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(0,122,255,0.1);
+}
+
+#check-answer, #next-sentence, #back-to-lessons {
+    width: 100%;
+    padding: 15px;
+    font-size: 1.1em;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+#check-answer {
+    background-color: var(--primary-color);
+    color: white;
+}
+#check-answer:hover {
+    background-color: #0056b3;
+}
+#next-sentence, #back-to-lessons {
+    background-color: #e5e5ea;
+    color: #333;
+    margin-top: 10px;
+}
+#next-sentence:hover, #back-to-lessons:hover {
+    background-color: #d8d8de;
+}
+
+.audio-controls {
+    text-align: center;
+}
+#play-audio {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid var(--border-color);
+    width: auto;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+#play-audio:hover {
+    background-color: #e5e5ea;
+}
+
+#feedback {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+#feedback.correct {
+    background-color: var(--success-bg);
+    border: 1px solid var(--success-text);
+    color: var(--success-text);
+}
+#feedback.incorrect {
+    background-color: var(--error-bg);
+    border: 1px solid var(--error-text);
+    color: var(--error-text);
+}
+
+#progress-bar {
+    width: 100%;
+    background-color: #e5e5ea;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 25px;
+    overflow: hidden;
+}
+#progress-bar-inner {
+    width: 0%;
+    height: 100%;
+    background-color: var(--primary-color);
+    transition: width 0.3s ease;
+}

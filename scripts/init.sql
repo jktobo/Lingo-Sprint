@@ -47,6 +47,7 @@ CREATE INDEX IF NOT EXISTS idx_sentences_lesson ON sentences (lesson_id);
 -- === НОВОЕ: Добавляем все уровни ===
 INSERT INTO levels (title) VALUES ('A0') ON CONFLICT (title) DO NOTHING;
 INSERT INTO levels (title) VALUES ('A1') ON CONFLICT (title) DO NOTHING;
+INSERT INTO levels (title) VALUES ('A2') ON CONFLICT (title) DO NOTHING;
 INSERT INTO levels (title) VALUES ('B1') ON CONFLICT (title) DO NOTHING;
 INSERT INTO levels (title) VALUES ('B2') ON CONFLICT (title) DO NOTHING;
 INSERT INTO levels (title) VALUES ('C1') ON CONFLICT (title) DO NOTHING;
