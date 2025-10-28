@@ -24,6 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const feedback = document.getElementById("feedback");
     const feedbackText = document.getElementById("feedback-text");
     const correctAnswer = document.getElementById("correct-answer");
+    const aiExplanation = document.getElementById("ai-explanation"); // <-- ADD THIS
     const progressBar = document.getElementById("progress-bar-inner");
     const progressText = document.getElementById("progress-text");
 
@@ -74,6 +75,33 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
+    // === НОВАЯ: Функция для запроса объяснения у AI ===
+    async function fetchErrorExplanation(promptRu, correctEn, userAnswerEn) {
+        try {
+            // Показываем "Загрузка..." пока ждем ответа
+            aiExplanation.textContent = "🤖 Думаю над объяснением...";
+            aiExplanation.style.display = "block";
+
+            const response = await fetchProtected("/api/ai/explain-error", {
+                method: "POST",
+                body: JSON.stringify({
+                    prompt_ru: promptRu,
+                    correct_en: correctEn,
+                    user_answer_en: userAnswerEn
+                })
+            });
+            if (!response) return; // fetchProtected уже обработал ошибку
+
+            const data = await response.json();
+            aiExplanation.textContent = data.explanation || "Не удалось получить объяснение.";
+
+        } catch (error) {
+            console.error("Failed to fetch AI explanation:", error);
+            aiExplanation.textContent = "Не удалось связаться с AI-помощником.";
+        }
+    }
+
+
     async function fetchLevels() {
         try {
             const response = await fetchProtected("/api/levels");
@@ -93,12 +121,16 @@ document.addEventListener("DOMContentLoaded", () => {
     async function fetchSentences(lessonId) {
         try {
             const response = await fetchProtected(`/api/lessons/${lessonId}/sentences`);
-            if (!response) return; // Stop if fetchProtected failed (e.g., logged out)
+            if (!response) return;
             state.sentences = await response.json();
+
+            // --- ADD LOGGING HERE ---
+            console.log("Sentences received from API:", JSON.stringify(state.sentences, null, 2)); // Log all sentences
 
             const firstUnansweredIndex = state.sentences.findIndex(s =>
                 !(s.status.Valid && s.status.String === 'mastered')
             );
+            console.log("Calculated firstUnansweredIndex:", firstUnansweredIndex); // Log the result of findIndex
 
             if (firstUnansweredIndex === -1 && state.sentences.length > 0) {
                  alert("Вы уже прошли этот урок! Показываем заново.");
@@ -114,6 +146,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
                 state.displayProgressNumber = masteredCount + 1;
             }
+            console.log("Setting currentSentenceIndex to:", state.currentSentenceIndex); // Log the final index
+            console.log("Setting displayProgressNumber to:", state.displayProgressNumber); // Log the display number
+            // --- END LOGGING ---
+
 
             if (state.sentences.length > 0) {
                 showView('trainer');
@@ -263,6 +299,7 @@ document.addEventListener("DOMContentLoaded", () => {
         checkAnswerBtn.style.display = "block";
         feedback.style.display = "none";
         nextSentenceBtn.style.display = "none";
+        aiExplanation.style.display = "none"; // <-- ADD THIS LINE to hide AI explanation on new sentence
 
         const totalNum = state.sentences.length;
         const barProgress = ((state.currentSentenceIndex + 1) / totalNum) * 100;
@@ -296,6 +333,12 @@ document.addEventListener("DOMContentLoaded", () => {
         feedbackText.textContent = isCorrect ? "Правильно! 👍" : "Ошибка 😞";
         correctAnswer.textContent = correct;
         feedback.className = isCorrect ? "correct" : "incorrect";
+
+        // Прячем старое объяснение и вызываем AI, если НЕправильно
+        // aiExplanation.style.display = "none"; // Сначала скрыть
+        // if (!isCorrect) {
+        //     fetchErrorExplanation(currentSentence.prompt_ru, correct, user); // Вызываем AI
+        // }
 
         saveProgress(currentSentence.id, isCorrect);
 

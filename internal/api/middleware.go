@@ -36,7 +36,7 @@ func AuthMiddleware(next http.Handler) http.Handler {
 
 		// 3. Парсим токен, используя наш секретный ключ (jwtKey из handlers.go)
 		token, err := jwt.ParseWithClaims(tokenString, claims, func(token *jwt.Token) (interface{}, error) {
-			return jwtKey, nil
+			return JwtKey, nil
 		})
 
 		if err != nil {

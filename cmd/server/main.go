@@ -39,12 +39,13 @@ func main() {
 	s.HandleFunc("/levels", apiHandler.GetLevels).Methods("GET")
 	s.HandleFunc("/levels/{level_id:[0-9]+}/lessons", apiHandler.GetLessonsByLevel).Methods("GET")
 	s.HandleFunc("/lessons/{lesson_id:[0-9]+}/sentences", apiHandler.GetSentencesByLesson).Methods("GET")
-	// (Скоро здесь появится новая ручка /progress/save)
+	s.HandleFunc("/progress/save", apiHandler.SaveProgress).Methods("POST")
+
+	s.HandleFunc("/ai/explain-error", apiHandler.ExplainError).Methods("POST")
 
 	// ========================
 
 
-	s.HandleFunc("/progress/save", apiHandler.SaveProgress).Methods("POST")
 
 
 	// Ручка для обслуживания нашего фронтенда
