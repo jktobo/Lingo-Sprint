@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lingo-Sprint - Изучай английский эффективно</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="landing.css">
+</head>
+<body class="landing-page">
+
+    <header class="landing-header">
+        <div class="container">
+            <div class="logo">
+                <h1>Lingo-Sprint 🏃</h1>
+            </div>
+            <nav class="main-nav">
+                </nav>
+            <div class="auth-buttons">
+                <a href="/register" class="btn btn-primary" id="header-start-button">Начать бесплатно</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container hero-content">
+                <div class="hero-text">
+                    <h1>Изучай английский быстрее с Lingo-Sprint</h1>
+                    <p>Интерактивные упражнения, основанные на проверенной методике. От A0 до C1.</p>
+                    <a href="/register" class="btn btn-primary btn-large" id="hero-start-button">Начать изучение</a>
+                </div>
+                <div class="hero-image">
+                    <img src="placeholder.png" alt="Изучение английского языка иллюстрация" style="opacity: 0.5;">
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="container">
+                <h2>Почему Lingo-Sprint?</h2>
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <div class="feature-icon">🚀</div>
+                        <h3>Активное припоминание</h3>
+                        <p>Вы не просто читаете, а активно вспоминаете и печатаете перевод.</p>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">🧠</div>
+                        <h3>Интервальное повторение</h3>
+                        <p>Система показывает сложные слова чаще, закрепляя их в памяти.</p>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">📈</div>
+                        <h3>Отслеживание прогресса</h3>
+                        <p>Визуальный прогресс по каждому уроку и уровню мотивирует.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- <section id="auth-view" style="margin-top: 50px;">
+            <form id="login-form" class="auth-form" style="display:none;">
+                <h2>Вход</h2>
+                <div id="login-error" class="error-message" style="display:none;"></div>
+                <label for="login-email">Email</label>
+                <input type="email" id="login-email" required>
+                <label for="login-password">Пароль</label>
+                <input type="password" id="login-password" required>
+                <button type="submit">Войти</button>
+                <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
+            </form>
+
+            <form id="register-form" class="auth-form" style="display:none;">
+                <h2>Регистрация</h2>
+                <div id="register-error" class="error-message" style="display:none;"></div>
+                <label for="register-email">Email</label>
+                <input type="email" id="register-email" required>
+                <label for="register-password">Пароль (мин. 6)</label>
+                <input type="password" id="register-password" required>
+                <button type="submit">Создать аккаунт</button>
+                <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
+            </form>
+        </section> -->
+
+
+    </main>
+
+    <footer class="landing-footer">
+        <div class="container">
+            <p>&copy; 2025 Lingo-Sprint. Все права защищены.</p>
+        </div>
+    </footer>
+    
+    <div id="auth-overlay" class="modal-overlay" style="display: none;"></div>
+    <div id="auth-modal" class="modal" style="display: none;">
+        <button id="close-modal-button" class="modal-close-button">&times;</button>
+        <section id="auth-view" style="margin-top: 0; box-shadow: none; padding: 0;">
+            <form id="login-form" class="auth-form" style="display:none; box-shadow: none; margin: 0; max-width: none;">
+                <h2>Вход</h2>
+                <div id="login-error" class="error-message" style="display:none;"></div>
+                <label for="login-email">Email</label>
+                <input type="email" id="login-email" required>
+                <label for="login-password">Пароль</label>
+                <input type="password" id="login-password" required>
+                <button type="submit">Войти</button>
+                <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
+            </form>
+
+            <form id="register-form" class="auth-form" style="display:none; box-shadow: none; margin: 0; max-width: none;">
+                <h2>Регистрация</h2>
+                <div id="register-error" class="error-message" style="display:none;"></div>
+                <label for="register-email">Email</label>
+                <input type="email" id="register-email" required>
+                <label for="register-password">Пароль (мин. 6)</label>
+                <input type="password" id="register-password" required>
+                <button type="submit">Создать аккаунт</button>
+                <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
+            </form>
+        </section>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,320 @@
+/* === Стили для landing.html === */
+
+.landing-page {
+    /* Можно добавить градиентный фон, как в 4.png, если хотите */
+    background-color: #FFFFFF; /* Пока оставим белый */
+}
+
+.container {
+    width: 100%;
+    max-width: 1100px; /* Стандартная ширина контейнера для лендингов */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* --- Шапка Лендинга --- */
+.landing-header {
+    background: var(--card-background);
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border-color);
+    position: sticky; /* Закрепим шапку */
+    top: 0;
+    z-index: 100;
+}
+
+.landing-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.landing-header .logo h1 {
+    color: var(--primary-color);
+    font-size: 1.8em;
+    font-weight: 700;
+    margin: 0;
+}
+
+.main-nav a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    margin-left: 25px;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.main-nav a:hover {
+    color: var(--primary-color);
+}
+
+/* --- Кнопки в Шапке --- */
+.auth-buttons a.btn {
+    text-decoration: none;
+    padding: 8px 18px;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-left: 10px;
+    transition: all 0.2s;
+    display: inline-block; /* Для правильных отступов */
+    font-size: 0.9em; /* Чуть меньше */
+}
+.auth-buttons a.btn-secondary {
+    background-color: #F3F4F6; /* Светло-серый */
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+}
+.auth-buttons a.btn-secondary:hover {
+    background-color: #E5E7EB;
+}
+.auth-buttons a.btn-primary {
+    background-color: var(--primary-color);
+    color: white;
+    border: 1px solid var(--primary-color);
+}
+.auth-buttons a.btn-primary:hover {
+    background-color: var(--primary-hover);
+    box-shadow: 0 4px 10px rgba(99, 102, 241, 0.2);
+}
+
+
+/* --- Секция Hero (Главный экран) --- */
+.hero {
+    padding: 80px 0; /* Большие отступы */
+    background-color: #F9FAFB; /* Очень светлый фон */
+    text-align: center; /* Центрируем по умолчанию */
+}
+
+.hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px; /* Расстояние между текстом и картинкой */
+}
+
+.hero-text {
+    flex: 1; /* Занимает доступное пространство */
+    text-align: left; /* Текст слева */
+    max-width: 550px;
+}
+
+.hero-text h1 {
+    font-size: 3em; /* Крупный заголовок */
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    color: var(--text-color);
+}
+
+.hero-text p {
+    font-size: 1.15em;
+    color: var(--text-secondary);
+    margin-bottom: 30px;
+    line-height: 1.7;
+}
+
+/* --- Большая кнопка "Начать" --- */
+a.btn-large {
+    padding: 15px 35px; /* Крупнее */
+    font-size: 1.1em;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    transition: all 0.2s;
+    background-color: var(--primary-color);
+    color: white;
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+}
+a.btn-large:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+}
+
+
+.hero-image {
+    flex: 1; /* Занимает доступное пространство */
+    max-width: 450px; /* Ограничим размер картинки */
+}
+.hero-image img {
+    width: 100%;
+    height: auto;
+    display: block; /* Убрать лишние отступы */
+}
+
+/* --- Секция Features (Преимущества) --- */
+.features {
+    padding: 70px 0;
+}
+
+.features h2 {
+    text-align: center;
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 50px;
+    border: none; /* Убираем границу */
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 колонки */
+    gap: 30px;
+}
+
+.feature-item {
+    background-color: var(--card-background);
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    border: 1px solid var(--border-color);
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+}
+.feature-item:hover {
+     transform: translateY(-5px);
+     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
+}
+
+.feature-icon {
+    font-size: 2.5em; /* Крупные иконки */
+    margin-bottom: 15px;
+    /* Можно добавить фон для иконок */
+    /* background-color: rgba(99, 102, 241, 0.1);
+    width: 60px; height: 60px; line-height: 60px;
+    border-radius: 50%; margin-left: auto; margin-right: auto; */
+}
+
+.feature-item h3 {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--text-color);
+}
+
+.feature-item p {
+    color: var(--text-secondary);
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+
+/* --- Футер Лендинга --- */
+.landing-footer {
+    background-color: #F9FAFB;
+    padding: 30px 0;
+    margin-top: 50px;
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: 0.9em;
+}
+
+/* --- Адаптивность для Лендинга --- */
+@media (max-width: 768px) {
+    .hero-content {
+        flex-direction: column; /* Текст над картинкой */
+        text-align: center;
+    }
+    .hero-text {
+        text-align: center;
+        max-width: none;
+        margin-bottom: 40px;
+    }
+    .hero-text h1 {
+        font-size: 2.5em;
+    }
+    .hero-image {
+        max-width: 80%; /* Уменьшим картинку */
+    }
+    .features-grid {
+        grid-template-columns: 1fr; /* Одна колонка */
+    }
+    .landing-header .container {
+        flex-wrap: wrap; /* Разрешить перенос */
+        justify-content: center; /* Центрировать лого */
+        gap: 10px;
+    }
+    .main-nav { display: none; } /* Скрываем навигацию для простоты */
+    .auth-buttons {
+        margin-top: 10px;
+        width: 100%; /* Занять всю ширину */
+        text-align: center; /* Центрировать кнопки */
+    }
+}
+
+/* --- Скрытие блока auth-view по умолчанию на лендинге --- */
+/* JS будет управлять отображением форм */
+.landing-page #auth-view {
+    margin-top: 50px; /* Добавим отступ от секции features */
+}
+.landing-page #login-form,
+.landing-page #register-form {
+    /* JS сам покажет нужную */
+}
+
+/* === СТИЛИ МОДАЛЬНОГО ОКНА === */
+
+.modal-overlay {
+    position: fixed; /* Поверх всего */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Полупрозрачный фон */
+    z-index: 1000; /* Выше шапки */
+    display: none; /* Скрыто по умолчанию */
+}
+
+.modal {
+    position: fixed; /* Поверх всего */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Центрирование */
+    background-color: var(--card-background);
+    border-radius: 12px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+    z-index: 1001; /* Выше фона */
+    width: 90%; /* Ширина на мобильных */
+    max-width: 480px; /* Макс. ширина */
+    padding: 30px 40px; /* Отступы внутри окна */
+    display: none; /* Скрыто по умолчанию */
+}
+
+/* Стили для кнопки закрытия */
+.modal-close-button {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 2.5em; /* Крупный крестик */
+    color: var(--text-secondary);
+    cursor: pointer;
+    line-height: 1;
+    padding: 0;
+}
+.modal-close-button:hover {
+    color: var(--text-color);
+}
+
+/* Убираем лишние отступы у форм внутри модалки */
+.modal .auth-form {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    max-width: none;
+}
+
+/* Дополнительный класс для body, когда модалка открыта */
+body.modal-open {
+    overflow: hidden; /* Запретить прокрутку фона */
+}
+
+/* Адаптивность модального окна */
+@media (max-width: 600px) {
+    .modal {
+        padding: 25px;
+    }
+    .modal-close-button {
+        top: 8px;
+        right: 10px;
+        font-size: 2em;
+    }
+}

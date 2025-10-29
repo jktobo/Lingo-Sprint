@@ -154,29 +154,26 @@ func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 	}
 	log.Printf("SaveProgress: Received SentenceID=%d, IsCorrect=%t", req.SentenceID, req.IsCorrect)
 
-	// --- УПРОЩЕННАЯ ЛОГИКА ---
+	// --- УПРОЩЕННАЯ ЛОГИКА "ОДИН РАЗ И ГОТОВО" ---
 	var nextStatus string
-	var nextStreak int // Счетчик теперь не так важен для статуса, но сохраним его
+	var nextStreak int
 	var nextReview time.Time
 	now := time.Now()
 
 	if req.IsCorrect {
 		// ЛЮБОЙ ПРАВИЛЬНЫЙ ОТВЕТ -> Mastered
 		nextStatus = "mastered"
-		// Мы можем просто ставить счетчик 1 (или 5, не важно), т.к. статус уже mastered
-		nextStreak = 1
-		// Убираем надолго
-		nextReview = now.Add(100 * 365 * 24 * time.Hour)
-		log.Printf("SaveProgress Logic: CORRECT. Setting status to mastered.") // DEBUG LOG
-
+		nextStreak = 1 // Просто ставим 1 (уже не используется для логики)
+		nextReview = now.Add(100 * 365 * 24 * time.Hour) // Убираем на 100 лет
+		log.Printf("SaveProgress Logic: CORRECT. Setting status to mastered.")
 	} else {
 		// НЕПРАВИЛЬНО -> Learning, сброс счетчика
 		nextStatus = "learning"
 		nextStreak = 0 // Сбрасываем счетчик
 		nextReview = now // Повторить как можно скорее
-		log.Printf("SaveProgress Logic: INCORRECT. Setting status to learning, resetting streak.") // DEBUG LOG
+		log.Printf("SaveProgress Logic: INCORRECT. Setting status to learning, resetting streak.")
 	}
-	// --------------------------
+	// ---------------------------------------------
 
 	// --- Обновляем или вставляем (UPSERT) ---
 	sqlStatement := `
@@ -185,7 +182,7 @@ func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 		ON CONFLICT (user_id, sentence_id)
 		DO UPDATE SET
 			status = EXCLUDED.status,
-			correct_streak = EXCLUDED.correct_streak, -- Все еще обновляем счетчик для информации
+			correct_streak = EXCLUDED.correct_streak,
 			next_review_date = EXCLUDED.next_review_date;
 	`
 	log.Printf("SaveProgress: Executing UPSERT with UserID=%d, SentenceID=%d, Status=%s, Streak=%d, ReviewDate=%v", userID, req.SentenceID, nextStatus, nextStreak, nextReview)

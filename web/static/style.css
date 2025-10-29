@@ -1,30 +1,38 @@
-/* === Глобальные стили === */
+/* === Глобальные переменные === */
 :root {
-    --primary-color: #007aff;
-    --background-color: #f4f7f6;
-    --card-background: #ffffff;
-    --text-color: #333;
-    --border-color: #e0e0e0;
-    --success-bg: #e7f7eb;
-    --success-text: #155724;
-    --error-bg: #f8d7da;
-    --error-text: #721c24;
+    --primary-color: #6366F1; /* Фиолетовый */
+    --primary-hover: #4F46E5;
+    --background-color: #F8FAFC; /* Светло-серый фон */
+    --card-background: #FFFFFF; /* Белые карточки */
+    --text-color: #1F2937; /* Темно-серый текст */
+    --text-secondary: #6B7280; /* Светло-серый текст */
+    --border-color: #E5E7EB; /* Светло-серая граница */
+    --success-bg: #D1FAE5;
+    --success-text: #065F46;
+    --error-bg: #FEE2E2;
+    --error-text: #991B1B;
+    --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* === Сброс и Базовые стили === */
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-family: var(--font-sans);
     background-color: var(--background-color);
     color: var(--text-color);
     margin: 0;
     padding: 0;
+    line-height: 1.6;
 }
 
 main {
     width: 100%;
-    max-width: 800px;
-    margin: 20px auto;
+    max-width: 900px;
+    margin: 30px auto;
     padding: 20px;
-    box-sizing: border-box;
 }
 
 header {
@@ -32,234 +40,282 @@ header {
     justify-content: space-between;
     align-items: center;
     background: var(--card-background);
-    padding: 20px 40px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    padding: 15px 30px;
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
     margin-bottom: 30px;
 }
 
 header h1 {
     margin: 0;
     color: var(--primary-color);
-    font-size: 1.5em;
+    font-size: 1.75em;
+    font-weight: 700;
 }
 
 #logout-button {
-    padding: 10px 15px;
+    padding: 8px 16px;
     background-color: var(--error-bg);
     color: var(--error-text);
-    border: 1px solid var(--error-text);
+    border: none;
     border-radius: 6px;
     cursor: pointer;
     font-weight: 600;
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, box-shadow 0.2s;
 }
 #logout-button:hover {
-    background-color: #f1b0b7;
+    background-color: #FECACA;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 h2 {
-    color: #555;
-    border-bottom: 2px solid var(--border-color);
-    padding-bottom: 8px;
-    margin-top: 30px;
+    color: var(--text-color); /* Сделаем темнее */
+    border-bottom: 1px solid var(--border-color); /* Тоньше */
+    padding-bottom: 10px;
+    margin-top: 40px; /* Больше отступа сверху */
+    margin-bottom: 20px; /* Отступ снизу */
+    font-size: 1.5em;
+    font-weight: 600;
 }
 hr {
     border: none;
-    border-top: 1px solid #eee;
-    margin: 30px 0;
+    border-top: 1px solid var(--border-color); /* Тоньше */
+    margin: 40px 0;
 }
 
-/* === Стили Аутентификации === */
+/* === Стили Аутентификации (как было) === */
 .auth-form {
     background: var(--card-background);
-    padding: 30px;
+    padding: 40px;
     border-radius: 12px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
-    max-width: 400px;
-    margin: 40px auto;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    max-width: 450px;
+    margin: 60px auto;
 }
 .auth-form h2 {
-    text-align: center;
-    margin-top: 0;
-    border: none;
+    text-align: center; margin-top: 0; margin-bottom: 30px;
+    color: var(--text-color); font-size: 1.8em; font-weight: 600; border: none;
+}
+.auth-form label {
+    display: block; font-weight: 600; margin-bottom: 8px; color: var(--text-secondary);
 }
 .auth-form input {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 14px;
-    font-size: 1em;
-    border-radius: 8px;
-    border: 1px solid var(--border-color);
-    margin-bottom: 15px;
-    transition: border-color 0.2s, box-shadow 0.2s;
+    width: 100%; padding: 12px 15px; font-size: 1em; border-radius: 8px;
+    border: 1px solid var(--border-color); margin-bottom: 20px;
+    transition: border-color 0.2s, box-shadow 0.2s; background-color: #F9FAFB;
 }
 .auth-form input:focus {
-    outline: none;
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(0,122,255,0.1);
+    outline: none; border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2); background-color: white;
 }
-.auth-form button {
-    width: 100%;
-    padding: 14px;
-    font-size: 1.1em;
-    font-weight: 600;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    background-color: var(--primary-color);
-    color: white;
-    transition: background-color 0.2s;
+.auth-form button[type="submit"] {
+    width: 100%; padding: 14px; font-size: 1.1em; font-weight: 600; border: none;
+    border-radius: 8px; cursor: pointer; background-color: var(--primary-color);
+    color: white; transition: background-color 0.2s, box-shadow 0.2s; margin-top: 10px;
 }
-.auth-form button:hover {
-    background-color: #0056b3;
+.auth-form button[type="submit"]:hover {
+    background-color: var(--primary-hover); box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
 }
-.auth-form p {
-    text-align: center;
-    margin-top: 20px;
-    font-size: 0.9em;
-}
-.auth-form a {
-    color: var(--primary-color);
-    text-decoration: none;
-    font-weight: 600;
-}
+.auth-form p { text-align: center; margin-top: 25px; color: var(--text-secondary); }
+.auth-form a { color: var(--primary-color); text-decoration: none; font-weight: 600; }
+.auth-form a:hover { text-decoration: underline; }
 .error-message {
-    background-color: var(--error-bg);
-    color: var(--error-text);
-    border: 1px solid var(--error-text);
-    padding: 12px;
-    border-radius: 6px;
-    margin-bottom: 15px;
-    text-align: center;
+    background-color: var(--error-bg); color: var(--error-text);
+    border: 1px solid var(--error-text); padding: 12px; border-radius: 8px;
+    margin-bottom: 20px; text-align: center; font-size: 0.9em;
 }
 
-/* === Стили Дэшборда === */
+/* === ОБНОВЛЕННЫЕ Стили Дэшборда (как в 2.jpg) === */
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-    gap: 15px;
+    /* Оставляем адаптивным, но делаем карточки чуть крупнее */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px; /* Увеличим расстояние */
 }
 .grid-item {
-    padding: 25px 20px;
+    padding: 20px; /* Вернем отступ */
     background-color: var(--card-background);
     border: 1px solid var(--border-color);
     border-radius: 10px;
     text-align: center;
     cursor: pointer;
-    transition: all 0.2s ease;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: all 0.2s ease-in-out; /* Плавнее */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); /* Мягкая тень */
     font-weight: 600;
+    color: var(--text-secondary); /* Изначально серый */
+    position: relative; /* Для возможных будущих значков */
+    overflow: hidden; /* Если добавим фон */
 }
 .grid-item:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    transform: translateY(-4px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
     border-color: var(--primary-color);
+    color: var(--primary-color); /* Цвет текста при наведении */
 }
 .grid-item.active {
     background-color: var(--primary-color);
     color: white;
     border-color: var(--primary-color);
-    transform: translateY(0);
+    transform: translateY(0); /* Сброс */
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); /* Стандартная тень */
+}
+/* Стили для заголовков карточек уроков/уровней */
+.grid-item span {
+    display: block;
+    font-size: 1.1em;
+}
+/* (Дополнительно можно добавить иконки или индикаторы прогресса позже) */
+
+
+/* === ОБНОВЛЕННЫЕ Стили Тренажера (в стиле карточек) === */
+#trainer-view h2 { /* Убираем границу у заголовка урока */
+    border-bottom: none;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#back-to-lessons {
+    display: block; /* Сделать блочным для margin auto */
+    margin: 0 auto 25px auto; /* Центрировать и добавить отступ снизу */
+    width: auto; /* Авто ширина */
+    padding: 10px 20px;
+    font-size: 0.9em; /* Меньше */
+    font-weight: 600;
+    border: 1px solid var(--border-color); /* Граница вместо фона */
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: var(--card-background); /* Белый фон */
+    color: var(--text-secondary); /* Серый текст */
+    transition: all 0.2s;
+}
+#back-to-lessons:hover {
+    background-color: #F9FAFB; /* Очень светлый фон */
+    border-color: #D1D5DB; /* Темнее граница */
+    color: var(--text-color); /* Темный текст */
 }
 
-/* === Стили Тренажера === */
 #card {
     background: var(--card-background);
-    border-radius: 12px;
-    padding: 25px 30px;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    border-radius: 16px; /* Более скругленные углы */
+    padding: 30px 40px; /* Больше отступов */
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08); /* Та же тень, что у формы */
+    position: relative; /* Для позиционирования элементов */
+}
+.audio-controls {
+    text-align: right; /* Кнопка аудио справа */
+    margin-bottom: 10px;
+}
+#play-audio {
+    background-color: transparent; /* Прозрачный фон */
+    color: var(--text-secondary);
+    border: none; /* Без границы */
+    width: auto;
+    padding: 5px; /* Меньше */
+    font-size: 1.5em; /* Крупнее иконка */
+    border-radius: 50%; /* Круглая */
+    cursor: pointer;
+    transition: color 0.2s, background-color 0.2s;
+}
+#play-audio:hover {
+    color: var(--primary-color);
+    background-color: #F3F4F6; /* Легкий фон при наведении */
 }
 .prompt {
-    font-size: 1.6em;
-    font-weight: 500;
-    margin: 15px 0 25px 0;
+    font-size: 1.8em; /* Крупнее */
+    font-weight: 600; /* Жирнее */
+    margin: 10px 0 30px 0; /* Отступы */
     text-align: center;
     line-height: 1.4;
+    color: var(--text-color);
 }
 #user-answer {
     width: 100%;
-    box-sizing: border-box;
-    padding: 14px;
+    padding: 15px; /* Больше */
     font-size: 1.1em;
-    border-radius: 8px;
+    border-radius: 10px; /* Скругляем */
     border: 1px solid var(--border-color);
-    margin-bottom: 15px;
-    min-height: 80px;
+    margin-bottom: 20px;
+    min-height: 100px; /* Выше */
     resize: vertical;
+    font-family: var(--font-sans);
+    background-color: #F9FAFB; /* Фон как у полей ввода */
 }
 #user-answer:focus {
     outline: none;
     border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(0,122,255,0.1);
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+    background-color: white;
 }
 
-#check-answer, #next-sentence, #back-to-lessons {
+#check-answer, #next-sentence {
     width: 100%;
-    padding: 15px;
+    padding: 16px; /* Выше */
     font-size: 1.1em;
     font-weight: 600;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px; /* Скругляем */
     cursor: pointer;
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, box-shadow 0.2s;
 }
 #check-answer {
     background-color: var(--primary-color);
     color: white;
 }
 #check-answer:hover {
-    background-color: #0056b3;
+    background-color: var(--primary-hover);
+    box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
 }
-#next-sentence, #back-to-lessons {
-    background-color: #e5e5ea;
-    color: #333;
-    margin-top: 10px;
+#next-sentence {
+    /* Сделаем ее похожей на check, но другого цвета */
+    background-color: #10B981; /* Зеленый (Успех) */
+    color: white;
+    margin-top: 20px; /* Отделим от feedback */
 }
-#next-sentence:hover, #back-to-lessons:hover {
-    background-color: #d8d8de;
-}
-
-.audio-controls {
-    text-align: center;
-}
-#play-audio {
-    background-color: #f0f0f0;
-    color: #333;
-    border: 1px solid var(--border-color);
-    width: auto;
-    padding: 10px 20px;
-    font-size: 1em;
-    border-radius: 8px;
-    cursor: pointer;
-    margin-bottom: 15px;
-}
-#play-audio:hover {
-    background-color: #e5e5ea;
+#next-sentence:hover {
+    background-color: #059669; /* Темнее зеленый */
+    box-shadow: 0 4px 10px rgba(16, 185, 129, 0.3);
 }
 
 #feedback {
-    margin-top: 20px;
-    padding: 15px;
-    border-radius: 8px;
-    text-align: center;
+    margin-top: 25px; /* Больше отступ */
+    padding: 15px 20px; /* Отступы */
+    border-radius: 10px; /* Скругляем */
+    text-align: left; /* Текст слева */
+    font-size: 0.95em;
 }
+#feedback p { margin: 5px 0; }
+#feedback strong { font-weight: 600; }
+
 #feedback.correct {
     background-color: var(--success-bg);
-    border: 1px solid var(--success-text);
+    border: 1px solid #6EE7B7; /* Светло-зеленая граница */
     color: var(--success-text);
 }
 #feedback.incorrect {
     background-color: var(--error-bg);
-    border: 1px solid var(--error-text);
+    border: 1px solid #FCA5A5; /* Светло-красная граница */
     color: var(--error-text);
 }
+#ai-explanation {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #D1D5DB; /* Серая пунктирная линия */
+    font-style: normal; /* Убираем курсив */
+    color: var(--text-secondary);
+    font-size: 0.9em; /* Чуть меньше */
+    line-height: 1.6;
+}
+#ai-explanation::before { /* Добавим иконку робота */
+    content: "🤖 ";
+    margin-right: 5px;
+}
+
 
 #progress-bar {
     width: 100%;
-    background-color: #e5e5ea;
-    height: 10px;
-    border-radius: 5px;
-    margin-top: 25px;
+    background-color: #E5E7EB;
+    height: 8px;
+    border-radius: 4px;
+    margin-top: 30px; /* Отступ */
     overflow: hidden;
 }
 #progress-bar-inner {
@@ -267,4 +323,31 @@ hr {
     height: 100%;
     background-color: var(--primary-color);
     transition: width 0.3s ease;
+    border-radius: 4px;
+}
+#progress-text-container {
+    text-align: right; /* Текст справа под баром */
+    margin-top: 5px; /* Ближе к бару */
+    font-weight: 500;
+    color: var(--text-secondary);
+    font-size: 0.85em; /* Меньше */
+}
+
+/* === Адаптивность === */
+@media (max-width: 600px) {
+    main { padding: 10px; }
+    header { padding: 10px 15px; }
+    header h1 { font-size: 1.5em; }
+    .auth-form { padding: 25px; margin: 30px 10px; } /* Уменьшаем отступы на мобилке */
+    .grid-container {
+        /* Делаем 2 колонки */
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .grid-item { padding: 15px 10px; font-size: 0.9em;}
+    #card { padding: 20px; } /* Уменьшаем отступы */
+    .prompt { font-size: 1.5em; margin-bottom: 20px;}
+    #user-answer { padding: 12px; font-size: 1em; min-height: 80px;}
+    #check-answer, #next-sentence, #back-to-lessons { padding: 14px; font-size: 1em;}
+    #play-audio { font-size: 1.3em; }
 }

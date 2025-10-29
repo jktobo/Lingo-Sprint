@@ -43,7 +43,7 @@ sentence_id,prompt_ru,answer_en,transcription,audio_filename
 42,Мы не играем в теннис,We don't play tennis,[wi: dəʊnt pleɪ ˈtenɪs],A0_L6_S42.mp3
 43,Я не плачу за этот курс,I don't pay for this course,[aɪ dəʊnt peɪ fɔ: ðɪs kɔ:s],A0_L6_S43.mp3
 44,Я не работаю,I don't work,[aɪ dəʊnt wɜ:k],A0_L6_S44.mp3
-45,Я не понимаю это сейчас,I don’t understand it now,[aɪ dəʊnt ˌʌndəˈstænd ɪt naʊ],A0_L6_S45.mp3
+45,Я не понимаю это сейчас,I don't understand it now,[aɪ dəʊnt ˌʌndəˈstænd ɪt naʊ],A0_L6_S45.mp3
 46,Они не видят эту проблему,They don't see this problem,[ðeɪ dəʊnt si: ðɪs ˈprɒbləm],A0_L6_S46.mp3
 47,Я не хочу покупать это,I don't want to buy it,[aɪ dəʊnt wɒnt tu: baɪ ɪt],A0_L6_S47.mp3
 48,Я не хочу тратить свои деньги на эти вещи,I don't want to spend my money on these things,[aɪ dəʊnt wɒnt tu: spend maɪ ˈmʌni ɒn ði:z θɪŋz],A0_L6_S48.mp3
@@ -92,7 +92,7 @@ sentence_id,prompt_ru,answer_en,transcription,audio_filename
 91,Я не хочу быть менеджером,I don't want to be a manager,[aɪ dəʊnt wɒnt tu: bi: ə ˈmænɪʤə],A0_L6_S91.mp3
 92,Я не понимаю его,I don't understand him,[aɪ dəʊnt ˌʌndəˈstænd hɪm],A0_L6_S92.mp3
 93,Я не пью кофе,I don't drink coffee,[aɪ dəʊnt drɪŋk ˈkɒfi],A0_L6_S93.mp3
-94,Они не говорят это,They don’t say it,[ðeɪ dəʊnt seɪ ɪt],A0_L6_S94.mp3
+94,Они не говорят это,They don't say it,[ðeɪ dəʊnt seɪ ɪt],A0_L6_S94.mp3
 95,Я не хочу платить,I don't want to pay,[aɪ dəʊnt wɒnt tu: peɪ],A0_L6_S95.mp3
 96,Я не хочу тратить так много денег на это,I don't want to spend so much money on it,[aɪ dəʊnt wɒnt tu: spend səʊ mʌʧ ˈmʌni ɒn ɪt],A0_L6_S96.mp3
 97,У нас нет свободного времени,We don't have free time,[wi: dəʊnt hæv fri: taɪm],A0_L6_S97.mp3
