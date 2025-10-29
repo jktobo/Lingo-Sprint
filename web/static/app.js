@@ -287,3 +287,18 @@ document.addEventListener("DOMContentLoaded", () => {
     } else { console.warn("Неизвестный путь:", currentPath, "- редирект на /"); window.location.href = "/"; }
 
 }); // Конец DOMContentLoaded
+
+
+//     // === ИНИЦИАЛИЗАЦИЯ ===
+//     const currentPath = window.location.pathname;
+//     console.log("Инициализация JS. Текущий путь:", currentPath);
+//     if (currentPath === '/app' || currentPath.startsWith('/app/')) {
+//         console.log("На странице /app");
+//         if(state.token) { if(logoutButton) logoutButton.style.display = "block"; else console.error("Logout button not found on /app"); fetchLevels(); showView('dashboard'); }
+//         else { console.log("Нет токена на /app, редирект на /"); window.location.href = "/"; }
+//     } else if (currentPath === '/') {
+//         console.log("На странице /"); if(logoutButton) logoutButton.style.display = "none";
+//         closeAuthModal(); // Убедимся, что модалка скрыта
+//     } else { console.warn("Неизвестный путь:", currentPath, "- редирект на /"); window.location.href = "/"; }
+
+// }); // Конец DOMContentLoaded
