@@ -1,0 +1,25 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - DATABASE_URL=postgres://lingo_user:supersecretpassword@db:5432/lingo_db?sslmode=disable
+      - HF_TOKEN=${HF_TOKEN}
+    depends_on:
+      - db
+
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: lingo_user
+      POSTGRES_PASSWORD: supersecretpassword
+      POSTGRES_DB: lingo_db
+    ports:
+      - "5433:5432" # Используем 5433, т.к. 5432 у вас занят
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  postgres_data:

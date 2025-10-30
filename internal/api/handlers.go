@@ -2,17 +2,17 @@ package api
 
 import (
 	"bytes"
-	// "context" // Keep for http.NewRequestWithContext
+	// "context" // <-- ИМПОРТ ЕСТЬ
 	"database/sql"
 	"encoding/json"
 	"errors"
-	"fmt" // Keep for fmt.Sprintf
+	"fmt"
 	"io"
 	"log"
-	"net/http" // Keep for http client/server
-	"os" // Keep for os.Getenv
+	"net/http"
+	"os"
 	"strconv"
-	"time" // Keep for time.Second
+	"time"
 
 	"github.com/golang-jwt/jwt/v5"
 	"github.com/gorilla/mux"
@@ -20,7 +20,6 @@ import (
 
 	"lingo-sprint/internal/models"
 )
-
 
 // ApiHandler хранит подключение к базе данных
 type ApiHandler struct {
@@ -51,22 +50,16 @@ func (h *ApiHandler) RegisterUser(w http.ResponseWriter, r *http.Request) {
 		respondWithError(w, http.StatusBadRequest, "Invalid request payload")
 		return
 	}
-
-	// Хэшируем пароль
 	hashedPassword, err := bcrypt.GenerateFromPassword([]byte(creds.Password), bcrypt.DefaultCost)
 	if err != nil {
 		respondWithError(w, http.StatusInternalServerError, "Failed to hash password")
 		return
 	}
-
-	// Вставляем нового пользователя в БД
 	_, err = h.DB.Exec("INSERT INTO users (email, password_hash) VALUES ($1, $2)", creds.Email, string(hashedPassword))
 	if err != nil {
-		// (Простая проверка, в реальном коде нужно проверять на 'duplicate key')
 		respondWithError(w, http.StatusConflict, "Email already exists")
 		return
 	}
-
 	respondWithJSON(w, http.StatusCreated, map[string]string{"message": "User registered successfully"})
 }
 
@@ -77,8 +70,6 @@ func (h *ApiHandler) LoginUser(w http.ResponseWriter, r *http.Request) {
 		respondWithError(w, http.StatusBadRequest, "Invalid request payload")
 		return
 	}
-
-	// Ищем пользователя по email
 	var storedPasswordHash string
 	var userID int
 	err := h.DB.QueryRow("SELECT id, password_hash FROM users WHERE email = $1", creds.Email).Scan(&userID, &storedPasswordHash)
@@ -90,54 +81,48 @@ func (h *ApiHandler) LoginUser(w http.ResponseWriter, r *http.Request) {
 		}
 		return
 	}
-
-	// Сравниваем хэш из БД с паролем из запроса
 	err = bcrypt.CompareHashAndPassword([]byte(storedPasswordHash), []byte(creds.Password))
 	if err != nil {
-		// Пароль неверный
 		respondWithError(w, http.StatusUnauthorized, "Invalid email or password")
 		return
 	}
-
-	// === Успех! Генерируем JWT-токен ===
-	expirationTime := time.Now().Add(72 * time.Hour) // Токен "живет" 3 дня
-
+	expirationTime := time.Now().Add(72 * time.Hour)
 	claims := &Claims{
-		UserID: userID, // Кладем ID пользователя внутрь токена
+		UserID: userID,
 		RegisteredClaims: jwt.RegisteredClaims{
 			ExpiresAt: jwt.NewNumericDate(expirationTime),
 		},
 	}
-
 	token := jwt.NewWithClaims(jwt.SigningMethodHS256, claims)
+	// Используем JwtKey из config.go
 	tokenString, err := token.SignedString(JwtKey)
 	if err != nil {
 		respondWithError(w, http.StatusInternalServerError, "Failed to create token")
 		return
 	}
-
-	// Отправляем токен клиенту
 	respondWithJSON(w, http.StatusOK, map[string]string{"token": tokenString})
 }
 
 
-// SaveProgressRequest - структура для JSON-запроса о прогрессе
+// --- Structs ---
 type SaveProgressRequest struct {
 	SentenceID int  `json:"sentence_id"`
 	IsCorrect  bool `json:"is_correct"`
 }
-
-// ExplainErrorRequest - structure for the AI explanation request
 type ExplainErrorRequest struct {
-    PromptRU     string `json:"prompt_ru"`     // Original Russian sentence
-    CorrectEN    string `json:"correct_en"`    // Correct English answer
-    UserAnswerEN string `json:"user_answer_en"` // User's incorrect answer
+	PromptRU     string `json:"prompt_ru"`
+	CorrectEN    string `json:"correct_en"`
+	UserAnswerEN string `json:"user_answer_en"`
 }
+// Структуры для AI
+type hfMessage struct { Role string `json:"role"`; Content string `json:"content"` }
+type hfChatRequest struct { Model string `json:"model"`; Messages []hfMessage `json:"messages"`; Stream bool `json:"stream"` }
+type hfChatResponse struct { Choices []struct { Message struct { Role string `json:"role"`; Content string `json:"content"` } `json:"message"` } `json:"choices"`; Error *struct { Message string `json:"message"` } `json:"error,omitempty"` }
 
-// --- ОБНОВЛЕННАЯ ФУНКЦИЯ: SaveProgress ("Один раз и готово") ---
+
+// --- SaveProgress (Логика "Один раз и готово") ---
 func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
-	// 1. Получаем ID пользователя
-	userID, ok := r.Context().Value(ContextUserIDKey).(int)
+	userID, ok := r.Context().Value(ContextUserIDKey).(int) // <-- ИСПОЛЬЗУЕТ context
 	if !ok {
 		log.Println("!!! SaveProgress ERROR: Could not get user ID from context")
 		respondWithError(w, http.StatusUnauthorized, "Invalid token (no user ID)")
@@ -145,7 +130,6 @@ func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 	}
 	log.Printf("SaveProgress: UserID=%d", userID)
 
-	// 2. Читаем JSON
 	var req SaveProgressRequest
 	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
 		log.Printf("!!! SaveProgress ERROR: Could not decode JSON for UserID=%d: %v", userID, err)
@@ -154,38 +138,26 @@ func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 	}
 	log.Printf("SaveProgress: Received SentenceID=%d, IsCorrect=%t", req.SentenceID, req.IsCorrect)
 
-	// --- УПРОЩЕННАЯ ЛОГИКА "ОДИН РАЗ И ГОТОВО" ---
 	var nextStatus string
 	var nextStreak int
 	var nextReview time.Time
 	now := time.Now()
 
 	if req.IsCorrect {
-		// ЛЮБОЙ ПРАВИЛЬНЫЙ ОТВЕТ -> Mastered
 		nextStatus = "mastered"
-		nextStreak = 1 // Просто ставим 1 (уже не используется для логики)
-		nextReview = now.Add(100 * 365 * 24 * time.Hour) // Убираем на 100 лет
+		nextStreak = 1
+		nextReview = now.Add(100 * 365 * 24 * time.Hour)
 		log.Printf("SaveProgress Logic: CORRECT. Setting status to mastered.")
 	} else {
-		// НЕПРАВИЛЬНО -> Learning, сброс счетчика
 		nextStatus = "learning"
-		nextStreak = 0 // Сбрасываем счетчик
-		nextReview = now // Повторить как можно скорее
+		nextStreak = 0
+		nextReview = now
 		log.Printf("SaveProgress Logic: INCORRECT. Setting status to learning, resetting streak.")
 	}
-	// ---------------------------------------------
 
-	// --- Обновляем или вставляем (UPSERT) ---
-	sqlStatement := `
-		INSERT INTO user_progress (user_id, sentence_id, status, correct_streak, next_review_date)
-		VALUES ($1, $2, $3, $4, $5)
-		ON CONFLICT (user_id, sentence_id)
-		DO UPDATE SET
-			status = EXCLUDED.status,
-			correct_streak = EXCLUDED.correct_streak,
-			next_review_date = EXCLUDED.next_review_date;
-	`
+	sqlStatement := `INSERT INTO user_progress (user_id, sentence_id, status, correct_streak, next_review_date) VALUES ($1, $2, $3, $4, $5) ON CONFLICT (user_id, sentence_id) DO UPDATE SET status = EXCLUDED.status, correct_streak = EXCLUDED.correct_streak, next_review_date = EXCLUDED.next_review_date;`
 	log.Printf("SaveProgress: Executing UPSERT with UserID=%d, SentenceID=%d, Status=%s, Streak=%d, ReviewDate=%v", userID, req.SentenceID, nextStatus, nextStreak, nextReview)
+	
 	result, err := h.DB.Exec(sqlStatement, userID, req.SentenceID, nextStatus, nextStreak, nextReview)
 	if err != nil {
 		log.Printf("!!! SaveProgress ERROR: UPSERT failed for UserID=%d, SentenceID=%d: %v", userID, req.SentenceID, err)
@@ -194,13 +166,10 @@ func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 	}
 	rowsAffected, _ := result.RowsAffected()
 	log.Printf("SaveProgress: UPSERT successful for UserID=%d, SentenceID=%d. Rows affected: %d", userID, req.SentenceID, rowsAffected)
-
 	respondWithJSON(w, http.StatusOK, map[string]string{"message": "Progress saved"})
 }
 
-
-// --- Существующие функции (без изменений) ---
-
+// --- GetLevels ---
 func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 	rows, err := h.DB.Query("SELECT id, title FROM levels ORDER BY title")
 	if err != nil {
@@ -218,10 +187,10 @@ func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 		}
 		levels = append(levels, l)
 	}
-
 	respondWithJSON(w, http.StatusOK, levels)
 }
 
+// --- GetLessonsByLevel ---
 func (h *ApiHandler) GetLessonsByLevel(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	levelID, err := strconv.Atoi(vars["level_id"])
@@ -246,20 +215,16 @@ func (h *ApiHandler) GetLessonsByLevel(w http.ResponseWriter, r *http.Request) {
 		}
 		lessons = append(lessons, l)
 	}
-
 	respondWithJSON(w, http.StatusOK, lessons)
 }
 
-// --- ОБНОВЛЕННАЯ ФУНКЦИЯ: GetSentencesByLesson ---
+// --- GetSentencesByLesson ---
 func (h *ApiHandler) GetSentencesByLesson(w http.ResponseWriter, r *http.Request) {
-	// 1. Получаем ID пользователя из "контекста"
-	userID, ok := r.Context().Value(ContextUserIDKey).(int)
+	userID, ok := r.Context().Value(ContextUserIDKey).(int) // <-- ИСПОЛЬЗУЕТ context
 	if !ok {
 		respondWithError(w, http.StatusUnauthorized, "Invalid token (no user ID)")
 		return
 	}
-
-	// 2. Получаем lesson_id из URL
 	vars := mux.Vars(r)
 	lessonID, err := strconv.Atoi(vars["lesson_id"])
 	if err != nil {
@@ -267,20 +232,7 @@ func (h *ApiHandler) GetSentencesByLesson(w http.ResponseWriter, r *http.Request
 		return
 	}
 
-	// 3. === НОВЫЙ SQL-ЗАПРОС с LEFT JOIN ===
-	// Мы "присоединяем" прогресс пользователя к каждому предложению.
-	// Если прогресса нет, 'up.status' и 'up.correct_streak' будут NULL.
-	sqlQuery := `
-		SELECT 
-			s.id, s.lesson_id, s.order_number, s.prompt_ru, s.answer_en, s.transcription, s.audio_path,
-			up.status, up.correct_streak 
-		FROM sentences s
-		LEFT JOIN user_progress up 
-			ON s.id = up.sentence_id AND up.user_id = $1
-		WHERE s.lesson_id = $2
-		ORDER BY s.order_number;
-	`
-
+	sqlQuery := `SELECT s.id, s.lesson_id, s.order_number, s.prompt_ru, s.answer_en, s.transcription, s.audio_path, up.status, up.correct_streak FROM sentences s LEFT JOIN user_progress up ON s.id = up.sentence_id AND up.user_id = $1 WHERE s.lesson_id = $2 ORDER BY s.order_number;`
 	rows, err := h.DB.Query(sqlQuery, userID, lessonID)
 	if err != nil {
 		log.Printf("Failed to query sentences with progress: %v", err)
@@ -292,141 +244,117 @@ func (h *ApiHandler) GetSentencesByLesson(w http.ResponseWriter, r *http.Request
 	sentences := []models.Sentence{}
 	for rows.Next() {
 		var s models.Sentence
-		// 4. Сканируем новые nullable поля (s.Status, s.CorrectStreak)
-		if err := rows.Scan(
-			&s.ID, &s.LessonID, &s.OrderNumber, &s.PromptRU, &s.AnswerEN, 
-			&s.Transcription, &s.AudioPath,
-			&s.Status, &s.CorrectStreak, // <-- Новые поля
-		); err != nil {
+		if err := rows.Scan(&s.ID, &s.LessonID, &s.OrderNumber, &s.PromptRU, &s.AnswerEN, &s.Transcription, &s.AudioPath, &s.Status, &s.CorrectStreak); err != nil {
 			log.Printf("Error scanning sentence with progress: %v", err)
 			continue
 		}
 		sentences = append(sentences, s)
 	}
-
 	respondWithJSON(w, http.StatusOK, sentences)
 }
 
 
-// --- НОВАЯ AI ФУНКЦИЯ: ExplainError ---
-// --- НОВАЯ AI ФУНКЦИЯ: ExplainError (с прямым HTTP запросом) ---
+// --- ИСПРАВЛЕННАЯ: ExplainError ---
 func (h *ApiHandler) ExplainError(w http.ResponseWriter, r *http.Request) {
-	// 1. Read the request body
-	var req ExplainErrorRequest // Use 'req' for the request body struct
-	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		respondWithError(w, http.StatusBadRequest, "Invalid request payload")
-		return
-	}
+    var req ExplainErrorRequest
+    if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+        respondWithError(w, http.StatusBadRequest, "Invalid request payload")
+        return
+    }
+    hfToken := os.Getenv("HUGGINGFACE_TOKEN")
+    if hfToken == "" {
+        log.Println("HUGGINGFACE_TOKEN environment variable is not set!")
+        respondWithError(w, http.StatusInternalServerError, "AI service configuration error")
+        return
+    }
 
-	// 2. Get Hugging Face token from environment
-	hfToken := os.Getenv("HUGGINGFACE_TOKEN") // <<< RESTORED
-	if hfToken == "" {
-		log.Println("HUGGINGFACE_TOKEN environment variable is not set!")
-		respondWithError(w, http.StatusInternalServerError, "AI service configuration error")
-		return
-	}
+    model := "meta-llama/Meta-Llama-3-8B-Instruct"
+    apiURL := "https://router.huggingface.co/v1/chat/completions"
 
-	// === DIRECT HTTP REQUEST ===
-
-	// Use a known, simple model for testing
-	// model := "google/flan-t5-small"
-	model := "gpt2" // Use the classic GPT-2 model
-	apiURL := fmt.Sprintf("https://api-inference.huggingface.co/models/%s", model)
-
-	// Construct the prompt (same as before)
-	prompt := fmt.Sprintf(`You are a helpful English tutor explaining a mistake to a student learning English.
+    prompt := fmt.Sprintf(`You are a helpful English tutor explaining a mistake to a student learning English.
 The student was asked to translate the Russian sentence: "%s"
 The correct English translation is: "%s"
 The student answered: "%s"
+Explain the student's mistake clearly and concisely in Russian. Focus only on the main error. Be encouraging.`,
+        req.PromptRU, req.CorrectEN, req.UserAnswerEN)
 
-Explain the student's mistake clearly and concisely in Russian. Focus only on the main error (grammar, vocabulary, or spelling). Be encouraging.`,
-		req.PromptRU, req.CorrectEN, req.UserAnswerEN) // <<< RESTORED (Uses the 'req' struct fields)
-
-	// Prepare the request payload for HF API
-	payload := map[string]interface{}{
-		"inputs": prompt,
-		"parameters": map[string]interface{}{
-			 "max_new_tokens": 150,
-			//  "temperature": 0.7,
-		},
-	}
-	payloadBytes, err := json.Marshal(payload)
-	if err != nil {
+    payload := hfChatRequest{
+        Model: model,
+        Messages: []hfMessage{ {Role: "user", Content: prompt}, },
+        Stream: false,
+    }
+    payloadBytes, err := json.Marshal(payload)
+    if err != nil { 
 		log.Printf("Failed to marshal HF payload: %v", err)
 		respondWithError(w, http.StatusInternalServerError, "AI request preparation failed")
-		return
+		return 
 	}
 
-	// Create the HTTP request (Use r.Context() from the incoming request)
-	hfReq, err := http.NewRequestWithContext(r.Context(), "POST", apiURL, bytes.NewBuffer(payloadBytes))
-	if err != nil {
+    // ИСПОЛЬЗУЕМ r.Context()
+    hfReq, err := http.NewRequestWithContext(r.Context(), "POST", apiURL, bytes.NewBuffer(payloadBytes)) // <-- ИСПОЛЬЗУЕТ context
+    if err != nil { 
 		log.Printf("Failed to create HF request: %v", err)
 		respondWithError(w, http.StatusInternalServerError, "AI request creation failed")
-		return
+		return 
 	}
 
-	// Add Headers (Authorization and Content-Type)
-	hfReq.Header.Set("Authorization", "Bearer "+hfToken) // <<< Uses hfToken (now defined)
-	hfReq.Header.Set("Content-Type", "application/json")
+    hfReq.Header.Set("Authorization", "Bearer "+hfToken)
+    hfReq.Header.Set("Content-Type", "application/json")
 
-	// Send the request
-	client := &http.Client{Timeout: 30 * time.Second}
-	log.Printf("Sending direct request to: %s", apiURL)
-	hfResp, err := client.Do(hfReq)
-	if err != nil {
+    client := &http.Client{Timeout: 30 * time.Second}
+    log.Printf("Sending request to NEW CHAT endpoint: %s", apiURL)
+    hfResp, err := client.Do(hfReq)
+    if err != nil { 
 		log.Printf("Direct HF API call failed (network/timeout): %v", err)
 		respondWithError(w, http.StatusInternalServerError, "AI service connection error")
-		return
+		return 
 	}
-	defer hfResp.Body.Close()
+    defer hfResp.Body.Close()
 
-	// Read the response body
-	bodyBytes, err := io.ReadAll(hfResp.Body)
-	if err != nil {
+    bodyBytes, err := io.ReadAll(hfResp.Body)
+    if err != nil { 
 		log.Printf("Failed to read HF response body: %v", err)
 		respondWithError(w, http.StatusInternalServerError, "AI response reading failed")
-		return
+		return 
 	}
-	bodyString := string(bodyBytes)
+    bodyString := string(bodyBytes)
+    log.Printf("HF Chat Response Status: %s", hfResp.Status)
+    log.Printf("HF Chat Response Body: %s", bodyString)
 
-	log.Printf("Direct HF Response Status: %s", hfResp.Status)
-	log.Printf("Direct HF Response Body: %s", bodyString)
+    if hfResp.StatusCode != http.StatusOK {
+        log.Printf("Hugging Face returned non-OK status: %d", hfResp.StatusCode);
+        respondWithError(w, hfResp.StatusCode, fmt.Sprintf("AI service error (%d): %s", hfResp.StatusCode, bodyString));
+        return
+    }
 
-	// Check the status code FROM HUGGING FACE
-	if hfResp.StatusCode != http.StatusOK {
-		log.Printf("Hugging Face returned non-OK status: %d", hfResp.StatusCode)
-        // Pass the raw body back to the frontend for debugging if it's not 200 OK
-		respondWithError(w, hfResp.StatusCode, fmt.Sprintf("AI service error (%d): %s", hfResp.StatusCode, bodyString))
-		return
+    var result hfChatResponse
+    err = json.Unmarshal(bodyBytes, &result); if err != nil { 
+		log.Printf("Could not parse HF Chat response JSON: %v", err)
+		respondWithError(w, http.StatusInternalServerError, "AI response parsing failed")
+		return 
 	}
-
-	// --- Try to parse the response ---
-	var result []map[string]string
-	err = json.Unmarshal(bodyBytes, &result)
-	var completion string
-	if err == nil && len(result) > 0 && result[0]["generated_text"] != "" {
-		completion = result[0]["generated_text"]
-	} else {
-		log.Printf("Could not parse HF response JSON, returning raw body. Parse error: %v", err)
-		completion = bodyString
+    if result.Error != nil && result.Error.Message != "" { 
+		log.Printf("HF API returned an error message in body: %s", result.Error.Message)
+		respondWithError(w, http.StatusInternalServerError, result.Error.Message)
+		return 
 	}
-	// =============================
-
-	// 6. Return the explanation
-	respondWithJSON(w, http.StatusOK, map[string]string{"explanation": completion})
+    if len(result.Choices) == 0 { 
+		log.Printf("HF API returned 0 choices.")
+		respondWithError(w, http.StatusInternalServerError, "AI returned no response")
+		return 
+	}
+    completion := result.Choices[0].Message.Content
+    
+    respondWithJSON(w, http.StatusOK, map[string]string{"explanation": completion}) // <-- ИСПРАВЛЕНО
 }
 
 // --- Вспомогательные функции ---
-
-// respondWithJSON - вспомогательная функция для отправки JSON-ответов
 func respondWithJSON(w http.ResponseWriter, code int, payload interface{}) {
 	response, _ := json.Marshal(payload)
 	w.Header().Set("Content-Type", "application/json")
 	w.WriteHeader(code)
 	w.Write(response)
 }
-
-// --- НОВАЯ ФУНКЦИЯ: respondWithError ---
 func respondWithError(w http.ResponseWriter, code int, message string) {
 	respondWithJSON(w, code, map[string]string{"error": message})
 }
