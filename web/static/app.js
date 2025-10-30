@@ -76,6 +76,23 @@ document.addEventListener("DOMContentLoaded", () => {
     async function saveProgress(sentenceId, isCorrect) {
         try { await fetchProtected("/api/progress/save", { method: "POST", body: JSON.stringify({ sentence_id: sentenceId, is_correct: isCorrect }) }); console.log(`Прогресс сохранен для предложения ${sentenceId}: ${isCorrect}`); } catch (error) { console.error("Не удалось сохранить прогресс:", error); }
     }
+
+
+    async function fetchLessonSentencesData(lessonId) {
+        if (isNaN(parseInt(lessonId))) {
+            console.error("fetchLessonSentencesData: Неверный ID урока:", lessonId);
+            return null;
+        }
+        try {
+            const response = await fetchProtected(`/api/lessons/${lessonId}/sentences`);
+            if (!response) return null; // fetchProtected уже обработал ошибку
+            return await response.json();
+        } catch (error) {
+            console.error("Не удалось (re-fetch) загрузить предложения:", error);
+            return null;
+        }
+    }
+
     
     /** (Раскомментировано) Запрашивает объяснение ошибки у AI */
     async function fetchErrorExplanation(promptRu, correctEn, userAnswerEn) {
@@ -232,6 +249,57 @@ document.addEventListener("DOMContentLoaded", () => {
     function handlePlayAudio() {
         if (state.currentAudio) { alert("Аудио пока не работает.\nПуть: " + state.currentAudio); }
     }
+
+
+    async function checkAndCompleteLesson() {
+        console.log('--- checkAndCompleteLesson: НАЧАЛО ---');
+        if (!state.currentLessonId) {
+            console.error("checkAndCompleteLesson: currentLessonId не установлен!");
+            showView('dashboard');
+            return;
+        }
+    
+        try {
+            // 1. Получаем САМЫЕ СВЕЖИЕ данные о прогрессе
+            const freshSentences = await fetchLessonSentencesData(state.currentLessonId);
+            if (!freshSentences) {
+                console.error("checkAndCompleteLesson: Не удалось получить свежие данные.");
+                showView('dashboard');
+                return;
+            }
+    
+            // 2. Обновляем локальное состояние
+            state.sentences = freshSentences;
+            console.log('--- checkAndCompleteLesson: Получены свежие данные, предложений:', state.sentences.length);
+    
+            // 3. Ищем ПЕРВОЕ предложение, которое НЕ 'mastered'
+            // (Используем ту же логику, что и в fetchSentences)
+            const nextSentenceIndex = state.sentences.findIndex(s => !(s.status?.Valid && s.status.String === 'mastered'));
+    
+            console.log('--- checkAndCompleteLesson: Результат findIndex (ищем НЕ mastered):', nextSentenceIndex);
+    
+            if (nextSentenceIndex !== -1) {
+                // Ошибки еще есть!
+                console.log(`--- checkAndCompleteLesson: Найдены ошибки. Запускаем повтор с индекса ${nextSentenceIndex}...`);
+                alert('Отлично! Теперь повторим ошибки.');
+                
+                // Переключаемся на это предложение
+                state.currentSentenceIndex = nextSentenceIndex;
+                loadSentence();
+            } else {
+                // Ошибок нет, все 'mastered'
+                console.log('--- checkAndCompleteLesson: Все mastered. Урок пройден!');
+                alert('Урок пройден!');
+                showView('dashboard'); // Возвращаем на дэшборд
+            }
+        } catch (error) {
+            console.error('Критическая ошибка в checkAndCompleteLesson:', error);
+            showView('dashboard');
+        }
+    }
+
+
+
 
     // === Функции Переключения Видов ===
     function showView(viewName) {
