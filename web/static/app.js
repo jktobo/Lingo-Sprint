@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
+    window.speechSynthesis.getVoices();
     // === Элементы DOM ===
     const views = {
         auth: document.getElementById("auth-view"),
@@ -187,6 +188,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // === Функции-Обработчики ===
+    // === Функции-Обработчики ===
     function handleCheckAnswer() {
         if (!userAnswer || !feedback || !checkAnswerBtn || !nextSentenceBtn || !correctAnswer || !feedbackText) return;
         if (!state.sentences || state.currentSentenceIndex >= state.sentences.length) return;
@@ -195,13 +197,18 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!currentSentence || typeof currentSentence.answer_en === 'undefined') return;
         const correct = currentSentence.answer_en.trim();
         const isCorrect = user.toLowerCase() === correct.toLowerCase();
+
+        // === НОВОЕ: ОЗВУЧКА ПРИ ПРОВЕРКЕ ===
+        handlePlayAudio(); // Воспроизводим правильный ответ
+        // ===================================
+
         feedback.style.display = "block";
         feedbackText.textContent = isCorrect ? "Правильно! 👍" : "Ошибка 😞";
         correctAnswer.textContent = correct;
         feedback.className = isCorrect ? "correct" : "incorrect";
         
         // --- РАСКОММЕНТИРОВАНО ---
-        if (!isCorrect && aiExplanation) {
+        if (!isCorrect && user.length > 0 && aiExplanation) {
             fetchErrorExplanation(currentSentence.prompt_ru, correct, user); // Вызываем AI
         } else if (aiExplanation) {
             aiExplanation.style.display = "none"; // Скрыть, если ответ правильный
@@ -247,7 +254,41 @@ document.addEventListener("DOMContentLoaded", () => {
     }
     
     function handlePlayAudio() {
-        if (state.currentAudio) { alert("Аудио пока не работает.\nПуть: " + state.currentAudio); }
+        // 1. Проверяем, есть ли у нас предложение
+        if (!state.sentences || !state.sentences[state.currentSentenceIndex]) {
+            console.error("handlePlayAudio: нет предложения для озвучки");
+            return;
+        }
+
+        const sentence = state.sentences[state.currentSentenceIndex];
+        // 2. Берем АНГЛИЙСКИЙ текст (правильный ответ)
+        const textToSpeak = sentence.answer_en; 
+
+        if (!textToSpeak) {
+            console.error("handlePlayAudio: в предложении нет текста (answer_en)");
+            return;
+        }
+
+        // 3. Создаем объект озвучки
+        const utterance = new SpeechSynthesisUtterance(textToSpeak);
+
+        // 4. Устанавливаем язык (важно для правильного акцента)
+        utterance.lang = "en-US";
+
+        // 5. (Опционально) Пытаемся найти более качественный голос
+        //    (качество зависит от браузера: Google, Edge, Safari)
+        const voices = window.speechSynthesis.getVoices();
+        const aGoodVoice = voices.find(v => 
+            v.lang.startsWith("en-") && 
+            (v.name.includes("Google") || v.name.includes("David") || v.name.includes("Zira"))
+        );
+
+        if (aGoodVoice) {
+            utterance.voice = aGoodVoice;
+        }
+
+        // 6. Воспроизводим
+        window.speechSynthesis.speak(utterance);
     }
 
 

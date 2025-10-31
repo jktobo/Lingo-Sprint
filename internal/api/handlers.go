@@ -261,6 +261,11 @@ func (h *ApiHandler) ExplainError(w http.ResponseWriter, r *http.Request) {
         respondWithError(w, http.StatusBadRequest, "Invalid request payload")
         return
     }
+	if req.UserAnswerEN == "" {
+        log.Println("ExplainError: User answer was empty. Returning generic message.")
+        respondWithJSON(w, http.StatusOK, map[string]string{"explanation": "Вы не ввели ответ. Попробуйте перевести предложение."})
+        return
+    }
     hfToken := os.Getenv("HUGGINGFACE_TOKEN")
     if hfToken == "" {
         log.Println("HUGGINGFACE_TOKEN environment variable is not set!")
@@ -271,12 +276,74 @@ func (h *ApiHandler) ExplainError(w http.ResponseWriter, r *http.Request) {
     model := "meta-llama/Meta-Llama-3-8B-Instruct"
     apiURL := "https://router.huggingface.co/v1/chat/completions"
 
-    prompt := fmt.Sprintf(`You are a helpful English tutor explaining a mistake to a student learning English.
-The student was asked to translate the Russian sentence: "%s"
-The correct English translation is: "%s"
-The student answered: "%s"
-Explain the student's mistake clearly and concisely in Russian. Focus only on the main error. Be encouraging.`,
-        req.PromptRU, req.CorrectEN, req.UserAnswerEN)
+//     prompt := fmt.Sprintf(`You are a helpful English tutor explaining a mistake to a student learning English.
+// The student was asked to translate the Russian sentence: "%s"
+// The correct English translation is: "%s"
+// The student answered: "%s"
+// Explain the student's mistake clearly and concisely in Russian. Focus only on the main error. Be encouraging.`,
+//         req.PromptRU, req.CorrectEN, req.UserAnswerEN)
+
+	// prompt := fmt.Sprintf(`Ты — репетитор по английскому. Объясни ошибку студента на РУССКОМ.
+
+	// Задание:
+	// - Русский: "%s"
+	// - Правильно: "%s"
+	// - Студент: "%s"
+
+	// Твоя задача — 1-2 предложениями объяснить, почему "Студент" неправ.
+
+	// Инструкции:
+	// 1.  **Сравни "Правильно" и "Студент".**
+	// 2.  **Объясни ГЛАВНУЮ ошибку.**
+	// 3.  **Будь кратким, дружелюбным и по делу.**
+	// 4.  **НЕ надо здороваться ("Здравствуйте", "Отличная попытка").**
+
+	// Пример 1 (Утверждение):
+	// - Русский: "У него есть машина"
+	// - Правильно: "He has a car"
+	// - Студент: "He have a car"
+	// - Объяснение: "Почти! Помни, что с 'He' (он) мы используем 'has', а не 'have'."
+
+	// Пример 2 (Вопрос):
+	// - Русский: "У нее есть парень?"
+	// - Правильно: "Does she have a boyfriend?"
+	// - Студент: "She has a boyfriend?"
+	// - Объяснение: "Близко! В вопросах с 'she' нужно использовать 'Does she have...?', а не 'She has...?'."
+
+	// Начинай:`,
+	// 	req.PromptRU, req.CorrectEN, req.UserAnswerEN)
+
+	prompt := fmt.Sprintf(`Ты — репетитор по английскому. Студент не смог правильно перевести предложение.
+
+- Русский: "%s"
+- Правильный ответ: "%s"
+
+Твоя задача — ОЧЕНЬ КРАТКО (1-2 предложения) на РУССКОМ языке объяснить, на какое **основное грамматическое правило** нужно обратить внимание в "Правильном ответе".
+
+Инструкции:
+1.  **НЕ упоминай ответ студента.**
+2.  **НЕ выдумывай ошибку.**
+3.  Просто посмотри на "Правильный ответ" и объясни, почему он устроен именно так (например, почему 'has' а не 'have', почему 'Does' в начале, почему артикль 'a').
+4.  Не здоровайся ("Здравствуйте") и не хвали ("Отличная попытка").
+5.  Говори сразу по делу.
+
+Пример 1:
+- Русский: "У нее есть парень?"
+- Правильный ответ: "Does she have a boyfriend?"
+- Объяснение: "Чтобы задать вопрос о 'ней' (she) в настоящем времени, мы используем конструкцию 'Does she have...?'."
+
+Пример 2:
+- Русский: "У него есть машина"
+- Правильный ответ: "He has a car"
+- Объяснение: "Помни, что с 'He' (он) мы используем 'has', а не 'have'."
+
+Пример 3:
+- Русский: "Он покупает очень дорогую вещь?"
+- Правильный ответ: "Does he buy a very expensive thing?"
+- Объяснение: "Здесь 'a very expensive thing' — это группа-существительное. Артикль 'a' перед 'very' обязателен."
+??
+Начинай:`,
+    req.PromptRU, req.CorrectEN) // <-- ВАЖНО! Мы убрали req.UserAnswerEN отсюда
 
     payload := hfChatRequest{
         Model: model,
