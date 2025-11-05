@@ -18,18 +18,19 @@ type Lesson struct {
 
 // Sentence представляет одно предложение С УЧЕТОМ ПРОГРЕССА
 type Sentence struct {
-	ID            int    `json:"id"`
-	LessonID      int    `json:"lesson_id"`
-	OrderNumber   int    `json:"order_number"`
-	PromptRU      string `json:"prompt_ru"`
-	AnswerEN      string `json:"answer_en"`
-	Transcription string `json:"transcription"`
-	AudioPath     string `json:"audio_path"`
+	ID          int    `json:"id"`
+	LessonID    int    `json:"lesson_id"`
+	OrderNumber int    `json:"order_number"`
+	PromptRU    string `json:"prompt_ru"`
+	AnswerEN    string `json:"answer_en"`
 
-	// === НОВЫЕ ПОЛЯ (могут быть NULL) ===
-	// Мы используем sql.NullString/Int32, чтобы Go
-	// мог обработать NULL из LEFT JOIN.
-	// При конвертации в JSON они станут "null" или "значением".
+	// --- ИСПРАВЛЕНИЯ ЗДЕСЬ ---
+	// Заменяем 'string' на 'sql.NullString'
+	Transcription sql.NullString `json:"transcription"`
+	AudioPath     sql.NullString `json:"audio_path"`
+	// --- КОНЕЦ ИСПРАВЛЕНИЙ ---
+
+	// Эти поля уже были правильными
 	Status        sql.NullString `json:"status"`
 	CorrectStreak sql.NullInt32  `json:"correct_streak"`
 }

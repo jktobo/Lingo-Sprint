@@ -3,9 +3,15 @@
 .env
 *.env
 
+*.mp3
+
+
 # Игнорируем все CSV-файлы с данными уроков в папке scripts/
 scripts/*.csv
 
 # Игнорируем скомпилированный бинарный файл Go
 # (Dockerfile собирает его с именем 'server')
 server
+
+# Google Cloud credentials
+google-credentials.json

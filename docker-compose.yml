@@ -9,6 +9,9 @@ services:
       # - HF_TOKEN=${HF_TOKEN}
     depends_on:
       - db
+    volumes:
+      - ./media:/app/media
+      - ./web/static:/app/web/static
 
   db:
     image: postgres:15-alpine

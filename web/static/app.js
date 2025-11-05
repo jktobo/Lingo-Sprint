@@ -1,3 +1,5 @@
+// alert("--- ЭТО НОВАЯ ВЕРСИЯ APP.JS ---");
+
 document.addEventListener("DOMContentLoaded", () => {
     window.speechSynthesis.getVoices();
     // === Элементы DOM ===
@@ -170,7 +172,8 @@ document.addEventListener("DOMContentLoaded", () => {
         const lessonButton = lessonsContainer ? lessonsContainer.querySelector(`.lesson-item[data-id='${sentence.lesson_id}']`) : null;
         lessonTitle.textContent = lessonButton ? lessonButton.dataset.title : "Загрузка...";
         promptRu.textContent = sentence.prompt_ru || "[Нет текста]";
-        state.currentAudio = sentence.audio_path;
+        // Проверяем, что audio_path не NULL, и берем его значение
+        state.currentAudio = (sentence.audio_path && sentence.audio_path.Valid) ? sentence.audio_path.String : null;
         userAnswer.value = ""; userAnswer.disabled = false;
         checkAnswerBtn.style.display = "block";
         feedback.style.display = "none"; nextSentenceBtn.style.display = "none";
@@ -187,7 +190,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (userAnswer) userAnswer.focus();
     }
 
-    // === Функции-Обработчики ===
     // === Функции-Обработчики ===
     function handleCheckAnswer() {
         if (!userAnswer || !feedback || !checkAnswerBtn || !nextSentenceBtn || !correctAnswer || !feedbackText) return;
@@ -253,42 +255,63 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("--- handleNextSentence End ---");
     }
     
+    // function handlePlayAudio() {
+    //     // 1. Проверяем, есть ли у нас предложение
+    //     if (!state.sentences || !state.sentences[state.currentSentenceIndex]) {
+    //         console.error("handlePlayAudio: нет предложения для озвучки");
+    //         return;
+    //     }
+
+    //     const sentence = state.sentences[state.currentSentenceIndex];
+    //     // 2. Берем АНГЛИЙСКИЙ текст (правильный ответ)
+    //     const textToSpeak = sentence.answer_en; 
+
+    //     if (!textToSpeak) {
+    //         console.error("handlePlayAudio: в предложении нет текста (answer_en)");
+    //         return;
+    //     }
+
+    //     // 3. Создаем объект озвучки
+    //     const utterance = new SpeechSynthesisUtterance(textToSpeak);
+
+    //     // 4. Устанавливаем язык (важно для правильного акцента)
+    //     utterance.lang = "en-US";
+
+    //     // 5. (Опционально) Пытаемся найти более качественный голос
+    //     //    (качество зависит от браузера: Google, Edge, Safari)
+    //     const voices = window.speechSynthesis.getVoices();
+    //     const aGoodVoice = voices.find(v => 
+    //         v.lang.startsWith("en-") && 
+    //         (v.name.includes("Google") || v.name.includes("David") || v.name.includes("Zira"))
+    //     );
+
+    //     if (aGoodVoice) {
+    //         utterance.voice = aGoodVoice;
+    //     }
+
+    //     // 6. Воспроизводим
+    //     window.speechSynthesis.speak(utterance);
+    // }
+
+
     function handlePlayAudio() {
-        // 1. Проверяем, есть ли у нас предложение
-        if (!state.sentences || !state.sentences[state.currentSentenceIndex]) {
-            console.error("handlePlayAudio: нет предложения для озвучки");
+        // 1. Получаем путь из state (мы сохранили его в loadSentence)
+        const audioPath = state.currentAudio;
+
+        // --- ДЛЯ ОТЛАДКИ ---
+        console.log("handlePlayAudio: Пытаюсь воспроизвести:", audioPath);
+        // -----------------
+
+        // 2. Проверяем, что путь существует (не null и не пустая строка)
+        if (!audioPath) {
+            console.warn("handlePlayAudio: нет audio_path для этого предложения.");
             return;
         }
 
-        const sentence = state.sentences[state.currentSentenceIndex];
-        // 2. Берем АНГЛИЙСКИЙ текст (правильный ответ)
-        const textToSpeak = sentence.answer_en; 
-
-        if (!textToSpeak) {
-            console.error("handlePlayAudio: в предложении нет текста (answer_en)");
-            return;
-        }
-
-        // 3. Создаем объект озвучки
-        const utterance = new SpeechSynthesisUtterance(textToSpeak);
-
-        // 4. Устанавливаем язык (важно для правильного акцента)
-        utterance.lang = "en-US";
-
-        // 5. (Опционально) Пытаемся найти более качественный голос
-        //    (качество зависит от браузера: Google, Edge, Safari)
-        const voices = window.speechSynthesis.getVoices();
-        const aGoodVoice = voices.find(v => 
-            v.lang.startsWith("en-") && 
-            (v.name.includes("Google") || v.name.includes("David") || v.name.includes("Zira"))
-        );
-
-        if (aGoodVoice) {
-            utterance.voice = aGoodVoice;
-        }
-
-        // 6. Воспроизводим
-        window.speechSynthesis.speak(utterance);
+        // 3. Создаем и воспроизводим аудио
+        //    Браузер сам сделает запрос к http://localhost:8080/media/90706.mp3
+        const audio = new Audio(audioPath);
+        audio.play().catch(e => console.error("Ошибка воспроизведения аудио:", e));
     }
 
 
@@ -370,7 +393,14 @@ document.addEventListener("DOMContentLoaded", () => {
     if (registerForm) registerForm.addEventListener("submit", handleRegister);
     if (showRegisterBtn) showRegisterBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('register'); });
     if (showLoginBtn) showLoginBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('login'); });
-    const handleStartClick = (e) => { e.preventDefault(); openAuthModal('login'); };
+    // const handleStartClick = (e) => { e.preventDefault(); openAuthModal('login'); };
+    // if (headerStartButton) { headerStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка header-start-button не найдена."); }
+    // if (heroStartButton) { heroStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка hero-start-button не найдена."); }
+    const handleStartClick = (e) => { 
+        e.preventDefault(); 
+        // Открываем модальное окно с формой РЕГИСТРАЦИИ
+        openAuthModal('register'); 
+    };
     if (headerStartButton) { headerStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка header-start-button не найдена."); }
     if (heroStartButton) { heroStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка hero-start-button не найдена."); }
     if (closeModalButton) { closeModalButton.addEventListener("click", closeAuthModal); }

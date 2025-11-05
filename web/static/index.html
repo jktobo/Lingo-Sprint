@@ -13,6 +13,61 @@
     </header>
 
     <main>
+        <section id="dashboard-view" style="display:none;">
+            <h2>Выберите уровень:</h2>
+            <div id="levels-container" class="grid-container"></div>
+            <hr>
+            <h2>Уроки:</h2>
+            <div id="lessons-container" class="grid-container"></div>
+        </section>
+
+        <section id="trainer-view" style="display:none;">
+            <h2 id="lesson-title"></h2>
+            <button id="back-to-lessons">← Назад к урокам</button>
+            <div id="card">
+                <div class="audio-controls">
+                    <button id="play-audio">🔊 Прослушать</button>
+                </div>
+                <div class="prompt" id="prompt-ru"></div>
+                <textarea id="user-answer" placeholder="Введите ваш перевод..." rows="3"></textarea>
+                <button id="check-answer">Проверить</button>
+                <div id="feedback" style="display:none;">
+                    <p id="feedback-text"></p>
+                    <p><strong>Правильный ответ:</strong> <span id="correct-answer"></span></p>
+                    <div id="ai-explanation" style="margin-top: 15px; font-style: italic; color: #555;">
+                        </div>
+                    </div>
+                </div>
+                <button id="next-sentence" style="display:none;">Далее →</button>
+            </div>
+            <div id="progress-bar">
+                <div id="progress-bar-inner"></div>
+            </div>
+            <div id="progress-text-container" style="text-align: center; margin-top: 10px; font-weight: 500;">
+                <span id="progress-text">0 / 0</span>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lingo-Sprint</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Lingo-Sprint 🏃</h1>
+        <button id="logout-button" style="display:none;">Выйти</button>
+    </header>
+
+    <main>
         
         <section id="auth-view">
             <form id="login-form" class="auth-form">
@@ -76,4 +131,4 @@
 
     <script src="app.js"></script>
 </body>
-</html>
+</html> -->

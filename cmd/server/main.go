@@ -59,14 +59,14 @@ func main() {
 		log.Println("Serving /app (index.html)")
 		http.ServeFile(w, r, "./web/static/index.html")
 	}).Methods("GET")
-    r.HandleFunc("/login", func(w http.ResponseWriter, r *http.Request){
-        log.Println("Redirecting /login to /")
-        http.Redirect(w, r, "/", http.StatusSeeOther)
-    }).Methods("GET")
-    r.HandleFunc("/register", func(w http.ResponseWriter, r *http.Request){
-         log.Println("Redirecting /register to /")
-         http.Redirect(w, r, "/", http.StatusSeeOther)
-    }).Methods("GET")
+    // r.HandleFunc("/login", func(w http.ResponseWriter, r *http.Request){
+    //     log.Println("Redirecting /login to /")
+    //     http.Redirect(w, r, "/", http.StatusSeeOther)
+    // }).Methods("GET")
+    // r.HandleFunc("/register", func(w http.ResponseWriter, r *http.Request){
+    //      log.Println("Redirecting /register to /")
+    //      http.Redirect(w, r, "/", http.StatusSeeOther)
+    // }).Methods("GET")
 
 	// --- 3. РЕГИСТРАЦИЯ ЛЕНДИНГА ---
 	r.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
@@ -79,11 +79,30 @@ func main() {
 		http.ServeFile(w, r, "./web/static/landing.html")
 	}).Methods("GET")
 
-	// --- 4. РЕГИСТРАЦИЯ FILESERVER ДЛЯ СТАТИКИ ---
+	// // --- 4. РЕГИСТРАЦИЯ FILESERVER ДЛЯ СТАТИКИ ---
+	// fs := http.FileServer(http.Dir("./web/static/"))
+	// r.MatcherFunc(func(r *http.Request, rm *mux.RouteMatch) bool {
+	// 	path := r.URL.Path
+	// 	isStatic := path != "/" && path != "/app" && path != "/login" && path != "/register" && !strings.HasPrefix(path, "/api")
+	// 	return isStatic
+	// }).Handler(http.StripPrefix("/", fs))
+
+	// --- 4. РЕГИСТРАЦИЯ FILESERVER ДЛЯ /media (НОВОЕ) ---
+	// Этот код будет обслуживать ваши MP3-файлы
+	mediaFs := http.FileServer(http.Dir("./media/"))
+	r.PathPrefix("/media/").Handler(http.StripPrefix("/media/", mediaFs))
+
+	// --- 5. РЕГИСТРАЦИЯ FILESERVER ДЛЯ СТАТИКИ (СТАРОЕ, теперь 5) ---
+	// Этот код обслуживает ваш index.html, app.js, style.css и т.д.
 	fs := http.FileServer(http.Dir("./web/static/"))
 	r.MatcherFunc(func(r *http.Request, rm *mux.RouteMatch) bool {
 		path := r.URL.Path
-		isStatic := path != "/" && path != "/app" && path != "/login" && path != "/register" && !strings.HasPrefix(path, "/api")
+		isStatic := path != "/" &&
+			path != "/app" &&
+			path != "/login" &&
+			path != "/register" &&
+			!strings.HasPrefix(path, "/api") &&
+			!strings.HasPrefix(path, "/media") // <-- Добавлено
 		return isStatic
 	}).Handler(http.StripPrefix("/", fs))
 

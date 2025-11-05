@@ -17,8 +17,11 @@ CREATE TABLE IF NOT EXISTS sentences (
     order_number INT NOT NULL, -- Порядковый номер в уроке (1, 2, 3...)
     prompt_ru TEXT NOT NULL,
     answer_en TEXT NOT NULL,
-    transcription VARCHAR(255),
-    audio_path VARCHAR(1024)
+    transcription TEXT,
+    audio_path VARCHAR(1024),
+    
+    -- НУЖНО ДОБАВИТЬ ЭТУ СТРОКУ:
+    UNIQUE (lesson_id, order_number)
 );
 
 CREATE TABLE IF NOT EXISTS users (
