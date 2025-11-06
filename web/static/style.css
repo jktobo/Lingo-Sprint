@@ -351,3 +351,146 @@ hr {
     #check-answer, #next-sentence, #back-to-lessons { padding: 14px; font-size: 1em;}
     #play-audio { font-size: 1.3em; }
 }
+
+/*
+=================================
+СТИЛИ ДЛЯ МОДАЛЬНОГО ОКНА (Новый дизайн)
+=================================
+*/
+
+/* Затемнение фона */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
+}
+
+/* Само модальное окно */
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    /* Стилизуем под лендинг */
+    background: #2a0a4a; /* Темный фон (похож на --bg-2) */
+    border: 1px solid rgba(255,255,255,0.08);
+    color: var(--white);
+    
+    border-radius: 16px;
+    width: 90%;
+    max-width: 400px; /* Фиксированная ширина */
+    z-index: 1001;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    padding: 28px 32px;
+}
+
+/* Кнопка "Закрыть" (крестик) */
+.modal-close-button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 2rem;
+    cursor: pointer;
+    line-height: 1;
+}
+
+/* Убираем старые стили .auth-form */
+.modal #auth-view {
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+}
+.modal .auth-form {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    background: transparent;
+}
+
+.modal .auth-form h2 {
+    font-family: 'Poppins', system-ui;
+    color: var(--white);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 25px;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.modal .auth-form label {
+    font-family: 'Poppins', system-ui;
+    color: var(--muted);
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.modal .auth-form input[type="email"],
+.modal .auth-form input[type="password"] {
+    background: rgba(0,0,0,0.2);
+    border: 1px solid rgba(255,255,255,0.08);
+    color: var(--white);
+    margin-bottom: 15px;
+    padding: 12px;
+    font-size: 1rem;
+    border-radius: 10px;
+    width: 100%; 
+    box-sizing: border-box; 
+    font-family: 'Poppins', system-ui;
+}
+
+.modal .auth-form button[type="submit"] {
+    /* Используем стиль .btn-primary */
+    background: linear-gradient(90deg,var(--accent-start),var(--accent-end));
+    color: #fff;
+    padding: 12px 22px;
+    border-radius: 12px;
+    border: none;
+    font-weight: 600;
+    box-shadow: 0 8px 20px rgba(155,107,255,0.18);
+    cursor: pointer;
+    font-family: 'Poppins', system-ui;
+    font-size: 1rem;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.modal .auth-form p {
+    font-family: 'Poppins', system-ui;
+    text-align: center;
+    color: var(--muted);
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+.modal .auth-form p a {
+    color: var(--accent-start);
+    font-weight: 600;
+    text-decoration: none;
+}
+.modal .auth-form p a:hover {
+    text-decoration: underline;
+}
+
+.modal .error-message {
+    background: #5c0a0a;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-family: 'Poppins', system-ui;
+    font-size: 0.9rem;
+}

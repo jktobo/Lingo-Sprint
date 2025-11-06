@@ -1,6 +1,223 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Lingo-Sprint</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="landing.css">
+</head>
+<body class="landing-page">
+  <div class="container">
+    <header>
+      <div class="logo">
+        <div class="mark">LS</div>
+        <div>
+          <div class="brand">Lingo‑Sprint</div>
+        </div>
+      </div>
+
+      <nav>
+        <button class="btn-ghost" id="header-login-button">Войти</button>
+        <div class="avatar" aria-hidden></div>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <h1 class="fade-up" style="transition-delay:.05s">Изучайте английский <span class="accent">со скоростью света</span></h1>
+      <p class="lead fade-up" style="transition-delay:.15s">Революционная методика интервального повторения поможет вам освоить английский быстрее и эффективнее, чем любые традиционные курсы</p>
+
+      <div class="hero-cta fade-up" style="transition-delay:.25s">
+        <button class="btn-primary" id="hero-start-button">Начать обучение</button>
+        <button class="btn-secondary">Узнать больше</button>
+      </div>
+
+      <div class="stats fade-up" style="transition-delay:.35s">
+        <div class="stat"><div class="num">300+</div><div class="label">Уроков</div></div>
+        <div class="stat"><div class="num">30000+</div><div class="label">Предложений</div></div>
+        <div class="stat"><div class="num">98%</div><div class="label">Успешность</div></div>
+      </div>
+    </section>
+
+    <section class="why">
+      <h2 class="fade-up" style="transition-delay:.05s">Почему Lingo‑Sprint?</h2>
+      <p class="fade-up" style="transition-delay:.12s">Мы объединили лучшие научные подходы к изучению языков с современными технологиями</p>
+
+      <div class="cards">
+        <div class="card fade-up" style="transition-delay:.18s">
+          <div class="icon">⚡</div>
+          <h3>Интервальное повторение</h3>
+          <p>Научно обоснованная методика для долговременного запоминания</p>
+        </div>
+
+        <div class="card fade-up" style="transition-delay:.22s">
+          <div class="icon">🚀</div>
+          <h3>Быстрый прогресс</h3>
+          <p>Интенсивные тренировки по 15–30 минут в день</p>
+        </div>
+
+        <div class="card fade-up" style="transition-delay:.26s">
+          <div class="icon">🎯</div>
+          <h3>Персональный подход</h3>
+          <p>Адаптация под ваш уровень и скорость обучения</p>
+        </div>
+      </div>
+
+      <div class="method fade-up" style="transition-delay:.32s">
+        <div class="left">
+          <h3>Методика интервального повторения</h3>
+          <p>Основана на исследованиях нейропсихологии. Система автоматически определяет оптимальное время для повторения каждого слова или фразы, что увеличивает эффективность запоминания в 3-5 раз.</p>
+
+          <div class="bullet">
+            <div style="display:flex;flex-direction:column;gap:8px">
+              <div style="display:flex;align-items:center;gap:8px;color:var(--muted)">⭐️ Научно обоснованный подход</div>
+              <div style="display:flex;align-items:center;gap:8px;color:var(--muted)">🔁 Персональная адаптация</div>
+              <div style="display:flex;align-items:center;gap:8px;color:var(--muted)">🧠 Долгосрочная память</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="badge">
+          <div class="big">5x</div>
+          <div class="small">Быстрее традиционных методов</div>
+        </div>
+      </div>
+
+      <div class="cta fade-up" style="transition-delay:.36s">
+        <h3>Готовы начать свое путешествие?</h3>
+        <p>Присоединяйтесь к тысячам студентов, которые уже изучают английский с Lingo‑Sprint</p>
+        <!-- <button class="btn-primary" id="cta-start-button">Начать бесплатно</button> -->
+      </div>
+    </section>
+
+    <section class="pricing">
+      
+      <div class="pricing-ai-header fade-up">
+        <div class="icon-crown">👑</div>
+        <h3>Премиум функции с AI</h3>
+        <p>Революционные возможности для изучения английского</p>
+        
+        <div class="ai-features">
+          
+          <div class="ai-feature-item">
+            <div class="icon icon-tutor">🧠</div>
+            <h4>AI-Тьютор</h4>
+            <p>Персональные объяснения ошибок и рекомендации</p>
+          </div>
+          
+          <div class="ai-feature-item">
+            <div class="icon icon-dynamic">⚡️</div>
+            <h4>Динамический контент</h4>
+            <p>Генерация новых уроков на основе ваших интересов</p>
+          </div>
+          
+          <div class="ai-feature-item">
+            <div class="icon icon-partner">🗣️</div>
+            <h4>Разговорный партнер</h4>
+            <p>AI-собеседник для практики разговорной речи</p>
+          </div>
+          
+        </div>
+      </div>
+      <div class="pricing-grid fade-up">
+        
+        <div class="pricing-card">
+          <h4>Бесплатный</h4>
+          <p class="card-subtitle">Идеально для начала обучения</p>
+          <div class="price">Бесплатно</div>
+          <ul class="feature-list-pricing">
+            <li><span class="check">✓</span> Доступ к уровню А0</li>
+            <li><span class="check">✓</span> Перевод (RU-ENG)</li>
+            <li><span class="check">✓</span> Перевод (ENG->RU)</li>
+          </ul>
+          <!-- <button class="btn-price btn-current-plan" disabled>Текущий план</button> -->
+          <!-- <button class="btn-price btn-gradient" id="free-start-button">Начать бесплатно</button> -->
+          <button class="btn-primary" id="cta-start-button">Начать бесплатно</button>
+        </div>
+
+        <div class="pricing-card popular">
+          <div class="badge-popular">☆ Популярный</div>
+          <h4>Premium месячная</h4>
+          <p class="card-subtitle">Полный доступ ко всем функциям</p>
+          <div class="price">$9 <span class="per-time">/в месяц</span></div>
+          <ul class="feature-list-pricing">
+            <li><span class="check">✓</span> Доступ ко всем уровням (А0-C1)</li>
+            <li><span class="check">✓</span> AI-тьютор для объяснения ошибок</li>
+            <li><span class="check">✓</span> Продвинутая статистика и аналитика</li>
+            <li><span class="check">✓</span> Перевод (RU-ENG)</li>
+            <li><span class="check">✓</span> Перевод (ENG-RU)</li>
+            <li><span class="check">✓</span> Диктант (Аудирование)</li>
+          </ul>
+          <button class="btn-price btn-gradient">
+            <span class="icon-btn">💳</span> Банковская карта
+          </button>
+          <button class="btn-price btn-mbank">
+            <span class="icon-btn">M</span> MBank
+          </button>
+        </div>
+
+        <div class="pricing-card">
+          <div class="badge-sale">37% скидка</div>
+          <h4>Premium годовая</h4>
+          <p class="card-subtitle">Экономия 37% при годовой подписке</p>
+          <div class="price">$68 <span class="per-time">/в год</span></div>
+          <span class="old-price">$108</span>
+          <ul class="feature-list-pricing">
+            <li><span class="check">✓</span> Доступ ко всем уровням (А0-C1)</li>
+            <li><span class="check">✓</span> AI-тьютор для объяснения ошибок</li>
+            <li><span class="check">✓</span> Продвинутая статистика и аналитика</li>
+            <li><span class="check">✓</span> Перевод (RU-ENG)</li>
+            <li><span class="check">✓</span> Перевод (ENG-RU)</li>
+            <li><span class="check">✓</span> Диктант (Аудирование)</li>
+          </ul>
+          <button class="btn-price btn-gradient">
+            <span class="icon-btn">💳</span> Банковская карта
+          </button>
+          <button class="btn-price btn-mbank">
+            <span class="icon-btn">M</span> MBank
+          </button>
+        </div>
+
+      </div>
+    </section>
+    </div> <div id="auth-overlay" class="modal-overlay" style="display: none;"></div>
+  <div id="auth-modal" class="modal" style="display: none;">
+      <button id="close-modal-button" class="modal-close-button">&times;</button>
+      <section id="auth-view">
+          <form id="login-form" class="auth-form" style="display:none;">
+              <h2>Вход</h2>
+              <div id="login-error" class="error-message" style="display:none;"></div>
+              <label for="login-email">Email</label>
+              <input type="email" id="login-email" required>
+              <label for="login-password">Пароль</label>
+              <input type="password" id="login-password" required>
+              <button type="submit">Войти</button>
+              <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
+          </form>
+
+          <form id="register-form" class="auth-form" style="display:none;">
+              <h2>Регистрация</h2>
+              <div id="register-error" class="error-message" style="display:none;"></div>
+              <label for="register-email">Email</label>
+              <input type="email" id="register-email" required>
+              <label for="register-password">Пароль (мин. 6)</label>
+              <input type="password" id="register-password" required>
+              <button type="submit">Создать аккаунт</button>
+              <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
+          </form>
+      </section>
+  </div>
+  
+  <script src="app.js"></script>
+</body>
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="ru">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lingo-Sprint - Изучай английский эффективно</title>
@@ -59,31 +276,6 @@
             </div>
         </section>
 
-        <!-- <section id="auth-view" style="margin-top: 50px;">
-            <form id="login-form" class="auth-form" style="display:none;">
-                <h2>Вход</h2>
-                <div id="login-error" class="error-message" style="display:none;"></div>
-                <label for="login-email">Email</label>
-                <input type="email" id="login-email" required>
-                <label for="login-password">Пароль</label>
-                <input type="password" id="login-password" required>
-                <button type="submit">Войти</button>
-                <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
-            </form>
-
-            <form id="register-form" class="auth-form" style="display:none;">
-                <h2>Регистрация</h2>
-                <div id="register-error" class="error-message" style="display:none;"></div>
-                <label for="register-email">Email</label>
-                <input type="email" id="register-email" required>
-                <label for="register-password">Пароль (мин. 6)</label>
-                <input type="password" id="register-password" required>
-                <button type="submit">Создать аккаунт</button>
-                <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
-            </form>
-        </section> -->
-
-
     </main>
 
     <footer class="landing-footer">
@@ -121,4 +313,4 @@
     </div>
     <script src="app.js"></script>
 </body>
-</html>
+</html> -->

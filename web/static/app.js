@@ -389,20 +389,29 @@ document.addEventListener("DOMContentLoaded", () => {
     // ---------------------------------
 
     // === Привязка Событий ===
-    if (loginForm) loginForm.addEventListener("submit", handleLogin);
-    if (registerForm) registerForm.addEventListener("submit", handleRegister);
-    if (showRegisterBtn) showRegisterBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('register'); });
-    if (showLoginBtn) showLoginBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('login'); });
-    // const handleStartClick = (e) => { e.preventDefault(); openAuthModal('login'); };
-    // if (headerStartButton) { headerStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка header-start-button не найдена."); }
-    // if (heroStartButton) { heroStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка hero-start-button не найдена."); }
+
+    // --- ШАГ 1: СНАЧАЛА ОБЪЯВЛЯЕМ ФУНКЦИИ ---
+    
     const handleStartClick = (e) => { 
         e.preventDefault(); 
         // Открываем модальное окно с формой РЕГИСТРАЦИИ
         openAuthModal('register'); 
     };
+
+    // --- ШАГ 2: ТЕПЕРЬ ПРИВЯЗЫВАЕМ ИХ ---
+
+    if (loginForm) loginForm.addEventListener("submit", handleLogin);
+    if (registerForm) registerForm.addEventListener("submit", handleRegister);
+    if (showRegisterBtn) showRegisterBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('register'); });
+    if (showLoginBtn) showLoginBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('login'); });
+
+    // Теперь этот код будет работать, т.к. handleStartClick уже объявлен
     if (headerStartButton) { headerStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка header-start-button не найдена."); }
     if (heroStartButton) { heroStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка hero-start-button не найдена."); }
+    
+    const ctaStartButton = document.getElementById("cta-start-button");
+    if (ctaStartButton) { ctaStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка cta-start-button не найдена."); }
+
     if (closeModalButton) { closeModalButton.addEventListener("click", closeAuthModal); }
     if (authOverlay) { authOverlay.addEventListener("click", closeAuthModal); }
     if (logoutButton) logoutButton.addEventListener("click", handleLogout);
@@ -414,8 +423,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (playAudioBtn) playAudioBtn.addEventListener("click", handlePlayAudio);
     if (userAnswer) userAnswer.addEventListener("keydown", (e) => { if (e.code === 'Enter' && !userAnswer.disabled && checkAnswerBtn && checkAnswerBtn.style.display === "block") { handleCheckAnswer(); e.preventDefault(); e.stopPropagation(); } });
     document.addEventListener('keydown', function(event) { if (event.code === 'Enter' && nextSentenceBtn && nextSentenceBtn.style.display === 'block') { if (document.activeElement !== userAnswer || (userAnswer && userAnswer.disabled)) { handleNextSentence(); event.preventDefault(); } } if (event.key === 'Escape' && authModal && authModal.style.display === 'block') { closeAuthModal(); } });
-
-    // === ИНИЦИАЛИЗАЦИЯ ===
+    
     const currentPath = window.location.pathname;
     console.log("Инициализация JS. Текущий путь:", currentPath);
     if (currentPath === '/app' || currentPath.startsWith('/app/')) {
@@ -430,3 +438,48 @@ document.addEventListener("DOMContentLoaded", () => {
 }); // Конец DOMContentLoaded
 
     
+/* =================================
+КОД ДЛЯ НОВОГО ЛЕНДИНГА
+=================================
+*/
+
+// --- 1. Обработчики для кнопок лендинга ---
+
+// Находим кнопки
+const headerLoginButton = document.getElementById("header-login-button");
+// (headerStartButton, heroStartButton, ctaStartButton уже должны быть объявлены выше)
+
+// Функция для кнопки "Войти"
+if (headerLoginButton) {
+    headerLoginButton.addEventListener("click", (e) => {
+        e.preventDefault();
+        openAuthModal('login'); // Открываем модальное окно ВХОДА
+    });
+}
+
+// (Убедитесь, что у вас есть этот код для кнопок "Начать бесплатно")
+// const handleStartClick = (e) => { 
+//     e.preventDefault(); 
+//     openAuthModal('register'); // Открываем модальное окно РЕГИСТРАЦИИ
+// };
+// if (headerStartButton) { ... }
+// if (heroStartButton) { ... }
+// if (ctaStartButton) { ... }
+
+
+// --- 2. Анимация появления элементов при прокрутке ---
+(function(){
+  // Проверяем, что мы на лендинге, а не в приложении
+  // (чтобы этот код не мешал /app)
+  if (document.body.classList.contains('landing-page')) {
+      const io = new IntersectionObserver((entries)=>{
+        entries.forEach(e=>{
+          if(e.isIntersecting) {
+            e.target.classList.add('in');
+          }
+        });
+      },{threshold:0.08});
+      
+      document.querySelectorAll('.fade-up').forEach(el=>io.observe(el));
+  }
+})();
