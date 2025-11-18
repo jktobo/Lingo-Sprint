@@ -14,6 +14,9 @@ type Lesson struct {
 	LevelID      int    `json:"level_id"`
 	LessonNumber int    `json:"lesson_number"`
 	Title        string `json:"title"`
+
+	TotalSentences     int `json:"total_sentences"`
+	CompletedSentences int `json:"completed_sentences"`
 }
 
 // Sentence представляет одно предложение С УЧЕТОМ ПРОГРЕССА

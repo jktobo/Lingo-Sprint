@@ -1,485 +1,534 @@
-// alert("--- ЭТО НОВАЯ ВЕРСИЯ APP.JS ---");
+/*
+======================================================
+LINGO-SPRINT APP.JS (ФИКС ТОЧНОСТИ)
+======================================================
+*/
 
 document.addEventListener("DOMContentLoaded", () => {
-    window.speechSynthesis.getVoices();
-    // === Элементы DOM ===
-    const views = {
-        auth: document.getElementById("auth-view"),
-        dashboard: document.getElementById("dashboard-view"),
-        trainer: document.getElementById("trainer-view"),
-    };
-    const loginForm = document.getElementById("login-form");
-    const registerForm = document.getElementById("register-form");
-    const showRegisterBtn = document.getElementById("show-register");
-    const showLoginBtn = document.getElementById("show-login");
-    const loginError = document.getElementById("login-error");
-    const registerError = document.getElementById("register-error");
-    const logoutButton = document.getElementById("logout-button");
-    const headerStartButton = document.getElementById("header-start-button");
-    const heroStartButton = document.getElementById("hero-start-button");
-    const authOverlay = document.getElementById("auth-overlay");
-    const authModal = document.getElementById("auth-modal");
-    const closeModalButton = document.getElementById("close-modal-button");
-    const levelsContainer = document.getElementById("levels-container");
-    const lessonsContainer = document.getElementById("lessons-container");
-    const lessonTitle = document.getElementById("lesson-title");
-    const promptRu = document.getElementById("prompt-ru");
-    const userAnswer = document.getElementById("user-answer");
-    const checkAnswerBtn = document.getElementById("check-answer");
-    const nextSentenceBtn = document.getElementById("next-sentence");
-    const backToLessonsBtn = document.getElementById("back-to-lessons");
-    const playAudioBtn = document.getElementById("play-audio");
-    const feedback = document.getElementById("feedback");
-    const feedbackText = document.getElementById("feedback-text");
-    const correctAnswer = document.getElementById("correct-answer");
-    const aiExplanation = document.getElementById("ai-explanation");
-    const progressBar = document.getElementById("progress-bar-inner");
-    const progressText = document.getElementById("progress-text");
+    console.log("App started...");
 
-    // === Состояние приложения ===
+    // === 1. Состояние приложения ===
     let state = {
         token: localStorage.getItem("token") || null,
+        userEmail: localStorage.getItem("userEmail") || null,
+        currentView: 'dashboard',
         currentLessonId: null,
-        levels: [], lessons: [], sentences: [],
+        levels: [],
+        lessons: [],
+        sentences: [],
         currentSentenceIndex: 0,
-        currentAudio: null,
+        isPremium: false,
     };
 
-    // === API-функции ===
+    // === 2. Элементы DOM ===
+    const getDom = () => ({
+        views: {
+            auth: document.getElementById("auth-view"),
+            dashboard: document.getElementById("dashboard-view"),
+            trainer: document.getElementById("trainer-view"),
+            subscription: document.getElementById("subscription-view"),
+        },
+        navItems: document.querySelectorAll(".nav-item"),
+        userName: document.querySelector(".user-profile .user-name"),
+        userAvatar: document.querySelector(".user-avatar img"),
+        logoutButton: document.getElementById("logout-button"),
+        authFormLogin: document.getElementById("login-form"),
+        authFormRegister: document.getElementById("register-form"),
+        showRegisterBtn: document.getElementById("show-register"),
+        showLoginBtn: document.getElementById("show-login"),
+        header: document.querySelector(".top-header"),
+        mainContent: document.querySelector(".content"),
+        levelsContainer: document.getElementById("levels-container"),
+        lessonsContainer: document.getElementById("lessons-container"),
+        currentLevelTitle: document.getElementById("current-level-title"),
+        lessonProgressText: document.getElementById("lesson-progress-text"),
+        
+        statLessonsCompleted: document.getElementById("stat-lessons-completed"),
+        statStars: document.getElementById("stat-stars"),
+        statTime: document.getElementById("stat-time"),
+        statAccuracy: document.getElementById("stat-accuracy"),
+        
+        globalProgressTitle: document.getElementById("global-progress-title"),
+        globalProgressSubtitle: document.getElementById("global-progress-subtitle"),
+        globalProgressBarInner: document.getElementById("global-progress-bar-inner"),
+        globalProgressPercentText: document.getElementById("global-progress-percent-text"),
+        
+        trainerCard: document.getElementById("card"),
+        backToLessonsBtn: document.getElementById("back-to-lessons"),
+        progressText: document.getElementById("progress-text"),
+        progressBarInner: document.getElementById("progress-bar-inner"),
+        playAudioBtn: document.getElementById("play-audio"),
+        promptRu: document.getElementById("current-sentence-ru"),
+        userAnswer: document.getElementById("user-answer"),
+        feedback: document.getElementById("feedback"),
+        aiExplanation: document.getElementById("ai-explanation"),
+        checkAnswerBtn: document.getElementById("check-answer"),
+        nextSentenceBtn: document.getElementById("next-sentence"),
+        
+        premiumModalOverlay: document.getElementById("premium-modal-overlay"),
+        premiumModalCloseBtn: document.querySelector("#premium-modal-overlay .modal-close"),
+        premiumModalBuyBtn: document.getElementById("modal-buy-premium"),
+    });
+
+    let dom = getDom();
+
+    // === 3. Вспомогательные функции ===
+    function pluralizeLesson(count) {
+        const cases = [2, 0, 1, 1, 1, 2];
+        const titles = ['урок', 'урока', 'уроков'];
+        const index = (count % 100 > 4 && count % 100 < 20) ? 2 : cases[(count % 10 < 5) ? count % 10 : 5];
+        return titles[index];
+    }
+    function isSentenceMastered(sentence) {
+        if (!sentence.status) return false;
+        if (typeof sentence.status === 'object' && sentence.status.Valid) {
+            return sentence.status.String === 'mastered';
+        }
+        return sentence.status === 'mastered';
+    }
+
+    // === 4. API Функции ===
     async function fetchProtected(url, options = {}) {
-        if (!state.token) { console.error("Нет токена. Выход."); handleLogout(); return undefined; }
+        if (!state.token) { handleLogout(); return undefined; }
         const defaultHeaders = { 'Authorization': `Bearer ${state.token}`, 'Content-Type': 'application/json' };
         const config = { ...options, headers: { ...defaultHeaders, ...options.headers } };
-        try { const response = await fetch(url, config); if (response.status === 401) { console.error("Токен невалиден (401). Выход."); handleLogout(); return undefined; } if (!response.ok) { console.error(`Ошибка API ${response.status}: ${response.statusText} для URL ${url}`); throw new Error(`API Error: ${response.status}`); } return response; } catch (error) { console.error("Ошибка сети fetchProtected:", error); throw error; }
+
+        try {
+            const response = await fetch(url, config);
+            if (response.status === 401) { handleLogout(); return undefined; }
+            if (response.status === 403) { return response; }
+            if (!response.ok) throw new Error(`API Error: ${response.status}`);
+            return response;
+        } catch (error) {
+            console.error("Network error:", error);
+            throw error;
+        }
     }
+
     async function fetchLevels() {
-        try { const response = await fetchProtected("/api/levels"); if (!response) return; state.levels = await response.json(); renderLevels(); } catch (error) { console.error("Не удалось загрузить уровни:", error); }
+        try {
+            const response = await fetchProtected(`/api/levels?t=${Date.now()}`);
+            if (!response) return;
+            
+            const data = await response.json(); 
+            state.levels = data.levels; 
+
+            const completed = data.completed_lessons || 0;
+            const total = data.total_lessons || 0;
+            let globalPercent = 0;
+            if (total > 0) {
+                globalPercent = (completed / total) * 100;
+            }
+
+            if (dom.statLessonsCompleted) dom.statLessonsCompleted.textContent = `${completed}/${total}`;
+            if (dom.statTime) dom.statTime.textContent = `${(data.study_time_hours || 0).toFixed(1)}ч`;
+            
+            // ▼▼▼ ОБНОВЛЕНИЕ ТОЧНОСТИ ▼▼▼
+            if (dom.statAccuracy) {
+                const accuracy = data.accuracy || 0;
+                dom.statAccuracy.textContent = `${accuracy.toFixed(0)}%`;
+            }
+            // ▲▲▲ КОНЕЦ ОБНОВЛЕНИЯ ▲▲▲
+
+            if (dom.statStars) dom.statStars.textContent = "0/0"; 
+            
+            if (dom.globalProgressTitle) dom.globalProgressTitle.textContent = completed === 0 ? "Начните свой путь!" : "Продолжайте в том же духе!";
+            if (dom.globalProgressSubtitle) {
+                const remaining = total - completed;
+                dom.globalProgressSubtitle.textContent = `Вы прошли ${completed} ${pluralizeLesson(completed)}. Осталось ${remaining} ${pluralizeLesson(remaining)}!`;
+            }
+            if (dom.globalProgressBarInner) dom.globalProgressBarInner.style.width = `${globalPercent.toFixed(0)}%`;
+            if (dom.globalProgressPercentText) dom.globalProgressPercentText.textContent = `${globalPercent.toFixed(0)}% до финиша`;
+
+            renderLevels();
+            
+            if (state.levels && state.levels.length > 0) {
+                const activeBtn = dom.levelsContainer.querySelector('.level-item.active');
+                if (!activeBtn) {
+                    const firstLevel = state.levels.find(l => l.title === "A0") || state.levels[0];
+                    updateActiveLevelUI(firstLevel.id);
+                    fetchLessons(firstLevel.id);
+                }
+            }
+        } catch (error) {
+            console.error("Error in fetchLevels:", error);
+        }
     }
+
     async function fetchLessons(levelId) {
-        if (isNaN(parseInt(levelId))) { console.error("Неверный ID уровня:", levelId); return; }
-        try { const response = await fetchProtected(`/api/levels/${levelId}/lessons`); if (!response) return; state.lessons = await response.json(); renderLessons(); } catch (error) { console.error("Не удалось загрузить уроки:", error); }
+        if (!levelId) return;
+        try {
+            const response = await fetchProtected(`/api/levels/${levelId}/lessons?t=${Date.now()}`);
+            if (!response) return;
+            state.lessons = await response.json();
+            renderLessons();
+        } catch (error) {
+            console.error("Error in fetchLessons:", error);
+        }
     }
+
     async function fetchSentences(lessonId) {
-        if (isNaN(parseInt(lessonId))) { console.error("Неверный ID урока:", lessonId); return; }
+        if (!lessonId) return;
         state.currentLessonId = lessonId;
         try {
-            const response = await fetchProtected(`/api/lessons/${lessonId}/sentences`);
-            if (!response) return; state.sentences = await response.json();
-             console.log("Sentences received:", JSON.stringify(state.sentences.slice(0, 3), null, 2));
-            const firstUnansweredIndex = state.sentences.findIndex(s => !(s.status?.Valid && s.status.String === 'mastered'));
-             console.log("Calculated firstUnansweredIndex:", firstUnansweredIndex);
-            if (firstUnansweredIndex === -1 && state.sentences.length > 0) {
-                 alert("Вы уже прошли этот урок! Показываем заново."); state.currentSentenceIndex = 0;
-            } else { state.currentSentenceIndex = (firstUnansweredIndex === -1) ? 0 : firstUnansweredIndex; }
-             console.log("Setting currentSentenceIndex to:", state.currentSentenceIndex);
-            if (state.sentences.length > 0) { showView('trainer'); loadSentence(); }
-            else { alert("В этом уроке нет предложений."); showView('dashboard'); }
-        } catch (error) { console.error("Не удалось загрузить предложения:", error); }
-    }
-    async function saveProgress(sentenceId, isCorrect) {
-        try { await fetchProtected("/api/progress/save", { method: "POST", body: JSON.stringify({ sentence_id: sentenceId, is_correct: isCorrect }) }); console.log(`Прогресс сохранен для предложения ${sentenceId}: ${isCorrect}`); } catch (error) { console.error("Не удалось сохранить прогресс:", error); }
-    }
+            const response = await fetchProtected(`/api/lessons/${lessonId}/sentences?t=${Date.now()}`);
+            if (!response) return;
+            if (response.status === 403) { showPremiumModal(); return; }
 
-
-    async function fetchLessonSentencesData(lessonId) {
-        if (isNaN(parseInt(lessonId))) {
-            console.error("fetchLessonSentencesData: Неверный ID урока:", lessonId);
-            return null;
-        }
-        try {
-            const response = await fetchProtected(`/api/lessons/${lessonId}/sentences`);
-            if (!response) return null; // fetchProtected уже обработал ошибку
-            return await response.json();
-        } catch (error) {
-            console.error("Не удалось (re-fetch) загрузить предложения:", error);
-            return null;
-        }
-    }
-
-    
-    /** (Раскомментировано) Запрашивает объяснение ошибки у AI */
-    async function fetchErrorExplanation(promptRu, correctEn, userAnswerEn) {
-        try {
-            if (aiExplanation) {
-                 aiExplanation.textContent = "🤖 Думаю над объяснением...";
-                 aiExplanation.style.display = "block";
+            state.sentences = await response.json();
+            
+            if (!state.sentences || state.sentences.length === 0) {
+                alert("В этом уроке пока нет предложений.");
+                return;
             }
+
+            const firstUnfinished = state.sentences.findIndex(s => !isSentenceMastered(s));
+            
+            if (firstUnfinished === -1) {
+                if(confirm("Вы уже прошли этот урок. Хотите повторить?")) {
+                    state.currentSentenceIndex = 0; 
+                } else {
+                    showView('dashboard');
+                    return;
+                }
+            } else {
+                state.currentSentenceIndex = firstUnfinished;
+            }
+
+            showView('trainer');
+            loadSentence();
+
+        } catch (error) {
+            console.error("Error in fetchSentences:", error);
+        }
+    }
+
+    async function saveProgress(sentenceId, isCorrect) {
+        try {
+            await fetchProtected("/api/progress/save", {
+                method: "POST",
+                body: JSON.stringify({ sentence_id: sentenceId, is_correct: isCorrect })
+            });
+        } catch (error) { console.error("Error in saveProgress:", error); }
+    }
+
+    async function fetchErrorExplanation() {
+        const sentence = state.sentences[state.currentSentenceIndex];
+        const userAns = dom.userAnswer.value;
+        if (!userAns.trim()) return;
+
+        showAiExplanation("🤖 Анализирую...", 'loading');
+
+        try {
             const response = await fetchProtected("/api/ai/explain-error", {
                 method: "POST",
                 body: JSON.stringify({
-                    prompt_ru: promptRu, correct_en: correctEn, user_answer_en: userAnswerEn
+                    prompt_ru: sentence.prompt_ru,
+                    correct_en: sentence.answer_en,
+                    user_answer_en: userAns
                 })
             });
-            if (!response) return; // fetchProtected обработал ошибку (напр. 401)
-            
+            if (!response) return;
             const data = await response.json();
-            
-            // Новая проверка: если ответ НЕ 200 OK, data будет содержать { "error": "..." }
-            if (data.error) {
-                console.error("Ошибка от AI API:", data.error);
-                if (aiExplanation) {
-                    aiExplanation.textContent = `Ошибка AI: ${data.error}`; // Показываем ошибку пользователю
-                }
-                return;
-            }
-
-             if (aiExplanation) {
-                 aiExplanation.textContent = data.explanation || "Не удалось получить объяснение.";
-             }
+            if (data.error) showAiExplanation(data.error, 'error');
+            else showAiExplanation(data.explanation, 'success');
         } catch (error) {
-            console.error("Не удалось получить объяснение AI:", error);
-            if (aiExplanation) {
-                 aiExplanation.textContent = "Не удалось связаться с AI-помощником.";
-            }
+            showAiExplanation("Ошибка AI.", 'error');
         }
     }
 
-    // === Функции Аутентификации ===
-    async function handleLogin(e) {
-        e.preventDefault(); if (loginError) loginError.style.display = "none"; const emailInput = document.getElementById("login-email"); const passwordInput = document.getElementById("login-password"); if (!emailInput || !passwordInput) { console.error("Login form elements missing"); return; } const email = emailInput.value; const password = passwordInput.value; try { const response = await fetch("/api/login", { method: "POST", headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, password }) }); const data = await response.json(); if (!response.ok) throw new Error(data.error || "Ошибка входа"); saveToken(data.token); document.cookie = "auth_status=logged_in; path=/; max-age=" + 60*60*24*3; window.location.href = "/app"; } catch (error) { if (loginError) { loginError.textContent = error.message; loginError.style.display = "block"; } else { console.error("Login error element missing"); } }
-    }
-    async function handleRegister(e) {
-        e.preventDefault(); if (registerError) registerError.style.display = "none"; const emailInput = document.getElementById("register-email"); const passwordInput = document.getElementById("register-password"); if (!emailInput || !passwordInput) { console.error("Register form elements missing"); return; } const email = emailInput.value; const password = passwordInput.value; if (password.length < 6) { if(registerError) { registerError.textContent = "Пароль не менее 6 симв."; registerError.style.display = "block"; } return; } try { const response = await fetch("/api/register", { method: "POST", headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email, password }) }); const data = await response.json(); if (!response.ok) throw new Error(data.error || "Ошибка регистрации"); alert("Регистрация успешна! Теперь войдите."); showAuthView('login'); if (registerForm) registerForm.reset(); } catch (error) { if (registerError) { registerError.textContent = error.message; registerError.style.display = "block"; } else { console.error("Register error element missing"); } }
-    }
-    function handleLogout() {
-        localStorage.removeItem("token"); state.token = null; document.cookie = "auth_status=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
-        state = { ...state, token: null, currentLessonId: null, levels: [], lessons: [], sentences: [], currentSentenceIndex: 0 };
-        window.location.href = "/";
-    }
-    function saveToken(token) {
-        localStorage.setItem("token", token); state.token = token;
+    // === 5. UI Функции ===
+
+    function showView(viewName) {
+        state.currentView = viewName || 'dashboard';
+        if (dom.views) Object.values(dom.views).forEach(v => v && v.classList.remove("active"));
+        if (dom.views[state.currentView]) dom.views[state.currentView].classList.add("active");
+        
+        if (dom.navItems) {
+            dom.navItems.forEach(item => {
+                const isActive = item.dataset.view === state.currentView || (state.currentView === 'lessons' && item.dataset.view === 'dashboard');
+                item.classList.toggle("active", isActive);
+            });
+        }
+        if (state.currentView === 'dashboard') {
+            resetTrainer();
+            fetchLevels();
+        }
     }
 
-    // === Функции Рендеринга ===
+    function updateActiveLevelUI(levelId) {
+        if (!dom.levelsContainer) return;
+        dom.levelsContainer.querySelectorAll('.level-item').forEach(btn => {
+            if (btn.dataset.id == levelId) btn.classList.add('active');
+            else btn.classList.remove('active');
+        });
+    }
+
     function renderLevels() {
-        if (!levelsContainer) return; levelsContainer.innerHTML = "";
-        state.levels.forEach(level => { const el = document.createElement("div"); el.className = "grid-item level-item"; el.textContent = level.title; el.dataset.id = level.id; levelsContainer.appendChild(el); });
+        if (!dom.levelsContainer) return;
+        dom.levelsContainer.innerHTML = "";
+        state.levels.forEach(level => {
+            const btn = document.createElement("button");
+            btn.className = "level-item";
+            btn.textContent = getFullLevelName(level.title);
+            btn.dataset.id = level.id;
+            dom.levelsContainer.appendChild(btn);
+        });
     }
+
+    function getFullLevelName(t) {
+        const map = {"A0":"A0 - Beginner","A1":"A1 - Elementary","A2":"A2 - Elementary","B1":"B1 - Intermediate","B2":"B2 - Upper-Intermediate","C1":"C1 - Advanced"};
+        return map[t] || t;
+    }
+
     function renderLessons() {
-        if (!lessonsContainer) return; lessonsContainer.innerHTML = ""; if (!state.lessons || state.lessons.length === 0) { lessonsContainer.innerHTML = "<p style='color: var(--text-secondary);'>Выберите уровень.</p>"; return; }
-        state.lessons.forEach(lesson => { const el = document.createElement("div"); el.className = "grid-item lesson-item"; el.textContent = `Урок ${lesson.lesson_number}`; el.dataset.id = lesson.id; el.dataset.title = lesson.title; lessonsContainer.appendChild(el); });
-    }
-    function loadSentence() {
-        if (!promptRu || !userAnswer || !checkAnswerBtn || !feedback || !nextSentenceBtn || !progressBar || !progressText || !lessonTitle || !aiExplanation) {
-             console.error("DOM элементы тренажера не найдены."); showView('dashboard'); return;
+        if (!dom.lessonsContainer) return;
+        dom.lessonsContainer.innerHTML = "";
+        if (!state.lessons || state.lessons.length === 0) { 
+            dom.lessonsContainer.innerHTML = "<p>Нет уроков</p>"; 
+            return; 
         }
+        
+        const activeBtn = dom.levelsContainer.querySelector('.level-item.active');
+        const levelTitle = activeBtn ? activeBtn.textContent.split(" - ")[0] : "Уровень";
+        if (dom.currentLevelTitle) dom.currentLevelTitle.textContent = `Уроки уровня ${levelTitle}`;
+
+        let completedCount = 0;
+
+        state.lessons.forEach(lesson => {
+            const total = lesson.total_sentences || 0;
+            const completed = lesson.completed_sentences || 0;
+            const percent = total > 0 ? (completed / total) * 100 : 0;
+            if (percent === 100) completedCount++;
+
+            const isFree = (lesson.lesson_number <= 5) || (levelTitle === "A0");
+            const hasAccess = isFree || state.isPremium;
+
+            let btnHtml;
+            if (!hasAccess) btnHtml = `<button class="btn-orange" disabled>Разблокировать</button>`;
+            else if (percent === 100) btnHtml = `<button class="btn-secondary">Повторить</button>`;
+            else if (percent > 0) btnHtml = `<button class="btn-primary">Продолжить</button>`;
+            else btnHtml = `<button class="btn-primary">Начать</button>`;
+
+            let countText = `${total} предложений`;
+            if (total === 1) countText = `1 предложение`;
+            else if (total > 1 && total < 5) countText = `${total} предложения`;
+
+            const div = document.createElement("div");
+            div.className = `lesson-card ${!hasAccess ? 'locked' : ''}`;
+            div.dataset.id = lesson.id;
+            div.innerHTML = `
+                <div class="lesson-card-header">
+                    <h4>${lesson.title}</h4>
+                    ${!hasAccess ? '<span class="pro-badge">PRO</span>' : `<span class="stars">☆☆☆</span>`}
+                </div>
+                <p>${countText} для изучения</p>
+                <div class="progress-bar"><div class="progress-bar-inner" style="width: ${percent}%;"></div></div>
+                <div class="card-actions">${btnHtml}</div>
+            `;
+            dom.lessonsContainer.appendChild(div);
+        });
+        
+        if (dom.lessonProgressText) {
+            dom.lessonProgressText.textContent = `${completedCount} из ${state.lessons.length} завершено`;
+        }
+    }
+
+    function loadSentence() {
         if (!state.sentences || state.currentSentenceIndex >= state.sentences.length) {
-             console.log("Нет предложений или индекс вне диапазона."); if(state.sentences?.length > 0) alert("Урок пройден!"); showView('dashboard'); return;
+             checkAndCompleteLesson();
+             return;
         }
         const sentence = state.sentences[state.currentSentenceIndex];
-        if (!sentence) { console.error("Объект sentence undef.", state.currentSentenceIndex); showView('dashboard'); return; }
+        if (dom.promptRu) dom.promptRu.textContent = sentence.prompt_ru;
+        if (dom.userAnswer) {
+            dom.userAnswer.value = "";
+            dom.userAnswer.disabled = false;
+            dom.userAnswer.focus();
+        }
+        if (dom.feedback) dom.feedback.classList.add("hidden");
+        if (dom.aiExplanation) dom.aiExplanation.classList.add("hidden");
+        if (dom.checkAnswerBtn) dom.checkAnswerBtn.classList.remove("hidden");
+        if (dom.nextSentenceBtn) dom.nextSentenceBtn.classList.add("hidden");
 
-        const lessonButton = lessonsContainer ? lessonsContainer.querySelector(`.lesson-item[data-id='${sentence.lesson_id}']`) : null;
-        lessonTitle.textContent = lessonButton ? lessonButton.dataset.title : "Загрузка...";
-        promptRu.textContent = sentence.prompt_ru || "[Нет текста]";
-        // Проверяем, что audio_path не NULL, и берем его значение
-        state.currentAudio = (sentence.audio_path && sentence.audio_path.Valid) ? sentence.audio_path.String : null;
-        userAnswer.value = ""; userAnswer.disabled = false;
-        checkAnswerBtn.style.display = "block";
-        feedback.style.display = "none"; nextSentenceBtn.style.display = "none";
-        if(aiExplanation) aiExplanation.style.display = "none";
-
-        const totalNum = state.sentences.length;
-        const currentNum = state.currentSentenceIndex + 1;
-        const barProgress = (currentNum / totalNum) * 100;
-         console.log("Обновление прогресс-бара:", progressBar, "Ширина:", `${barProgress}%`);
-         console.log("Обновление текста прогресса:", progressText, "Текст:", `${currentNum} / ${totalNum}`);
-        if (progressBar) progressBar.style.width = `${barProgress}%`;
-        if (progressText) progressText.textContent = `${currentNum} / ${totalNum}`;
-
-        if (userAnswer) userAnswer.focus();
+        if (dom.progressText && dom.progressBarInner) {
+            const total = state.sentences.length;
+            const current = state.currentSentenceIndex + 1;
+            dom.progressText.textContent = `${current}/${total}`;
+            dom.progressBarInner.style.width = `${(current / total) * 100}%`;
+        }
     }
 
-    // === Функции-Обработчики ===
     function handleCheckAnswer() {
-        if (!userAnswer || !feedback || !checkAnswerBtn || !nextSentenceBtn || !correctAnswer || !feedbackText) return;
-        if (!state.sentences || state.currentSentenceIndex >= state.sentences.length) return;
-        const user = userAnswer.value.trim();
-        const currentSentence = state.sentences[state.currentSentenceIndex];
-        if (!currentSentence || typeof currentSentence.answer_en === 'undefined') return;
-        const correct = currentSentence.answer_en.trim();
-        const isCorrect = user.toLowerCase() === correct.toLowerCase();
-
-        // === НОВОЕ: ОЗВУЧКА ПРИ ПРОВЕРКЕ ===
-        handlePlayAudio(); // Воспроизводим правильный ответ
-        // ===================================
-
-        feedback.style.display = "block";
-        feedbackText.textContent = isCorrect ? "Правильно! 👍" : "Ошибка 😞";
-        correctAnswer.textContent = correct;
-        feedback.className = isCorrect ? "correct" : "incorrect";
+        const sentence = state.sentences[state.currentSentenceIndex];
+        const userAns = dom.userAnswer.value.trim();
+        const correctAns = sentence.answer_en.trim();
+        const isCorrect = userAns.toLowerCase().replace(/[.,!?]/g, '') === correctAns.toLowerCase().replace(/[.,!?]/g, '');
         
-        // --- РАСКОММЕНТИРОВАНО ---
-        if (!isCorrect && user.length > 0 && aiExplanation) {
-            fetchErrorExplanation(currentSentence.prompt_ru, correct, user); // Вызываем AI
-        } else if (aiExplanation) {
-            aiExplanation.style.display = "none"; // Скрыть, если ответ правильный
-        }
-        // ------------------------
+        if (isCorrect) state.sentences[state.currentSentenceIndex].status = { String: 'mastered', Valid: true };
+        else state.sentences[state.currentSentenceIndex].status = { String: 'learning', Valid: true };
+
+        handlePlayAudio();
+        showFeedback(isCorrect, correctAns);
         
-        saveProgress(currentSentence.id, isCorrect);
-        nextSentenceBtn.dataset.wasCorrect = isCorrect.toString();
-        userAnswer.disabled = true;
-        checkAnswerBtn.style.display = "none";
-        nextSentenceBtn.style.display = "block";
-        nextSentenceBtn.focus();
+        dom.userAnswer.disabled = true;
+        dom.checkAnswerBtn.classList.add("hidden");
+        dom.nextSentenceBtn.classList.remove("hidden");
+
+        if (!isCorrect) fetchErrorExplanation();
+        else dom.aiExplanation.classList.add("hidden");
+
+        saveProgress(sentence.id, isCorrect);
+        dom.nextSentenceBtn.focus();
     }
-    
+
     function handleNextSentence() {
-        if (!nextSentenceBtn || !state.sentences || state.sentences.length === 0) {
-             console.error("handleNextSentence called with invalid state"); return;
+        let nextIndex = state.currentSentenceIndex + 1;
+        while (nextIndex < state.sentences.length) {
+            const nextS = state.sentences[nextIndex];
+            if (!isSentenceMastered(nextS)) break;
+            nextIndex++;
         }
-        console.log("--- handleNextSentence Start ---");
-        console.log("Before increment, currentSentenceIndex:", state.currentSentenceIndex);
-   
-        state.currentSentenceIndex++;
-        console.log("After increment, currentSentenceIndex:", state.currentSentenceIndex);
-   
-        while (
-            state.currentSentenceIndex < state.sentences.length &&
-            state.sentences[state.currentSentenceIndex]?.status?.Valid &&
-            state.sentences[state.currentSentenceIndex].status.String === 'mastered'
-        ) {
-             console.log(`Пропуск (вперед) выученного предложения по индексу ${state.currentSentenceIndex}`);
-             state.currentSentenceIndex++;
-             console.log("After skipping, currentSentenceIndex:", state.currentSentenceIndex);
-        }
-   
-        if (state.currentSentenceIndex >= state.sentences.length) {
-             console.log("Дошли до конца урока (index >= length). Вызов checkAndCompleteLesson...");
-             checkAndCompleteLesson();
-        } else {
-             console.log("Загружаем следующее предложение по индексу:", state.currentSentenceIndex);
-             loadSentence();
-        }
-        console.log("--- handleNextSentence End ---");
+        state.currentSentenceIndex = nextIndex;
+        if (state.currentSentenceIndex >= state.sentences.length) checkAndCompleteLesson();
+        else loadSentence();
     }
-    
-    // function handlePlayAudio() {
-    //     // 1. Проверяем, есть ли у нас предложение
-    //     if (!state.sentences || !state.sentences[state.currentSentenceIndex]) {
-    //         console.error("handlePlayAudio: нет предложения для озвучки");
-    //         return;
-    //     }
 
-    //     const sentence = state.sentences[state.currentSentenceIndex];
-    //     // 2. Берем АНГЛИЙСКИЙ текст (правильный ответ)
-    //     const textToSpeak = sentence.answer_en; 
-
-    //     if (!textToSpeak) {
-    //         console.error("handlePlayAudio: в предложении нет текста (answer_en)");
-    //         return;
-    //     }
-
-    //     // 3. Создаем объект озвучки
-    //     const utterance = new SpeechSynthesisUtterance(textToSpeak);
-
-    //     // 4. Устанавливаем язык (важно для правильного акцента)
-    //     utterance.lang = "en-US";
-
-    //     // 5. (Опционально) Пытаемся найти более качественный голос
-    //     //    (качество зависит от браузера: Google, Edge, Safari)
-    //     const voices = window.speechSynthesis.getVoices();
-    //     const aGoodVoice = voices.find(v => 
-    //         v.lang.startsWith("en-") && 
-    //         (v.name.includes("Google") || v.name.includes("David") || v.name.includes("Zira"))
-    //     );
-
-    //     if (aGoodVoice) {
-    //         utterance.voice = aGoodVoice;
-    //     }
-
-    //     // 6. Воспроизводим
-    //     window.speechSynthesis.speak(utterance);
-    // }
-
+    function checkAndCompleteLesson() {
+        const hasMistakes = state.sentences.some(s => !isSentenceMastered(s));
+        if (hasMistakes) {
+            alert("Урок завершен, но есть ошибки. Давайте их исправим! 🔄");
+            state.currentSentenceIndex = 0;
+            if (isSentenceMastered(state.sentences[0])) { handleNextSentence(); return; }
+            loadSentence();
+        } else {
+            alert("Поздравляем! Урок полностью пройден! 🎉");
+            showView('dashboard');
+        }
+    }
 
     function handlePlayAudio() {
-        // 1. Получаем путь из state (мы сохранили его в loadSentence)
-        const audioPath = state.currentAudio;
-
-        // --- ДЛЯ ОТЛАДКИ ---
-        console.log("handlePlayAudio: Пытаюсь воспроизвести:", audioPath);
-        // -----------------
-
-        // 2. Проверяем, что путь существует (не null и не пустая строка)
-        if (!audioPath) {
-            console.warn("handlePlayAudio: нет audio_path для этого предложения.");
-            return;
+        const sentence = state.sentences[state.currentSentenceIndex];
+        if (!sentence) return;
+        if (sentence.audio_path && sentence.audio_path.Valid) {
+            const audio = new Audio(sentence.audio_path.String);
+            audio.play().catch(() => playBrowserTTS(sentence.answer_en));
+        } else {
+            playBrowserTTS(sentence.answer_en);
         }
-
-        // 3. Создаем и воспроизводим аудио
-        //    Браузер сам сделает запрос к http://localhost:8080/media/90706.mp3
-        const audio = new Audio(audioPath);
-        audio.play().catch(e => console.error("Ошибка воспроизведения аудио:", e));
+    }
+    
+    function playBrowserTTS(text) {
+        if(!text) return;
+        const u = new SpeechSynthesisUtterance(text);
+        u.lang = "en-US";
+        window.speechSynthesis.speak(u);
     }
 
-
-    async function checkAndCompleteLesson() {
-        console.log('--- checkAndCompleteLesson: НАЧАЛО ---');
-        if (!state.currentLessonId) {
-            console.error("checkAndCompleteLesson: currentLessonId не установлен!");
-            showView('dashboard');
-            return;
+    function showFeedback(isCorrect, ans) {
+        dom.feedback.classList.remove("hidden", "correct", "incorrect");
+        if (isCorrect) {
+            dom.feedback.classList.add("correct");
+            dom.feedback.innerHTML = "<strong>Правильно! 👍</strong>";
+        } else {
+            dom.feedback.classList.add("incorrect");
+            dom.feedback.innerHTML = `<strong>Ошибка 😞</strong><br>Правильно: ${ans}`;
         }
+    }
     
-        try {
-            // 1. Получаем САМЫЕ СВЕЖИЕ данные о прогрессе
-            const freshSentences = await fetchLessonSentencesData(state.currentLessonId);
-            if (!freshSentences) {
-                console.error("checkAndCompleteLesson: Не удалось получить свежие данные.");
+    function showAiExplanation(msg, type) {
+        dom.aiExplanation.classList.remove("hidden");
+        dom.aiExplanation.innerHTML = msg;
+        dom.aiExplanation.style.opacity = type === 'loading' ? 0.6 : 1;
+    }
+
+    function showPremiumModal() {
+        dom.premiumModalOverlay.classList.remove("hidden");
+    }
+    function hidePremiumModal() {
+        dom.premiumModalOverlay.classList.add("hidden");
+    }
+
+    function handleLogout() {
+        document.cookie = "auth_status=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        localStorage.removeItem("token");
+        localStorage.removeItem("userEmail");
+        if (window.location.pathname.startsWith("/app")) window.location.href = "/";
+        else {
+             if (dom.header) dom.header.classList.add("hidden");
+             if (dom.views.auth) dom.views.auth.classList.add("active");
+        }
+    }
+
+    function resetTrainer() {
+        state.currentLessonId = null;
+        state.sentences = [];
+        state.currentSentenceIndex = 0;
+        if (dom.promptRu) dom.promptRu.textContent = "...";
+        if (dom.userAnswer) dom.userAnswer.value = "";
+        if (dom.progressText) dom.progressText.textContent = "0/0";
+        if (dom.progressBarInner) dom.progressBarInner.style.width = "0%";
+        if (dom.feedback) dom.feedback.classList.add("hidden");
+        if (dom.aiExplanation) dom.aiExplanation.classList.add("hidden");
+    }
+
+    // === 6. Инициализация ===
+
+    function init() {
+        if (!dom.views.dashboard) return; 
+        if (state.token) {
+            if (dom.header) dom.header.classList.remove("hidden");
+            if (dom.userName) dom.userName.textContent = state.userEmail;
+            if (dom.userAvatar) dom.userAvatar.src = `https://ui-avatars.com/api/?name=${state.userEmail}&background=C026D3&color=fff`;
+            fetchLevels();
+            showView('dashboard');
+        } else {
+            handleLogout();
+        }
+
+        if(dom.logoutButton) dom.logoutButton.addEventListener("click", handleLogout);
+        if(dom.navItems) dom.navItems.forEach(item => item.addEventListener("click", (e) => {
+            const view = e.currentTarget.dataset.view;
+            if (view === 'lessons') {
                 showView('dashboard');
-                return;
+                dom.mainContent.scrollTo({ top: dom.levelsContainer.offsetTop, behavior: 'smooth' });
+            } else showView(view);
+        }));
+        if(dom.levelsContainer) dom.levelsContainer.addEventListener("click", (e) => {
+            const btn = e.target.closest(".level-item");
+            if (btn) {
+                updateActiveLevelUI(btn.dataset.id);
+                fetchLessons(btn.dataset.id);
             }
-    
-            // 2. Обновляем локальное состояние
-            state.sentences = freshSentences;
-            console.log('--- checkAndCompleteLesson: Получены свежие данные, предложений:', state.sentences.length);
-    
-            // 3. Ищем ПЕРВОЕ предложение, которое НЕ 'mastered'
-            // (Используем ту же логику, что и в fetchSentences)
-            const nextSentenceIndex = state.sentences.findIndex(s => !(s.status?.Valid && s.status.String === 'mastered'));
-    
-            console.log('--- checkAndCompleteLesson: Результат findIndex (ищем НЕ mastered):', nextSentenceIndex);
-    
-            if (nextSentenceIndex !== -1) {
-                // Ошибки еще есть!
-                console.log(`--- checkAndCompleteLesson: Найдены ошибки. Запускаем повтор с индекса ${nextSentenceIndex}...`);
-                alert('Отлично! Теперь повторим ошибки.');
-                
-                // Переключаемся на это предложение
-                state.currentSentenceIndex = nextSentenceIndex;
-                loadSentence();
-            } else {
-                // Ошибок нет, все 'mastered'
-                console.log('--- checkAndCompleteLesson: Все mastered. Урок пройден!');
-                alert('Урок пройден!');
-                showView('dashboard'); // Возвращаем на дэшборд
-            }
-        } catch (error) {
-            console.error('Критическая ошибка в checkAndCompleteLesson:', error);
-            showView('dashboard');
-        }
-    }
-
-
-
-
-    // === Функции Переключения Видов ===
-    function showView(viewName) {
-         console.log("Переключение на view:", viewName); Object.values(views).forEach(view => { if(view) view.style.display = "none"; }); if (views[viewName]) { views[viewName].style.display = "block"; } else { console.error("Попытка показать неизвестный view:", viewName); if (window.location.pathname.startsWith('/app') && views.dashboard) showView('dashboard'); else if (views.auth) showView('auth'); }
-    }
-    function showAuthView(formName) {
-        if(loginError) loginError.style.display = "none"; if(registerError) registerError.style.display = "none"; if(loginForm) loginForm.style.display = (formName === 'login') ? "block" : "none"; if(registerForm) registerForm.style.display = (formName === 'register') ? "block" : "none";
-    }
-
-    // --- Функции Модалки ---
-    function openAuthModal(defaultForm = 'login') {
-        if (!authOverlay || !authModal) { console.error("Элементы модального окна не найдены!"); return; }
-        authOverlay.style.display = "block"; authModal.style.display = "block";
-        document.body.classList.add("modal-open"); showAuthView(defaultForm);
-        const firstInput = (defaultForm === 'login') ? document.getElementById("login-email") : document.getElementById("register-email");
-        if(firstInput) setTimeout(() => firstInput.focus(), 50);
-    }
-    function closeAuthModal() {
-        if (!authOverlay || !authModal) return;
-        authOverlay.style.display = "none"; authModal.style.display = "none";
-        document.body.classList.remove("modal-open");
-    }
-    // ---------------------------------
-
-    // === Привязка Событий ===
-
-    // --- ШАГ 1: СНАЧАЛА ОБЪЯВЛЯЕМ ФУНКЦИИ ---
-    
-    const handleStartClick = (e) => { 
-        e.preventDefault(); 
-        // Открываем модальное окно с формой РЕГИСТРАЦИИ
-        openAuthModal('register'); 
-    };
-
-    // --- ШАГ 2: ТЕПЕРЬ ПРИВЯЗЫВАЕМ ИХ ---
-
-    if (loginForm) loginForm.addEventListener("submit", handleLogin);
-    if (registerForm) registerForm.addEventListener("submit", handleRegister);
-    if (showRegisterBtn) showRegisterBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('register'); });
-    if (showLoginBtn) showLoginBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthView('login'); });
-
-    // Теперь этот код будет работать, т.к. handleStartClick уже объявлен
-    if (headerStartButton) { headerStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка header-start-button не найдена."); }
-    if (heroStartButton) { heroStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка hero-start-button не найдена."); }
-    
-    const ctaStartButton = document.getElementById("cta-start-button");
-    if (ctaStartButton) { ctaStartButton.addEventListener("click", handleStartClick); } else { console.log("Кнопка cta-start-button не найдена."); }
-
-    if (closeModalButton) { closeModalButton.addEventListener("click", closeAuthModal); }
-    if (authOverlay) { authOverlay.addEventListener("click", closeAuthModal); }
-    if (logoutButton) logoutButton.addEventListener("click", handleLogout);
-    if (levelsContainer) levelsContainer.addEventListener("click", (e) => { const levelItem = e.target.closest(".level-item"); if (levelItem && levelsContainer) { levelsContainer.querySelectorAll(".level-item").forEach(el => el.classList.remove("active")); levelItem.classList.add("active"); fetchLessons(levelItem.dataset.id); } });
-    if (lessonsContainer) lessonsContainer.addEventListener("click", (e) => { const lessonItem = e.target.closest(".lesson-item"); if (lessonItem) { fetchSentences(lessonItem.dataset.id); } });
-    if (checkAnswerBtn) checkAnswerBtn.addEventListener("click", handleCheckAnswer);
-    if (nextSentenceBtn) nextSentenceBtn.addEventListener("click", handleNextSentence);
-    if (backToLessonsBtn) backToLessonsBtn.addEventListener("click", () => showView('dashboard'));
-    if (playAudioBtn) playAudioBtn.addEventListener("click", handlePlayAudio);
-    if (userAnswer) userAnswer.addEventListener("keydown", (e) => { if (e.code === 'Enter' && !userAnswer.disabled && checkAnswerBtn && checkAnswerBtn.style.display === "block") { handleCheckAnswer(); e.preventDefault(); e.stopPropagation(); } });
-    document.addEventListener('keydown', function(event) { if (event.code === 'Enter' && nextSentenceBtn && nextSentenceBtn.style.display === 'block') { if (document.activeElement !== userAnswer || (userAnswer && userAnswer.disabled)) { handleNextSentence(); event.preventDefault(); } } if (event.key === 'Escape' && authModal && authModal.style.display === 'block') { closeAuthModal(); } });
-    
-    const currentPath = window.location.pathname;
-    console.log("Инициализация JS. Текущий путь:", currentPath);
-    if (currentPath === '/app' || currentPath.startsWith('/app/')) {
-        console.log("На странице /app");
-        if(state.token) { if(logoutButton) logoutButton.style.display = "block"; else console.error("Logout button not found on /app"); fetchLevels(); showView('dashboard'); }
-        else { console.log("Нет токена на /app, редирект на /"); window.location.href = "/"; }
-    } else if (currentPath === '/') {
-        console.log("На странице /"); if(logoutButton) logoutButton.style.display = "none";
-        closeAuthModal();
-    } else { console.warn("Неизвестный путь:", currentPath, "- редирект на /"); window.location.href = "/"; }
-
-}); // Конец DOMContentLoaded
-
-    
-/* =================================
-КОД ДЛЯ НОВОГО ЛЕНДИНГА
-=================================
-*/
-
-// --- 1. Обработчики для кнопок лендинга ---
-
-// Находим кнопки
-const headerLoginButton = document.getElementById("header-login-button");
-// (headerStartButton, heroStartButton, ctaStartButton уже должны быть объявлены выше)
-
-// Функция для кнопки "Войти"
-if (headerLoginButton) {
-    headerLoginButton.addEventListener("click", (e) => {
-        e.preventDefault();
-        openAuthModal('login'); // Открываем модальное окно ВХОДА
-    });
-}
-
-// (Убедитесь, что у вас есть этот код для кнопок "Начать бесплатно")
-// const handleStartClick = (e) => { 
-//     e.preventDefault(); 
-//     openAuthModal('register'); // Открываем модальное окно РЕГИСТРАЦИИ
-// };
-// if (headerStartButton) { ... }
-// if (heroStartButton) { ... }
-// if (ctaStartButton) { ... }
-
-
-// --- 2. Анимация появления элементов при прокрутке ---
-(function(){
-  // Проверяем, что мы на лендинге, а не в приложении
-  // (чтобы этот код не мешал /app)
-  if (document.body.classList.contains('landing-page')) {
-      const io = new IntersectionObserver((entries)=>{
-        entries.forEach(e=>{
-          if(e.isIntersecting) {
-            e.target.classList.add('in');
-          }
         });
-      },{threshold:0.08});
-      
-      document.querySelectorAll('.fade-up').forEach(el=>io.observe(el));
-  }
-})();
+        if(dom.lessonsContainer) dom.lessonsContainer.addEventListener("click", (e) => {
+            const card = e.target.closest(".lesson-card");
+            const btn = e.target.closest("button");
+            if (!card || !btn) return;
+            if (card.classList.contains("locked")) showPremiumModal();
+            else fetchSentences(card.dataset.id);
+        });
+
+        if(dom.checkAnswerBtn) dom.checkAnswerBtn.addEventListener("click", handleCheckAnswer);
+        if(dom.nextSentenceBtn) dom.nextSentenceBtn.addEventListener("click", handleNextSentence);
+        if(dom.playAudioBtn) dom.playAudioBtn.addEventListener("click", handlePlayAudio);
+        if(dom.backToLessonsBtn) dom.backToLessonsBtn.addEventListener("click", () => showView('dashboard'));
+        
+        if(dom.userAnswer) {
+            dom.userAnswer.addEventListener("keydown", (e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    if (!dom.checkAnswerBtn.classList.contains("hidden")) handleCheckAnswer();
+                    else if (!dom.nextSentenceBtn.classList.contains("hidden")) handleNextSentence();
+                }
+            });
+        }
+        if(dom.premiumModalCloseBtn) dom.premiumModalCloseBtn.addEventListener("click", hidePremiumModal);
+        if(dom.premiumModalOverlay) dom.premiumModalOverlay.addEventListener("click", (e) => {
+            if (e.target === dom.premiumModalOverlay) hidePremiumModal();
+        });
+        if (dom.authFormLogin) dom.authFormLogin.addEventListener("submit", handleLogin);
+    }
+
+    init();
+});

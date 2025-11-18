@@ -4,131 +4,195 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lingo-Sprint</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
 </head>
 <body>
-    <header>
-        <h1>Lingo-Sprint 🏃</h1>
-        <button id="logout-button" style="display:none;">Выйти</button>
+
+    <header class="top-header">
+        <div class="header-container">
+            <div class="logo">
+                <img src="/logo.svg" alt="Lingo-Sprint Logo"> 
+                <span>Lingo-Sprint</span>
+            </div>
+            
+            <div class="user-profile">
+                <button id="theme-toggle" class="btn-icon">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg>
+                </button>
+                <div class="user-avatar">
+                    <img src="https://ui-avatars.com/api/?name=User&background=6366F1&color=fff" alt="User Avatar">
+                </div>
+                <span class="user-name">test1@mail.ru</span>
+                <button id="logout-button" class="btn-icon btn-logout">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" x2="9" y1="12" y2="12"></line></svg>
+                </button>
+            </div>
+        </div>
     </header>
 
-    <main>
-        <section id="dashboard-view" style="display:none;">
-            <h2>Выберите уровень:</h2>
-            <div id="levels-container" class="grid-container"></div>
-            <hr>
-            <h2>Уроки:</h2>
-            <div id="lessons-container" class="grid-container"></div>
-        </section>
+    <main class="content">
 
-        <section id="trainer-view" style="display:none;">
-            <h2 id="lesson-title"></h2>
-            <button id="back-to-lessons">← Назад к урокам</button>
-            <div id="card">
-                <div class="audio-controls">
-                    <button id="play-audio">🔊 Прослушать</button>
+        <section id="dashboard-view" class="view active">
+            <div class="welcome-header">
+                <h2>Добро пожаловать в обучение!</h2>
+                <p>Выберите урок и продолжите свое путешествие в изучении английского</p>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-top">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                            <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+                            <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+                            <path d="M4 9v14h16V9"></path>
+                            <path d="M8 14v-4h8v4"></path>
+                            <path d="M8 10v-.83A2.17 2.17 0 0 1 10.17 7h3.66A2.17 2.17 0 0 1 16 9.17V10"></path>
+                        </svg>
+                        <strong id="stat-lessons-completed">.../...</strong>
+                    </div>
+                    <div class="stat-bottom">
+                        <span>Уроков пройдено</span>
+                    </div>
                 </div>
-                <div class="prompt" id="prompt-ru"></div>
-                <textarea id="user-answer" placeholder="Введите ваш перевод..." rows="3"></textarea>
-                <button id="check-answer">Проверить</button>
-                <div id="feedback" style="display:none;">
-                    <p id="feedback-text"></p>
-                    <p><strong>Правильный ответ:</strong> <span id="correct-answer"></span></p>
-                    <div id="ai-explanation" style="margin-top: 15px; font-style: italic; color: #555;">
+                <div class="stat-card">
+                    <div class="stat-top">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                        <strong id="stat-stars">.../...</strong>
+                    </div>
+                    <div class="stat-bottom">
+                        <span>Звезд получено</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-top">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                        <strong id="stat-time">...</strong>
+                    </div>
+                    <div class="stat-bottom">
+                        <span>Время обучения</span>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-top">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><path d="M3 3v18h18"></path><path d="M18.7 8l-5.1 5.2-2.8-2.7-7.8 7.8"></path></svg>
+                        <strong id="stat-accuracy">...%</strong>
+                    </div>
+                    <div class="stat-bottom">
+                        <span>Точность</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="levels-selection">
+                <h3>Выберите уровень</h3>
+                <div id="levels-container" class="level-tabs">
+                    </div>
+            </div>
+
+            <div class="lessons-grid-wrapper">
+                <div class="lesson-header">
+                    <h3 id="current-level-title">Уроки уровня A1</h3>
+                    <span id="lesson-progress-text">2 из 6 завершено</span>
+                </div>
+                <div id="lessons-container" class="lessons-grid">
+                    </div>
+            </div>
+            
+            <div class="global-progress-card">
+                <div class="progress-info">
+                    <h4 id="global-progress-title">Продолжайте в том же духе!</h4>
+                    <p id="global-progress-subtitle">Вы прошли 2 урока. До следующего уровня осталось всего 48 уроков!</p>
+                </div>
+                <div class="progress-bar-wrapper">
+                    <div class="progress-bar-global">
+                        <div id="global-progress-bar-inner" class="progress-bar-global-inner" style="width: 4%;"></div>
+                    </div>
+                    <span id="global-progress-percent-text">4% до уровня A2</span>
+                </div>
+            </div>
+            </section>
+
+        <section id="trainer-view" class="view">
+            <div id="card" class="trainer-card">
+                <div class="card-header">
+                    <button id="back-to-lessons" class="btn-icon">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><path d="m15 18-6-6 6-6"></path></svg>
+                        Назад к урокам
+                    </button>
+                    <div id="progress-container">
+                        <span id="progress-text">1/10</span>
+                        <div id="progress-bar" class="progress-bar">
+                            <div id="progress-bar-inner" class="progress-bar-inner"></div>
                         </div>
                     </div>
                 </div>
-                <button id="next-sentence" style="display:none;">Далее →</button>
-            </div>
-            <div id="progress-bar">
-                <div id="progress-bar-inner"></div>
-            </div>
-            <div id="progress-text-container" style="text-align: center; margin-top: 10px; font-weight: 500;">
-                <span id="progress-text">0 / 0</span>
+
+                <div class="prompt-section">
+                    <button id="play-audio" class="btn-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon"><path d="M11 5L6 9H2v6h4l5 4V5z"></path></svg>
+                    </button>
+                    <p id="current-sentence-ru" class="prompt">Привет, как дела?</p>
+                </div>
+
+                <textarea id="user-answer" placeholder="Введите ваш перевод..." rows="3"></textarea>
+                
+                <div id="feedback" class="feedback-message hidden"></div>
+
+                <div id="ai-explanation" class="ai-explanation hidden">
+                    <p>Ой, кажется, что-то пошло не так. Попробуйте снова или нажмите "Объяснить ошибку".</p>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="check-answer" class="btn-primary">Проверить</button>
+                    <button id="next-sentence" class="btn-secondary hidden">Далее</button>
+                </div>
             </div>
         </section>
+
+        <section id="subscription-view" class="view">
+            <div class="welcome-header">
+                <h2>Управление подпиской</h2>
+                <p>Здесь вы сможете выбрать тариф и оплатить доступ к Premium контенту.</p>
+            </div>
+            <div class="subscription-info-card">
+                <h3>Текущий статус: <span id="subscription-status-text">Free</span></h3>
+                <p>Получите Premium, чтобы разблокировать все уровни и уроки!</p>
+                <button id="buy-premium-button" class="btn-primary">Купить Premium</button>
+            </div>
+        </section>
+
+        <section id="auth-view" class="view active">
+            <div class="auth-card">
+                <h2>Войти</h2>
+                <form id="login-form" class="auth-form">
+                    <input type="email" id="login-email" placeholder="Email" required>
+                    <input type="password" id="login-password" placeholder="Пароль" required>
+                    <button type="submit" class="btn-primary">Войти</button>
+                    <p class="auth-toggle">Ещё нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
+                </form>
+
+                <form id="register-form" class="auth-form hidden">
+                    <h2>Регистрация</h2>
+                    <input type="email" id="register-email" placeholder="Email" required>
+                    <input type="password" id="register-password" placeholder="Пароль" required>
+                    <button type="submit" class="btn-primary">Создать аккаунт</button>
+                    <p class="auth-toggle">Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
+                </form>
+            </div>
+        </section>
+
     </main>
 
-    <script src="app.js"></script>
+    <div id="premium-modal-overlay" class="modal-overlay hidden">
+        <div class="modal">
+            <button class="modal-close">&times;</button>
+            <h3>Получите Premium доступ!</h3>
+            <p>Разблокируйте все уровни, уроки и бесконечную практику с Lingo-Sprint Premium.</p>
+            <button id="modal-buy-premium" class="btn-primary">Купить Premium</button>
+        </div>
+    </div>
+
+    <script src="/app.js"></script>
 </body>
 </html>
-
-<!-- <!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lingo-Sprint</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Lingo-Sprint 🏃</h1>
-        <button id="logout-button" style="display:none;">Выйти</button>
-    </header>
-
-    <main>
-        
-        <section id="auth-view">
-            <form id="login-form" class="auth-form">
-                <h2>Вход</h2>
-                <div id="login-error" class="error-message" style="display:none;"></div>
-                <label for="login-email">Email</label>
-                <input type="email" id="login-email" required>
-                <label for="login-password">Пароль</label>
-                <input type="password" id="login-password" required>
-                <button type="submit">Войти</button>
-                <p>Нет аккаунта? <a href="#" id="show-register">Зарегистрироваться</a></p>
-            </form>
-
-            <form id="register-form" class="auth-form" style="display:none;">
-                <h2>Регистрация</h2>
-                <div id="register-error" class="error-message" style="display:none;"></div>
-                <label for="register-email">Email</label>
-                <input type="email" id="register-email" required>
-                <label for="register-password">Пароль (мин. 6)</label>
-                <input type="password" id="register-password" required>
-                <button type="submit">Создать аккаунт</button>
-                <p>Уже есть аккаунт? <a href="#" id="show-login">Войти</a></p>
-            </form>
-        </section>
-
-        <section id="dashboard-view" style="display:none;">
-            <h2>Выберите уровень:</h2>
-            <div id="levels-container" class="grid-container"></div>
-            <hr>
-            <h2>Уроки:</h2>
-            <div id="lessons-container" class="grid-container"></div>
-        </section>
-
-        <section id="trainer-view" style="display:none;">
-            <h2 id="lesson-title"></h2>
-            <button id="back-to-lessons">← Назад к урокам</button>
-            <div id="card">
-                <div class="audio-controls">
-                    <button id="play-audio">🔊 Прослушать</button>
-                </div>
-                <div class="prompt" id="prompt-ru"></div>
-                <textarea id="user-answer" placeholder="Введите ваш перевод..." rows="3"></textarea>
-                <button id="check-answer">Проверить</button>
-                <div id="feedback" style="display:none;">
-                    <p id="feedback-text"></p>
-                    <p><strong>Правильный ответ:</strong> <span id="correct-answer"></span></p>
-                    <div id="ai-explanation" style="margin-top: 15px; font-style: italic; color: #555;">
-                        </div>
-                    </div>
-                </div>
-                <button id="next-sentence" style="display:none;">Далее →</button>
-            </div>
-            <div id="progress-bar">
-                <div id="progress-bar-inner"></div>
-            </div>
-            <div id="progress-text-container" style="text-align: center; margin-top: 10px; font-weight: 500;">
-                <span id="progress-text">0 / 0</span>
-            </div>
-        </section>
-    </main>
-
-    <script src="app.js"></script>
-</body>
-</html> -->

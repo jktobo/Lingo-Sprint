@@ -1,364 +1,771 @@
-/* === Глобальные переменные === */
+/*
+======================================================
+СТИЛИ ДЛЯ ПРИЛОЖЕНИЯ LINGO-SPRINT (ДИЗАЙН 2.JPG, ФИКС 8)
+======================================================
+*/
+
+/* --- 1. Шрифты --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* --- 2. Цветовая палитра и переменные --- */
 :root {
-    --primary-color: #6366F1; /* Фиолетовый */
-    --primary-hover: #4F46E5;
-    --background-color: #F8FAFC; /* Светло-серый фон */
-    --card-background: #FFFFFF; /* Белые карточки */
-    --text-color: #1F2937; /* Темно-серый текст */
-    --text-secondary: #6B7280; /* Светло-серый текст */
-    --border-color: #E5E7EB; /* Светло-серая граница */
-    --success-bg: #D1FAE5;
-    --success-text: #065F46;
-    --error-bg: #FEE2E2;
-    --error-text: #991B1B;
-    --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    /* Фоновые градиенты для body */
+    --bg-1: #38124a;
+    --bg-2: #5f277c;
+
+    /* Общие цвета */
+    --bg-main: #1C152C; /* Фон контента (фиолетовый) */
+    --bg-secondary: #241D34; /* Фон для карточек, хэдера (старый, будет заменен glass) */
+    --bg-darker: #120D1A; /* Фон для инпутов и некоторых внутренних элементов */
+
+    /* Glassmorphism фон для карточек */
+    --glass: rgba(36, 29, 52, 0.7); /* bg-secondary с прозрачностью */
+    
+    /* Градиент кнопок */
+    --grad-start: #C026D3; /* Розовый */
+    --grad-end: #7C3AED;   /* Фиолетовый */
+    
+    /* Градиент кнопок (Оранжевый) */
+    --grad-orange-start: #F97316;
+    --grad-orange-end: #EA580C;
+
+    --primary-text: #FFFFFF; /* Белый текст */
+    --secondary-text: #A0AEC0; /* Второстепенный, серый текст */
+    --dimmed-text: #718096; /* Тусклый текст */
+
+    --border-color: rgba(255, 255, 255, 0.08); /* Светлая рамка */
+    --border-active: #A855F7; /* Активная рамка (фиолетовый) */
+
+    --success-color: #34D399; /* Зеленый (успех) */
+    --error-color: #EF4444; /* Красный (ошибка) */
+    --warning-color: #FBBF24; /* Желтый (звезды) */
+    --pro-color: #F59E0B; /* Оранжевый (PRO) */
+
+    --font-sans: 'Inter', sans-serif; /* Основной шрифт */
+
+    --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    --hover-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* === Сброс и Базовые стили === */
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-
+/* --- 3. Базовые стили --- */
 body {
     font-family: var(--font-sans);
-    background-color: var(--background-color);
-    color: var(--text-color);
+    background: linear-gradient(180deg, var(--bg-1) 0%, var(--bg-2) 100%),
+                radial-gradient(circle at 10% 10%, rgba(155,107,255,0.08), transparent 30%),
+                radial-gradient(circle at 90% 90%, rgba(255,111,181,0.05), transparent 30%);
+    background-attachment: fixed;
+    color: var(--primary-text);
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 
-main {
-    width: 100%;
-    max-width: 900px;
-    margin: 30px auto;
-    padding: 20px;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: var(--card-background);
-    padding: 15px 30px;
-    border-bottom: 1px solid var(--border-color);
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    margin-bottom: 30px;
-}
-
-header h1 {
-    margin: 0;
-    color: var(--primary-color);
-    font-size: 1.75em;
-    font-weight: 700;
-}
-
-#logout-button {
-    padding: 8px 16px;
-    background-color: var(--error-bg);
-    color: var(--error-text);
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    font-weight: 600;
-    transition: background-color 0.2s, box-shadow 0.2s;
-}
-#logout-button:hover {
-    background-color: #FECACA;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-h2 {
-    color: var(--text-color); /* Сделаем темнее */
-    border-bottom: 1px solid var(--border-color); /* Тоньше */
-    padding-bottom: 10px;
-    margin-top: 40px; /* Больше отступа сверху */
-    margin-bottom: 20px; /* Отступ снизу */
-    font-size: 1.5em;
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-text);
+    margin-top: 0;
+    margin-bottom: 1rem;
     font-weight: 600;
 }
-hr {
-    border: none;
-    border-top: 1px solid var(--border-color); /* Тоньше */
-    margin: 40px 0;
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: var(--secondary-text);
 }
 
-/* === Стили Аутентификации (как было) === */
-.auth-form {
-    background: var(--card-background);
-    padding: 40px;
-    border-radius: 12px;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-    max-width: 450px;
-    margin: 60px auto;
+a {
+    color: var(--grad-start);
+    text-decoration: none;
+    transition: color 0.2s ease;
 }
-.auth-form h2 {
-    text-align: center; margin-top: 0; margin-bottom: 30px;
-    color: var(--text-color); font-size: 1.8em; font-weight: 600; border: none;
-}
-.auth-form label {
-    display: block; font-weight: 600; margin-bottom: 8px; color: var(--text-secondary);
-}
-.auth-form input {
-    width: 100%; padding: 12px 15px; font-size: 1em; border-radius: 8px;
-    border: 1px solid var(--border-color); margin-bottom: 20px;
-    transition: border-color 0.2s, box-shadow 0.2s; background-color: #F9FAFB;
-}
-.auth-form input:focus {
-    outline: none; border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2); background-color: white;
-}
-.auth-form button[type="submit"] {
-    width: 100%; padding: 14px; font-size: 1.1em; font-weight: 600; border: none;
-    border-radius: 8px; cursor: pointer; background-color: var(--primary-color);
-    color: white; transition: background-color 0.2s, box-shadow 0.2s; margin-top: 10px;
-}
-.auth-form button[type="submit"]:hover {
-    background-color: var(--primary-hover); box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
-}
-.auth-form p { text-align: center; margin-top: 25px; color: var(--text-secondary); }
-.auth-form a { color: var(--primary-color); text-decoration: none; font-weight: 600; }
-.auth-form a:hover { text-decoration: underline; }
-.error-message {
-    background-color: var(--error-bg); color: var(--error-text);
-    border: 1px solid var(--error-text); padding: 12px; border-radius: 8px;
-    margin-bottom: 20px; text-align: center; font-size: 0.9em;
+a:hover {
+    color: var(--grad-end);
 }
 
-/* === ОБНОВЛЕННЫЕ Стили Дэшборда (как в 2.jpg) === */
-.grid-container {
-    display: grid;
-    /* Оставляем адаптивным, но делаем карточки чуть крупнее */
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 20px; /* Увеличим расстояние */
-}
-.grid-item {
-    padding: 20px; /* Вернем отступ */
-    background-color: var(--card-background);
-    border: 1px solid var(--border-color);
-    border-radius: 10px;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out; /* Плавнее */
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); /* Мягкая тень */
-    font-weight: 600;
-    color: var(--text-secondary); /* Изначально серый */
-    position: relative; /* Для возможных будущих значков */
-    overflow: hidden; /* Если добавим фон */
-}
-.grid-item:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04);
-    border-color: var(--primary-color);
-    color: var(--primary-color); /* Цвет текста при наведении */
-}
-.grid-item.active {
-    background-color: var(--primary-color);
-    color: white;
-    border-color: var(--primary-color);
-    transform: translateY(0); /* Сброс */
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03); /* Стандартная тень */
-}
-/* Стили для заголовков карточек уроков/уровней */
-.grid-item span {
-    display: block;
-    font-size: 1.1em;
-}
-/* (Дополнительно можно добавить иконки или индикаторы прогресса позже) */
-
-
-/* === ОБНОВЛЕННЫЕ Стили Тренажера (в стиле карточек) === */
-#trainer-view h2 { /* Убираем границу у заголовка урока */
-    border-bottom: none;
-    text-align: center;
-    margin-bottom: 10px;
-}
-#back-to-lessons {
-    display: block; /* Сделать блочным для margin auto */
-    margin: 0 auto 25px auto; /* Центрировать и добавить отступ снизу */
-    width: auto; /* Авто ширина */
+/* --- Кнопки --- */
+.btn-primary {
+    background: linear-gradient(90deg, var(--grad-start), var(--grad-end));
+    color: var(--primary-text);
     padding: 10px 20px;
-    font-size: 0.9em; /* Меньше */
-    font-weight: 600;
-    border: 1px solid var(--border-color); /* Граница вместо фона */
     border-radius: 8px;
-    cursor: pointer;
-    background-color: var(--card-background); /* Белый фон */
-    color: var(--text-secondary); /* Серый текст */
-    transition: all 0.2s;
-}
-#back-to-lessons:hover {
-    background-color: #F9FAFB; /* Очень светлый фон */
-    border-color: #D1D5DB; /* Темнее граница */
-    color: var(--text-color); /* Темный текст */
-}
-
-#card {
-    background: var(--card-background);
-    border-radius: 16px; /* Более скругленные углы */
-    padding: 30px 40px; /* Больше отступов */
-    box-shadow: 0 10px 25px rgba(0,0,0,0.08); /* Та же тень, что у формы */
-    position: relative; /* Для позиционирования элементов */
-}
-.audio-controls {
-    text-align: right; /* Кнопка аудио справа */
-    margin-bottom: 10px;
-}
-#play-audio {
-    background-color: transparent; /* Прозрачный фон */
-    color: var(--text-secondary);
-    border: none; /* Без границы */
-    width: auto;
-    padding: 5px; /* Меньше */
-    font-size: 1.5em; /* Крупнее иконка */
-    border-radius: 50%; /* Круглая */
-    cursor: pointer;
-    transition: color 0.2s, background-color 0.2s;
-}
-#play-audio:hover {
-    color: var(--primary-color);
-    background-color: #F3F4F6; /* Легкий фон при наведении */
-}
-.prompt {
-    font-size: 1.8em; /* Крупнее */
-    font-weight: 600; /* Жирнее */
-    margin: 10px 0 30px 0; /* Отступы */
-    text-align: center;
-    line-height: 1.4;
-    color: var(--text-color);
-}
-#user-answer {
-    width: 100%;
-    padding: 15px; /* Больше */
-    font-size: 1.1em;
-    border-radius: 10px; /* Скругляем */
-    border: 1px solid var(--border-color);
-    margin-bottom: 20px;
-    min-height: 100px; /* Выше */
-    resize: vertical;
-    font-family: var(--font-sans);
-    background-color: #F9FAFB; /* Фон как у полей ввода */
-}
-#user-answer:focus {
-    outline: none;
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
-    background-color: white;
-}
-
-#check-answer, #next-sentence {
-    width: 100%;
-    padding: 16px; /* Выше */
-    font-size: 1.1em;
-    font-weight: 600;
     border: none;
-    border-radius: 10px; /* Скругляем */
+    font-weight: 600;
     cursor: pointer;
-    transition: background-color 0.2s, box-shadow 0.2s;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 10px rgba(192, 38, 211, 0.2);
+    display: inline-block;
 }
-#check-answer {
-    background-color: var(--primary-color);
-    color: white;
+.btn-primary:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(192, 38, 211, 0.3);
 }
-#check-answer:hover {
-    background-color: var(--primary-hover);
-    box-shadow: 0 4px 10px rgba(99, 102, 241, 0.3);
-}
-#next-sentence {
-    /* Сделаем ее похожей на check, но другого цвета */
-    background-color: #10B981; /* Зеленый (Успех) */
-    color: white;
-    margin-top: 20px; /* Отделим от feedback */
-}
-#next-sentence:hover {
-    background-color: #059669; /* Темнее зеленый */
-    box-shadow: 0 4px 10px rgba(16, 185, 129, 0.3);
+.btn-primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
 }
 
-#feedback {
-    margin-top: 25px; /* Больше отступ */
-    padding: 15px 20px; /* Отступы */
-    border-radius: 10px; /* Скругляем */
-    text-align: left; /* Текст слева */
-    font-size: 0.95em;
+.btn-secondary {
+    background-color: var(--bg-secondary); /* Используем старый bg-secondary, т.к. это не "карточка" */
+    color: var(--secondary-text);
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: inline-block;
 }
-#feedback p { margin: 5px 0; }
-#feedback strong { font-weight: 600; }
-
-#feedback.correct {
-    background-color: var(--success-bg);
-    border: 1px solid #6EE7B7; /* Светло-зеленая граница */
-    color: var(--success-text);
-}
-#feedback.incorrect {
-    background-color: var(--error-bg);
-    border: 1px solid #FCA5A5; /* Светло-красная граница */
-    color: var(--error-text);
-}
-#ai-explanation {
-    margin-top: 15px;
-    padding-top: 15px;
-    border-top: 1px dashed #D1D5DB; /* Серая пунктирная линия */
-    font-style: normal; /* Убираем курсив */
-    color: var(--text-secondary);
-    font-size: 0.9em; /* Чуть меньше */
-    line-height: 1.6;
-}
-#ai-explanation::before { /* Добавим иконку робота */
-    content: "🤖 ";
-    margin-right: 5px;
+.btn-secondary:hover {
+    border-color: var(--border-active);
+    color: var(--primary-text);
 }
 
+.btn-orange {
+    background: linear-gradient(90deg, var(--grad-orange-start), var(--grad-orange-end));
+    color: var(--primary-text);
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 10px rgba(249, 115, 22, 0.2);
+    display: inline-block;
+}
+.btn-orange:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(249, 115, 22, 0.3);
+}
 
-#progress-bar {
+.btn-icon {
+    background: none;
+    border: none;
+    color: var(--secondary-text);
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 8px;
+    transition: color 0.2s ease, background-color 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px; /* Для иконки + текста */
+}
+.btn-icon:hover {
+    color: var(--primary-text);
+    background-color: rgba(255, 255, 255, 0.05);
+}
+.btn-icon svg {
+    width: 20px;
+    height: 20px;
+    stroke: currentColor;
+    flex-shrink: 0;
+}
+.btn-logout:hover {
+    color: var(--error-color);
+}
+
+/* --- Вводные поля --- */
+input[type="email"],
+input[type="password"],
+textarea {
     width: 100%;
-    background-color: #E5E7EB;
-    height: 8px;
-    border-radius: 4px;
-    margin-top: 30px; /* Отступ */
-    overflow: hidden;
+    padding: 12px 16px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    background-color: var(--bg-darker); /* Для инпутов оставляем темный фон */
+    color: var(--primary-text);
+    font-family: var(--font-sans);
+    font-size: 1rem;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    box-sizing: border-box; /* Важно для padding */
 }
-#progress-bar-inner {
-    width: 0%;
-    height: 100%;
-    background-color: var(--primary-color);
-    transition: width 0.3s ease;
-    border-radius: 4px;
+input[type="email"]:focus,
+input[type="password"]:focus,
+textarea:focus {
+    outline: none;
+    border-color: var(--border-active);
+    box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.2);
 }
-#progress-text-container {
-    text-align: right; /* Текст справа под баром */
-    margin-top: 5px; /* Ближе к бару */
-    font-weight: 500;
-    color: var(--text-secondary);
-    font-size: 0.85em; /* Меньше */
+textarea {
+    resize: vertical;
+    min-height: 80px;
 }
 
-/* === Адаптивность === */
-@media (max-width: 600px) {
-    main { padding: 10px; }
-    header { padding: 10px 15px; }
-    header h1 { font-size: 1.5em; }
-    .auth-form { padding: 25px; margin: 30px 10px; } /* Уменьшаем отступы на мобилке */
-    .grid-container {
-        /* Делаем 2 колонки */
-        grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
-    }
-    .grid-item { padding: 15px 10px; font-size: 0.9em;}
-    #card { padding: 20px; } /* Уменьшаем отступы */
-    .prompt { font-size: 1.5em; margin-bottom: 20px;}
-    #user-answer { padding: 12px; font-size: 1em; min-height: 80px;}
-    #check-answer, #next-sentence, #back-to-lessons { padding: 14px; font-size: 1em;}
-    #play-audio { font-size: 1.3em; }
+
+/* --- Скрытые элементы --- */
+.hidden {
+    display: none !important;
 }
 
 /*
-=================================
-СТИЛИ ДЛЯ МОДАЛЬНОГО ОКНА (Новый дизайн)
-=================================
+======================================================
+СТРУКТУРА ПРИЛОЖЕНИЯ (LAYOUT)
+======================================================
 */
 
-/* Затемнение фона */
+/* --- Верхний Хэдер --- */
+.top-header {
+    width: 100%;
+    background: var(--glass); 
+    backdrop-filter: blur(6px); /* Добавляем размытие */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03); /* Более тонкая рамка */
+    padding: 0 40px;
+    box-sizing: border-box;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.header-container {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+}
+.logo img {
+    height: 32px;
+    width: 32px;
+}
+.logo span {
+    font-size: 1.25rem; /* 20px */
+    font-weight: 700;
+    color: var(--primary-text);
+}
+
+/* Навигация в хэдере (СКРЫТА) */
+.main-nav {
+    display: none; 
+    margin-left: 40px;
+}
+.main-nav ul {
+    list-style: none; padding: 0; margin: 0; display: flex; gap: 8px;
+}
+.main-nav .nav-item {
+    display: flex; align-items: center; gap: 8px; padding: 10px 16px;
+    border-radius: 8px; color: var(--secondary-text); font-weight: 500;
+    cursor: pointer; transition: all 0.2s ease;
+}
+.main-nav .nav-item:hover {
+    background-color: rgba(255, 255, 255, 0.08); color: var(--primary-text);
+}
+.main-nav .nav-item.active {
+    background-color: var(--bg-main); /* Здесь оставляем solid bg-main */
+    color: var(--primary-text);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.main-nav .nav-item svg { stroke: currentColor; }
+
+
+/* Профиль в хэдере */
+.user-profile {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.user-avatar img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--border-active);
+}
+.user-profile .user-name {
+    font-weight: 600;
+    color: var(--primary-text);
+}
+
+/* --- Основное содержимое (Content) --- */
+.content {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 40px;
+    box-sizing: border-box;
+}
+
+/* --- Переключение видов (Dashboard, Trainer, Auth, etc.) --- */
+.view {
+    display: none;
+}
+.view.active {
+    display: block;
+}
+
+
+/*
+======================================================
+СТИЛИ ДЛЯ ВИДА "ДЭШБОРД" (#dashboard-view)
+======================================================
+*/
+.welcome-header {
+    margin-bottom: 32px;
+}
+.welcome-header h2 {
+    font-size: 2rem; /* 32px */
+    font-weight: 700;
+}
+.welcome-header p {
+    font-size: 1.125rem; /* 18px */
+    color: var(--secondary-text);
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-bottom: 40px;
+}
+
+.stat-card {
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 24px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.stat-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+.stat-card svg {
+    stroke: var(--secondary-text);
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+.stat-card strong {
+    font-size: 1.5rem; /* 24px */
+    font-weight: 700;
+    color: var(--primary-text);
+}
+.stat-bottom {
+    width: 100%;
+    margin-top: 4px;
+}
+.stat-card span {
+    font-weight: 500;
+    color: var(--secondary-text);
+    font-size: 0.7rem; 
+    text-align: left;
+}
+
+
+.levels-selection {
+    margin-bottom: 32px;
+}
+.levels-selection h3 {
+    font-size: 1.25rem; /* 20px */
+    margin-bottom: 20px;
+}
+
+.level-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.level-item {
+    background: var(--glass);
+    border: 1px solid rgba(255,255,255,0.03);
+    color: var(--secondary-text);
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+.level-item:hover {
+    border-color: var(--border-active);
+    color: var(--primary-text);
+}
+.level-item.active {
+    background: linear-gradient(90deg, var(--grad-start), var(--grad-end));
+    color: var(--primary-text);
+    border-color: transparent;
+    box-shadow: 0 4px 10px rgba(192, 38, 211, 0.3);
+}
+
+.lessons-grid-wrapper {
+    margin-bottom: 40px;
+}
+.lesson-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.lesson-header h3 {
+    font-size: 1.5rem; /* 24px */
+    margin: 0;
+}
+.lesson-header span {
+    color: var(--secondary-text);
+    font-weight: 500;
+}
+
+.lessons-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.lesson-card {
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 24px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: pointer;
+}
+.lesson-card:hover:not(.locked) {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(6,3,10,0.4);
+    border-color: var(--border-active);
+}
+
+.lesson-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.lesson-card-header h4 {
+    font-size: 1.125rem; /* 18px */
+    margin: 0;
+    color: var(--primary-text);
+}
+.lesson-card-header .stars {
+    color: var(--warning-color);
+    font-size: 1.25rem;
+}
+.lesson-card-header .pro-badge {
+    background-color: var(--pro-color);
+    color: var(--bg-darker);
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+/* ▼▼▼ ИЗМЕНЕНИЕ: УМЕНЬШЕН ШРИФТ ▼▼▼ */
+.lesson-card p {
+    font-size: 0.7rem; /* (было 0.9rem) */
+    font-weight: 500; /* (добавлено) */
+    color: var(--secondary-text);
+    margin-bottom: 16px;
+    flex-grow: 1; 
+}
+/* ▲▲▲ КОНЕЦ ИЗМЕНЕНИЯ ▲▲▲ */
+
+/* Прогресс-бар в карточке */
+.progress-bar {
+    height: 8px;
+    background-color: var(--bg-main); /* Здесь оставляем solid bg-main */
+    border-radius: 4px;
+    overflow: hidden;
+}
+.progress-bar-inner {
+    height: 100%;
+    background: linear-gradient(90deg, var(--grad-start), var(--grad-end));
+    border-radius: 4px;
+    width: 0%; /* Будет меняться JS */
+    transition: width 0.3s ease;
+}
+.lesson-card .progress-bar {
+     margin-bottom: 16px;
+}
+
+.lesson-card .card-actions {
+    display: flex;
+    gap: 12px;
+}
+.lesson-card .card-actions button {
+    flex-grow: 1; 
+}
+
+
+/* Стиль для заблокированных уроков */
+.lesson-card.locked {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
+.lesson-card.locked:hover {
+    transform: none;
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border-color: rgba(255,255,255,0.03); 
+}
+.lesson-card.locked .card-actions button {
+    flex-grow: 1;
+}
+
+
+/* Глобальный прогресс по всем уровням */
+.global-progress-card {
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 32px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+.global-progress-card .progress-info {
+    flex-grow: 0; 
+    text-align: center; 
+}
+.global-progress-card .progress-info h4 {
+    font-size: 1.25rem;
+    margin-bottom: 4px;
+}
+
+/* ▼▼▼ ИЗМЕНЕНИЕ: УМЕНЬШЕН ШРИФТ ▼▼▼ */
+.global-progress-card .progress-info p {
+    color: var(--secondary-text);
+    margin: 0;
+    font-size: 0.7rem; 
+    font-weight: 500;
+}
+.global-progress-card .progress-bar-wrapper {
+    flex-shrink: 1;
+    width: 100%; /* Делаем бар длиннее */
+    text-align: center; 
+    margin-top: 16px;
+}
+.global-progress-card .progress-bar-wrapper span {
+    font-weight: 500;
+    color: var(--secondary-text);
+    font-size: 0.7rem; 
+}
+/* ▲▲▲ КОНЕЦ ИЗМЕНЕНИЙ ▲▲▲ */
+
+.global-progress-card .progress-bar-global {
+    height: 10px;
+    background-color: var(--bg-main); /* Здесь оставляем solid bg-main */
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 8px;
+}
+.global-progress-card .progress-bar-global-inner {
+    height: 100%;
+    background: linear-gradient(90deg, var(--grad-start), var(--grad-end));
+    border-radius: 5px;
+}
+
+
+/*
+======================================================
+СТИЛИ ДЛЯ ВИДА "ТРЕНАЖЕР" (#trainer-view)
+======================================================
+*/
+.trainer-card {
+    max-width: 800px;
+    margin: 0 auto;
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 32px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.card-header #back-to-lessons {
+    color: var(--secondary-text);
+    font-weight: 500;
+}
+
+#progress-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+#progress-text {
+    font-weight: 600;
+    color: var(--secondary-text);
+}
+#progress-container .progress-bar {
+    width: 150px;
+}
+
+.prompt-section {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+.prompt-section #play-audio {
+    background-color: var(--bg-main); /* Здесь оставляем solid bg-main */
+    color: var(--grad-start);
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.prompt-section #play-audio:hover {
+    background-color: var(--grad-start);
+    color: var(--primary-text);
+}
+.prompt-section #play-audio svg {
+    width: 24px;
+    height: 24px;
+}
+.prompt-section .prompt {
+    font-size: 1.5rem; /* 24px */
+    font-weight: 600;
+    color: var(--primary-text);
+    margin: 0;
+}
+
+/* Поле для ответа */
+#trainer-view textarea {
+    min-height: 120px;
+    font-size: 1.125rem;
+    margin-bottom: 24px;
+}
+
+/* Сообщения (ошибка/успех) */
+.feedback-message {
+    padding: 16px;
+    border-radius: 12px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    border: 1px solid transparent;
+}
+.feedback-message.correct {
+    background-color: rgba(52, 211, 153, 0.1);
+    border-color: var(--success-color);
+    color: var(--success-color);
+}
+.feedback-message.incorrect {
+    background-color: rgba(239, 68, 68, 0.1);
+    border-color: var(--error-color);
+    color: var(--error-color);
+}
+.feedback-message p {
+    margin: 0;
+    color: currentColor;
+}
+.feedback-message strong {
+    color: var(--primary-text);
+}
+
+/* Объяснение AI */
+.ai-explanation {
+    background-color: var(--bg-main); /* Здесь оставляем solid bg-main */
+    border: 1px dashed var(--border-color);
+    padding: 16px;
+    border-radius: 12px;
+    color: var(--secondary-text);
+}
+.ai-explanation p {
+    margin: 0;
+    color: var(--secondary-text);
+}
+
+.action-buttons {
+    margin-top: 24px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+}
+
+
+/*
+======================================================
+СТИЛИ ДЛЯ ВИДА "АУТЕНТИФИКАЦИЯ" (#auth-view)
+======================================================
+*/
+.auth-card {
+    max-width: 450px;
+    margin: 60px auto;
+    padding: 40px;
+    background: var(--glass);
+    border-radius: 14px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+}
+.auth-card h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 32px;
+}
+.auth-form button {
+    width: 100%;
+    margin-top: 8px;
+}
+.auth-toggle {
+    text-align: center;
+    margin-top: 24px;
+    color: var(--secondary-text);
+}
+.auth-toggle a {
+    font-weight: 600;
+}
+
+/*
+======================================================
+СТИЛИ ДЛЯ ВИДА "ПОДПИСКА" (#subscription-view)
+======================================================
+*/
+.subscription-info-card {
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 32px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.subscription-info-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+}
+.subscription-info-card h3 span {
+    color: var(--warning-color);
+    font-weight: 700;
+}
+.subscription-info-card #buy-premium-button {
+    margin-top: 16px;
+}
+
+
+/*
+======================================================
+СТИЛИ ДЛЯ МОДАЛЬНЫХ ОКОН
+======================================================
+*/
 .modal-overlay {
     position: fixed;
     top: 0;
@@ -368,129 +775,111 @@ hr {
     background: rgba(0, 0, 0, 0.7);
     backdrop-filter: blur(5px);
     z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
-/* Само модальное окно */
 .modal {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    
-    /* Стилизуем под лендинг */
-    background: #2a0a4a; /* Темный фон (похож на --bg-2) */
-    border: 1px solid rgba(255,255,255,0.08);
-    color: var(--white);
-    
-    border-radius: 16px;
+    background: var(--glass);
+    border-radius: 14px;
+    padding: 32px;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(6,3,10,0.3);
+    border: 1px solid rgba(255,255,255,0.03);
     width: 90%;
-    max-width: 400px; /* Фиксированная ширина */
-    z-index: 1001;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-    padding: 28px 32px;
+    max-width: 450px;
+    position: relative;
 }
-
-/* Кнопка "Закрыть" (крестик) */
-.modal-close-button {
+.modal-close {
     position: absolute;
-    top: 15px;
-    right: 15px;
-    background: transparent;
+    top: 16px;
+    right: 16px;
+    background: none;
     border: none;
-    color: var(--muted);
+    color: var(--secondary-text);
     font-size: 2rem;
     cursor: pointer;
     line-height: 1;
 }
-
-/* Убираем старые стили .auth-form */
-.modal #auth-view {
-    margin: 0;
-    padding: 0;
-    box-shadow: none;
-}
-.modal .auth-form {
-    display: block;
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    padding: 0;
-    box-shadow: none;
-    background: transparent;
-}
-
-.modal .auth-form h2 {
-    font-family: 'Poppins', system-ui;
-    color: var(--white);
+.modal h3 {
     text-align: center;
-    margin-top: 0;
-    margin-bottom: 25px;
-    font-size: 1.6rem;
-    font-weight: 700;
+    font-size: 1.5rem;
 }
-
-.modal .auth-form label {
-    font-family: 'Poppins', system-ui;
-    color: var(--muted);
-    font-weight: 600;
-    font-size: 0.9rem;
-    margin-bottom: 5px;
-    display: block;
-}
-
-.modal .auth-form input[type="email"],
-.modal .auth-form input[type="password"] {
-    background: rgba(0,0,0,0.2);
-    border: 1px solid rgba(255,255,255,0.08);
-    color: var(--white);
-    margin-bottom: 15px;
-    padding: 12px;
-    font-size: 1rem;
-    border-radius: 10px;
-    width: 100%; 
-    box-sizing: border-box; 
-    font-family: 'Poppins', system-ui;
-}
-
-.modal .auth-form button[type="submit"] {
-    /* Используем стиль .btn-primary */
-    background: linear-gradient(90deg,var(--accent-start),var(--accent-end));
-    color: #fff;
-    padding: 12px 22px;
-    border-radius: 12px;
-    border: none;
-    font-weight: 600;
-    box-shadow: 0 8px 20px rgba(155,107,255,0.18);
-    cursor: pointer;
-    font-family: 'Poppins', system-ui;
-    font-size: 1rem;
-    width: 100%;
-    margin-top: 10px;
-}
-
-.modal .auth-form p {
-    font-family: 'Poppins', system-ui;
+.modal p {
     text-align: center;
-    color: var(--muted);
-    margin-top: 20px;
-    font-size: 0.9rem;
+    color: var(--secondary-text);
+    margin-bottom: 24px;
+}
+.modal .btn-primary {
+    width: 100%;
 }
 
-.modal .auth-form p a {
-    color: var(--accent-start);
-    font-weight: 600;
-    text-decoration: none;
-}
-.modal .auth-form p a:hover {
-    text-decoration: underline;
+/*
+======================================================
+АДАПТИВНОСТЬ (MOBILE)
+======================================================
+*/
+@media (max-width: 960px) {
+    .lessons-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
-.modal .error-message {
-    background: #5c0a0a;
-    color: white;
-    padding: 10px;
-    border-radius: 8px;
-    margin-bottom: 15px;
-    font-family: 'Poppins', system-ui;
-    font-size: 0.9rem;
+@media (max-width: 768px) {
+    .top-header {
+        padding: 0 16px;
+    }
+    .user-profile .user-name {
+        display: none; /* Скрываем имя */
+    }
+
+    .content {
+        padding: 24px;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+    .stat-card {
+        padding: 16px;
+    }
+
+    .lessons-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .global-progress-card {
+        flex-direction: column;
+        align-items: center; /* Центрируем на мобилке */
+        gap: 16px;
+    }
+    .global-progress-card .progress-bar-wrapper {
+        width: 100%;
+        text-align: center; /* Центрируем % текст */
+    }
+
+    .trainer-card {
+        padding: 16px;
+    }
+    .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+    #progress-container {
+        width: 100%;
+    }
+    #progress-container .progress-bar {
+        width: 100%;
+    }
+    .prompt-section .prompt {
+        font-size: 1.25rem;
+    }
+    
+    .action-buttons {
+        flex-direction: column;
+    }
+    .action-buttons button {
+        width: 100%;
+    }
 }

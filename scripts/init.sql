@@ -20,7 +20,6 @@ CREATE TABLE IF NOT EXISTS sentences (
     transcription TEXT,
     audio_path VARCHAR(1024),
     
-    -- НУЖНО ДОБАВИТЬ ЭТУ СТРОКУ:
     UNIQUE (lesson_id, order_number)
 );
 
@@ -30,7 +29,12 @@ CREATE TABLE IF NOT EXISTS users (
     password_hash VARCHAR(255) NOT NULL,
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     subscription_status VARCHAR(20) DEFAULT 'free' NOT NULL, -- 'free', 'premium'
-    stripe_customer_id VARCHAR(255) UNIQUE
+    stripe_customer_id VARCHAR(255) UNIQUE,
+
+    -- ▼▼▼ ДОБАВЛЕНЫ ДЛЯ ТОЧНОСТИ ▼▼▼
+    role VARCHAR(20) DEFAULT 'user' NOT NULL,
+    total_attempts INT DEFAULT 0,
+    total_correct INT DEFAULT 0
 );
 
 CREATE TABLE IF NOT EXISTS user_progress (
@@ -40,6 +44,10 @@ CREATE TABLE IF NOT EXISTS user_progress (
     status VARCHAR(20) DEFAULT 'new' NOT NULL, -- 'new', 'learning', 'mastered'
     correct_streak INT DEFAULT 0 NOT NULL,
     next_review_date TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    
+    -- ▼▼▼ ДОБАВЛЕНО ЭТО ПОЛЕ ▼▼▼
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    
     UNIQUE(user_id, sentence_id)
 );
 

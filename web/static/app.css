@@ -1,0 +1,695 @@
+/*
+======================================================
+LINGO-SPRINT APP.JS (ПОД ДИЗАЙН 2.JPG, ФИКС 8)
+======================================================
+*/
+
+document.addEventListener("DOMContentLoaded", () => {
+    // === 1. Состояние приложения ===
+    let state = {
+        token: localStorage.getItem("token") || null,
+        userEmail: localStorage.getItem("userEmail") || null,
+        currentView: 'dashboard',
+        currentLessonId: null,
+        levels: [],
+        lessons: [],
+        sentences: [],
+        currentSentenceIndex: 0,
+        isPremium: false, // Заглушка, позже будем загружать
+    };
+
+    // === 2. Элементы DOM ===
+    const dom = {
+        // Виды (Views)
+        views: {
+            auth: document.getElementById("auth-view"),
+            dashboard: document.getElementById("dashboard-view"),
+            trainer: document.getElementById("trainer-view"),
+            subscription: document.getElementById("subscription-view"),
+        },
+
+        // Навигация (даже если скрыта, пусть будет)
+        navItems: document.querySelectorAll(".nav-item"),
+        
+        // Профиль
+        userName: document.querySelector(".user-profile .user-name"),
+        userAvatar: document.querySelector(".user-avatar img"),
+        logoutButton: document.getElementById("logout-button"),
+
+        // Аутентификация
+        authView: document.getElementById("auth-view"),
+        dashboardView: document.getElementById("dashboard-view"),
+        authFormLogin: document.getElementById("login-form"),
+        authFormRegister: document.getElementById("register-form"),
+        showRegisterBtn: document.getElementById("show-register"),
+        showLoginBtn: document.getElementById("show-login"),
+        header: document.querySelector(".top-header"),
+        mainContent: document.querySelector(".content"),
+
+        // Дэшборд
+        levelsContainer: document.getElementById("levels-container"),
+        lessonsContainer: document.getElementById("lessons-container"),
+        currentLevelTitle: document.getElementById("current-level-title"),
+        lessonProgressText: document.getElementById("lesson-progress-text"),
+
+        statLessonsCompleted: document.getElementById("stat-lessons-completed"),
+        statStars: document.getElementById("stat-stars"),
+        statTime: document.getElementById("stat-time"),
+        statAccuracy: document.getElementById("stat-accuracy"),
+
+        // Тренажер
+        trainerCard: document.getElementById("card"),
+        backToLessonsBtn: document.getElementById("back-to-lessons"),
+        progressText: document.getElementById("progress-text"),
+        progressBarInner: document.getElementById("progress-bar-inner"),
+        playAudioBtn: document.getElementById("play-audio"),
+        promptRu: document.getElementById("current-sentence-ru"),
+        userAnswer: document.getElementById("user-answer"),
+        feedback: document.getElementById("feedback"),
+        aiExplanation: document.getElementById("ai-explanation"),
+        checkAnswerBtn: document.getElementById("check-answer"),
+        nextSentenceBtn: document.getElementById("next-sentence"),
+
+        // Модалка Premium
+        premiumModalOverlay: document.getElementById("premium-modal-overlay"),
+        premiumModalCloseBtn: document.querySelector("#premium-modal-overlay .modal-close"),
+        premiumModalBuyBtn: document.getElementById("modal-buy-premium"),
+    };
+
+    // === 3. API Функции ===
+
+    async function fetchProtected(url, options = {}) {
+        if (!state.token) {
+            console.error("Нет токена. Выход.");
+            handleLogout();
+            return undefined; 
+        }
+
+        const defaultHeaders = {
+            'Authorization': `Bearer ${state.token}`,
+            'Content-Type': 'application/json'
+        };
+
+        const config = { ...options, headers: { ...defaultHeaders, ...options.headers } };
+
+        try {
+            const response = await fetch(url, config);
+            if (response.status === 401) {
+                console.error("Токен невалиден (401). Выход.");
+                handleLogout();
+                return undefined;
+            }
+            if (response.status === 403) {
+                console.warn("Доступ запрещен (403). Требуется Premium.");
+                return response; 
+            }
+            if (!response.ok) {
+                console.error(`Ошибка API ${response.status}: ${response.statusText} для URL ${url}`);
+                throw new Error(`API Error: ${response.status}`);
+            }
+            return response;
+        } catch (error) {
+            console.error("Ошибка сети во fetchProtected:", error);
+            throw error;
+        }
+    }
+
+    // ▼▼▼ ОБНОВЛЕННАЯ ФУНКЦИЯ ▼▼▼
+    async function fetchLevels() {
+        try {
+            const response = await fetchProtected("/api/levels");
+            if (!response) return;
+            
+            const data = await response.json(); 
+            state.levels = data.levels; 
+
+            // --- ▼▼▼ НОВАЯ ЛОГИКА (ПУНКТ 1) ▼▼▼ ---
+            // Обновляем карточки статистики
+            if (dom.statLessonsCompleted) {
+                dom.statLessonsCompleted.textContent = `${data.completed_lessons}/${data.total_lessons}`;
+            }
+            
+            if (dom.statTime) {
+                // Форматируем часы (2.54321 -> 2.5ч)
+                const hours = data.study_time_hours || 0;
+                dom.statTime.textContent = `${hours.toFixed(1)}ч`;
+            }
+
+            // (Заглушки для остальных)
+            if (dom.statStars) dom.statStars.textContent = "0/0"; // TODO
+            if (dom.statAccuracy) dom.statAccuracy.textContent = "0%"; // TODO
+            // --- ▲▲▲ КОНЕЦ НОВОЙ ЛОГИКИ ▲▲▲ ---
+
+            renderLevels(); // Рендерим только список уровней
+            
+            if (state.levels.length > 0) {
+                // Авто-клик по первому уровню (A0)
+                const firstLevel = state.levels.find(l => l.title === "A0") || state.levels[0];
+                dom.levelsContainer.querySelector(`[data-id='${firstLevel.id}']`).click();
+            }
+        } catch (error) {
+            console.error("Не удалось загрузить уровни:", error);
+        }
+    }
+    // ▲▲▲ КОНЕЦ ОБНОВЛЕННОЙ ФУНКЦИИ ▲▲▲
+
+
+    async function fetchLessons(levelId) {
+        if (isNaN(parseInt(levelId))) {
+            console.error("Неверный ID уровня:", levelId);
+            return;
+        }
+        try {
+            const response = await fetchProtected(`/api/levels/${levelId}/lessons`);
+            if (!response) return;
+            state.lessons = await response.json();
+            renderLessons();
+        } catch (error) {
+            console.error("Не удалось загрузить уроки:", error);
+        }
+    }
+
+    async function fetchSentences(lessonId) {
+        if (isNaN(parseInt(lessonId))) {
+            console.error("Неверный ID урока:", lessonId);
+            return;
+        }
+        state.currentLessonId = lessonId;
+
+        try {
+            const response = await fetchProtected(`/api/lessons/${lessonId}/sentences`);
+            if (!response) return;
+
+            if (response.status === 403) {
+                showPremiumModal();
+                return;
+            }
+
+            state.sentences = await response.json();
+            if (state.sentences.length === 0) {
+                alert("В этом уроке пока нет предложений.");
+                return;
+            }
+
+            const firstUnansweredIndex = state.sentences.findIndex(s => !(s.status?.Valid && s.status.String === 'mastered'));
+            state.currentSentenceIndex = (firstUnansweredIndex === -1) ? 0 : firstUnansweredIndex;
+            
+            showView('trainer');
+            loadSentence();
+
+        } catch (error) {
+            console.error("Не удалось загрузить предложения:", error);
+        }
+    }
+
+    async function saveProgress(sentenceId, isCorrect) {
+        try {
+            await fetchProtected("/api/progress/save", {
+                method: "POST",
+                body: JSON.stringify({ sentence_id: sentenceId, is_correct: isCorrect })
+            });
+        } catch (error) {
+            console.error("Не удалось сохранить прогресс:", error);
+        }
+    }
+
+    async function fetchErrorExplanation() {
+        if (!state.sentences || state.currentSentenceIndex >= state.sentences.length) return;
+        
+        const sentence = state.sentences[state.currentSentenceIndex];
+        const userAnswer = dom.userAnswer.value;
+
+        if (userAnswer.trim() === "") {
+            showAiExplanation("Пожалуйста, введите свой ответ, чтобы AI мог его проанализировать.");
+            return;
+        }
+
+        showAiExplanation("🤖 Думаю над объяснением...", 'loading');
+
+        try {
+            const response = await fetchProtected("/api/ai/explain-error", {
+                method: "POST",
+                body: JSON.stringify({
+                    prompt_ru: sentence.prompt_ru,
+                    correct_en: sentence.answer_en,
+                    user_answer_en: userAnswer
+                })
+            });
+
+            if (!response) return;
+            const data = await response.json();
+
+            if (data.error) {
+                showAiExplanation(data.error, 'error');
+            } else {
+                showAiExplanation(data.explanation, 'success');
+            }
+        } catch (error) {
+            console.error("Не удалось получить объяснение AI:", error);
+            showAiExplanation("Не удалось связаться с AI-помощником.", 'error');
+        }
+    }
+
+    // === 4. Функции Аутентификации ===
+
+    async function handleLogin(e) {
+        e.preventDefault();
+        const email = dom.authFormLogin.querySelector("#login-email").value;
+        const password = dom.authFormLogin.querySelector("#login-password").value;
+        
+        try {
+            const response = await fetch("/api/login", {
+                method: "POST",
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email, password })
+            });
+            const data = await response.json();
+
+            if (!response.ok) {
+                throw new Error(data.error || "Ошибка входа");
+            }
+
+            saveToken(data.token, email);
+            document.cookie = "auth_status=logged_in; path=/; max-age=" + 60*60*24*3; 
+            initializeApp(); 
+
+        } catch (error) {
+            showAuthError(dom.authFormLogin, error.message);
+        }
+    }
+
+    async function handleRegister(e) {
+        e.preventDefault();
+        const email = dom.authFormRegister.querySelector("#register-email").value;
+        const password = dom.authFormRegister.querySelector("#register-password").value;
+        
+        if (password.length < 6) {
+             showAuthError(dom.authFormRegister, "Пароль должен быть не менее 6 символов.");
+             return;
+        }
+
+        try {
+            const response = await fetch("/api/register", {
+                method: "POST",
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ email, password })
+            });
+            const data = await response.json();
+
+            if (!response.ok) {
+                throw new Error(data.error || "Ошибка регистрации");
+            }
+            
+            alert("Регистрация успешна! Теперь войдите.");
+            showAuthForm('login');
+
+        } catch (error) {
+            showAuthError(dom.authFormRegister, error.message);
+        }
+    }
+
+    function handleLogout() {
+        localStorage.removeItem("token");
+        localStorage.removeItem("userEmail");
+        state.token = null;
+        state.userEmail = null;
+        
+        document.cookie = "auth_status=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        
+        if (window.location.pathname.startsWith("/app")) {
+            window.location.href = "/";
+        } else {
+            if (dom.header) dom.header.classList.add("hidden");
+            showView('auth');
+        }
+    }
+
+    function saveToken(token, email) {
+        localStorage.setItem("token", token);
+        localStorage.setItem("userEmail", email);
+        state.token = token;
+        state.userEmail = email;
+    }
+
+    function showAuthError(form, message) {
+        const oldError = form.querySelector(".error-message");
+        if (oldError) oldError.remove();
+
+        const errorEl = document.createElement("p");
+        errorEl.className = "error-message";
+        errorEl.textContent = message;
+        errorEl.style.color = "var(--error-color)";
+        errorEl.style.textAlign = "center";
+        
+        form.prepend(errorEl);
+    }
+
+    function showAuthForm(formName) {
+        if (formName === 'login') {
+            dom.authFormLogin.classList.remove("hidden");
+            dom.authFormRegister.classList.add("hidden");
+        } else {
+            dom.authFormLogin.classList.add("hidden");
+            dom.authFormRegister.classList.remove("hidden");
+        }
+    }
+
+    // === 5. Функции Рендеринга и UI ===
+
+    function showView(viewName) {
+        if (!viewName || !dom.views[viewName]) {
+            viewName = 'dashboard';
+        }
+        state.currentView = viewName;
+        
+        Object.values(dom.views).forEach(view => view.classList.remove("active"));
+        dom.views[viewName].classList.add("active");
+
+        dom.navItems.forEach(item => {
+            const isActive = item.dataset.view === viewName || (viewName === 'lessons' && item.dataset.view === 'dashboard');
+            item.classList.toggle("active", isActive);
+        });
+        
+        if (viewName === 'dashboard') {
+            resetTrainer();
+            // Обновляем статистику каждый раз при возврате на дэшборд
+            fetchLevels();
+        }
+    }
+
+    function renderLevels() {
+        dom.levelsContainer.innerHTML = "";
+        state.levels.forEach(level => {
+            const el = document.createElement("button");
+            el.className = "level-item";
+            el.textContent = level.title;
+            el.dataset.id = level.id;
+            el.textContent = getFullLevelName(level.title);
+            dom.levelsContainer.appendChild(el);
+        });
+    }
+
+    function getFullLevelName(title) {
+        const names = {
+            "A0": "A0 - Beginner",
+            "A1": "A1 - Elementary",
+            "A2": "A2 - Elementary",
+            "B1": "B1 - Intermediate",
+            "B2": "B2 - Upper-Intermediate",
+            "C1": "C1 - Advanced",
+        };
+        return names[title] || title;
+    }
+
+    function renderLessons() {
+        dom.lessonsContainer.innerHTML = "";
+        if (!state.lessons || state.lessons.length === 0) {
+            dom.lessonsContainer.innerHTML = "<p>Уроки для этого уровня скоро появятся!</p>";
+            return;
+        }
+
+        const activeLevelEl = dom.levelsContainer.querySelector(".level-item.active");
+        const activeLevelTitle = activeLevelEl ? activeLevelEl.textContent.split(" - ")[0] : "A1";
+        
+        dom.currentLevelTitle.textContent = `Уроки уровня ${activeLevelTitle}`;
+        
+        let completedLessonsInLevel = 0;
+        
+        state.lessons.forEach(lesson => {
+            const isLevelA0 = (activeLevelTitle === "A0");
+            const isFirstFive = (lesson.lesson_number <= 5);
+            const isFree = isLevelA0 || isFirstFive;
+            const hasAccess = isFree || state.isPremium;
+
+            const lessonCard = document.createElement("div");
+            lessonCard.className = "lesson-card";
+            lessonCard.dataset.id = lesson.id;
+            lessonCard.dataset.title = lesson.title;
+
+            if (!hasAccess) {
+                lessonCard.classList.add("locked");
+            }
+
+            const total = lesson.total_sentences;
+            const completed = lesson.completed_sentences;
+            let progressPercent = 0;
+            if (total > 0) {
+                progressPercent = (completed / total) * 100;
+            }
+            
+            if (progressPercent === 100) {
+                completedLessonsInLevel++;
+            }
+
+            let button;
+            if (!hasAccess) {
+                button = `<button class="btn-orange" disabled>Разблокировать</button>`;
+            } else if (progressPercent === 100) {
+                button = `<button class="btn-secondary">Повторить</button>`;
+            } else if (progressPercent > 0) {
+                button = `<button class="btn-primary">Продолжить</button>`;
+            } else {
+                button = `<button class="btn-primary">Начать</button>`;
+            }
+
+            let sentenceCountText = `${total} предложений`;
+            if (total === 1) {
+                sentenceCountText = `${total} предложение`;
+            } else if (total > 1 && total < 5) {
+                sentenceCountText = `${total} предложения`;
+            }
+
+            const stars = 0; // TODO: Логика звезд
+            
+            lessonCard.innerHTML = `
+                <div class.lesson-card-header">
+                    <h4>${lesson.title}</h4>
+                    ${!hasAccess ? '<span class="pro-badge">PRO</span>' : `<span class="stars">${'⭐'.repeat(stars)}${'☆'.repeat(3 - stars)}</span>`}
+                </div>
+                <p>${sentenceCountText} для изучения</p>
+                <div class="progress-bar">
+                    <div class="progress-bar-inner" style="width: ${progressPercent}%;"></div>
+                </div>
+                <div class="card-actions">
+                    ${button}
+                </div>
+            `;
+            
+            dom.lessonsContainer.appendChild(lessonCard);
+        });
+        
+        dom.lessonProgressText.textContent = `${completedLessonsInLevel} из ${state.lessons.length} завершено`;
+    }
+
+    function loadSentence() {
+        if (!state.sentences || state.currentSentenceIndex >= state.sentences.length) {
+             fetchLessons(state.lessons[0].level_id); // Обновляем дэшборд
+             alert("Урок пройден!");
+             showView('dashboard');
+             return;
+        }
+        
+        const sentence = state.sentences[state.currentSentenceIndex];
+        
+        dom.promptRu.textContent = sentence.prompt_ru;
+        dom.userAnswer.value = "";
+        dom.userAnswer.disabled = false;
+        
+        dom.feedback.classList.add("hidden");
+        dom.aiExplanation.classList.add("hidden");
+        
+        dom.checkAnswerBtn.classList.remove("hidden");
+        dom.nextSentenceBtn.classList.add("hidden");
+
+        const total = state.sentences.length;
+        const current = state.currentSentenceIndex + 1;
+        dom.progressText.textContent = `${current}/${total}`;
+        dom.progressBarInner.style.width = `${(current / total) * 100}%`;
+        
+        dom.userAnswer.focus();
+    }
+
+    function resetTrainer() {
+        state.currentLessonId = null;
+        state.sentences = [];
+        state.currentSentenceIndex = 0;
+        if(dom.promptRu) dom.promptRu.textContent = "Загрузка...";
+        if(dom.userAnswer) dom.userAnswer.value = "";
+        if(dom.progressText) dom.progressText.textContent = "0/0";
+        if(dom.progressBarInner) dom.progressBarInner.style.width = "0%";
+        if(dom.feedback) dom.feedback.classList.add("hidden");
+        if(dom.aiExplanation) dom.aiExplanation.classList.add("hidden");
+    }
+
+    function showFeedback(isCorrect, correctAnswer) {
+        dom.feedback.classList.remove("hidden", "correct", "incorrect");
+        if (isCorrect) {
+            dom.feedback.classList.add("correct");
+            dom.feedback.innerHTML = "<p><strong>Правильно! 👍</strong></p>";
+        } else {
+            dom.feedback.classList.add("incorrect");
+            dom.feedback.innerHTML = `<p><strong>Ошибка 😞</strong></p><p>Правильный ответ: <strong>${correctAnswer}</strong></p>`;
+        }
+    }
+
+    function showAiExplanation(message, type = 'info') {
+        dom.aiExplanation.classList.remove("hidden");
+        dom.aiExplanation.innerHTML = `<p>${message}</p>`;
+        if (type === 'loading') dom.aiExplanation.style.opacity = 0.7;
+        else dom.aiExplanation.style.opacity = 1.0;
+    }
+
+    function showPremiumModal() {
+        dom.premiumModalOverlay.classList.remove("hidden");
+    }
+
+    function hidePremiumModal() {
+        dom.premiumModalOverlay.classList.add("hidden");
+    }
+
+    // === 6. Функции-Обработчики ===
+
+    function handleCheckAnswer() {
+        const sentence = state.sentences[state.currentSentenceIndex];
+        const userAnswer = dom.userAnswer.value.trim();
+        const correctAnswer = sentence.answer_en.trim();
+        const isCorrect = userAnswer.toLowerCase() === correctAnswer.toLowerCase();
+        
+        handlePlayAudio();
+        showFeedback(isCorrect, correctAnswer);
+        
+        dom.userAnswer.disabled = true;
+        dom.checkAnswerBtn.classList.add("hidden");
+        dom.nextSentenceBtn.classList.remove("hidden");
+
+        if (!isCorrect) {
+            fetchErrorExplanation(); 
+        } else {
+            dom.aiExplanation.classList.add("hidden");
+        }
+
+        saveProgress(sentence.id, isCorrect);
+        dom.nextSentenceBtn.focus();
+    }
+
+    function handleNextSentence() {
+        state.currentSentenceIndex++;
+        loadSentence();
+    }
+
+    function handlePlayAudio() {
+        const sentence = state.sentences[state.currentSentenceIndex];
+        if (!sentence) return;
+
+        if (sentence.audio_path && sentence.audio_path.Valid) {
+            const audio = new Audio(sentence.audio_path.String);
+            audio.play().catch(e => {
+                console.warn("Не удалось воспроизвести аудиофайл, используем TTS:", e);
+                playBrowserTTS(sentence.answer_en);
+            });
+        } else {
+            playBrowserTTS(sentence.answer_en);
+        }
+    }
+    
+    function playBrowserTTS(text) {
+        if (!text) return;
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "en-US";
+        window.speechSynthesis.speak(utterance);
+    }
+    
+    function handleLevelClick(e) {
+        const target = e.target.closest(".level-item");
+        if (!target) return;
+        dom.levelsContainer.querySelectorAll(".level-item").forEach(item => item.classList.remove("active"));
+        target.classList.add("active");
+        fetchLessons(target.dataset.id);
+    }
+
+    function handleLessonClick(e) {
+        const target = e.target.closest(".lesson-card");
+        if (!target) return;
+        
+        const btn = e.target.closest("button");
+        if (btn) { 
+            if (target.classList.contains("locked")) {
+                showPremiumModal();
+                return;
+            }
+            fetchSentences(target.dataset.id);
+        }
+    }
+
+    function handleNavClick(e) {
+        const target = e.target.closest(".nav-item");
+        if (!target) return;
+        
+        const viewName = target.dataset.view;
+        if (viewName === 'lessons') {
+            showView('dashboard');
+            dom.mainContent.scrollTo({ top: dom.levelsContainer.offsetTop, behavior: 'smooth' });
+        } else {
+            showView(viewName);
+        }
+    }
+
+
+    // === 7. Инициализация ===
+
+    function initializeApp() {
+        if (!dom.header) return; 
+        
+        dom.header.classList.remove("hidden");
+        
+        dom.userName.textContent = state.userEmail;
+        dom.userAvatar.src = `https://ui-avatars.com/api/?name=${state.userEmail}&background=C026D3&color=fff`;
+        
+        fetchLevels(); // Эта функция теперь также обновляет статистику
+        showView('dashboard');
+    }
+
+    function main() {
+        if (dom.dashboardView) {
+            console.log("JS: Внутри /app. Инициализация...");
+
+            // --- Привязка обработчиков ПРИЛОЖЕНИЯ ---
+            if(dom.logoutButton) dom.logoutButton.addEventListener("click", handleLogout);
+            if(dom.navItems) dom.navItems.forEach(item => item.addEventListener("click", handleNavClick));
+            if(dom.authFormLogin) dom.authFormLogin.addEventListener("submit", handleLogin);
+            if(dom.authFormRegister) dom.authFormRegister.addEventListener("submit", handleRegister);
+            if(dom.showRegisterBtn) dom.showRegisterBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthForm('register'); });
+            if(dom.showLoginBtn) dom.showLoginBtn.addEventListener("click", (e) => { e.preventDefault(); showAuthForm('login'); });
+            if(dom.levelsContainer) dom.levelsContainer.addEventListener("click", handleLevelClick);
+            if(dom.lessonsContainer) dom.lessonsContainer.addEventListener("click", handleLessonClick);
+            if(dom.backToLessonsBtn) dom.backToLessonsBtn.addEventListener("click", () => showView('dashboard'));
+            if(dom.checkAnswerBtn) dom.checkAnswerBtn.addEventListener("click", handleCheckAnswer);
+            if(dom.nextSentenceBtn) dom.nextSentenceBtn.addEventListener("click", handleNextSentence);
+            if(dom.playAudioBtn) dom.playAudioBtn.addEventListener("click", handlePlayAudio);
+            
+            if(dom.userAnswer) dom.userAnswer.addEventListener("keydown", (e) => {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    if (!dom.checkAnswerBtn.classList.contains("hidden")) {
+                        handleCheckAnswer();
+                    }
+                }
+            });
+
+            if(dom.premiumModalCloseBtn) dom.premiumModalCloseBtn.addEventListener("click", hidePremiumModal);
+            if(dom.premiumModalOverlay) dom.premiumModalOverlay.addEventListener("click", (e) => {
+                if (e.target === dom.premiumModalOverlay) hidePremiumModal();
+            });
+
+            // --- Проверка состояния (Залогинен?) ---
+            if (state.token) {
+                initializeApp();
+            } else {
+                handleLogout(); // Покажет auth-view
+            }
+        }
+    }
+
+    // Запускаем!
+    main();
+});
