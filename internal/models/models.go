@@ -1,6 +1,6 @@
 package models
 
-import "database/sql" // <-- ДОБАВЛЕНО
+import "database/sql"
 
 // Level представляет один уровень (A0, A1...)
 type Level struct {
@@ -15,8 +15,13 @@ type Lesson struct {
 	LessonNumber int    `json:"lesson_number"`
 	Title        string `json:"title"`
 
+	// Данные для прогресса
 	TotalSentences     int `json:"total_sentences"`
 	CompletedSentences int `json:"completed_sentences"`
+    
+    // ▼▼▼ НОВОЕ ПОЛЕ ▼▼▼
+	SentencesWithErrors int `json:"sentences_with_errors"` 
+    // ▲▲▲ КОНЕЦ НОВОГО ПОЛЯ ▲▲▲
 }
 
 // Sentence представляет одно предложение С УЧЕТОМ ПРОГРЕССА
@@ -27,15 +32,9 @@ type Sentence struct {
 	PromptRU    string `json:"prompt_ru"`
 	AnswerEN    string `json:"answer_en"`
 
-	// --- ИСПРАВЛЕНИЯ ЗДЕСЬ ---
-	// Заменяем 'string' на 'sql.NullString'
 	Transcription sql.NullString `json:"transcription"`
 	AudioPath     sql.NullString `json:"audio_path"`
-	// --- КОНЕЦ ИСПРАВЛЕНИЙ ---
 
-	// Эти поля уже были правильными
 	Status        sql.NullString `json:"status"`
 	CorrectStreak sql.NullInt32  `json:"correct_streak"`
 }
-
-// (Мы добавим User и UserProgress позже, когда будем делать логин)

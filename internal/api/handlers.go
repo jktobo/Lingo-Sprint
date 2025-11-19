@@ -6,7 +6,6 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io"
 	"log"
 	"net/http"
 	"os"
@@ -20,29 +19,24 @@ import (
 	"lingo-sprint/internal/models"
 )
 
-// ApiHandler хранит подключение к базе данных
 type ApiHandler struct {
 	DB *sql.DB
 }
 
-// NewApiHandler создает новый обработчик с подключением к БД
 func NewApiHandler(db *sql.DB) *ApiHandler {
 	return &ApiHandler{DB: db}
 }
 
-// Credentials - структура для JSON-запросов регистрации/входа
 type Credentials struct {
 	Email    string `json:"email"`
 	Password string `json:"password"`
 }
 
-// Claims - структура для данных внутри JWT-токена
 type Claims struct {
 	UserID int `json:"user_id"`
 	jwt.RegisteredClaims
 }
 
-// --- НОВАЯ ФУНКЦИЯ: RegisterUser ---
 func (h *ApiHandler) RegisterUser(w http.ResponseWriter, r *http.Request) {
 	var creds Credentials
 	if err := json.NewDecoder(r.Body).Decode(&creds); err != nil {
@@ -62,7 +56,6 @@ func (h *ApiHandler) RegisterUser(w http.ResponseWriter, r *http.Request) {
 	respondWithJSON(w, http.StatusCreated, map[string]string{"message": "User registered successfully"})
 }
 
-// --- НОВАЯ ФУНКЦИЯ: LoginUser ---
 func (h *ApiHandler) LoginUser(w http.ResponseWriter, r *http.Request) {
 	var creds Credentials
 	if err := json.NewDecoder(r.Body).Decode(&creds); err != nil {
@@ -101,8 +94,6 @@ func (h *ApiHandler) LoginUser(w http.ResponseWriter, r *http.Request) {
 	respondWithJSON(w, http.StatusOK, map[string]string{"token": tokenString})
 }
 
-
-// --- Structs ---
 type SaveProgressRequest struct {
 	SentenceID int  `json:"sentence_id"`
 	IsCorrect  bool `json:"is_correct"`
@@ -112,92 +103,79 @@ type ExplainErrorRequest struct {
 	CorrectEN    string `json:"correct_en"`
 	UserAnswerEN string `json:"user_answer_en"`
 }
-// Структуры для AI
 type hfMessage struct { Role string `json:"role"`; Content string `json:"content"` }
 type hfChatRequest struct { Model string `json:"model"`; Messages []hfMessage `json:"messages"`; Stream bool `json:"stream"` }
 type hfChatResponse struct { Choices []struct { Message struct { Role string `json:"role"`; Content string `json:"content"` } `json:"message"` } `json:"choices"`; Error *struct { Message string `json:"message"` } `json:"error,omitempty"` }
 
 
-// --- SaveProgress ( ▼▼▼ ОБНОВЛЕННАЯ ЛОГИКА ▼▼▼ ) ---
+// --- SaveProgress (ИСПРАВЛЕНО: СЧЕТЧИК ОШИБОК) ---
 func (h *ApiHandler) SaveProgress(w http.ResponseWriter, r *http.Request) {
 	userID, ok := r.Context().Value(ContextUserIDKey).(int)
-	if !ok {
-		respondWithError(w, http.StatusUnauthorized, "Invalid token (no user ID)")
-		return
-	}
+	if !ok { respondWithError(w, http.StatusUnauthorized, "Invalid token"); return }
 
 	var req SaveProgressRequest
-	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
-		respondWithError(w, http.StatusBadRequest, "Invalid request payload")
-		return
-	}
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil { respondWithError(w, http.StatusBadRequest, "Invalid payload"); return }
 
-	// 1. Определяем параметры для user_progress
 	var nextStatus string
 	var nextStreak int
 	var nextReview time.Time
 	now := time.Now()
-
-	// Для обновления статистики пользователя
+	
+	// Статистика для users table
 	incrementCorrect := 0
+	
+	// Счетчик ошибок для user_progress table (для звезд)
+	incrementMistake := 0
 
 	if req.IsCorrect {
 		nextStatus = "mastered"
 		nextStreak = 1
 		nextReview = now.Add(100 * 365 * 24 * time.Hour)
-		incrementCorrect = 1 // +1 к правильным ответам
+		incrementCorrect = 1
+		// Ошибок не добавляем, но старые (если были) останутся в базе благодаря UPDATE mistake_count = mistake_count + 0
 	} else {
 		nextStatus = "learning"
 		nextStreak = 0
 		nextReview = now
-		incrementCorrect = 0 // +0 к правильным
+		incrementCorrect = 0
+		incrementMistake = 1 // Увеличиваем счетчик ошибок
 	}
 
-	// 2. Обновляем прогресс по предложению (как и раньше)
+	// Теперь мы обновляем mistake_count. 
+	// Если была ошибка -> mistake_count = mistake_count + 1
+	// Если верно -> mistake_count = mistake_count + 0 (сохраняем историю ошибок)
 	sqlProgress := `
-		INSERT INTO user_progress (user_id, sentence_id, status, correct_streak, next_review_date, updated_at) 
-		VALUES ($1, $2, $3, $4, $5, NOW()) 
+		INSERT INTO user_progress (user_id, sentence_id, status, correct_streak, next_review_date, updated_at, mistake_count) 
+		VALUES ($1, $2, $3, $4, $5, NOW(), $6) 
 		ON CONFLICT (user_id, sentence_id) 
 		DO UPDATE SET 
 			status = EXCLUDED.status, 
 			correct_streak = EXCLUDED.correct_streak, 
 			next_review_date = EXCLUDED.next_review_date,
-			updated_at = NOW();
+			updated_at = NOW(),
+			mistake_count = user_progress.mistake_count + EXCLUDED.mistake_count;
 	`
-	_, err := h.DB.Exec(sqlProgress, userID, req.SentenceID, nextStatus, nextStreak, nextReview)
+	_, err := h.DB.Exec(sqlProgress, userID, req.SentenceID, nextStatus, nextStreak, nextReview, incrementMistake)
 	if err != nil {
 		log.Printf("Error saving sentence progress: %v", err)
 		respondWithError(w, http.StatusInternalServerError, "Failed to save sentence progress")
 		return
 	}
 
-	// 3. ▼▼▼ ОБНОВЛЯЕМ ГЛОБАЛЬНУЮ СТАТИСТИКУ ПОЛЬЗОВАТЕЛЯ ▼▼▼
-	// total_attempts всегда +1
-	// total_correct увеличиваем на 1 или 0
 	sqlStats := `UPDATE users SET total_attempts = total_attempts + 1, total_correct = total_correct + $1 WHERE id = $2`
 	_, err = h.DB.Exec(sqlStats, incrementCorrect, userID)
-	if err != nil {
-		// Не критично, если статистика упадет, главное прогресс сохранился. Но логируем.
-		log.Printf("Error updating user stats: %v", err)
-	}
+	if err != nil { log.Printf("Error updating user stats: %v", err) }
 
 	respondWithJSON(w, http.StatusOK, map[string]string{"message": "Progress saved"})
 }
 
-// --- GetLevels ( ▼▼▼ ОБНОВЛЕННАЯ ЛОГИКА ▼▼▼ ) ---
+// --- GetLevels ---
 func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 	userID, ok := r.Context().Value(ContextUserIDKey).(int)
-	if !ok {
-		respondWithError(w, http.StatusUnauthorized, "Invalid token (no user ID)")
-		return
-	}
+	if !ok { respondWithError(w, http.StatusUnauthorized, "Invalid token"); return }
 
-	// 1. Уровни
 	rows, err := h.DB.Query("SELECT id, title FROM levels ORDER BY title")
-	if err != nil {
-		http.Error(w, "Failed to query levels", http.StatusInternalServerError)
-		return
-	}
+	if err != nil { http.Error(w, "Failed to query levels", http.StatusInternalServerError); return }
 	defer rows.Close()
 	levels := []models.Level{}
 	for rows.Next() {
@@ -206,11 +184,9 @@ func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 		levels = append(levels, l)
 	}
 
-	// 2. Всего уроков
 	var totalLessons int
 	h.DB.QueryRow("SELECT COUNT(id) FROM lessons").Scan(&totalLessons)
 
-	// 3. Пройдено уроков
 	var completedLessons int
 	completedQuery := `
 		SELECT COUNT(DISTINCT l.id) FROM lessons l WHERE (
@@ -221,7 +197,6 @@ func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 	`
 	h.DB.QueryRow(completedQuery, userID).Scan(&completedLessons)
 
-	// 4. Время обучения
 	var totalStudyTime time.Duration
 	var sessionTimeout = 15 * time.Minute
 	timeRows, err := h.DB.Query("SELECT updated_at FROM user_progress WHERE user_id = $1 ORDER BY updated_at ASC", userID)
@@ -240,41 +215,68 @@ func (h *ApiHandler) GetLevels(w http.ResponseWriter, r *http.Request) {
 		timeRows.Close()
 	}
 
-	// 5. ▼▼▼ НОВОЕ: ПОЛУЧАЕМ ТОЧНОСТЬ ▼▼▼
 	var totalAttempts, totalCorrect int
 	err = h.DB.QueryRow("SELECT total_attempts, total_correct FROM users WHERE id = $1", userID).Scan(&totalAttempts, &totalCorrect)
-	if err != nil {
-		log.Printf("Error getting accuracy: %v", err)
-		totalAttempts = 0
-		totalCorrect = 0
-	}
-
-	// Считаем процент
+	if err != nil { totalAttempts = 0; totalCorrect = 0 }
 	var accuracy float64 = 0
-	if totalAttempts > 0 {
-		accuracy = (float64(totalCorrect) / float64(totalAttempts)) * 100
-	}
+	if totalAttempts > 0 { accuracy = (float64(totalCorrect) / float64(totalAttempts)) * 100 }
 
-	// 6. Ответ
+	// ▼▼▼ ИСПРАВЛЕННЫЙ ПОДСЧЕТ ЗВЕЗД ▼▼▼
+	// Считаем предложения, где mistake_count > 0
+	starsQuery := `
+		SELECT
+			l.id,
+			(SELECT COUNT(*) FROM sentences WHERE lesson_id = l.id) AS total,
+			(SELECT COUNT(*) FROM sentences s JOIN user_progress up ON s.id = up.sentence_id WHERE s.lesson_id = l.id AND up.user_id = $1 AND up.status = 'mastered') AS completed,
+			(SELECT COUNT(DISTINCT sentence_id) FROM user_progress up JOIN sentences s ON up.sentence_id = s.id WHERE s.lesson_id = l.id AND up.user_id = $1 AND up.mistake_count > 0) AS errors
+		FROM lessons l
+	`
+	starRows, err := h.DB.Query(starsQuery, userID)
+	var earnedStarsTotal int = 0
+
+	if err == nil {
+		for starRows.Next() {
+			var id, total, completed, errs int
+			starRows.Scan(&id, &total, &completed, &errs)
+			if total > 0 && completed == total {
+				if errs == 0 {
+					earnedStarsTotal += 3
+				} else {
+					errPct := float64(errs) / float64(total)
+					if errPct < 0.05 {
+						earnedStarsTotal += 2
+					} else {
+						earnedStarsTotal += 1
+					}
+				}
+			}
+		}
+		starRows.Close()
+	}
+	// ▲▲▲ КОНЕЦ ИСПРАВЛЕНИЙ ▲▲▲
+
 	data := struct {
 		Levels           []models.Level `json:"levels"`
 		CompletedLessons int            `json:"completed_lessons"`
 		TotalLessons     int            `json:"total_lessons"`
 		StudyTimeHours   float64        `json:"study_time_hours"`
-		Accuracy         float64        `json:"accuracy"` // <--- НОВОЕ ПОЛЕ
+		Accuracy         float64        `json:"accuracy"`
+		EarnedStars      int            `json:"earned_stars"` 
+		TotalStars       int            `json:"total_stars"` 
 	}{
 		Levels:           levels,
 		CompletedLessons: completedLessons,
 		TotalLessons:     totalLessons,
 		StudyTimeHours:   totalStudyTime.Hours(),
-		Accuracy:         accuracy, // <--- ОТПРАВЛЯЕМ
+		Accuracy:         accuracy,
+		EarnedStars:      earnedStarsTotal,
+		TotalStars:       totalLessons * 3,
 	}
-
 	respondWithJSON(w, http.StatusOK, data)
 }
 
 
-// --- GetLessonsByLevel ---
+// --- GetLessonsByLevel ( ▼▼▼ ИСПРАВЛЕННАЯ ЛОГИКА ЗВЕЗД ▼▼▼ ) ---
 func (h *ApiHandler) GetLessonsByLevel(w http.ResponseWriter, r *http.Request) {
 	userID, ok := r.Context().Value(ContextUserIDKey).(int)
 	if !ok {
@@ -286,24 +288,59 @@ func (h *ApiHandler) GetLessonsByLevel(w http.ResponseWriter, r *http.Request) {
 	if err != nil { http.Error(w, "Invalid level ID", http.StatusBadRequest); return }
 
 	sqlQuery := `
-		SELECT l.id, l.level_id, l.lesson_number, l.title,
-			COALESCE(COUNT(DISTINCT s.id), 0) AS total_sentences,
-			COALESCE(COUNT(DISTINCT up.id), 0) AS completed_sentences
+		SELECT
+			l.id, l.level_id, l.lesson_number, l.title,
+			(SELECT COUNT(*) FROM sentences WHERE lesson_id = l.id) AS total_sentences,
+			(SELECT COUNT(*) FROM sentences s JOIN user_progress up ON s.id = up.sentence_id WHERE s.lesson_id = l.id AND up.user_id = $1 AND up.status = 'mastered') AS completed_sentences,
+			
+			-- Ищем предложения, где пользователь допустил ошибку (mistake_count > 0)
+			(SELECT COUNT(DISTINCT sentence_id) 
+             FROM user_progress up 
+             JOIN sentences s ON up.sentence_id = s.id 
+             WHERE s.lesson_id = l.id AND up.user_id = $1 AND up.mistake_count > 0
+            ) AS sentences_with_errors
+            
 		FROM lessons l
-		LEFT JOIN sentences s ON l.id = s.lesson_id
-		LEFT JOIN user_progress up ON s.id = up.sentence_id AND up.user_id = $1 AND up.status = 'mastered'
 		WHERE l.level_id = $2
-		GROUP BY l.id, l.level_id, l.lesson_number, l.title
 		ORDER BY l.lesson_number;
 	`
+	
 	rows, err := h.DB.Query(sqlQuery, userID, levelID)
-	if err != nil { http.Error(w, "Failed to query lessons", http.StatusInternalServerError); return }
+	if err != nil { 
+		log.Printf("DB ERROR: Failed to query lessons. SQL Error: %v", err)
+		http.Error(w, "Database error", http.StatusInternalServerError)
+		return 
+	}
 	defer rows.Close()
 
 	lessons := []models.Lesson{}
 	for rows.Next() {
 		var l models.Lesson
-		if err := rows.Scan(&l.ID, &l.LevelID, &l.LessonNumber, &l.Title, &l.TotalSentences, &l.CompletedSentences); err != nil { continue }
+        var sentencesWithErrors int 
+		
+		if err := rows.Scan(&l.ID, &l.LevelID, &l.LessonNumber, &l.Title, &l.TotalSentences, &l.CompletedSentences, &sentencesWithErrors); err != nil { 
+			log.Printf("DB SCAN ERROR: skipping row: %v", err)
+			continue
+		}
+        
+        l.SentencesWithErrors = sentencesWithErrors 
+        isLessonCompleted := (l.TotalSentences > 0 && l.CompletedSentences == l.TotalSentences)
+        
+        if isLessonCompleted {
+            if l.SentencesWithErrors == 0 {
+                l.SentencesWithErrors = 3 
+            } else {
+                errorPercentage := float64(l.SentencesWithErrors) / float64(l.TotalSentences)
+                if errorPercentage < 0.05 {
+                    l.SentencesWithErrors = 2 
+                } else {
+                    l.SentencesWithErrors = 1 
+                }
+            }
+        } else {
+            l.SentencesWithErrors = 0
+        }
+        
 		lessons = append(lessons, l)
 	}
 	respondWithJSON(w, http.StatusOK, lessons)
@@ -312,7 +349,7 @@ func (h *ApiHandler) GetLessonsByLevel(w http.ResponseWriter, r *http.Request) {
 // --- GetSentencesByLesson ---
 func (h *ApiHandler) GetSentencesByLesson(w http.ResponseWriter, r *http.Request) {
 	userID, ok := r.Context().Value(ContextUserIDKey).(int)
-	if !ok { respondWithError(w, http.StatusUnauthorized, "Invalid token (no user ID)"); return }
+	if !ok { respondWithError(w, http.StatusUnauthorized, "Invalid token"); return }
 	vars := mux.Vars(r)
 	lessonID, err := strconv.Atoi(vars["lesson_id"])
 	if err != nil { http.Error(w, "Invalid lesson ID", http.StatusBadRequest); return }
@@ -331,7 +368,6 @@ func (h *ApiHandler) GetSentencesByLesson(w http.ResponseWriter, r *http.Request
 	respondWithJSON(w, http.StatusOK, sentences)
 }
 
-
 // --- ExplainError ---
 func (h *ApiHandler) ExplainError(w http.ResponseWriter, r *http.Request) {
     var req ExplainErrorRequest
@@ -343,7 +379,15 @@ func (h *ApiHandler) ExplainError(w http.ResponseWriter, r *http.Request) {
     model := "meta-llama/Meta-Llama-3-8B-Instruct"
     apiURL := "https://router.huggingface.co/v1/chat/completions"
 
-	prompt := fmt.Sprintf(`Ты — репетитор по английскому. Объясни КРАТКО ошибку (1-2 предл). Русский: "%s", Правильно: "%s". Не здоровайся.`, req.PromptRU, req.CorrectEN)
+	prompt := fmt.Sprintf(`Ты — репетитор по английскому. Студент не смог правильно перевести предложение.
+
+- Русский: "%s"
+- Правильный ответ: "%s"
+
+Твоя задача — ОЧЕНЬ КРАТКО (1-2 предложения) на РУССКОМ языке объяснить, на какое **основное грамматическое правило** нужно обратить внимание в "Правильном ответе".
+
+Начинай:`,
+    req.PromptRU, req.CorrectEN)
 
     payload := hfChatRequest{ Model: model, Messages: []hfMessage{ {Role: "user", Content: prompt}, }, Stream: false }
     payloadBytes, _ := json.Marshal(payload)

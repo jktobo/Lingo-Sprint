@@ -1,6 +1,6 @@
 /*
 ======================================================
-LINGO-SPRINT APP.JS (ФИКС ТОЧНОСТИ)
+LINGO-SPRINT APP.JS (ФИНАЛЬНЫЙ ФИКС: ЗВЕЗДЫ ПОЛНОСТЬЮ)
 ======================================================
 */
 
@@ -88,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // === 4. API Функции ===
+
     async function fetchProtected(url, options = {}) {
         if (!state.token) { handleLogout(); return undefined; }
         const defaultHeaders = { 'Authorization': `Bearer ${state.token}`, 'Content-Type': 'application/json' };
@@ -121,16 +122,23 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             if (dom.statLessonsCompleted) dom.statLessonsCompleted.textContent = `${completed}/${total}`;
-            if (dom.statTime) dom.statTime.textContent = `${(data.study_time_hours || 0).toFixed(1)}ч`;
+            if (dom.statTime) {
+                const hours = data.study_time_hours || 0;
+                dom.statTime.textContent = `${hours.toFixed(1)}ч`;
+            }
             
-            // ▼▼▼ ОБНОВЛЕНИЕ ТОЧНОСТИ ▼▼▼
             if (dom.statAccuracy) {
                 const accuracy = data.accuracy || 0;
                 dom.statAccuracy.textContent = `${accuracy.toFixed(0)}%`;
             }
-            // ▲▲▲ КОНЕЦ ОБНОВЛЕНИЯ ▲▲▲
-
-            if (dom.statStars) dom.statStars.textContent = "0/0"; 
+            
+            // ▼▼▼ Обновление глобальных звезд (С БЭКЕНДА) ▼▼▼
+            if (dom.statStars) {
+                const earned = data.earned_stars || 0;
+                const totalPossible = data.total_stars || 0;
+                dom.statStars.textContent = `${earned}/${totalPossible}`;
+            }
+            // ▲▲▲ Конец обновления ▼▼▼
             
             if (dom.globalProgressTitle) dom.globalProgressTitle.textContent = completed === 0 ? "Начните свой путь!" : "Продолжайте в том же духе!";
             if (dom.globalProgressSubtitle) {
@@ -170,10 +178,15 @@ document.addEventListener("DOMContentLoaded", () => {
     async function fetchSentences(lessonId) {
         if (!lessonId) return;
         state.currentLessonId = lessonId;
+
         try {
             const response = await fetchProtected(`/api/lessons/${lessonId}/sentences?t=${Date.now()}`);
             if (!response) return;
-            if (response.status === 403) { showPremiumModal(); return; }
+
+            if (response.status === 403) {
+                showPremiumModal();
+                return;
+            }
 
             state.sentences = await response.json();
             
@@ -205,11 +218,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     async function saveProgress(sentenceId, isCorrect) {
         try {
-            await fetchProtected("/api/progress/save", {
+            const response = await fetchProtected("/api/progress/save", {
                 method: "POST",
                 body: JSON.stringify({ sentence_id: sentenceId, is_correct: isCorrect })
             });
-        } catch (error) { console.error("Error in saveProgress:", error); }
+            
+            if (!response || !response.ok) {
+                console.error("ОШИБКА СОХРАНЕНИЯ! Прогресс не записан в БД.");
+                alert("Ошибка сервера при сохранении прогресса! Проверьте соединение или базу данных."); 
+            }
+        } catch (error) { 
+            console.error("Error in saveProgress:", error); 
+            alert("Ошибка сети при сохранении.");
+        }
     }
 
     async function fetchErrorExplanation() {
@@ -250,6 +271,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 item.classList.toggle("active", isActive);
             });
         }
+        
         if (state.currentView === 'dashboard') {
             resetTrainer();
             fetchLevels();
@@ -304,6 +326,30 @@ document.addEventListener("DOMContentLoaded", () => {
             const isFree = (lesson.lesson_number <= 5) || (levelTitle === "A0");
             const hasAccess = isFree || state.isPremium;
 
+            // Звезды
+            const stars = lesson.sentences_with_errors || 0; 
+            
+            // ▼▼▼ Логика "Серых звезд" ▼▼▼
+            // Если урок не завершен (percent < 100), звезды серые. Иначе золотые.
+            const starsClass = (percent === 100) ? '' : 'gray';
+            
+            // Если не завершен, показываем 3 серые звезды, или 0 (по вашему выбору)
+            let currentStarsHtml = '';
+
+            if (percent === 100) {
+                // Если урок пройден: генерируем активные и неактивные звезды
+                for (let i = 0; i < 3; i++) {
+                    if (i < stars) {
+                        currentStarsHtml += '⭐'; // Активная звезда
+                    } else {
+                        currentStarsHtml += '<span class="empty-star">☆</span>'; // Серая неактивная звезда
+                    }
+                }
+            } else {
+                // Если урок не пройден: все три звезды серые (используя class="empty-star")
+                currentStarsHtml = '<span class="empty-star">☆☆☆</span>';
+            }
+
             let btnHtml;
             if (!hasAccess) btnHtml = `<button class="btn-orange" disabled>Разблокировать</button>`;
             else if (percent === 100) btnHtml = `<button class="btn-secondary">Повторить</button>`;
@@ -320,7 +366,7 @@ document.addEventListener("DOMContentLoaded", () => {
             div.innerHTML = `
                 <div class="lesson-card-header">
                     <h4>${lesson.title}</h4>
-                    ${!hasAccess ? '<span class="pro-badge">PRO</span>' : `<span class="stars">☆☆☆</span>`}
+                    ${!hasAccess ? '<span class="pro-badge">PRO</span>' : `<span class="stars ${starsClass}">${currentStarsHtml}</span>`}
                 </div>
                 <p>${countText} для изучения</p>
                 <div class="progress-bar"><div class="progress-bar-inner" style="width: ${percent}%;"></div></div>
@@ -486,6 +532,7 @@ document.addEventListener("DOMContentLoaded", () => {
             handleLogout();
         }
 
+        // Listeners
         if(dom.logoutButton) dom.logoutButton.addEventListener("click", handleLogout);
         if(dom.navItems) dom.navItems.forEach(item => item.addEventListener("click", (e) => {
             const view = e.currentTarget.dataset.view;
